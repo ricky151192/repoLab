@@ -1,0 +1,273 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrYdQJqjGhkcRpsAzD400o98",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJz5xpD6zGhkcRb-nTInrW1PM",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4633101,
+               "lng" : 9.193401999999999
+            },
+            "southwest" : {
+               "lat" : 45.4560254,
+               "lng" : 9.1873985
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 2023
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 451
+               },
+               "end_address" : "Via Giuseppe Mazzini, 4, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4633101,
+                  "lng" : 9.188515899999999
+               },
+               "start_address" : "Via Lentasio, 3, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4580534,
+                  "lng" : 9.1912833
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.4575097,
+                        "lng" : 9.1900583
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Lentasio\u003c/b\u003e toward \u003cb\u003eVia S. Senatore\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yomtGodbw@TTt@j@DDBFTbD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4580534,
+                        "lng" : 9.1912833
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 198
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.4573991,
+                        "lng" : 9.187552999999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Sant'Eufemia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mlmtG{|aw@XlCHlA@p@GxBGlB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4575097,
+                        "lng" : 9.1900583
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Italia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wkmtGemaw@lAH`CDv@HHB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4573991,
+                        "lng" : 9.187552999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 507
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Santa Sofia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ecmtGglaw@?u@Ec@EYI_@Qo@EKg@mBu@sCa@_BU{@Kg@Iw@OgB]iEGo@Cc@?UEMESYc@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604349,
+                        "lng" : 9.188514899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_mmtGwqbw@ILcArBu@tAKVe@~@]n@y@`BiBhD}@fB{@~B]x@e@bA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.4612105,
+                        "lng" : 9.188420599999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Giuseppe Missori\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u~mtGesaw@INIHIDIBKAq@Oc@NIEGI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604349,
+                        "lng" : 9.188514899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.4620303,
+                        "lng" : 9.1897553
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Maurizio Gonzaga\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qcntGsraw@GMEKCO?O{BuDU["
+                     },
+                     "start_location" : {
+                        "lat" : 45.4612105,
+                        "lng" : 9.188420599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632419,
+                        "lng" : 9.1899345
+                     },
+                     "html_instructions" : "At \u003cb\u003ePiazza Armando Diaz\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eVia Guglielmo Marconi\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "uhntG_{aw@?cBgC??`A_BCC?A@C@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4620303,
+                        "lng" : 9.1897553
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.4633101,
+                        "lng" : 9.188515899999999
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Guglielmo Marconi\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Dogana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gpntGa|aw@CF?BAB?hBG~C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4632419,
+                        "lng" : 9.1899345
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yomtGodbw@jA`AHLn@pHJ~BOfFlAH`CD`ALEyAOy@W{@uC}KU_Bm@qHQwB_@w@mA`CeC|EcDjG}@fB{@~BcA|BSXSH}@Qc@NIEOWI[?O{BuDU[?cBgC??`AcBCEBCJAlBG~C"
+         },
+         "summary" : "Via Santa Sofia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

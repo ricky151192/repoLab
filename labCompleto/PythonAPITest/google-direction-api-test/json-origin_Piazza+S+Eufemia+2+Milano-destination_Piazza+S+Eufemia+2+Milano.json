@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EilWaWEgU2FudCdFdWZlbWlhLCAyLCAyMDEyMiBNaWxhbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EilWaWEgU2FudCdFdWZlbWlhLCAyLCAyMDEyMiBNaWxhbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4574924,
+               "lng" : 9.189962
+            },
+            "southwest" : {
+               "lat" : 45.4574924,
+               "lng" : 9.189962
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Sant'Eufemia, 2, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4574924,
+                  "lng" : 9.189962
+               },
+               "start_address" : "Via Sant'Eufemia, 2, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4574924,
+                  "lng" : 9.189962
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4574924,
+                        "lng" : 9.189962
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Sant'Eufemia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ilmtGg|aw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4574924,
+                        "lng" : 9.189962
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ilmtGg|aw@"
+         },
+         "summary" : "Via Sant'Eufemia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

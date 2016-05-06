@@ -1,0 +1,203 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXW3Z4NxfLxMRw-JfbMWLLlc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPcy9tsBfLxMRn8F2ot0fzDE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9031303,
+               "lng" : 12.4285814
+            },
+            "southwest" : {
+               "lat" : 41.8968029,
+               "lng" : 12.4161799
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1768
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 362
+               },
+               "end_address" : "Via Fulvio Maroi, 64, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.90023619999999,
+                  "lng" : 12.4161799
+               },
+               "start_address" : "Circonvallazione Aurelia, 50, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8971409,
+                  "lng" : 12.4281909
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "29 m",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.89689970000001,
+                        "lng" : 12.4283172
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e toward \u003cb\u003eViale Luciana Mascenzi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "c`v~FekzjA`@QLG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8971409,
+                        "lng" : 12.4281909
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 215
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.898413,
+                        "lng" : 12.4278147
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "s~u~F_lzjALIDG?C@EAE?CCCCCCCEAK@}@`@mBt@o@VgAf@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89689970000001,
+                        "lng" : 12.4283172
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 429
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ahv~FyhzjAa@NaEdBo@f@s@j@gBx@cAp@g@V{@^_A`@g@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.898413,
+                        "lng" : 12.4278147
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~v~Fs{yjAGPe@rACJOb@Qh@i@lCYrACLCLa@bCe@tCEPAH"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 466
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 41.8995997,
+                        "lng" : 12.4191351
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qew~F_dyjAdHfF^TRFNDtARf@FTDHFLJl@~@|BhD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 287
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 41.90023619999999,
+                        "lng" : 12.4161799
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Fulvio Maroi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oov~FsrxjA}@fAJr@j@bDATG^GXy@lDGRQPSJ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8995997,
+                        "lng" : 12.4191351
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "c`v~FekzjAn@YRQ?SQMK@}@`@}ClAiBv@aEdBo@f@s@j@gBx@kBhA{B`Ag@TGPi@~Aa@lAkA|FoAtHdI|Fb@L|BZTDHFz@jA|BhD}@fAv@vEIt@aAfEGRQPSJ"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

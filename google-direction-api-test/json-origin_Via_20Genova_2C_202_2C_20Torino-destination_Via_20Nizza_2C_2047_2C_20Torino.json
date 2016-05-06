@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDQ3LCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0546413,
+               "lng" : 7.675896899999999
+            },
+            "southwest" : {
+               "lat" : 45.0424926,
+               "lng" : 7.671370199999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1458
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 303
+               },
+               "end_address" : "Via Nizza, 47, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0546413,
+                  "lng" : 7.675896899999999
+               },
+               "start_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.0428452,
+                        "lng" : 7.6715713
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eCorso Bramante\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qj|qGwpym@A?Uz@o@pC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1368
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 284
+                     },
+                     "end_location" : {
+                        "lat" : 45.0546413,
+                        "lng" : 7.675896899999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Nizza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "yl|qGijym@CBCBABCBADADAB?FoAYMCcCw@oC{@gBa@cAY{C{@qBi@sAa@YIqBk@qBi@qAc@_Be@y@WeCq@YIyGuBiBc@sBm@ICkAU{@[g@QWImA["
+                     },
+                     "start_location" : {
+                        "lat" : 45.0428452,
+                        "lng" : 7.6715713
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qj|qGwpym@Wz@s@tCKPCH?FoAYqC{@oC{@gBa@_FuAeEkAkCu@cEmAyHyByGuBiBc@}Bq@kAU{@[_A[mA["
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

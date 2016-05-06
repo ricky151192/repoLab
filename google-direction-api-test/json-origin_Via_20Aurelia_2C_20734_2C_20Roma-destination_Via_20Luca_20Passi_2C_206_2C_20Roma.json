@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp13Bv5RfLxMR84IBmS6U4bM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiVWaWEgTHVjYSBQYXNzaSwgNiwgMDAxNjYgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8965949,
+               "lng" : 12.4137602
+            },
+            "southwest" : {
+               "lat" : 41.8909899,
+               "lng" : 12.4103114
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1123
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 181
+               },
+               "end_address" : "Via Luca Passi, 6, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8965675,
+                  "lng" : 12.4103114
+               },
+               "start_address" : "Via Aurelia, 734, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8922642,
+                  "lng" : 12.4137602
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 41.8909899,
+                        "lng" : 12.4127697
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e toward \u003cb\u003eVia Nicola Coviello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sau~F_qwjA\\XTPp@b@vCtB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8922642,
+                        "lng" : 12.4137602
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 41.89305969999999,
+                        "lng" : 12.4117643
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nicola Coviello\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uyt~FyjwjA[f@SXSb@KNWj@yAlCS\\CFABEBA?A?C?A?A?CAcDiCGG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8909899,
+                        "lng" : 12.4127697
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Michele Pironti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sfu~FodwjAKLGHKLy@x@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89305969999999,
+                        "lng" : 12.4117643
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.8939199,
+                        "lng" : 12.4120679
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "miu~FoawjAqA}C"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "_lu~FmfwjAGBC@A@CBGHlArC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8939199,
+                        "lng" : 12.4120679
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 410
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.8965675,
+                        "lng" : 12.4103114
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjAeAnAMTSRQRGFKFKBYFY?KAMIc@McBy@gBs@EAKEQAI?OBKDGFGHS^CP?JAJ?H@N@L@H?D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sau~F_qwjAr@j@hExCo@`A_@r@iC~EKFKAkDqCKLSVy@x@qA}CKDEDGHlArCeAnAMTe@f@SNe@Je@AMIc@McBy@mBu@]GYBSL[h@C\\@r@@N"
+         },
+         "summary" : "Via Nicola Coviello and Via Luca Passi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

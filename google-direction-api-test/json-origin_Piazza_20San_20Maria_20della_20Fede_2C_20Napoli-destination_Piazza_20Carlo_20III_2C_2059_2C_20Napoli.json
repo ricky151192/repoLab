@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDZqyMhIIOxMRP7GzhTqKNj4",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EipQaWF6emEgQ2FybG8gSUlJLCA1OSwgODAxMzcgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8628183,
+               "lng" : 14.2679594
+            },
+            "southwest" : {
+               "lat" : 40.8577147,
+               "lng" : 14.266358
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 687
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 171
+               },
+               "end_address" : "Piazza Carlo III, 59, 80137 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8628183,
+                  "lng" : 14.2670012
+               },
+               "start_address" : "Piazza S. Maria della Fede, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.85819559999999,
+                  "lng" : 14.2679594
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.8579999,
+                        "lng" : 14.26751
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e toward \u003cb\u003eVia S. Maria della Fede\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbkxFwuavAL^Xx@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85819559999999,
+                        "lng" : 14.2679594
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.85790739999999,
+                        "lng" : 14.2675581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oakxF}ravAPI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8579999,
+                        "lng" : 14.26751
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8577147,
+                        "lng" : 14.2671442
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Francesco Saverio Nitti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}`kxFgsavAf@rA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85790739999999,
+                        "lng" : 14.2675581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 523
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 40.8623456,
+                        "lng" : 14.266494
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_kxFspavA}@HYBO@i@Dm@BeBP_BPsCZ{@J[Bc@Hu@JeBVe@B_@ACECC_@M"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8577147,
+                        "lng" : 14.2671442
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "68 m",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.8628183,
+                        "lng" : 14.2670012
+                     },
+                     "html_instructions" : "\u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePiazza Carlo III\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "u|kxFqlavACGKMe@i@e@c@AA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8623456,
+                        "lng" : 14.266494
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbkxFwuavAf@xAPIf@rAwALy@Fm@BeBPsFl@wANyATkCZ_@ACEc@QOUmAoA"
+         },
+         "summary" : "Corso Giuseppe Garibaldi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

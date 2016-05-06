@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ0OyJLxfLxMR6iHlw-Cj5V4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ0OyJLxfLxMR6iHlw-Cj5V4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9001752,
+               "lng" : 12.408823
+            },
+            "southwest" : {
+               "lat" : 41.9001752,
+               "lng" : 12.408823
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via San Giovanni Della Croce, 35, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9001752,
+                  "lng" : 12.408823
+               },
+               "start_address" : "Via San Giovanni Della Croce, 35, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9001752,
+                  "lng" : 12.408823
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9001752,
+                        "lng" : 12.408823
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia di S. Giovanni della Croce\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "csv~FcrvjA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9001752,
+                        "lng" : 12.408823
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "csv~FcrvjA"
+         },
+         "summary" : "Via di S. Giovanni della Croce",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

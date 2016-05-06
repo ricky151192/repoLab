@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV6ugoUZtiEcRBo5oDGxgUnY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbSaY40ttiEcRfDzJWMXBeB4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0544918,
+               "lng" : 7.6797335
+            },
+            "southwest" : {
+               "lat" : 45.0461976,
+               "lng" : 7.6740687
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 km",
+                  "value" : 1292
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 288
+               },
+               "end_address" : "Via Ilarione Petitti, 24, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0461976,
+                  "lng" : 7.674311299999999
+               },
+               "start_address" : "Via Saluzzo, 58, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0544918,
+                  "lng" : 7.6772628
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0536717,
+                        "lng" : 7.676953300000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Saluzzo\u003c/b\u003e toward \u003cb\u003eVia Tommaso Valperga Caluso\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qu~qG{mzm@bD|@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544918,
+                        "lng" : 7.6772628
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.0531809,
+                        "lng" : 7.6797335
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Tommaso Valperga Caluso\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mp~qG}kzm@f@oFZeD\\uC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0536717,
+                        "lng" : 7.676953300000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 771
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "km~qGi}zm@fCdBjEjCbCzAbDpBlCdBnCfBlAx@rAp@VPZRdBrA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0531809,
+                        "lng" : 7.6797335
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "74 m",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0471787,
+                        "lng" : 7.674413299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uf}qGuazm@e@rD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0462299,
+                        "lng" : 7.6740687
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Saluzzo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{g}qGa|ym@|DbA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0471787,
+                        "lng" : 7.674413299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.0461976,
+                        "lng" : 7.674311299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ilarione Petitti\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}a}qG}yym@Do@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0462299,
+                        "lng" : 7.6740687
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qu~qG{mzm@bD|@f@oFx@{HfCdBjEjCfHlE|GlElAx@rAp@r@d@dBrAe@rD|DbADo@"
+         },
+         "summary" : "Via Madama Cristina",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

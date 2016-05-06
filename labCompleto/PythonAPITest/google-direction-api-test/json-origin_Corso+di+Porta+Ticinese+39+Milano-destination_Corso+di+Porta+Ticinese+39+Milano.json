@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDb3JzbyBkaSBQb3J0YSBUaWNpbmVzZSwgMzksIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDb3JzbyBkaSBQb3J0YSBUaWNpbmVzZSwgMzksIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4574752,
+               "lng" : 9.180657199999999
+            },
+            "southwest" : {
+               "lat" : 45.4574752,
+               "lng" : 9.180657199999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Corso di Porta Ticinese, 39, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4574752,
+                  "lng" : 9.180657199999999
+               },
+               "start_address" : "Corso di Porta Ticinese, 39, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4574752,
+                  "lng" : 9.180657199999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4574752,
+                        "lng" : 9.180657199999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Edmondo de Amicis\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "glmtGcb`w@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4574752,
+                        "lng" : 9.180657199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "glmtGcb`w@"
+         },
+         "summary" : "Via Edmondo de Amicis",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

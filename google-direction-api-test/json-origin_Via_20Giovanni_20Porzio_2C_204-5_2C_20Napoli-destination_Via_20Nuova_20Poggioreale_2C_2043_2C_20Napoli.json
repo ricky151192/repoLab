@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJwfJ5-xoIOxMRlrCDuuQ9RUY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgTnVvdmEgUG9nZ2lvcmVhbGUsIDQzLCA4MDE0MyBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8590405,
+               "lng" : 14.2769439
+            },
+            "southwest" : {
+               "lat" : 40.8578103,
+               "lng" : 14.2753025
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 276
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 92
+               },
+               "end_address" : "Via Nuova Poggioreale, 43, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8590405,
+                  "lng" : 14.2753025
+               },
+               "start_address" : "Via Giovanni Porzio, 4, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8578103,
+                  "lng" : 14.2769439
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581472,
+                        "lng" : 14.2768869
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i`kxF{mcvAcAH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8578103,
+                        "lng" : 14.2769439
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.8579954,
+                        "lng" : 14.2754744
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Otranto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mbkxFqmcvA@N@L?J@H@NTvE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581472,
+                        "lng" : 14.2768869
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.8590357,
+                        "lng" : 14.2752926
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Foggia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oakxFudcvA{ALsBT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8579954,
+                        "lng" : 14.2754744
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 1
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 40.8590405,
+                        "lng" : 14.2753025
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_hkxFqccvA?A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8590357,
+                        "lng" : 14.2752926
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i`kxF{mcvAcAH@N@XBXTvE{ALsBR"
+         },
+         "summary" : "Via Otranto and Via Foggia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

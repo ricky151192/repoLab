@@ -1,0 +1,370 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJpbU5-wCoOxMR4A4PCyPhCRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDZqyMhIIOxMRP7GzhTqKNj4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8730233,
+               "lng" : 14.2986386
+            },
+            "southwest" : {
+               "lat" : 40.8577147,
+               "lng" : 14.2659871
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.5 km",
+                  "value" : 5548
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 832
+               },
+               "end_address" : "Piazza S. Maria della Fede, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.85819559999999,
+                  "lng" : 14.2679594
+               },
+               "start_address" : "80143 Naples, Italy",
+               "start_location" : {
+                  "lat" : 40.8655487,
+                  "lng" : 14.2888708
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 693
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 40.86846750000001,
+                        "lng" : 14.2961095
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eVia II Traversa Macello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uplxFmxevAcBqEuAqDGQUo@GQg@oA[}@EG?CKWAAAAECCECMMm@}BuJoBsICI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8655487,
+                        "lng" : 14.2888708
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 889
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 40.8724903,
+                        "lng" : 14.2949368
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}bmxFuegvAIBGBOBOBQ@[Bk@A_@CMAOCe@I_@Ie@O]MYOMIOKMKMMSQWUY]QUm@}@cB_Cq@}@MMMMUMSGSEKAM?S@QFEBEBEHEFADADAJAD?D?N?R@^?N?HAFAFELEJAD?D?F?HBFBLDJFLDJDJDHBHDPBPb@lCf@pCALAJCLENI\\"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86846750000001,
+                        "lng" : 14.2961095
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1085
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 40.8696128,
+                        "lng" : 14.2851469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a|mxFk~fvANDL@FBJDJJDFBFDN@R?p@GNGJYt@o@|AOZCDAFAN?F@B?FBBDJRPNLDFBDBFDPRfAb@fCHl@H\\HNFFFD~@@nA?nAD`@Fp@\\j@`@TTVXHRDPBLDf@LrY?|@@b@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8724903,
+                        "lng" : 14.2949368
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8697908,
+                        "lng" : 14.2845445
+                     },
+                     "html_instructions" : "\u003cb\u003eVia S. Maria del Pianto\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eLargo S. Maria del Pianto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ajmxFeaevAELALCR?DEVGVCHEH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8696128,
+                        "lng" : 14.2851469
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1285
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : 40.8679943,
+                        "lng" : 14.2733959
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nuova del Campo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ekmxFk}dvAIHLFPDZLJFHDFHHHNPHJLT`@l@PV\\l@HLVp@Vv@Nj@v@pClAlEL`@DR@F@F@HBL?H?J?JAJ?FAFABCFCHEFGHEBIDMFIDc@LWFm@Le@JODODOHMFIDKFQLSPYXYb@MPMVKXGXAR?NBZFZJZJRNR\\ZLLn@l@BDFDHJ@BBDBFBHBH?D@H?D@F?F?HAHAH?HA@ERI\\k@xBALCH?HAF?J?H@F?FBJ@FBH@FBDBHJP\\b@fD|E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8697908,
+                        "lng" : 14.2845445
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 717
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.8634591,
+                        "lng" : 14.2673389
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Don Giovanni Bosco\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}_mxFwwbvArAtB\\h@rGlJbClDj@z@DFFH\\f@LRzCjELPjAdBb@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8679943,
+                        "lng" : 14.2733959
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8632469,
+                        "lng" : 14.2667669
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sclxF{qavAz@nAQ`@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8634591,
+                        "lng" : 14.2673389
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8626593,
+                        "lng" : 14.2659871
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iblxFinavA?H?D@B@HTVd@j@b@d@PR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8632469,
+                        "lng" : 14.2667669
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8623568,
+                        "lng" : 14.2663301
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~kxFmiavAREDCDGFMBCHSDK"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8626593,
+                        "lng" : 14.2659871
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 521
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.8577147,
+                        "lng" : 14.2671442
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w|kxFqkavAh@G^@d@CdBWt@Kb@IZCz@KrC[~AQdBQl@Ch@ENAXC|@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8623568,
+                        "lng" : 14.2663301
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.85790739999999,
+                        "lng" : 14.2675581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Francesco Saverio Nitti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_kxFspavAg@sA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8577147,
+                        "lng" : 14.2671442
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.8579999,
+                        "lng" : 14.26751
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`kxFgsavAQH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85790739999999,
+                        "lng" : 14.2675581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.85819559999999,
+                        "lng" : 14.2679594
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oakxF}ravAYy@M_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8579999,
+                        "lng" : 14.26751
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uplxFmxevAiHmRO_@IIQ{@mFiUCIIBWFa@DgA@m@Eu@MeAYw@]]UgAaAk@s@qC}D_AkAc@[g@MYAS@QFKFO\\Cf@@lAOh@AJ?PTn@Tj@tAbIMv@I\\NDTDVPHNFb@?p@GNa@`A_AxBGd@@JHNl@l@`AhFRjAPVFD~@@nA?nAD`@Fp@\\`Av@VXHRH^Df@LrY@`BGZCXMn@IRIHLFl@Rf@`@hA`Bn@dA`@~@f@bBdC~IVdADl@Cf@O\\MLWLm@ReATuA`@u@b@m@j@g@t@Yp@Il@Bj@Rv@Zf@j@h@dAdALZD^?b@Ih@{@nDAf@Fb@L`@dHhK`N`SrIbMz@nAQ`@?NBLz@bAt@x@XIZm@DKh@G^@d@CzCc@b@IZCnEg@dEc@`CO|@Ig@sAQHYy@M_@"
+         },
+         "summary" : "Via S. Maria del Pianto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

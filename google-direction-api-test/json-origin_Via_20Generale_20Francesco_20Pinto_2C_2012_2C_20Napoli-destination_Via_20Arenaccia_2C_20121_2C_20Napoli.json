@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFzoe_A4IOxMRQiEliTVeFCo",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EihWaWEgQXJlbmFjY2lhLCAxMjEsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8631464,
+               "lng" : 14.2710586
+            },
+            "southwest" : {
+               "lat" : 40.8616296,
+               "lng" : 14.2698766
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 286
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 111
+               },
+               "end_address" : "Via Arenaccia, 121, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8616296,
+                  "lng" : 14.2702379
+               },
+               "start_address" : "Via Generale Francesco Pinto, 12, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8629415,
+                  "lng" : 14.2710586
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Generale Francesco Pinto\u003c/b\u003e toward \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k`lxFcibvAi@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8629415,
+                        "lng" : 14.2710586
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ualxFyhbvADhE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.8616296,
+                        "lng" : 14.2702379
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Arenaccia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oalxFobbvABVlCg@vC_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k`lxFcibvAi@HDhEBVlCg@vC_@"
+         },
+         "summary" : "Via Colonnello Carlo Lahalle and Via Arenaccia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,299 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJI_nTxEVtiEcRYmKvhalKsCA",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.052769,
+               "lng" : 7.6819805
+            },
+            "southwest" : {
+               "lat" : 45.036383,
+               "lng" : 7.6717261
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 km",
+                  "value" : 3089
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 603
+               },
+               "end_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "start_address" : "Via Belfiore, 50, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0523628,
+                  "lng" : 7.677728900000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.052769,
+                        "lng" : 7.6778933
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Belfiore\u003c/b\u003e toward \u003cb\u003eVia Giorgio Bidone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gh~qGypzm@qA_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0523628,
+                        "lng" : 7.677728900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 350
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : 45.0515401,
+                        "lng" : 7.6819805
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Giorgio Bidone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yj~qGyqzm@t@iGnAsFr@eCz@mD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.052769,
+                        "lng" : 7.6778933
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.04830459999999,
+                        "lng" : 7.679852899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cc~qGkk{m@jDvBHBTDJAF?HDPH~A~@|CtBlCbB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0515401,
+                        "lng" : 7.6819805
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 45.0464677,
+                        "lng" : 7.678284999999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "{n}qGa~zm@K^pCnBxCpBlAv@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04830459999999,
+                        "lng" : 7.679852899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 545
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 45.0417283,
+                        "lng" : 7.676519599999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mc}qGgtzm@zCv@jEjAlDbAl@PJBnA\\tBl@PDxBh@PD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0464677,
+                        "lng" : 7.678284999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 450
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.0377174,
+                        "lng" : 7.676050900000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Achille Mario Dogliotti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ye|qGgizm@NDZF`AN`B\\vBb@p@Hn@Bn@@jA?j@Ex@?tAEXAd@C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0417283,
+                        "lng" : 7.676519599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.0363741,
+                        "lng" : 7.675059600000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Achille Mario Dogliotti\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "wl{qGifzm@nBBRDHBLDLHRTRVJPJPDNDLJ\\BFBHBF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0377174,
+                        "lng" : 7.676050900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 45.0370221,
+                        "lng" : 7.672186099999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eCorso Spezia\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "id{qGc`zm@A@A@?@A??@?@A@?@?@A@?@?@?@?@?@?@?@?@Ip@s@zE[|B]nC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0363741,
+                        "lng" : 7.675059600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0375411,
+                        "lng" : 7.6717261
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Camillo Bozzolo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kh{qGenym@OJMJIFIBQDOLCBEFIV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0370221,
+                        "lng" : 7.672186099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 555
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Genova\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sk{qGikym@iAGsAKgBWaBQOCeDa@K?{Dc@MA}D_@UAUA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0375411,
+                        "lng" : 7.6717261
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gh~qGypzm@qA_@t@iGnAsFr@eCz@mDjDvB^HRAZN|FtDlCbBK^jH`FlAv@zCv@xJnCx@TpIzB`@J|AVxE`A`BLzB@dBEnBGd@CnBB\\HZNf@l@Vb@ZbADRCBCJ?LyAlK]nCOJWR[HSPO^}CSiEi@uDe@sKeAk@C"
+         },
+         "summary" : "Corso Massimo d'Azeglio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

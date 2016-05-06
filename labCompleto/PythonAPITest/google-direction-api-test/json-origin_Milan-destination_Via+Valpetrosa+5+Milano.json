@@ -1,0 +1,322 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ53USP0nBhkcRjQ50xhPN_zw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo9AkdKvGhkcRvyWnUXUQu8U",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4654122,
+               "lng" : 9.188276999999999
+            },
+            "southwest" : {
+               "lat" : 45.4615112,
+               "lng" : 9.1825505
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1425
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 407
+               },
+               "end_address" : "Via Valpetrosa, 5, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4621883,
+                  "lng" : 9.1853245
+               },
+               "start_address" : "Milan, Italy",
+               "start_location" : {
+                  "lat" : 45.4654122,
+                  "lng" : 9.185965999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "27 m",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.4652391,
+                        "lng" : 9.186201100000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e toward \u003cb\u003eVia Cordusio\u003c/b\u003e/\u003cb\u003ePiazza Cordusio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y}ntGicaw@`@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4654122,
+                        "lng" : 9.185965999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 45.4637355,
+                        "lng" : 9.188276999999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Orefici\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w|ntGwdaw@R]NWj@y@r@cALShAcBnAsB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4652391,
+                        "lng" : 9.186201100000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 333
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 45.4615112,
+                        "lng" : 9.1854338
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Torino\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ksntGwqaw@HNfB|BjAzAf@p@DF~@`A\\h@|@vAZf@Xh@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4637355,
+                        "lng" : 9.188276999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 291
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 45.463135,
+                        "lng" : 9.1825505
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Maurilio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mentG}_aw@[vACPGP_AdBCJKVQZs@lACDILu@~AcAzA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4615112,
+                        "lng" : 9.1854338
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.4635676,
+                        "lng" : 9.183836699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Santa Maria Podone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sontG}m`w@c@mBg@uCI@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.463135,
+                        "lng" : 9.1825505
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "83 m",
+                        "value" : 83
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4641318,
+                        "lng" : 9.1845354
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Bocchetto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "irntG_v`w@oBkC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4635676,
+                        "lng" : 9.183836699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 45.4636607,
+                        "lng" : 9.1854812
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Moneta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yuntGkz`w@|A{D"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4641318,
+                        "lng" : 9.1845354
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629881,
+                        "lng" : 9.1846877
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Moneta\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVia dell'Ambrosiana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{rntGg`aw@z@bABBDBDBd@RP\\@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4636607,
+                        "lng" : 9.1854812
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.46253859999999,
+                        "lng" : 9.184474699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Zecca Vecchia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "unntGi{`w@xAj@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629881,
+                        "lng" : 9.1846877
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 m",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.46243570000001,
+                        "lng" : 9.185346299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fosse Ardeatine\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{kntG}y`w@RsB@_@A["
+                     },
+                     "start_location" : {
+                        "lat" : 45.46253859999999,
+                        "lng" : 9.184474699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.4621883,
+                        "lng" : 9.1853245
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Valpetrosa\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gkntGm_aw@REH?JDFD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46243570000001,
+                        "lng" : 9.185346299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "y}ntGicaw@pB}CzEoHdFzGdAhAzA`Ct@pA_@hBgAvBOb@sA|Bu@~AcAzAc@mBg@uCI@oBkC|A{Dz@bAHFj@VP\\@ZxAj@RsB?{@\\ERJ"
+         },
+         "summary" : "Via Torino",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

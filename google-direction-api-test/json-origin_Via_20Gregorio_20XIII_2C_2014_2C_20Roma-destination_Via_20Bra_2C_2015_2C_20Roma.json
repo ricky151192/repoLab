@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRyTeJMZfLxMRC4fkoEfDq50",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4ZgAybhfLxMRe-qN4xFfbZI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9051337,
+               "lng" : 12.4188682
+            },
+            "southwest" : {
+               "lat" : 41.9017771,
+               "lng" : 12.4088095
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1797
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 319
+               },
+               "end_address" : "Via Bra, 15, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9021268,
+                  "lng" : 12.4133538
+               },
+               "start_address" : "Via Gregorio XIII, 14, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9046896,
+                  "lng" : 12.4188106
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Gregorio XIII\u003c/b\u003e toward \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iow~FqpxjAn@Gh@CV@PBRHIj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9046896,
+                        "lng" : 12.4188106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{jw~FaoxjAfAF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 894
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : 41.9051337,
+                        "lng" : 12.4090324
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "shw~FynxjAPjJ@`A?r@FrBDb@FZF\\BNR~@XtAH\\D`@BV?X?l@A`AQfDGpAAHMRc@tBQZMLOLc@XGDs@^QJQNOPIJSXsBtE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 41.9037653,
+                        "lng" : 12.410467
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "arw~FmsvjAHRDHJL\\i@FOHYFKDMf@y@DEl@u@fAuAPQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9051337,
+                        "lng" : 12.4090324
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 41.9029731,
+                        "lng" : 12.4094623
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Soriso\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qiw~Fm|vjA~ChE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9037653,
+                        "lng" : 12.410467
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 354
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 41.9018589,
+                        "lng" : 12.41333
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Peveragno\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qdw~FcvvjAPSLONUd@aAZy@h@aBHe@L_AJmA\\qG?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9029731,
+                        "lng" : 12.4094623
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021268,
+                        "lng" : 12.4133538
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eVia Bra\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "s}v~FinwjA@?@?@??A@?@??A@??A@A?A@A?A?A?A?A?A?A?A?A?AA??A?AA??AA??AA??AA?A?A?A?A?A?A@A??@A@?@A??@?@A@?@?@?@?@g@L"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9018589,
+                        "lng" : 12.41333
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iow~FqpxjAxAKh@DRHIj@fAFPjJ@tBLvCf@hCb@rBHx@?fAA`AQfDIzAMRc@tB_@h@s@f@{@d@c@ZY\\SXsBtEN\\JL\\i@Pi@LYl@_AtBkCPQ~ChE^c@t@wAdA{CVeBh@_J@g@@?BADE@KAIEGGAG@CHAB?Bg@N"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

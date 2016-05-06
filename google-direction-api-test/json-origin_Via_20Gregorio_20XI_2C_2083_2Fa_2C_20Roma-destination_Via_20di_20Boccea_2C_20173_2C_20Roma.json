@@ -1,0 +1,109 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EidWaWEgR3JlZ29yaW8gWEksIDgzLCAwMDE2NiBSb21hLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJqbJ6rsVfLxMRPO7HKsq__tc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9031303,
+               "lng" : 12.4232108
+            },
+            "southwest" : {
+               "lat" : 41.9011703,
+               "lng" : 12.4205467
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 360
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 96
+               },
+               "end_address" : "Via di Boccea, 173, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9027958,
+                  "lng" : 12.4232108
+               },
+               "start_address" : "Via Gregorio XI, 83, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9011703,
+                  "lng" : 12.4205467
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 247
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Gregorio XI\u003c/b\u003e toward \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iyv~Fm{xjA]EOESG_@UeHgF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9011703,
+                        "lng" : 12.4205467
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 113
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 41.9027958,
+                        "lng" : 12.4232108
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qew~F_dyjA@IDQd@uCRoA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iyv~Fm{xjAm@Ks@]eHgF@Ij@gDRoA"
+         },
+         "summary" : "Via Gregorio XI and Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

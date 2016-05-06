@@ -1,0 +1,250 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG__LSqTGhkcRgxbTTrgXMVE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ31GTk67GhkcRPw6Nl8LeRdQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4635328,
+               "lng" : 9.197922199999999
+            },
+            "southwest" : {
+               "lat" : 45.4607646,
+               "lng" : 9.1887147
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1199
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 360
+               },
+               "end_address" : "Piazza del Duomo, Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4632665,
+                  "lng" : 9.1898471
+               },
+               "start_address" : "Largo Augusto, 10, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4631924,
+                  "lng" : 9.1976719
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.4634153,
+                        "lng" : 9.197922199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eLargo Augusto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ontGmlcw@OQ]_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631924,
+                        "lng" : 9.1976719
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631785,
+                        "lng" : 9.1971317
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eLargo Augusto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kqntG_ncw@CXQhAPH\\TLLFJ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4634153,
+                        "lng" : 9.197922199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629669,
+                        "lng" : 9.1949855
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Verziere\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{ontGaicw@BJBTBTB`@?DAdA?j@@l@FlAP|A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631785,
+                        "lng" : 9.1971317
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 398
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 107
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qnntGu{bw@N|@DPBLf@rATl@JTFLvAdD|AbC~AnCZh@FNDJDHDN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629669,
+                        "lng" : 9.1949855
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 45.4613035,
+                        "lng" : 9.1887147
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Alberico Albricci\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "y`ntGwbbw@@LAL?PCPe@jDi@rDUh@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 45.4620303,
+                        "lng" : 9.1897553
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Maurizio Gonzaga\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cdntGmtaw@{BuDU["
+                     },
+                     "start_location" : {
+                        "lat" : 45.4613035,
+                        "lng" : 9.1887147
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632419,
+                        "lng" : 9.1899345
+                     },
+                     "html_instructions" : "At \u003cb\u003ePiazza Armando Diaz\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eVia Guglielmo Marconi\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "uhntG_{aw@?cBgC??`A_BCC?A@C@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4620303,
+                        "lng" : 9.1897553
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632665,
+                        "lng" : 9.1898471
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Guglielmo Marconi\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Dogana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gpntGa|aw@CF?BAB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4632419,
+                        "lng" : 9.1899345
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}ontGmlcw@m@q@UbBn@^TXNxA?dDFlAP|ATnAlAdD~ArD|DrGn@nAF\\A^i@|Di@rDUh@qCqE?cBgC??`A_BCE@GHAF"
+         },
+         "summary" : "Via Larga",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

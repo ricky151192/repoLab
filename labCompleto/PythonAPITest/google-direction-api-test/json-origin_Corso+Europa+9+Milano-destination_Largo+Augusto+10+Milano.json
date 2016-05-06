@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2w4fhaXGhkcRT766E-AwPH4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG__LSqTGhkcRgxbTTrgXMVE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4641662,
+               "lng" : 9.1976719
+            },
+            "southwest" : {
+               "lat" : 45.4628686,
+               "lng" : 9.194874
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 416
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 136
+               },
+               "end_address" : "Largo Augusto, 10, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4631924,
+                  "lng" : 9.1976719
+               },
+               "start_address" : "Corso Europa, 9, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4641662,
+                  "lng" : 9.196308
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "73 m",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 45.4636145,
+                        "lng" : 9.1958035
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Europa\u003c/b\u003e toward \u003cb\u003eVia Felice Cavallotti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "avntG}ccw@f@d@fA~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4641662,
+                        "lng" : 9.196308
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 98
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.4630655,
+                        "lng" : 9.194874
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo dei Bersaglieri\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qrntGw`cw@`@ZFFFHDHR^DJFLBH@FBF@JD`@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4636145,
+                        "lng" : 9.1958035
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14 m",
+                        "value" : 14
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629669,
+                        "lng" : 9.1949855
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza Fontana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eontG}zbw@RW"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4630655,
+                        "lng" : 9.194874
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Verziere\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qnntGu{bw@RIEo@Q_CAK@cB?G?U?OBYFg@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629669,
+                        "lng" : 9.1949855
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "61 m",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631924,
+                        "lng" : 9.1976719
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Augusto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "inntGohcw@KK?[CSAMEMGMOSCC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "avntG}ccw@xChCf@~@Pf@Fl@RWRIWoD?oBBgAFg@KKCo@G[Wa@CC"
+         },
+         "summary" : "Via Verziere",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,109 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFWaWEgUy4gR2lvdmFubmkgZGUgTWF0aGEsIDIsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIdZOSAYIOxMRlSCenRySoZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8664926,
+               "lng" : 14.276093
+            },
+            "southwest" : {
+               "lat" : 40.8658647,
+               "lng" : 14.2756491
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "89 m",
+                  "value" : 89
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 19
+               },
+               "end_address" : "Via Fontanelle Al Trivio, 34, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8664926,
+                  "lng" : 14.276093
+               },
+               "start_address" : "Via S. Giovanni de Matha, 2, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8658739,
+                  "lng" : 14.275772
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia S. Giovanni de Matha\u003c/b\u003e toward \u003cb\u003eVia Fontanelle Al Trivio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "urlxFqfcvA@V"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658739,
+                        "lng" : 14.275772
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8664926,
+                        "lng" : 14.276093
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Fontanelle Al Trivio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "srlxFyecvA}BwA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "urlxFqfcvA@V}BwA"
+         },
+         "summary" : "Via Fontanelle Al Trivio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

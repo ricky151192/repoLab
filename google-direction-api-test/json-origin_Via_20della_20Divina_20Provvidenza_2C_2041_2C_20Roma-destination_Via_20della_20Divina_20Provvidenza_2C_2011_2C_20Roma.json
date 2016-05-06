@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-80EsL5fLxMRqwUySUUWYps",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJSTfFL9fLxMRf2HENzLluW0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9007399,
+               "lng" : 12.4136219
+            },
+            "southwest" : {
+               "lat" : 41.8995345,
+               "lng" : 12.4101541
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 324
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 54
+               },
+               "end_address" : "Via della Divina Provvidenza, 11, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8995345,
+                  "lng" : 12.4136219
+               },
+               "start_address" : "Via della Divina Provvidenza, 41, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9007399,
+                  "lng" : 12.4101541
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 41.8995345,
+                        "lng" : 12.4136219
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e toward \u003cb\u003eVia Bardonecchia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "svv~FmzvjAnAwIXsBDYH]J_@LYJSLObAsA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9007399,
+                        "lng" : 12.4101541
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "svv~FmzvjAhBkMNw@Xy@Xc@bAsA"
+         },
+         "summary" : "Via della Divina Provvidenza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

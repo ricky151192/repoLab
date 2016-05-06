@@ -1,0 +1,178 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ95OXtSVtiEcRP8PsPDAShvc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgTWFkYW1hIENyaXN0aW5hLCAxMTgsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0543451,
+               "lng" : 7.67531
+            },
+            "southwest" : {
+               "lat" : 45.0453143,
+               "lng" : 7.655631299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.1 km",
+                  "value" : 2135
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 413
+               },
+               "end_address" : "Via Madama Cristina, 118, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0453143,
+                  "lng" : 7.674171299999999
+               },
+               "start_address" : "Corso Duca degli Abruzzi, 94, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0543451,
+                  "lng" : 7.656699700000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.053193,
+                        "lng" : 7.655964900000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e toward \u003cb\u003eVia Vittorio Bottego\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ut~qGkmvm@`C~AzAn@HB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0543451,
+                        "lng" : 7.656699700000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 934
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 214
+                     },
+                     "end_location" : {
+                        "lat" : 45.0499634,
+                        "lng" : 7.6654205
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mm~qGwhvm@@LBFDDTNNLHDD@D?HG?ABA@C@E@C@E?E@E?E?E?E?E?ECGAAm@_@nB{Mz@}F|@_GHe@Hm@z@gGJg@Lo@p@gCh@yA\\q@b@g@^Yb@c@V[JM"
+                     },
+                     "start_location" : {
+                        "lat" : 45.053193,
+                        "lng" : 7.655964900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 45.0496405,
+                        "lng" : 7.666088199999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Turati Filippo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gy}qG{cxm@Rc@N_@ZaA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0499634,
+                        "lng" : 7.6654205
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 789
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gw}qGahxm@Jo@VeApAuDvBcGPk@Ru@?CTcA@KFWJm@Fm@Hm@r@sFFm@XmCFSHi@Hq@DY`@}Dd@sD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0496405,
+                        "lng" : 7.666088199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.0453143,
+                        "lng" : 7.674171299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uf}qGuazm@hDpBdDpB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ut~qGkmvm@`C~AzAn@HB@LHLd@\\NFNGFMDU?WCMo@a@rF__@dAuHXwAp@gCh@yA\\q@b@g@bA}@b@i@b@cAZaAJo@hB{FhCoHj@iCd@aD|AcMR{Af@wEd@sDhDpBdDpB"
+         },
+         "summary" : "Corso Carlo e Nello Rosselli and Corso Dante Alighieri",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

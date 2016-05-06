@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFzoe_A4IOxMRQiEliTVeFCo",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ7aO-VQQIOxMRCwxKKwBeCwA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8633886,
+               "lng" : 14.2812074
+            },
+            "southwest" : {
+               "lat" : 40.85951319999999,
+               "lng" : 14.2710149
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1888
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 378
+               },
+               "end_address" : "Via Aquileia, 65, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8618734,
+                  "lng" : 14.277701
+               },
+               "start_address" : "Via Generale Francesco Pinto, 12, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8629415,
+                  "lng" : 14.2710586
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Generale Francesco Pinto\u003c/b\u003e toward \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k`lxFcibvAi@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8629415,
+                        "lng" : 14.2710586
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 40.8633886,
+                        "lng" : 14.2756096
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ualxFyhbvAE}DCyAHi@@??A@??A@??A@A?A@A?A?A@A?A?A?A?A?AA??A?A?AAA?AAA?AA??AA?AAA?AAA?A?Ck@EaBQeJKq@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 419
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 40.8596562,
+                        "lng" : 14.2762522
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eclxFqecvA`@KPGNEtBEnGs@~Gk@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8633886,
+                        "lng" : 14.2756096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 504
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{kkxFqicvADA@?@?@?B?LCKUCKGKISaCqGaCyGmCoH[{@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8596562,
+                        "lng" : 14.2762522
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618339,
+                        "lng" : 14.2808708
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eVia Serafino Biscardi\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "mykxFqhdvAKDC@CBC@Vt@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.8633855,
+                        "lng" : 14.2809316
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gorizia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mykxFmfdvAGFA@IFIDUBG?{A?k@EaAQKCMAMEIC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618339,
+                        "lng" : 14.2808708
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618734,
+                        "lng" : 14.277701
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Aquileia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eclxFyfdvAFnA@RFTFPP^pBdELTXr@`A|Bf@jA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8633855,
+                        "lng" : 14.2809316
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k`lxFcibvAi@HE}DCyAHi@@??A@ABC@E@GCOIGEA[sNKq@`@K`@MtBEnGs@dHm@H?LCKUKWkCeHoGiQ[{@KDGDC@Vt@IHSL]BgCEmAU[GICFnAHh@Xp@~BzEzApDf@jA"
+         },
+         "summary" : "Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

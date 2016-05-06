@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjtWaWEgR2VuZXJhbGUgR2lyb2xhbW8gQ2Fsw6AgVWxsb2EsIDMwLCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiRVYmBAIOxMRrSerkPQ-ewI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8644505,
+               "lng" : 14.2739778
+            },
+            "southwest" : {
+               "lat" : 40.8562348,
+               "lng" : 14.2717202
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1102
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 254
+               },
+               "end_address" : "Via Nazionale, 93, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8562348,
+                  "lng" : 14.2739778
+               },
+               "start_address" : "Via Generale Girolamo Calà Ulloa, 30, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8644505,
+                  "lng" : 14.2717202
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631768,
+                        "lng" : 14.2719617
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Generale Girolamo Calà Ulloa\u003c/b\u003e toward \u003cb\u003eVia Marchese Giuseppe Palmieri\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yilxFgmbvArBUhCY"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8644505,
+                        "lng" : 14.2717202
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{alxFwnbvACyAHi@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631768,
+                        "lng" : 14.2719617
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 492
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 40.8588585,
+                        "lng" : 14.2735512
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Generale Francesco Pignatelli\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ualxF{rbvA@??A@??A@??A@A?A@A?A?A@A?A?A?A?A?AA??ALGZC|@I`DY~BS|BYpCUtDg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 240
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 40.8577635,
+                        "lng" : 14.2737124
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Nazionale\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{fkxFuxbvADd@Fr@Jd@l@n@PBf@Ej@INIBC@AXs@A_C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8588585,
+                        "lng" : 14.2735512
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 40.8562348,
+                        "lng" : 14.2739778
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nazionale\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_`kxFuybvAjD_@xBSJA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8577635,
+                        "lng" : 14.2737124
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yilxFgmbvA|Fo@CyAHi@@??A@ABC@E@GAGLGxAM`Hm@nGo@tDg@Dd@RxAl@n@PBrAORMZu@A_CjD_@dCU"
+         },
+         "summary" : "Via Generale Francesco Pignatelli",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

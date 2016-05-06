@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQ2FyZGluYWwgRmVkZXJpY28sIDcsIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQ2FyZGluYWwgRmVkZXJpY28sIDcsIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4628813,
+               "lng" : 9.185535
+            },
+            "southwest" : {
+               "lat" : 45.4628813,
+               "lng" : 9.185535
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Cardinal Federico, 7, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4628813,
+                  "lng" : 9.185535
+               },
+               "start_address" : "Via Cardinal Federico, 7, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4628813,
+                  "lng" : 9.185535
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4628813,
+                        "lng" : 9.185535
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Cardinal Federico\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_nntGs`aw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4628813,
+                        "lng" : 9.185535
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_nntGs`aw@"
+         },
+         "summary" : "Via Cardinal Federico",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

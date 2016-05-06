@@ -1,0 +1,275 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjBWaWEgTGF6emFybyBTcGFsbGFuemFuaSwgNywgMTAxMzQgVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQ2FybG8gR2lvdmFubmkgQnJ1Z25vbmUsIDUsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0498859,
+               "lng" : 7.673925199999998
+            },
+            "southwest" : {
+               "lat" : 45.0474259,
+               "lng" : 7.6610676
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1695
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 317
+               },
+               "end_address" : "Via Carlo Giovanni Brugnone, 5, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0498859,
+                  "lng" : 7.6724747
+               },
+               "start_address" : "Via Lazzaro Spallanzani, 7, 10134 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0483324,
+                  "lng" : 7.6625954
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.0492505,
+                        "lng" : 7.6610676
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Lazzaro Spallanzani\u003c/b\u003e toward \u003cb\u003eVia Salvatore Farina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ao}qGgrwm@_AhBwBfE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0483324,
+                        "lng" : 7.6625954
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498071,
+                        "lng" : 7.661705
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yt}qGuhwm@oB}B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0492505,
+                        "lng" : 7.6610676
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Tirreno\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ix}qGslwm@t@gCh@sAf@eALQlBaC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498071,
+                        "lng" : 7.661705
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 45.0491119,
+                        "lng" : 7.664991100000001
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "ep}qGizwm@RWVO_AiAcBiB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.049573,
+                        "lng" : 7.665528
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "}s}qGeaxm@{AkB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0491119,
+                        "lng" : 7.664991100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 45.0496405,
+                        "lng" : 7.666088199999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "yv}qGqdxm@EMAKCK?I?I?QAc@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.049573,
+                        "lng" : 7.665528
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 607
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 45.0474259,
+                        "lng" : 7.673082999999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gw}qGahxm@Jo@VeApAuDvBcGPk@Ru@?CTcA@KFWJm@Fm@Hm@r@sFFm@XmCFSHi@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0496405,
+                        "lng" : 7.666088199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.04958509999999,
+                        "lng" : 7.673925199999998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mi}qGwsym@YIqBk@qBi@qAc@_Be@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0474259,
+                        "lng" : 7.673082999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498859,
+                        "lng" : 7.6724747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Carlo Giovanni Brugnone\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}v}qGayym@{@bH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04958509999999,
+                        "lng" : 7.673925199999998
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ao}qGgrwm@wDpHoB}Bt@gCpAyCzBsCRWVO_AiAcBiB{AkBEMEWAiAJo@VeAhEyLd@aBTgA\\_C~A}MP}@kCu@cEmA_Be@{@bH"
+         },
+         "summary" : "Corso Dante Alighieri",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

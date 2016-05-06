@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1WyTmj5tiEcRBrYfZjaoFws",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1WyTmj5tiEcRBrYfZjaoFws",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0577855,
+               "lng" : 7.6677914
+            },
+            "southwest" : {
+               "lat" : 45.0577855,
+               "lng" : 7.6677914
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Corso Luigi Einaudi, 4, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0577855,
+                  "lng" : 7.6677914
+               },
+               "start_address" : "Corso Luigi Einaudi, 4, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0577855,
+                  "lng" : 7.6677914
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.0577855,
+                        "lng" : 7.6677914
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ej_rGurxm@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0577855,
+                        "lng" : 7.6677914
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ej_rGurxm@"
+         },
+         "summary" : "Corso Luigi Einaudi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

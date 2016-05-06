@@ -1,0 +1,299 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDZqyMhIIOxMRP7GzhTqKNj4",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR_yNzxoIOxMR6yl8MlW-gmY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.85951319999999,
+               "lng" : 14.2765838
+            },
+            "southwest" : {
+               "lat" : 40.8561361,
+               "lng" : 14.2678045
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1232
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 314
+               },
+               "end_address" : "Via Giovanni Porzio, Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8578905,
+                  "lng" : 14.2765838
+               },
+               "start_address" : "Piazza S. Maria della Fede, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.85819559999999,
+                  "lng" : 14.2679594
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581295,
+                        "lng" : 14.2678045
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbkxFwuavAL^"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85819559999999,
+                        "lng" : 14.2679594
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "22 m",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.8579486,
+                        "lng" : 14.2679077
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street to stay on \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ibkxFwtavAb@U"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581295,
+                        "lng" : 14.2678045
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.85677030000001,
+                        "lng" : 14.2688828
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Dogliuolo\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "eakxFmuavA~@m@~@m@FCBAFC`@m@t@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8579486,
+                        "lng" : 14.2679077
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17 m",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.8566838,
+                        "lng" : 14.2687199
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ettore Bellini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yyjxFo{avAP^"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85677030000001,
+                        "lng" : 14.2688828
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 40.8561361,
+                        "lng" : 14.2691874
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Giovanni Alfonso Borrelli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gyjxFozavArAgATQ@C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8566838,
+                        "lng" : 14.2687199
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 40.857,
+                        "lng" : 14.2709599
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Casanova\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{ujxFm}avAg@uAq@cBqAgD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8561361,
+                        "lng" : 14.2691874
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 40.8578862,
+                        "lng" : 14.2727956
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCalata Ponte di Casanova\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g{jxFohbvAIQqAkDuAqD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.857,
+                        "lng" : 14.2709599
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.8586243,
+                        "lng" : 14.2744658
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Nazionale\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y`kxF_tbvA@AXs@A_CIgAIu@WYWMc@@g@D[D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8578862,
+                        "lng" : 14.2727956
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 40.85951319999999,
+                        "lng" : 14.2762804
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kekxFm~bvAsAcD}AeE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8586243,
+                        "lng" : 14.2744658
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 40.8578905,
+                        "lng" : 14.2765838
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}jkxFwicvA|BY~@KxAOj@E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85951319999999,
+                        "lng" : 14.2762804
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbkxFwuavAL^b@U~B{AJEh@q@t@m@P^hByA@Cg@uAcCkG{A}DsAsDXs@A_CS}BWYWMkAF[DsAcD}AeE|BYxC[j@E"
+         },
+         "summary" : "Piazza Nazionale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

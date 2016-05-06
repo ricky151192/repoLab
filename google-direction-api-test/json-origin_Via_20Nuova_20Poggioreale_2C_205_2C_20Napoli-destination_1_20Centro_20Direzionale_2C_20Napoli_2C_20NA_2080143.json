@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV02BZ_-nOxMRv3WjL9xaYXk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJC_QIBxsIOxMRJhoxk--nbvY",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8651303,
+               "lng" : 14.2878164
+            },
+            "southwest" : {
+               "lat" : 40.856772,
+               "lng" : 14.2779539
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1672
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 348
+               },
+               "end_address" : "Parcheggio L1 Centro Direzionale, Viale della Costituzione, 82, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.856772,
+                  "lng" : 14.2779539
+               },
+               "start_address" : "Via Nuova Poggioreale, 5, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8644722,
+                  "lng" : 14.2866539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.86504679999999,
+                        "lng" : 14.2878164
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eVia San Lazzaro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ilxFqjevAsBiF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8644722,
+                        "lng" : 14.2866539
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 669
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 168
+                     },
+                     "end_location" : {
+                        "lat" : 40.8619548,
+                        "lng" : 14.2811412
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eVia San Lazzaro\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "qmlxF{qevAGFA?EDdF|MHT`AbCRh@LZHRNb@rAjDpBpFfAtC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86504679999999,
+                        "lng" : 14.2878164
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.8610045,
+                        "lng" : 14.2813196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Serafino Biscardi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ezkxFchdvABABCBAJEZChCQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8619548,
+                        "lng" : 14.2811412
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.8598296,
+                        "lng" : 14.2814656
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Giovanni Falcone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtkxFgidvAhEc@^D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8610045,
+                        "lng" : 14.2813196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.8595688,
+                        "lng" : 14.2818322
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eViale Umberto Terracini\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "}lkxFejdvA?@@@?@@?@@@??@@?@?@?@?@?@?@A@??A@??A@??A?A@??A?A@A?A?A?A?A?A?AAA?A?AAA?ABMBKNQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8598296,
+                        "lng" : 14.2814656
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.8570472,
+                        "lng" : 14.2808309
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eViale della Costituzione\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ikkxFmldvABl@@LBX@JFRHHRFv@GhAG`Fe@T?^`@Tb@Tn@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8595688,
+                        "lng" : 14.2818322
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 244
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.856772,
+                        "lng" : 14.2779539
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViale della Costituzione\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "q{jxFefdvAJ`CJbCB^B^P|DDz@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8570472,
+                        "lng" : 14.2808309
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}ilxFqjevAsBiFGFGDdI`TzB~FxDfKFENGdDUhEc@^D?@@BB@B@D?HCDKAMAGFYNQBl@Df@H^HHRF`CO`Fe@T?^`@Tb@Tn@VdG^xH"
+         },
+         "summary" : "Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

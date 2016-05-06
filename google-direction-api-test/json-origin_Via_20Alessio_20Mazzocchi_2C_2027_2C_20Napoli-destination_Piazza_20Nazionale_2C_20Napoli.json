@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgQWxlc3NpbyBNYXp6b2NjaGksIDI3LCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJazN5bhAIOxMRSQK9Kxgy2uU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8632002,
+               "lng" : 14.2735512
+            },
+            "southwest" : {
+               "lat" : 40.8588277,
+               "lng" : 14.2687968
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 832
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 212
+               },
+               "end_address" : "Piazza Nazionale, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8588277,
+                  "lng" : 14.2733503
+               },
+               "start_address" : "Via Alessio Mazzocchi, 27, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.863056,
+                  "lng" : 14.2687968
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e toward \u003cb\u003eVia S. Attanasio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "calxF_{avA?c@GsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.863056,
+                        "lng" : 14.2687968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kalxFwabvACWEiEE}DCyAHi@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 492
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 40.8588585,
+                        "lng" : 14.2735512
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Generale Francesco Pignatelli\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ualxF{rbvA@??A@??A@??A@A?A@A?A?A@A?A?A?A?A?AA??ALGZC|@I`DY~BS|BYpCUtDg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "17 m",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8588277,
+                        "lng" : 14.2733503
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Nazionale\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{fkxFuxbvADd@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8588585,
+                        "lng" : 14.2735512
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "calxF_{avAQyLIwGHi@BA@ABG@E?GACLGZC~Ec@|Fm@pCUtDg@Df@"
+         },
+         "summary" : "Via Colonnello Carlo Lahalle and Via Generale Francesco Pignatelli",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

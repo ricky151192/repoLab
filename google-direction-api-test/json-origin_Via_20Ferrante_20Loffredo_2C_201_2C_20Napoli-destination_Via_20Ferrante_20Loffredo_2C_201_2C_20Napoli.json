@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJaXzZsA8IOxMRJKbI2JNRqd8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJaXzZsA8IOxMRJKbI2JNRqd8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8616686,
+               "lng" : 14.2722234
+            },
+            "southwest" : {
+               "lat" : 40.8616686,
+               "lng" : 14.2722234
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Ferrante Loffredo, 1, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8616686,
+                  "lng" : 14.2722234
+               },
+               "start_address" : "Via Ferrante Loffredo, 1, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8616686,
+                  "lng" : 14.2722234
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8616686,
+                        "lng" : 14.2722234
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Ferrante Loffredo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxkxFkpbvA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8616686,
+                        "lng" : 14.2722234
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxkxFkpbvA"
+         },
+         "summary" : "Via Ferrante Loffredo",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

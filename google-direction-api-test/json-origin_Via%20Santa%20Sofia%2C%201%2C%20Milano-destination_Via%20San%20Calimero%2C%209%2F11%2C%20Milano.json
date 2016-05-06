@@ -1,0 +1,85 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRQhgiwLEhkcRieRAJ7EQ4FY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EihWaWEgUy4gQ2FsaW1lcm8sIDksIDIwMTIyIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4573489,
+               "lng" : 9.192522199999999
+            },
+            "southwest" : {
+               "lat" : 45.4569516,
+               "lng" : 9.190342299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 176
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 18
+               },
+               "end_address" : "Via S. Calimero, 9, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4573489,
+                  "lng" : 9.192522199999999
+               },
+               "start_address" : "Via Santa Sofia, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4569516,
+                  "lng" : 9.190342299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 45.4573489,
+                        "lng" : 9.192522199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Santa Sofia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}hmtGs~aw@Ka@Kg@Iw@OgB]iE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4569516,
+                        "lng" : 9.190342299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}hmtGs~aw@WiAY_D]iE"
+         },
+         "summary" : "Via Santa Sofia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

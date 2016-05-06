@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EihWaWEgUy4gQ2FsaW1lcm8sIDksIDIwMTIyIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRQhgiwLEhkcRieRAJ7EQ4FY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4585082,
+               "lng" : 9.193401999999999
+            },
+            "southwest" : {
+               "lat" : 45.4560254,
+               "lng" : 9.1873985
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1025
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 222
+               },
+               "end_address" : "Via Santa Sofia, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4569516,
+                  "lng" : 9.190342299999999
+               },
+               "start_address" : "Via S. Calimero, 9, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.45735879999999,
+                  "lng" : 9.192581300000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Santa Sofia\u003c/b\u003e toward \u003cb\u003eVia S. Calimero\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "okmtGslbw@Ec@Cc@?UEMESYc@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.45735879999999,
+                        "lng" : 9.192581300000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.4585082,
+                        "lng" : 9.191875099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_mmtGwqbw@ILcArBu@tAKVe@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.4575097,
+                        "lng" : 9.1900583
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lentasio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "urmtGghbw@j@fAdAdAt@j@DDBFTbD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4585082,
+                        "lng" : 9.191875099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 198
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.4573991,
+                        "lng" : 9.187552999999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Sant'Eufemia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mlmtG{|aw@XlCHlA@p@GxBGlB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4575097,
+                        "lng" : 9.1900583
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Italia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wkmtGemaw@lAH`CDv@HHB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4573991,
+                        "lng" : 9.187552999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 254
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.4569516,
+                        "lng" : 9.190342299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Santa Sofia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ecmtGglaw@?u@Ec@EYI_@Qo@EKg@mBu@sCa@_BIY"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "okmtGslbw@OkB_@w@mA`CaAlBe@~@j@fAdAdAt@j@HLn@pHJ~BOfFlAH`CD`ALEyAOy@W{@iC{J"
+         },
+         "summary" : "Via Santa Sofia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

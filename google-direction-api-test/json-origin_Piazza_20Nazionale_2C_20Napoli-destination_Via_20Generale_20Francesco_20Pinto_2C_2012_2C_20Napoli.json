@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJazN5bhAIOxMRSQK9Kxgy2uU",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFzoe_A4IOxMRQiEliTVeFCo",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8631464,
+               "lng" : 14.2733503
+            },
+            "southwest" : {
+               "lat" : 40.8587311,
+               "lng" : 14.269995
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 748
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 225
+               },
+               "end_address" : "Via Generale Francesco Pinto, 12, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8629415,
+                  "lng" : 14.2710586
+               },
+               "start_address" : "Piazza Nazionale, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8588277,
+                  "lng" : 14.2733503
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.8587311,
+                        "lng" : 14.2729082
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003ePiazza Nazionale\u003c/b\u003e toward \u003cb\u003eVia Matteo Andrea Acquaviva\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ufkxFmwbvAFp@Jd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8588277,
+                        "lng" : 14.2733503
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.8599333,
+                        "lng" : 14.2706224
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Matteo Andrea Acquaviva\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "afkxFutbvA_A|AwCpFMPGJCNAN?PBh@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8587311,
+                        "lng" : 14.2729082
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qmkxFkfbvAyAP]B{E`@qCZwCf@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8599333,
+                        "lng" : 14.2706224
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oalxFobbvAEiE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8629415,
+                        "lng" : 14.2710586
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Generale Francesco Pinto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ualxFyhbvAh@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ufkxFmwbvARvAwEnIU\\E^Bz@wBTmJ|@wCf@EiEh@I"
+         },
+         "summary" : "Via Matteo Andrea Acquaviva and Via Arenaccia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,298 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR_yNzxoIOxMR6yl8MlW-gmY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ--FbowcIOxMR6UF-ccOOGMM",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8678837,
+               "lng" : 14.2771219
+            },
+            "southwest" : {
+               "lat" : 40.8565548,
+               "lng" : 14.2754786
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1579
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 259
+               },
+               "end_address" : "Traversa II Rione Trivio, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8678837,
+                  "lng" : 14.2766819
+               },
+               "start_address" : "Via Giovanni Porzio, Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8578905,
+                  "lng" : 14.2765838
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.8568089,
+                        "lng" : 14.2763724
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e toward \u003cb\u003eVia Cosenza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y`kxFskcvAj@G`@E^Gf@GZEN?FBDF@H@HBl@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8578905,
+                        "lng" : 14.2765838
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8565893,
+                        "lng" : 14.2767989
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza Salerno\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "azjxFijcvAr@EGoA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8568089,
+                        "lng" : 14.2763724
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 40.8596761,
+                        "lng" : 14.2766117
+                     },
+                     "html_instructions" : "\u003cb\u003ePiazza Salerno\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxjxF_mcvAEOQSIKEECCMA}Fh@[D}BVwCX"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8565893,
+                        "lng" : 14.2767989
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 406
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 40.8632402,
+                        "lng" : 14.2761927
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_lkxFykcvAM@A?G@eDZuBTmAJwFl@YIM?AAAAAAACGIAAA?ACCAEBA?CD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8596761,
+                        "lng" : 14.2766117
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 245
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654201,
+                        "lng" : 14.2757761
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gblxFeicvAS?YBQBuDb@}Dd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8632402,
+                        "lng" : 14.2761927
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Vicinale Cannola\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{olxFsfcvAAZ?D@B?H?H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654201,
+                        "lng" : 14.2757761
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658322,
+                        "lng" : 14.2754786
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{olxFydcvAc@@C?i@?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ferdinando Manlio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mrlxFwdcvAAG?AACAS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658322,
+                        "lng" : 14.2754786
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 234
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 40.8676495,
+                        "lng" : 14.2771219
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fontanelle Al Trivio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "srlxFyecvAuCiBoE{D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8678837,
+                        "lng" : 14.2766819
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTraversa II Rione Trivio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y}lxF_ocvAm@vA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8676495,
+                        "lng" : 14.2771219
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "y`kxFskcvAtC]j@ELJBRBl@r@EGoAEOQSSUMA}Fh@yC\\gDZqJ~@wFl@YIOAMQEECAGBCDS?k@FsJhAA`@@L?Hc@@m@?AICWuCiBoE{Dm@vA"
+         },
+         "summary" : "Via Giovanni Porzio and Corso Malta",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

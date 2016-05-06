@@ -1,0 +1,366 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9036491,
+               "lng" : 12.419546
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "7169dfe74e21e61421b3c7c0791aee594190df06",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJHcMpZHVgLxMRG69oyAhe_QI",
+         "reference" : "CmRgAAAAUplREWK18alM_omLOLsTfjAK4Hw9u2Xk3tOFyhZ5RV6NmWiJLIN6jVhRIT6JgI27gArUw0lSV4DB0_mT0ZjZAq4Q0Y4IIpMj4B-LZ3Z0pLOvEZWzVfvwx5YbI3xsskpkEhCIcdxCyfaYFh_rc5Dn5VYaGhRj85-2zMSNxIJhpnayG0Ha3nWTQg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 248/A, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9018939,
+               "lng" : 12.4269119
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "238f9b0b8dcd648cbd652f05fbbd23b0542ee2a2",
+         "name" : "INTESA SANPAOLO S.P.A.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJPYiCKdtfLxMRwpmA2Z6HuoM",
+         "reference" : "CnRqAAAAPl0uZkTjNDydMq4Qt1lhn0ls_Cqj1-rR6rtoR-F-9nhdHvEurYu17WjGsoJIoDdkex4JQ7-7IhN3eS7VhoQGBWkQVB9AIbCGNkhzWLax4rO1p50LtIyo2eigMuWya7YC2EndXrZeP420DGuJU92SKhIQR0BFbN9qoxJ4EfdkrzBZHxoUFzHG8I5u5B6rcAX1pCV47JULmjc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Domenico Tardini, 2, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89998,
+               "lng" : 12.42856
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "53065f4cf9eb6a6932a599b39874ab041730d83e",
+         "name" : "Findomestic Centri Clienti ROMA BOCCEA",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 787,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101609905508863264553/photos\"\u003eFindomestic Centri Clienti ROMA BOCCEA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABBWjQfbj7xtoLag3Lgo4Y21x0XIYBviq3isHD53l5NTMtxXmBTcAF4Ugjfrq9dnYHJAE_euiJuB8B337XqBTvRFWTVkM1s3rGfVLqyBdQ00N9YhlFdSp_xBXEiTk6ImzEBCZzCB8uPClWHv9QMYUQlyyoRFxUViIhv7aaoPJg07EhC2zaAmU6IAHQ-ec-ITNhd1GhTiDLu570nHCs6h_F9Fi9CZjbfMWA",
+               "width" : 787
+            }
+         ],
+         "place_id" : "ChIJOWske9tfLxMRpUW2x_Pj4dw",
+         "reference" : "CoQBegAAAJNXYCgp2DNykTFL-hefoQKPPyaZWy4MGaDElGpGpaBjAdCfZMy1TZFhipuiE2bGxlwLOJcbMj3C1x8kmo3niC-V9JARgqQWHGKc13F79EATd8Iv-YSE9Zz-1krY6xjyVBSzIo4jKloECHGwAEpzhkJYNbosXGiXRDxgG_eqPup8EhAhp_W75JGsOcP0lJ_NdOT4GhRPp0ESW0JOMO2JM5GN6OIlWJTkmw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Di Boccea 28 , Roma, RM 00167"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9036003,
+               "lng" : 12.4200756
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "a6a6a53ebb4c71a8009c350545298915810fb26d",
+         "name" : "Banca Popolare di Vicenza",
+         "place_id" : "ChIJD5DsbcZfLxMR2nH694iw52g",
+         "reference" : "CnRsAAAAu0jJA6k629ScM8j0hb1QWM5qaJ7jboxQnwSwe0Sqy8M59iLsddRkrjtOyUC8OkmjzMssC1hdXmsQnP7UgohtLOMLEFxDx_OBT-ehAxMtgibv_hZs6DCNsjpgpRMIsZ7ahVZ25vx5hrwi1ZFlkf4RAhIQy6ltjBgZLF1ZFPKBJ4IPzhoUfa4FXz-PQSlhuSGcq7iKnjJtD44",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 242, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9062613,
+               "lng" : 12.418626
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "1fcd7d9147093129ea2526084e09890fe32393dc",
+         "name" : "Banca Popolare Di Milano Soc. Coop. A R.L.",
+         "place_id" : "ChIJ_XGSjchfLxMRAKRqLFngnxs",
+         "reference" : "CoQBfQAAABPz0qBaZov7_X8xWKPBowy-IehjZTnJ5-yxreirNHxkcUEcGun2mritl7L1XRYHkottshVfEe0rqP_nYTxWXWAWTXouY9Mx9xvxx32emwEHVR2fadvqThTFfkuAe3FkXue2b2HQGCU46xczUSPtNKP0RxsyZYuacYQrrKl-5WQhEhCdkRV0Gy8QX2UE3k6sQM9EGhS37y3X0RAUVkoxIARubTowU0F63g",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XIII, 68, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8968578,
+               "lng" : 12.4202049
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "4cf31af7a8acdba4dbc00804bf3b9bcdcd5cfb5f",
+         "name" : "Banca Marche",
+         "photos" : [
+            {
+               "height" : 241,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116784961809049899367/photos\"\u003eBanca Marche\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFk2rV8hqH42Itk7yx8vetyaPGaeKJ7ruNcTP48R6XhM_5_0Tg5FCesUXxixaLL7le84kGxL--eXURaLbYXNjJG1L_Vf7q2Ux41OsJ9INYME8AOgP-BeMtfihpQhwEmFSY3jcQVO3XokAiq7dDzzFyKHz0yFjZIcXOtU3cRqdbstEhABM85_nh3FcjSNVXsWGySfGhSmUZgsWGxdBxssL30_eLO3Si75aw",
+               "width" : 241
+            }
+         ],
+         "place_id" : "ChIJwQ2-lMFfLxMR5MyxpC54i7g",
+         "reference" : "CmRgAAAAJGFCMLnvCWof4BK7ZqyPcoxxObpwK3bmDOaXukw41zJc2Avm22UVG7mTQuIRY7PCsFrmEmeeeZB1neZmqv2zNXTEzShj8uOTc2Ep3dOQvUutm4O4GotVAilqao_L872mEhCqLO-nduqqv7tojpU_-xvSGhTd4AG28wO721lfBZf81zhJAwmElw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 524, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9025944,
+               "lng" : 12.4255257
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "24ff2aefe6a0a8fa344d794fbf71ac5080bd2dea",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJGx71MMVfLxMRTJTKF1I1czU",
+         "reference" : "CmRgAAAAM6mBrjlwv2BZmHuXAS-kMwwreUWTcdtAEF2ILN8sIJKE9SUJunBXCS8gdKVVGzNYy2v8gBGt-MEvASZAGuxOHFTcBKCeJLSwxGlEdysWT6CrnUNks-L_iDjydP57specEhDN4OW1UVlJdmMJws7-6uqUGhR3RXdEQVqODlQ-3wMbpKTbRuE-9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Circonvallazione Cornelia, 130, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9063664,
+               "lng" : 12.413729
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "410a30dd6f12b8490402b02445db9502c44733c5",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJHcMpZHVgLxMR26K9EPRkKDI",
+         "reference" : "CmRgAAAAUo4oTggG1ILccRZkXAXZrAre2OK7Y7WIY8YIPt3A1AKgXDGdpqba0OW8kIn4HxRH-TCixR-J2VzDABjG_0CH8u-WUNNiUmqqzWCtJm7QXMbP_uOr5HW0iRa63sTDnkUeEhBQpkzDE4gKX8ed9XC7L_TBGhQzNeWYt1McXfYWGtKCAPNb8Q3r0w",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Mattia Battistini, 71, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9032486,
+               "lng" : 12.4222072
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "7622a58ddd2fb173623ffb5365bcad1d27b3c1c5",
+         "name" : "Banca Popolare Di Milano Soc. Coop. A R.L.",
+         "place_id" : "ChIJ5-8KxsVfLxMR5XFCi1WD2Xo",
+         "reference" : "CoQBfQAAAKLRZO965zp3LFva1GDY0Lcoi7jX-rg5WiBF7PuSWIVl2fVKY8lHu0vY6Nk-crmSawNt3vHVU0GFsc0Y_pnH3-tK8mo1pxacXDR1obx-Bx881fK9s6OgmQ6l9Bs-CdBXasXChJl3mRioc-NqmWPgKt5EOxs1oLVALka4JmM5TAefEhD4Ffd9_z0X0KwZJd5vrMJ_GhSFd-olJfd_jMM-IcdI7LwMRYrbZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 208, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9032194,
+               "lng" : 12.4209425
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "bb5d292d39db4cc1a80071ec5bf6aab38ca982fc",
+         "name" : "UBI Banco di Brescia",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcc5O2MVfLxMRguoAEK6OKUo",
+         "reference" : "CnRnAAAADCw-Sgs0LZ3xtu7EPONKZek5Cr9vzkA7_74WRpVJPtYG-2LQiYPlPSlGann_GwBSSZT-ocBGd0sjo8xpRNVY41AaT1U4Z-klDgwLIi3Txwd5TmWroQroBeB8aaQkyS5kjhnGgb6QBU9D-8_8DqO6JRIQKfT9SOr2_lNdESprlqNF9RoUIfhbG9ApdfOGCaawCoGj76R6uWk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 211, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9018439,
+               "lng" : 12.4252353
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "b128ebc0437aaed496b593ce4ee007bb2c9be556",
+         "name" : "Banca Monte Dei Paschi Di Siena Spa",
+         "place_id" : "ChIJcym02cRfLxMRkowBOkv0ODk",
+         "reference" : "CoQBdgAAAMFJ2DkLLzcnpGqWKr_3oMCIFPNPrSTy23FzJUgyZetMih2FfftUF19utZ1JNWCugOhUhSXNZw0l4ZCae1bcMrxrEuyKYY5BG8ogyGTeE7RPme-O3TtZh2rAPLZfn_ouE1n0rp07aICPhL5E4jCZd1Ib41X6xEMNpd9nNqILaRQaEhCQ_W-pMFBgfKauMMVQfCf1GhTz09f_o-5hZAr5-Rlv7l1cYc8FYA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza dei Giureconsulti, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89270260000001,
+               "lng" : 12.4146082
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "6a6fa971d5528e9062309421a3d61b48ae9140c7",
+         "name" : "Banco Di Brescia Spa",
+         "place_id" : "ChIJAc6mzpRfLxMR2Rbq25NHkSw",
+         "reference" : "CnRnAAAALctJwDx0roJY5Un5m0uA0VmEZH1BSDYch0bBv8EnPvvOMDbqRgaSRZrMlKsb8q3liuZ1qWyD3tMCUthiYAA1O1aELvNUYYxQWNuXZSNbkqr1THo1GtpKwntfVpYI4w9zGIkvIVzfZsrxve6cHmtzjxIQ9mdKvl7vIaHd60S7xOUAthoUPogB0be4RqeD3vUxQNLj2NOtJas",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 701, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90541080000001,
+               "lng" : 12.4105648
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "de8db69df2ee4daccd0816a726659bbf4c5ba501",
+         "name" : "Intesa Sanpaolo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-4Td6LlfLxMRUzZiQ3Lhx8Q",
+         "reference" : "CnRjAAAAlTwxj7KaVLhMujzWlE12LBuZaI8euslcvyl7tksNOll83iEW0nhVgpE4zq3lsmsUJLnB0K-eyi80FJbmRNNQjsfnT8EVoDKrzOXgm0p696dxOqn6I_vU0i1rLW7dICSf_yqa1a9tqxKNqcP6uCerhBIQb2N6yox5PJlbgUr9w7uQuRoU2uKSibqKw-OmV0fsbcJ_dkV0Pik",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Mattia Battistini, 11, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90496,
+               "lng" : 12.42463
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "2d7f35f04e03d85515b5436436f716d64cf09622",
+         "name" : "Banca Popolare Di Sondrio Soc.Coop. Per Az.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ4WbYjs9fLxMR7aGI4LAcHhw",
+         "reference" : "CoQBfgAAAOC3N1c_OXaQaMrPxvrMkTxtaqsn8NnsIH87FJKIFFsPl0-HRAzuQY5AP3SFzZzTmzShVAc61XX4g6WH9e0hshEExKcQT6kmJuVRYDU5qh_4-33rvUisFn92_tHfeU1hGX7Wa9oTRkqX9y6WJOVtOzcYRARh1P78dj7BZnxKKK2aEhA99mF5QD7vNZDqNer_TsPGGhQE1dYbYbOgBQ5vRw013Gk810DLXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Circonvallazione Cornelia, 295, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90015499999999,
+               "lng" : 12.4282127
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c3726a641dee4488385382511f3f61eb5543ccdf",
+         "name" : "Banca Popolare Commercio e Industria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJRR2AadtfLxMRdVrgXLfA7ec",
+         "reference" : "CoQBeAAAADxk-rOCnPiakDR7bx7tamR1Hw0XnHz_n1_H4uvgY6DD0MOBXA5BrTtNwCrrtZxDllErrL1HBKz9SqDVfAde4BgpVM1PwxBM6CuIikFcWH3oiaogfqV8hQMV-OcCq_lcQbsV4hlkH4eqM7XfsaAUfKinFbr64Ej0HAc9dnhYBxCZEhDrrHZfcspVrksWTvyDqf3IGhSCprrYUiXpJgPqe8MfnO-m2TdzBg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 51, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9023083,
+               "lng" : 12.4239192
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "17d23dffb12a50add251dc2f987eedb5097afe0a",
+         "name" : "Banca Popolare di Novara",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJY6_wAcVfLxMRD9X6itMKj9o",
+         "reference" : "CnRsAAAArCG1Bzh6-mcUh_1nnK_4TiY68yjwf3rxY134_iAu2yXTfd5-qXV6xjOcZvYj1zvB3JcllptxmtgQ4eAeHwTqD87J5WCYESajaGmyvNvUbdCLKiyW_kc-UrvyA3doMx0FLKThVdT17Hdcl_gr5kR2yBIQ0A1yzjmSbp2bctpe8jJ8UhoUPmYExSH9wmTMyasLIcYvuZB3rxs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Federico Galeotti, 3, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9067616,
+               "lng" : 12.4153833
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c09ec74e73d3703f4152d4bd6c2c2307eddb9bda",
+         "name" : "Banca Popolare del Lazio",
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105561235594245186818/photos\"\u003eBanca Popolare del Lazio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAF1bkfqxN0ly4st9qsC-PbGbi66Wl8fGmUbFwpdRr7sBSJ7SMDPcRzUTxCEdato43QH8Fn3EOEtBy1LX9Dc_VZBSyLYC0fU6FNhEJX8-pmMgz1FeJTn3STffpF17Q_LmRBBPBlUQSrYTtOJqR_Owq5ZB44VxFo2UUxODrSR81ohrEhB2r1EQaab4oNW8VOS4EQZhGhT9nvIhEpsFVcZz7aM1EyJpdnX4qw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJh70UH8hfLxMRd7tIeStHPVY",
+         "reference" : "CnRrAAAA-OCqbOTmm7eZQBtVFfzvKUXigVkNzOgM2Bjz38zxkdhqp2_KJezwjLlZlazAG_FQheVHUWVTPJ_6ajNtJ2fkmBiT6MfODApJnhYqM_dbkhGNdGtcxREjU2YqU13lf62XyHLtQRqHrdl0zj0EjCd6ohIQ3of5D9PtgY79E3e_ESXwZBoUN6B7bwKtcLjjUWZq7-LcQidNWpk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Mattia Battistini, 95, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8999427,
+               "lng" : 12.4285701
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5266c9b4cebc830fcce7bd741faf208c4b482cb0",
+         "name" : "Banca Carim - Filiale Roma Boccea",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113973295330432684418/photos\"\u003eBanca Carim - Filiale Roma Boccea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAITFI-1NMw6mqiOngn3V8UHiysgb965QTqSo9HiPqXmhqkLR76f90cYXTIMsNw-7NVqwJnmtuu3iGxUhJ72FftCgYJKxu7QZJs-1GEJEX2qQ0rICKVMLZ2pC8-q25U2JYxLn8CQN8XHr0nAwECB79ALQH0vE4jRlHoEwSd3ukBunEhC44fW94SLwucoUSIxWSmpEGhSTV1iPooTuwT9GMXMWc1z2eFLnYg",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJmWudb9tfLxMR--wasJPVl48",
+         "reference" : "CoQBdQAAAHJ5B4KNzg6psnHNw1plz8wFPdb0tGDI-3Ld6z6n3br-GWVyt_nz9eT2As140zSllXBqoEoNFUO_70m8hnQ5pcDkOrvWT5seOFOjSmfOWP3cCSZftp7qblBXMj9G8-QMKa6MEdnU6Q2q3qnaJGEAwY592yjzbUXWeJnXOxWW3CjbEhBEuQ2toqeBDe7HAaZ_Ph3jGhRXwP4c-STyfDlPcyRXhD7RgQjLIg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 33, Roma"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJI_nTxEVtiEcRYmKvhalKsCA",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDUxLCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0542504,
+               "lng" : 7.6792224
+            },
+            "southwest" : {
+               "lat" : 45.0514772,
+               "lng" : 7.6751155
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 767
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 232
+               },
+               "end_address" : "Via Nizza, 51, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0542504,
+                  "lng" : 7.675762499999999
+               },
+               "start_address" : "Via Belfiore, 50, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0523628,
+                  "lng" : 7.677728900000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.052769,
+                        "lng" : 7.6778933
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Belfiore\u003c/b\u003e toward \u003cb\u003eVia Giorgio Bidone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gh~qGypzm@qA_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0523628,
+                        "lng" : 7.677728900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.0524963,
+                        "lng" : 7.6792224
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Giorgio Bidone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yj~qGyqzm@t@iG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.052769,
+                        "lng" : 7.6778933
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 45.0514772,
+                        "lng" : 7.678524100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ci~qGczzm@jEjC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0524963,
+                        "lng" : 7.6792224
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 296
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 45.0526154,
+                        "lng" : 7.6751155
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Raffaello\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wb~qGwuzm@aAhEkA`FuAzF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0514772,
+                        "lng" : 7.678524100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 45.0542504,
+                        "lng" : 7.675762499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{i~qGo`zm@sBm@ICkAU{@[g@QWI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0526154,
+                        "lng" : 7.6751155
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gh~qGypzm@qA_@t@iGjEjCaAhEaD|M}Bq@kAU{@[_A["
+         },
+         "summary" : "Corso Raffaello",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

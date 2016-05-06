@@ -1,0 +1,109 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJOZzgUkhtiEcR6POYEAE45vA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDUxLCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0542504,
+               "lng" : 7.675762499999999
+            },
+            "southwest" : {
+               "lat" : 45.0486983,
+               "lng" : 7.6721798
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 752
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 187
+               },
+               "end_address" : "Via Nizza, 51, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0542504,
+                  "lng" : 7.675762499999999
+               },
+               "start_address" : "Via Antonio Rosmini, 6, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0489257,
+                  "lng" : 7.6721798
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 45.0486983,
+                        "lng" : 7.6735585
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Antonio Rosmini\u003c/b\u003e toward \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yr}qGcnym@l@sG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0489257,
+                        "lng" : 7.6721798
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 641
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 172
+                     },
+                     "end_location" : {
+                        "lat" : 45.0542504,
+                        "lng" : 7.675762499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kq}qGwvym@qAc@_Be@y@WeCq@YIyGuBiBc@sBm@ICkAU{@[g@QWI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0486983,
+                        "lng" : 7.6735585
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yr}qGcnym@l@sGqAc@yC}@_D{@yGuBiBc@}Bq@kAU{@[_A["
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

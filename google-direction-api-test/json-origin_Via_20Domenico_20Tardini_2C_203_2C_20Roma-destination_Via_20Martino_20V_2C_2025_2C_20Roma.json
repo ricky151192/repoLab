@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EitWaWEgRG9tZW5pY28gVGFyZGluaSwgMywgMDAxNjcgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFVC9Ws9fLxMRWhWWvsPyFUo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9110859,
+               "lng" : 12.4266741
+            },
+            "southwest" : {
+               "lat" : 41.9019295,
+               "lng" : 12.4216371
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 2000
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 341
+               },
+               "end_address" : "Via Martino V, 25, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9054835,
+                  "lng" : 12.4216371
+               },
+               "start_address" : "Via Domenico Tardini, 3, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9019295,
+                  "lng" : 12.4266741
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 577
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 41.9068832,
+                        "lng" : 12.4254096
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Domenico Tardini\u003c/b\u003e toward \u003cb\u003eVia S. Bernadette\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "a~v~FuazjAEB]\\c@VyBvAQH}@f@QLMHMHMDO@iAJ}@Hc@BeADYA_@Cm@@I?O?Q@U?}AGEA_CE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9019295,
+                        "lng" : 12.4266741
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 485
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 41.9110859,
+                        "lng" : 12.424019
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_}w~FyyyjA{B@iCTUBu@N}Al@aAd@EBeDbAKB_A^OD_@Lo@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9068832,
+                        "lng" : 12.4254096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.9105123,
+                        "lng" : 12.4225076
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Calisto II\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwx~FcqyjAf@|AjAnE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9110859,
+                        "lng" : 12.424019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 697
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eVia Pio IX\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "usx~FugyjAA@?@A?A@?@?@A??@?@?@?@?@?@?@@@?B@?@B@?@@@@@@@?B@@?@?@?FAB?BABA@?BC@A@ABC@A@C?C?C?A?A?C?A?CACACzFsBvAk@fBi@rB[jEM\\?N?F@FBlAlAvCpC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9105123,
+                        "lng" : 12.4225076
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.9054835,
+                        "lng" : 12.4216371
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Martino V\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqw~FohyjA{ApDIT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "a~v~FuazjAc@`@}CnBoBhA[NyALaBLeADYAmAAY?g@@cBI_CE{B@_DXu@N}Al@gAh@qDfAoAd@oAb@rBlHEDAD@PPJLALCJKBM?IAGACzFsBvAk@fBi@rB[jEMl@?NDdF~EeBfE"
+         },
+         "summary" : "Via Domenico Tardini and Via Pio IX",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "Ei9WaWEgU2FsdmF0b3JlIEZlcnJhcmEsIDY2LCA4MDEyNCBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "Ei9WaWEgU2FsdmF0b3JlIEZlcnJhcmEsIDY2LCA4MDEyNCBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8174462,
+               "lng" : 14.1691667
+            },
+            "southwest" : {
+               "lat" : 40.8174462,
+               "lng" : 14.1691667
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Salvatore Ferrara, 66, 80124 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8174462,
+                  "lng" : 14.1691667
+               },
+               "start_address" : "Via Salvatore Ferrara, 66, 80124 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8174462,
+                  "lng" : 14.1691667
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8174462,
+                        "lng" : 14.1691667
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Salvatore Ferrara\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "adcxFilnuA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8174462,
+                        "lng" : 14.1691667
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "adcxFilnuA"
+         },
+         "summary" : "Via Salvatore Ferrara",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

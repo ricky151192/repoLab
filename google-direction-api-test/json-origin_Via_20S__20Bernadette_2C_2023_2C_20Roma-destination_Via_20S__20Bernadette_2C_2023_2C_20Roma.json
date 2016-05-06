@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJC2ql29pfLxMRMv_XelPifPc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJC2ql29pfLxMRMv_XelPifPc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9022659,
+               "lng" : 12.4275406
+            },
+            "southwest" : {
+               "lat" : 41.9022659,
+               "lng" : 12.4275406
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via S. Bernadette, 23, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9022659,
+                  "lng" : 12.4275406
+               },
+               "start_address" : "Via S. Bernadette, 23, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9022659,
+                  "lng" : 12.4275406
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9022659,
+                        "lng" : 12.4275406
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia S. Bernadette\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e`w~FcgzjA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9022659,
+                        "lng" : 12.4275406
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e`w~FcgzjA"
+         },
+         "summary" : "Via S. Bernadette",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

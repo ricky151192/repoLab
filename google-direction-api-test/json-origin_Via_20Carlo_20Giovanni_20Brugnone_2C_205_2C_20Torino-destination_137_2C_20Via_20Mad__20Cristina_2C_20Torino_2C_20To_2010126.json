@@ -1,0 +1,229 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQ2FybG8gR2lvdmFubmkgQnJ1Z25vbmUsIDUsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0703088,
+               "lng" : 7.691562999999999
+            },
+            "southwest" : {
+               "lat" : 45.0463986,
+               "lng" : 7.6712141
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.1 km",
+                  "value" : 4072
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 843
+               },
+               "end_address" : "Turin, Italy",
+               "end_location" : {
+                  "lat" : 45.0703088,
+                  "lng" : 7.6868731
+               },
+               "start_address" : "Via Carlo Giovanni Brugnone, 5, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0498859,
+                  "lng" : 7.6724747
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.0499792,
+                        "lng" : 7.6720247
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia Carlo Giovanni Brugnone\u003c/b\u003e toward \u003cb\u003eVia Ernesto Lugaro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yx}qG}oym@QxA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498859,
+                        "lng" : 7.6724747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 302
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 45.047693,
+                        "lng" : 7.6718312
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ernesto Lugaro\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ky}qGcmym@h@NtC~@dAT`Bb@j@V@?BA?ERcBDWTF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0499792,
+                        "lng" : 7.6720247
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 525
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : 45.0464677,
+                        "lng" : 7.678284999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ak}qG}kym@Fm@XmCFSHi@Hq@DY`@}Dd@sDL}@ZyDZsC`@eE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.047693,
+                        "lng" : 7.6718312
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1661
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 254
+                     },
+                     "end_location" : {
+                        "lat" : 45.0594827,
+                        "lng" : 7.6879833
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mc}qGgtzm@Fi@Da@]KGCg@[{AaAu@k@uCmBiC_B_DuB_BcAk@Qq@YaHmEaDcCoBmAIGmBoA_BaA[QGEMIMGaBeA_CaBwBuAqByAeDuBu@c@iAu@mBoASKYQ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0464677,
+                        "lng" : 7.678284999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.0600794,
+                        "lng" : 7.686310299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Vittorio Emanuele II\u003c/b\u003e (signs for \u003cb\u003eB.W. Genio\u003c/b\u003e/\u003cb\u003eB.W. Gran Mogol\u003c/b\u003e/\u003cb\u003eLe Petit Hotel\u003c/b\u003e)",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wt_rG{p|m@GVoBtH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0594827,
+                        "lng" : 7.6879833
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 902
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 196
+                     },
+                     "end_location" : {
+                        "lat" : 45.0672898,
+                        "lng" : 7.691562999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia S. Massimo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eParts of this road are closed Mon–Fri 7:30 – 10:30 AM\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ox_rGmf|m@OMyBwAsDaCiC{AoD_CmA_A{CoBwDcCuAy@qA}@}@o@aDyB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0600794,
+                        "lng" : 7.686310299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 498
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 141
+                     },
+                     "end_location" : {
+                        "lat" : 45.0703088,
+                        "lng" : 7.6868731
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Po\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qearGgg}m@iAtBcBxC}BnEaCxDwBxDu@tA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0672898,
+                        "lng" : 7.691562999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yx}qG}oym@QxAh@NtC~@dAT`Bb@j@VDARiBDWTF`@{DP}@vA}Lh@wF|@yILkAe@OcC}AkEyCiHuE_BcAk@Qq@YaHmEaDcCoBmAwBwA{BsAeC}AwFwDwGoEaGuDYQGVoBtHOMmHyEiC{AoD_CmA_A{CoBmG}DoCmBaDyBiAtBaFhJaCxDwBxDu@tA"
+         },
+         "summary" : "Corso Massimo d'Azeglio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

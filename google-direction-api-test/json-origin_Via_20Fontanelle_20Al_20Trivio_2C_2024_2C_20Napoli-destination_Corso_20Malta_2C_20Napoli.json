@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ8S1OPgYIOxMRHqtqFxYOhfs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJCx0jCgYIOxMRPTtM1j34VeA",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.86593,
+               "lng" : 14.2761706
+            },
+            "southwest" : {
+               "lat" : 40.8633598,
+               "lng" : 14.2754786
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 389
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 84
+               },
+               "end_address" : "Corso Malta, Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8638014,
+                  "lng" : 14.2757986
+               },
+               "start_address" : "Via Fontanelle Al Trivio, 24, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.86593,
+                  "lng" : 14.2756953
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "8 m",
+                        "value" : 8
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Fontanelle Al Trivio\u003c/b\u003e toward \u003cb\u003eVia S. Giovanni de Matha\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aslxFcfcvALH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86593,
+                        "lng" : 14.2756953
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658322,
+                        "lng" : 14.2754786
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ferdinando Manlio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "srlxFyecvA@R@B?@@F"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mrlxFwdcvAh@?B?b@A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658322,
+                        "lng" : 14.2754786
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654201,
+                        "lng" : 14.2757761
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Vicinale Cannola\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{olxFydcvA?I?IAC?E@["
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.8634744,
+                        "lng" : 14.2761706
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{olxFsfcvA|De@tDc@PC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654201,
+                        "lng" : 14.2757761
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.8638014,
+                        "lng" : 14.2757986
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "uclxFaicvALNDP@??@?NSHcAJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8634744,
+                        "lng" : 14.2761706
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aslxFcfcvALH@R@D@Fh@?f@AA]@[|De@fEg@R`@@@?NSHcAJ"
+         },
+         "summary" : "Corso Malta",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

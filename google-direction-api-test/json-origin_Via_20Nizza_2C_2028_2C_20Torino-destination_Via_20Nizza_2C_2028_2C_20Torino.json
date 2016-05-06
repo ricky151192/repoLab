@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV_CKy0ZtiEcREWDnVFbaysg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV_CKy0ZtiEcREWDnVFbaysg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0554029,
+               "lng" : 7.6762027
+            },
+            "southwest" : {
+               "lat" : 45.0554029,
+               "lng" : 7.6762027
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Nizza, 28, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0554029,
+                  "lng" : 7.6762027
+               },
+               "start_address" : "Via Nizza, 28, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0554029,
+                  "lng" : 7.6762027
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554029,
+                        "lng" : 7.6762027
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g{~qGggzm@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0554029,
+                        "lng" : 7.6762027
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g{~qGggzm@"
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

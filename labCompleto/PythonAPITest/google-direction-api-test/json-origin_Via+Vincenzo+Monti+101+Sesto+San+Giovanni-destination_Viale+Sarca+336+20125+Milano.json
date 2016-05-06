@@ -1,0 +1,297 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHeVuIb64hkcRzH5-t1V53IE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJaWL_blvHhkcRq-rkrgzXrGo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.5481625,
+               "lng" : 9.233352
+            },
+            "southwest" : {
+               "lat" : 45.5250472,
+               "lng" : 9.2143733
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.8 km",
+                  "value" : 3837
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 570
+               },
+               "end_address" : "Viale Sarca, 336, 20126 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.5250472,
+                  "lng" : 9.2162285
+               },
+               "start_address" : "Via Vincenzo Monti, 101, 20099 Sesto San Giovanni MI, Italy",
+               "start_location" : {
+                  "lat" : 45.5460825,
+                  "lng" : 9.233352
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 45.5448634,
+                        "lng" : 9.2320741
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Vincenzo Monti\u003c/b\u003e toward \u003cb\u003eVia Enrico Toti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_v~tGmkjw@p@~@xA|AfB`B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5460825,
+                        "lng" : 9.233352
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 118
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 45.5454786,
+                        "lng" : 9.230836100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Monte Grappa\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kn~tGmcjw@KVoB|E"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5448634,
+                        "lng" : 9.2320741
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.5469015,
+                        "lng" : 9.2299855
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Fratelli Picardi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gr~tGw{iw@CDEHCBEBeAZ]LC@YLUL}@h@q@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5454786,
+                        "lng" : 9.230836100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.5481625,
+                        "lng" : 9.2287354
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Stalingrado\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "c{~tGmviw@aB`ASLYTWZORMPKPi@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5469015,
+                        "lng" : 9.2299855
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 45.5465597,
+                        "lng" : 9.227443899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto the ramp to \u003cb\u003eMilano\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_c_uGsniw@nAtBNXNPLJNFN@jALVBPFHHFHDFBF@@LJ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5481625,
+                        "lng" : 9.2287354
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1839
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 192
+                     },
+                     "end_location" : {
+                        "lat" : 45.53314109999999,
+                        "lng" : 9.215560999999999
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eViale Fulvio Testi\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "_y~tGofiw@Rz@TfA`A`ET`ADPZrAd@rB@Hj@dCV|@Rj@@DVn@^r@Zj@\\b@\\^JJPNXTZR|@f@x@h@lD|A~@b@v@^tAp@lAj@fD|Az@^^NzBdALFtB`ArAn@\\NnAl@PHVLzCtAdD~A`CjAt@\\tDdBxAp@t@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5465597,
+                        "lng" : 9.227443899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 45.5325577,
+                        "lng" : 9.2176733
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gian Carlo Clerici\u003c/b\u003e (signs for \u003cb\u003eSesto S. Giovanni\u003c/b\u003e/\u003cb\u003eCentro\u003c/b\u003e)",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ce|tGg|fw@ToALw@`@oBb@gCHe@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.53314109999999,
+                        "lng" : 9.215560999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 45.5306146,
+                        "lng" : 9.217422299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Milanese\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oa|tGmigw@`@Az@Cv@?F?^?bBN@?f@JTHb@P"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5325577,
+                        "lng" : 9.2176733
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 592
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 45.5257529,
+                        "lng" : 9.2143733
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eViale Sarca\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iu{tG{ggw@|ChChAp@f@X~BbAzPfI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5306146,
+                        "lng" : 9.217422299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 45.5250472,
+                        "lng" : 9.2162285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eViale Sarca\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}vztGytfw@DSdBkG^sA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.5257529,
+                        "lng" : 9.2143733
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_v~tGmkjw@p@~@xA|AfB`BKVsBbFILkA^a@N_DdBuBnAq@p@sAvB~AnC\\\\^HbBPZPLPDHLJRz@vAhGZrAnBvIj@hBXt@z@~Az@bA\\Zt@h@vBpAlF`CbKzEdF|BbT|JfM`Gt@\\ToAn@gDl@mD|AE~@?^?bBNh@Jx@Z|ChChAp@fD|AzPfIDSdC_J"
+         },
+         "summary" : "Viale Fulvio Testi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

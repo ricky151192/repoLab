@@ -1,0 +1,298 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNahr-2wIOxMRDpvRTn9BlMM",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjtWaWEgR2VuZXJhbGUgR2lyb2xhbW8gQ2Fsw6AgVWxsb2EsIDMwLCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8644505,
+               "lng" : 14.2717202
+            },
+            "southwest" : {
+               "lat" : 40.8545608,
+               "lng" : 14.2579277
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2940
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 723
+               },
+               "end_address" : "Via Generale Girolamo Calà Ulloa, 30, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8644505,
+                  "lng" : 14.2717202
+               },
+               "start_address" : "Via Foria, Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8587247,
+                  "lng" : 14.2609941
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 366
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 40.8563854,
+                        "lng" : 14.2579277
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Foria\u003c/b\u003e toward \u003cb\u003eVico Forino\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_fkxFej`vAFHh@x@DDLPt@dAp@bALTb@j@pAlBj@z@fAtAj@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8587247,
+                        "lng" : 14.2609941
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.8554329,
+                        "lng" : 14.2604893
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Domenico Cirillo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mwjxFaw_vANOPW\\oBDSh@sBf@uBT{@Pm@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8563854,
+                        "lng" : 14.2579277
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.8545608,
+                        "lng" : 14.26325
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Carbonara\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mqjxFag`vAJa@VoADMx@wDFWF[^gBP_AFS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8554329,
+                        "lng" : 14.2604893
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 162
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 40.8556819,
+                        "lng" : 14.2644775
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVico S. Caterina a Formiello\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_ljxFix`vAQMsBcCYW_AkA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8545608,
+                        "lng" : 14.26325
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 464
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 40.8575281,
+                        "lng" : 14.2595376
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Cesare Rosaroll\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_sjxF_`avAGXu@rCqBfHiB~GwAdF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8556819,
+                        "lng" : 14.2644775
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 682
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 146
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618637,
+                        "lng" : 14.2652754
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Foria\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q~jxFca`vAg@q@KSkBiCOSo@}@S[KQy@iAgBqCaEoGwAoB_B}BSWq@y@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8575281,
+                        "lng" : 14.2595376
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.8629857,
+                        "lng" : 14.2671208
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sykxF_eavA_AaAk@m@EICG?G?EAE@EAQBCHSDK@G@C?C?E?EACCGKMe@i@e@c@SSCACAA?EA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618637,
+                        "lng" : 14.2652754
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u`lxFopavAGaDEqEGsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8629857,
+                        "lng" : 14.2671208
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.8642475,
+                        "lng" : 14.2696595
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 3rd cross street onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kalxFwabvACWqBf@oBZ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 175
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 40.8644505,
+                        "lng" : 14.2717202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Generale Raffaele Carrascosa\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qhlxFk`bvAWcFOwD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8642475,
+                        "lng" : 14.2696595
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_fkxFej`vA~EfH|BhDrBpC`@g@b@cCxBsIbBwH`A{EFSQMmC{C_AkAGXgDzLaEdOs@eA_EwFoJ}NwDmFeAqAkBoBIQ?Y@UN_@BUAIOUkAmAWUEAEAGaDMeKCWqBf@oBZWcFOwD"
+         },
+         "summary" : "Via Foria",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

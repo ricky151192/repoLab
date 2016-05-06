@@ -1,0 +1,250 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXW3Z4NxfLxMRw-JfbMWLLlc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFVC9Ws9fLxMRWhWWvsPyFUo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9110859,
+               "lng" : 12.4285814
+            },
+            "southwest" : {
+               "lat" : 41.8968029,
+               "lng" : 12.4216371
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.7 km",
+                  "value" : 2653
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "end_address" : "Via Martino V, 25, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9054835,
+                  "lng" : 12.4216371
+               },
+               "start_address" : "Circonvallazione Aurelia, 50, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8971409,
+                  "lng" : 12.4281909
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "29 m",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.89689970000001,
+                        "lng" : 12.4283172
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e toward \u003cb\u003eViale Luciana Mascenzi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "c`v~FekzjA`@QLG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8971409,
+                        "lng" : 12.4281909
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 215
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.898413,
+                        "lng" : 12.4278147
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "s~u~F_lzjALIDG?C@EAE?CCCCCCCEAK@}@`@mBt@o@VgAf@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89689970000001,
+                        "lng" : 12.4283172
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 620
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036006,
+                        "lng" : 12.4254929
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ahv~FyhzjAa@NaEdBo@f@s@j@gBx@cAp@g@V{@^_A`@g@TsBj@e@JOBO@OCQE[GWCMAQ?K@Q@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.898413,
+                        "lng" : 12.4278147
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 366
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 41.9068832,
+                        "lng" : 12.4254096
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eVia Domenico Tardini\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "ohw~FizyjAO@iAJ}@Hc@BeADYA_@Cm@@I?O?Q@U?}AGEA_CE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036006,
+                        "lng" : 12.4254929
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 485
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 41.9110859,
+                        "lng" : 12.424019
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_}w~FyyyjA{B@iCTUBu@N}Al@aAd@EBeDbAKB_A^OD_@Lo@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9068832,
+                        "lng" : 12.4254096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.9105123,
+                        "lng" : 12.4225076
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Calisto II\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwx~FcqyjAf@|AjAnE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9110859,
+                        "lng" : 12.424019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 697
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eVia Pio IX\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "usx~FugyjAA@?@A?A@?@?@A??@?@?@?@?@?@?@@@?B@?@B@?@@@@@@@?B@@?@?@?FAB?BABA@?BC@A@ABC@A@C?C?C?A?A?C?A?CACACzFsBvAk@fBi@rB[jEM\\?N?F@FBlAlAvCpC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9105123,
+                        "lng" : 12.4225076
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.9054835,
+                        "lng" : 12.4216371
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Martino V\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqw~FohyjA{ApDIT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "c`v~FekzjAn@YRQ?SQMK@}@`@}ClAiBv@aEdBo@f@s@j@gBx@kBhA{B`Ag@TsBj@u@N_@Am@Me@E_ADqF^y@Ew@@a@@sBGeCG{B@iCTkAR_DrAkDfAkAb@o@Ro@Tf@|AhApEA@CD?FFNPFREHGFM?KCMrI_DfBi@rB[hFMV@FBlAlAvCpC{ApDIT"
+         },
+         "summary" : "Via Pio IX",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

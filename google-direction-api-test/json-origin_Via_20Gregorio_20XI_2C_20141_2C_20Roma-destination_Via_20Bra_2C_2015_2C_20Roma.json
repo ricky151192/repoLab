@@ -1,0 +1,252 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EihWaWEgR3JlZ29yaW8gWEksIDE0MSwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4ZgAybhfLxMRe-qN4xFfbZI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9021268,
+               "lng" : 12.4190614
+            },
+            "southwest" : {
+               "lat" : 41.8936605,
+               "lng" : 12.4096823
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.8 km",
+                  "value" : 2808
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 388
+               },
+               "end_address" : "Via Bra, 15, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9021268,
+                  "lng" : 12.4133538
+               },
+               "start_address" : "Via Gregorio XI, 141, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.899551,
+                  "lng" : 12.4190614
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 934
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Gregorio XI\u003c/b\u003e toward \u003cb\u003eVia Giorgio del Vecchio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eov~FcrxjAVb@LPnBhB|AhAXTDHHFf@d@XP~ApA\\XRRNVX`@~@rAdDtFjArBpB`DDJNXHRJXRl@J^Pj@Rh@Xn@lArC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899551,
+                        "lng" : 12.4190614
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 454
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjAeAnAMTSRQRGFKFKBYFY?KAMIc@McBy@gBs@EAKEQAI?OBKDGFGHS^CP?JAJ?H@N@L@H?D@BBHDHNXT\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Raffaele Conforti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_{u~F}xvjAw@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 461
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w|u~FowvjAi@eAa@s@IKq@gAa@o@S[qAqB{AeCcA_BaA{AaAcB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 345
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 41.9007494,
+                        "lng" : 12.4101131
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "knv~FaqwjAyApBMNKRMXK^I\\EXYrBqA~I"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 41.9016651,
+                        "lng" : 12.410039
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Monte Carmelo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uvv~FezvjAoAa@C?C@C@EF[d@IJIFGBG?CACCEEGM"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9007494,
+                        "lng" : 12.4101131
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.900947,
+                        "lng" : 12.4136784
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Rivarone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m|v~FwyvjA?G?E?EFi@^kCbBaMFc@?M?G?E?ACI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9016651,
+                        "lng" : 12.410039
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021268,
+                        "lng" : 12.4133538
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Bra\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}wv~FopwjAECGAG@G@G?_Cj@?AA??A?AA??AA??AA??AA?A?A?A?A?A?A@A??@A@?@A??@?@A@?@?@?@?@g@L"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900947,
+                        "lng" : 12.4136784
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eov~FcrxjAd@t@nBhB|AhA^^p@l@xBbBp@l@h@x@~@rAdDtF|DtGTd@t@zBd@tAfBbEeAnAMTe@f@SNe@Je@AMIc@McBy@mBu@]GYBSL[h@Er@Dl@Zp@T\\w@l@kAyBqB_DsHsLaAcByApBYb@Yx@Ov@kBrMsAa@GBa@l@SROBGEMS?MFo@bCmQFq@CYMEOBiCh@ACEEG?GDCH?Bg@N"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

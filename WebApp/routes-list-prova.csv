@@ -1,0 +1,4 @@
+Id_Itinerario,Id_Segmento,Data_It,Targa,Strada,Lat,Lng,VelocitaLimite,VelocitaRilevata,Km
+0,0,2010/03/23,BT746ZV,Via%20Spadari%2C%2011%2C%2020123%20Milano%2C%20Italy,45.4636615,9.1869429,50,33,0
+0,1,2010/03/23,BT746ZV,Via%20Victor%20Hugo,45.4640197,9.1865334,50,48,0.05
+0,2,2010/03/23,BT746ZV,Via%20Armorari,45.4646376,9.1854203,50,44,0.11

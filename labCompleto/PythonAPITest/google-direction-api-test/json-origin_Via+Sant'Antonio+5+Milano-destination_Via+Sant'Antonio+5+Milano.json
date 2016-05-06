@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJS-X3o6jGhkcR9AdORhOsNm0",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJS-X3o6jGhkcR9AdORhOsNm0",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4616367,
+               "lng" : 9.1934539
+            },
+            "southwest" : {
+               "lat" : 45.4616367,
+               "lng" : 9.1934539
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Sant'Antonio, 5, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4616367,
+                  "lng" : 9.1934539
+               },
+               "start_address" : "Via Sant'Antonio, 5, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4616367,
+                  "lng" : 9.1934539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4616367,
+                        "lng" : 9.1934539
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Sant'Antonio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gfntGarbw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4616367,
+                        "lng" : 9.1934539
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gfntGarbw@"
+         },
+         "summary" : "Via Sant'Antonio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

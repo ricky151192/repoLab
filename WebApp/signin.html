@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html ng-app="signinApp" lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="icon" href="images/logo-oca.ico">
+  <title>Login</title>
+
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Style -->
+  <link href="signin.css" rel="stylesheet">
+
+  <!-- AngularJS -->
+  <script src="js/angular.min.js"></script>
+  <script src="signin.js"></script> <!-- AngularJS Controller -->
+</head>
+<body>
+
+  <!--Login Form -->
+  <div class="container" ng-controller="signinController as signin">
+    <form class="form-signin" ng-submit="signin.signin()">
+      <div class="form-group {{signin.haserrorclass}}">
+        <!-- image -->
+        <img class="user-image" src="images/user-placeholder.png" alt="The User" height="200" width="200">
+
+        <!-- username and password input -->
+        <label for="inputUsername" class="sr-only">Nome Utente</label>
+        <input type="text" id="inputUsername" class="form-control" placeholder="Nome Utente" required autofocus ng-model="signin.username">
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required ng-model="signin.password">
+
+        <!-- error message (if any) -->
+        <span id="helpBlock" class="help-block">{{signin.error}}</span>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Accedi</button>
+    </form>
+  </div><!-- /container -->
+
+</body>
+</html>

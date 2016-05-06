@@ -1,0 +1,51 @@
+Id_Itinerario,Targa,Strada,Lat,Lng,VelocitaLimite,VelocitaRilevata,Km
+0,Targa,"Via dei Bossi, 5, 20121 Milano, Italy",45.4674269,9.1861416,50,34,0
+0,Targa,Via Clerici,45.4675806,9.1867347,50,48,0.05
+0,Targa,Via Clerici,45.4663007,9.1877582,90,98,0.16
+0,Targa,Via S. Dalmazio,45.467187,9.188954,130,136,0.14
+0,Targa,Largo Antonio Ghiringhelli,45.4669622,9.1893594,90,83,0.04
+0,Targa,Piazza della Scala,45.4674588,9.1900112,130,138,0.07
+0,Targa,Via Alessandro Manzoni,45.4723891,9.1953639,90,91,0.69
+0,Targa,Via Palestro,45.4718413,9.2024356,50,48,0.61
+0,Targa,Corso Venezia,45.467718,9.1983271,50,52,0.56
+1,Targa,"Corso Venezia, 11, 20121 Milano, Italy",45.467718,9.1983271,50,12,0
+1,Targa,Via della Spiga,45.4687976,9.1992396,90,84,0.14
+1,Targa,Via Senato,45.4722757,9.1952014,50,43,0.5
+1,Targa,Via Fatebenefratelli,45.4729602,9.1879209,90,88,0.59
+1,Targa,Via Pontaccio,45.4720908,9.1839051,50,50,0.33
+1,Targa,Via Tivoli,45.4717748,9.182273,50,58,0.13
+1,Targa,Foro Buonaparte,45.4684627,9.1825364,50,44,0.41
+1,Targa,Largo Cairoli,45.4679386,9.1781434,50,45,0.39
+1,Targa,Piazzale Luigi Cadorna,45.4682641,9.1775069,90,87,0.06
+1,Targa,Piazzale Luigi Cadorna,45.4679864,9.1767964,130,132,0.09
+1,Targa,Via Giosuè Carducci,45.4614926,9.1734501,90,92,0.78
+1,Targa,Via Edmondo de Amicis,45.4587903,9.1778164,130,129,0.46
+1,Targa,Via Cesare Correnti,45.4601241,9.1810036,90,90,0.29
+1,Targa,Via Torino,45.463115,9.1875084,50,54,0.63
+2,Targa,"Via Torino, 17, 20123 Milano, Italy",45.4631671,9.1875725,50,47,0
+2,Targa,Via Orefici,45.4637355,9.188277,50,43,0.08
+2,Targa,Piazza del Duomo,45.4647005,9.1885516,90,82,0.14
+2,Targa,Via Giuseppe Mengoni,45.4660339,9.1884904,50,59,0.15
+2,Targa,Via Santa Margherita,45.4669622,9.1893594,90,92,0.12
+2,Targa,Piazza della Scala,45.4674588,9.1900112,130,127,0.07
+2,Targa,Via Alessandro Manzoni,45.4723891,9.1953639,90,95,0.69
+2,Targa,Via Palestro,45.4718413,9.2024356,50,57,0.61
+2,Targa,Corso Venezia,45.4683513,9.1988528,50,59,0.48
+3,Targa,"Corso Venezia, 15, 20121 Milano, Italy",45.4683513,9.1988528,50,35,0
+3,Targa,Corso Venezia,45.4683513,9.1988528,50,44,0.0
+4,Targa,"Corso Venezia, 15, 20121 Milano, Italy",45.4683513,9.1988528,50,32,0
+4,Targa,Via della Spiga,45.4706215,9.2010583,50,52,0.31
+4,Targa,Via Gabrio Serbelloni,45.4690904,9.2021458,90,92,0.19
+4,Targa,Via Mozart,45.4693869,9.2039449,50,49,0.14
+4,Targa,Via Vivaio,45.4675633,9.2045413,50,51,0.21
+4,Targa,Corso Monforte,45.4667857,9.1990612,50,54,0.44
+4,Targa,Via Cino del Duca,45.4657696,9.199331,50,47,0.12
+4,Targa,Via Borgogna,45.46581,9.1985004,50,54,0.07
+4,Targa,Largo Arturo Toscanini,45.4658486,9.1976273,50,58,0.07
+4,Targa,Corso Europa,45.4636145,9.1958035,90,84,0.29
+4,Targa,Largo dei Bersaglieri,45.4630655,9.194874,90,84,0.1
+4,Targa,Piazza Fontana,45.4629669,9.1949855,50,59,0.01
+4,Targa,Via Larga,45.4625308,9.1938721,90,87,0.1
+4,Targa,Via S. Clemente,45.4630689,9.1936733,130,131,0.07
+4,Targa,Via delle Ore,45.4626727,9.1923497,90,98,0.12
+4,Targa,Via Palazzo Reale,45.4622971,9.1926304,50,54,0.05

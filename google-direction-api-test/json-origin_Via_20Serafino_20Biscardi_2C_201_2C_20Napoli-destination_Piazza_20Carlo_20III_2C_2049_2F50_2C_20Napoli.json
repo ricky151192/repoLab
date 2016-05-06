@@ -1,0 +1,205 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgU2VyYWZpbm8gQmlzY2FyZGksIDEsIDgwMTQzIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EipQaWF6emEgQ2FybG8gSUlJLCA0OSwgODAxMzcgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8628174,
+               "lng" : 14.2812074
+            },
+            "southwest" : {
+               "lat" : 40.8587311,
+               "lng" : 14.2668124
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1541
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 358
+               },
+               "end_address" : "Piazza Carlo III, 49, 80137 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8628174,
+                  "lng" : 14.2670005
+               },
+               "start_address" : "Via Serafino Biscardi, 1, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8618292,
+                  "lng" : 14.2812074
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 687
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 40.8587344,
+                        "lng" : 14.2743843
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mykxFqhdvAKDC@CBC@Vt@fFjNn@dBTl@n@bBv@rBFRDLDJFTbBbEtApD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 131
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 40.8587311,
+                        "lng" : 14.2729082
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Nazionale\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "afkxF{}bvAIJQf@Ah@?`@Bd@Dd@Fr@Jd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8587344,
+                        "lng" : 14.2743843
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.8599333,
+                        "lng" : 14.2706224
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Matteo Andrea Acquaviva\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "afkxFutbvA_A|AwCpFMPGJCNAN?PBh@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8587311,
+                        "lng" : 14.2729082
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "51 m",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.860385,
+                        "lng" : 14.2705324
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qmkxFkfbvAyAP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8599333,
+                        "lng" : 14.2706224
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 403
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 40.8626242,
+                        "lng" : 14.2668124
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Alfonso Maria de Liguori\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kpkxFyebvA?RETCHELGHKNA?Q^s@rA{@~AWf@Yf@GNu@xAw@vAMNaBtC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.860385,
+                        "lng" : 14.2705324
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "27 m",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.8628174,
+                        "lng" : 14.2670005
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Carlo III\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~kxFqnavAe@c@AA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8626242,
+                        "lng" : 14.2668124
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mykxFqhdvAWLdItTtBxFfEvKIJQf@AjAHjARxAwEnIU\\E^Bz@yAP?RI^MVMNyCzFoChFoBdDg@e@"
+         },
+         "summary" : "Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

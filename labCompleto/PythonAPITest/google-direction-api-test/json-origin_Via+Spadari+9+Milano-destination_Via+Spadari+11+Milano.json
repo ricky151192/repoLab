@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJddnaeqzGhkcRap7ecZhFARg",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJl_9Ke6zGhkcRJGQwJsJLPWg",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4636615,
+               "lng" : 9.1870511
+            },
+            "southwest" : {
+               "lat" : 45.4635764,
+               "lng" : 9.1869429
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "13 m",
+                  "value" : 13
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 3
+               },
+               "end_address" : "Via Spadari, 11, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4636615,
+                  "lng" : 9.1869429
+               },
+               "start_address" : "Via Spadari, 9, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4635764,
+                  "lng" : 9.1870511
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "13 m",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 45.4636615,
+                        "lng" : 9.1869429
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Spadari\u003c/b\u003e toward \u003cb\u003eVia Victor Hugo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "krntGajaw@OT"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4635764,
+                        "lng" : 9.1870511
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "krntGajaw@OT"
+         },
+         "summary" : "Via Spadari",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

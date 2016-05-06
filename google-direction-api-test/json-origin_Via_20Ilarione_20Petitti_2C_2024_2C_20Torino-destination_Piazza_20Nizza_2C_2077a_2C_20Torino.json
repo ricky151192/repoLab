@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbSaY40ttiEcRfDzJWMXBeB4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6wIqPUZtiEcR__yoO3kNcjQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.05209379999999,
+               "lng" : 7.67531
+            },
+            "southwest" : {
+               "lat" : 45.0461398,
+               "lng" : 7.673082999999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 950
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 213
+               },
+               "end_address" : "Piazza Nizza, 77, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0514855,
+                  "lng" : 7.6750731
+               },
+               "start_address" : "Via Ilarione Petitti, 24, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0461976,
+                  "lng" : 7.674311299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.0461398,
+                        "lng" : 7.674744500000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Ilarione Petitti\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wa}qGm{ym@JuA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0461976,
+                        "lng" : 7.674311299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ka}qGc~ym@iDqB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0461398,
+                        "lng" : 7.674744500000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 45.0474259,
+                        "lng" : 7.673082999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uf}qGuazm@e@rDa@|DEXIp@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 45.05209379999999,
+                        "lng" : 7.6749399
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mi}qGwsym@YIqBk@qBi@qAc@_Be@y@WeCq@YIyGuB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0474259,
+                        "lng" : 7.673082999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "29 m",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 45.0520132,
+                        "lng" : 7.6752913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Edoardo Calvo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qf~qGk_zm@NeA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05209379999999,
+                        "lng" : 7.6749399
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "61 m",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.0514855,
+                        "lng" : 7.6750731
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "af~qGqazm@jA^ZJ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0520132,
+                        "lng" : 7.6752913
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wa}qGm{ym@JuAiDqBgApJOjAkCu@cEmAyC}@_D{@yGuBNeAfBj@"
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

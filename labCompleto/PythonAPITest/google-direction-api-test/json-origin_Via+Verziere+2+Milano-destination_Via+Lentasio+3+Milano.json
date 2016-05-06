@@ -1,0 +1,250 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2Wac-qXGhkcRGSLQMiJd_dY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrYdQJqjGhkcRpsAzD400o98",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4629977,
+               "lng" : 9.206395799999999
+            },
+            "southwest" : {
+               "lat" : 45.4524748,
+               "lng" : 9.1912833
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 km",
+                  "value" : 3039
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 607
+               },
+               "end_address" : "Via Lentasio, 3, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4580534,
+                  "lng" : 9.1912833
+               },
+               "start_address" : "Via Verziere, 2, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4629282,
+                  "lng" : 9.195467299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Verziere\u003c/b\u003e toward \u003cb\u003eVia Carlo Giuseppe Merlo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "inntGu~bw@KyAAK@cB?G?U?OBYFg@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629282,
+                        "lng" : 9.195467299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 508
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 118
+                     },
+                     "end_location" : {
+                        "lat" : 45.46226350000001,
+                        "lng" : 9.203223599999999
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Verziere\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCorso di Porta Vittoria\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "inntGohcw@b@eAhAsBNe@BO@KB_E?w@B_EAqAA_@AaF?kE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 131
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.4610964,
+                        "lng" : 9.2034608
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Podgora\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cjntGcodw@j@EzDi@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46226350000001,
+                        "lng" : 9.203223599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 259
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 45.46001769999999,
+                        "lng" : 9.206395799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Enrico Besana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{bntGspdw@|BcIFa@pAeF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610964,
+                        "lng" : 9.2034608
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 45.4574338,
+                        "lng" : 9.2044867
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViale Regina Margherita\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c|mtG_cew@hE`DPLNJvCxB`CfA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46001769999999,
+                        "lng" : 9.206395799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 45.4524748,
+                        "lng" : 9.201866299999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eViale Emilio Caldara\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}kmtGawdw@tNtHVLh@TfCbAxEbAdAh@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4574338,
+                        "lng" : 9.2044867
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1034
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 229
+                     },
+                     "end_location" : {
+                        "lat" : 45.4585082,
+                        "lng" : 9.191875099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}lltGufdw@Cd@eBjDeAhBmAxBuDtHwGlLADGNOhAMNMRa@p@oArBmCxEILcArBu@tAKVe@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4524748,
+                        "lng" : 9.201866299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 m",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.4580534,
+                        "lng" : 9.1912833
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lentasio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "urmtGghbw@j@fAn@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4585082,
+                        "lng" : 9.191875099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "inntGu~bw@MeB@kB?e@JaAb@eAhAsBRu@HcMCqBAmLj@EzDi@|BcIFa@pAeFhE`D`@XvCxB`CfAlObIpDxAxEbAdAh@Cd@eBjDsCbFuDtHwGlLITOhAMNo@dA}ElImA`CaAlBe@~@j@fAn@n@"
+         },
+         "summary" : "Corso di Porta Romana",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

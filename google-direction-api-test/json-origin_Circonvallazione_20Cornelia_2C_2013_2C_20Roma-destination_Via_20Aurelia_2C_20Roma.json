@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjFDaXJjb252YWxsYXppb25lIENvcm5lbGlhLCAxMywgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp7xyH7xYLxMRF_b6GgQrDZM",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.899401,
+               "lng" : 12.4274542
+            },
+            "southwest" : {
+               "lat" : 41.8921801,
+               "lng" : 12.4137981
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1484
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 202
+               },
+               "end_address" : "Via Aurelia, Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8921801,
+                  "lng" : 12.4137981
+               },
+               "start_address" : "Circonvallazione Cornelia, 13, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.899401,
+                  "lng" : 12.4269844
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 98
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e toward \u003cb\u003eVia Accursio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gnv~FsczjAXOv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899401,
+                        "lng" : 12.4269844
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1386
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 178
+                     },
+                     "end_location" : {
+                        "lat" : 41.8921801,
+                        "lng" : 12.4137981
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjAK|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@DH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LTNZLZR`@LTv@rAHJFL\\f@jAhBVd@tBnCjAzAJLPTv@bADT@@LNTXXXNNLJNLLH"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gnv~FsczjApAo@nAm@K|BAdA@~@XdEFNFp@Ht@NfAb@xBpA|Ef@dBhAtCjDnI|@tBbAtB~@nBvAbChBpCVd@tBnCvAhBhAxAFVb@h@fAbALH"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

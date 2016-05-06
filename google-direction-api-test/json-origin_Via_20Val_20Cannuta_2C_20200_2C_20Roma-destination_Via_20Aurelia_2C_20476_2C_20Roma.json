@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJyw5psZdfLxMRXBq9m_kfd8M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcyjopsNfLxMRKHkBk4J8N04",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9036193,
+               "lng" : 12.4274542
+            },
+            "southwest" : {
+               "lat" : 41.8952142,
+               "lng" : 12.4061381
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2877
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 504
+               },
+               "end_address" : "Via Aurelia, 476, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8981218,
+                  "lng" : 12.4235612
+               },
+               "start_address" : "Via di Val Cannuta, 200, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8952142,
+                  "lng" : 12.4061381
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1340
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 161
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035205,
+                        "lng" : 12.4163809
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "atu~FkavjA]iAm@mBe@iBEOESqB{GEO_@qAi@eAa@s@IKq@gAa@o@S[qAqB{AeCcA_BaA{AaAcBgC_EoAoBk@aAKMIICCQGK?K@GDMFs@^YJSFI@C?G?WE{@a@o@[wBcAw@_@i@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8952142,
+                        "lng" : 12.4061381
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 758
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 188
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_hw~FkaxjAAaAQkJ@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BK"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035205,
+                        "lng" : 12.4163809
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o_w~FmxyjAd@sAv@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 332
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 41.8981218,
+                        "lng" : 12.4235612
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjAK|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "atu~FkavjAkAwDk@yB}CqKkAyB{@sAcFcIeC{DiEcH{BqDUWUKW@ULs@^YJ]HK?WE{@a@gD_Bw@_@i@QSmLJmELyCZ{Dl@kCpAyH\\aBh@mCPi@Ro@d@sAv@Mv@]|BqA|CuAnCmAfCmAMtC?tALdCLtAFPLnAFl@^vBPx@"
+         },
+         "summary" : "Via di Val Cannuta and Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

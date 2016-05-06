@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDc8O50VtiEcRuZmWle5DOJM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EixWaWEgQW5kcmVhIE1hc3NlbmEsIDcwLCAxMDEyOCBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0572054,
+               "lng" : 7.677325499999999
+            },
+            "southwest" : {
+               "lat" : 45.0518744,
+               "lng" : 7.6686282
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1193
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 315
+               },
+               "end_address" : "Via Andrea Massena, 70, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0561288,
+                  "lng" : 7.669423999999999
+               },
+               "start_address" : "Corso Raffaello, 15, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0518744,
+                  "lng" : 7.677325499999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 45.0526154,
+                        "lng" : 7.6751155
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eCorso Raffaello\u003c/b\u003e toward \u003cb\u003eVia Saluzzo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ee~qGinzm@_A|DuAzF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0518744,
+                        "lng" : 7.677325499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.0536333,
+                        "lng" : 7.6754833
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{i~qGo`zm@sBm@ICkAU"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0526154,
+                        "lng" : 7.6751155
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 699
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 164
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ep~qGwbzm@{@[OlAALQbAm@`EEVQz@Qz@e@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0536333,
+                        "lng" : 7.6754833
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 45.0569769,
+                        "lng" : 7.6686282
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@l@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.0569904,
+                        "lng" : 7.669118099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ce_rG}wxm@DO?M@Q?OAMGS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0569769,
+                        "lng" : 7.6686282
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.0564987,
+                        "lng" : 7.669685899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ee_rG_{xm@`BqB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0569904,
+                        "lng" : 7.669118099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.0561288,
+                        "lng" : 7.669423999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Andrea Massena\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cb_rGq~xm@hAt@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0564987,
+                        "lng" : 7.669685899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ee~qGinzm@uCxL}Bq@kAU{@[QzA_AdGWrAw@vDqAdEoBbD}ChEaBpBk@`Al@^DO@_@A]GS`BqBhAt@"
+         },
+         "summary" : "Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

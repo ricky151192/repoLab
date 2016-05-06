@@ -1,0 +1,680 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-AAAAFa0m8CG6eLIMTmspdT-UfH8yaa9nMgDvuYRl0JeZtQjLba8BrM5kzPRYCaTrM2yuvK7NkVJ8dMVJXwzq0zLPY3-_0RE1Ah-9Vh16d7fWUhMXplQ8WwWhQyTZqQTk5-KNl0qUoFmRMVl1iqg1_8DnaO-KogH1GxqD0Mr0EJVT532bpNqlUVDB1gzGJkwCkRVAmPLoyvw_DXJF1EiMh9Rc3ULRQHD6MD4SAzzXqNVl0LEKzSr1XEpCKMziEw66JOz86LbD8fRv6DUgTmIrV9Ea51vBQZzyblYt0G55rELmUn9IV6T7QSftHucKvRn43RB7B_F6AJwEE1qpJ0WKUGCbFMSEPG9pkQSoTW1biIWsfxE3O4aFNlp7y2gVlBn-nMJjyFqm47GVPVW",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4684923,
+               "lng" : 9.183389199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9b30d7c2c77badf4ca1b6c95e1b093a477ba3b4a",
+         "name" : "UNA Hotel Cusani",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2358,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115219444629244210260/photos\"\u003eJuan Supelano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADMMZ7Wi_YpaHiUTElKC08Lo0Nr1UOQuc3JX-uxZZTTgg97VsJvTy8MI0XseGpeCD2pof89mLxiA99Qy7bHrHYCGGRpIov34O4fv9Fq1MBJRmI2HdMltD68YNlemph6GiMS7H5-ujL2A61mC2PJj7696IH7Ba8kj_yEToICEngOPEhBFyLKIoob_hvz22kJg3FB9GhQ7gBA8x9zr5XJKLOoZHmyGX-g7hA",
+               "width" : 4191
+            }
+         ],
+         "place_id" : "ChIJH6HNY0zBhkcRKkbM_j9Hb3g",
+         "rating" : 4.2,
+         "reference" : "CnRjAAAAx2nDG6lp5W5uKMe-VZzBgsINE6WcJ9gTyu5AcsUKwyrpD4K7LifQMgBjI6pTRcyYYjTKoqrBFBgnIuA3R0ERDOK9GHjBTovAJrRBpmaOgzWxBAw1PHGT_45TBv2rz27G3EK_oHHNcrwUu7_9ZfX4FxIQvr9CmUcvhBWkXTHJXdVdwRoU9KQOwokWtxZ767Ssm2opbnq72qA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "restaurant",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Cusani, 13, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.465257,
+               "lng" : 9.1911901
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8c70b79c3d38cce3d0348e2d795f9191edeb8244",
+         "name" : "STRAFhotel&bar",
+         "photos" : [
+            {
+               "height" : 1206,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110437926901669212903/photos\"\u003eSTRAFhotel&amp;bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADgpO6IXaQmjemVrSICUg7eXERzWmRWKzVM0vLrJc52C10jcJAeH4mmG8AcZtH92_D4YhYIeGcUeNkGstdYktAC4XirhX6hRNkp0sS0aZQYkRpEGMyg4Fp94iCUJaTiOQAk8zs7dT5qmtwonzWzbDOtk0Vo4nOYi6Qrs8d4wAPFSEhDbnLJW89tln6wUUbj0mnOvGhQQ6evOzN9GEACmT400s27Oq_Ef4A",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ5wx4X67GhkcRve69j0nZ-5U",
+         "rating" : 4,
+         "reference" : "CnRiAAAA_E25W4AlJx1pgrcAZoa2QpR1JzUOU_GptENYHDeIX0vra66x4kW5Em82uPhKDRvbNbhYxP9UHnokum3eLXug33Qonr-Natm6cGmB7Npw8a-LxbLSFXGpUJr2uL5ZcbVBUImDXuhtbRjnlfJO-mpRlxIQ7CVRcNHSFbU01GpV7DLz2RoUxzOtoTB_43nUXEVzEROfoWHmcEE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Raffaele, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46663469999999,
+               "lng" : 9.1944076
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8349663aae8b40c7d982ad975a9b2149c275ecc7",
+         "name" : "Boscolo Milano, Autograph Collection",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1436,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111558196581497286183/photos\"\u003eBoscolo Milano, Autograph Collection\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJq693u6k_xN5TfMwIerXBHS_1wMsW4MoAKN55wNy8JxwoqW4s903G9dMvuumhH_bwO2w1No9xJDSm-QbR4zaLmdGDriklVtuXyWuFLp7eXwq_s3Hm4MXuWx9B9q88vPBLH19Caf9SRtH6MCM0ixV7YgZjGZFhCS3PNhY9-gdIymEhAXXKNtu3xSHk2ABb8MFJ7LGhS3Llrr5MUNTjdHMf-Gpd6D8LzCeg",
+               "width" : 2159
+            }
+         ],
+         "place_id" : "ChIJWa5f16_GhkcRco527e8tmjk",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAMXazgcD5ugnq3-U_Ay2iZ1aMxh7BpFj-ruOQd-B0Zk7BK20HZRAEkYcUg8l1YDhfzrCU8Ng_aQ59FNqVjU4oEqBY2wstoiFIPe9KPkMrKQpSdV7lEtopwgY241Ynz2n83rjF-eTt3zePf4Z_4c5laRuQQ_GGRU4GmVuK7WdcNkvEhBdxBoRVMgO_s_mcgcx7bd1GhR0ZdFjFcR-RlCLouBaU12kE5iInA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "restaurant",
+            "food",
+            "spa",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Corso Matteotti, 4/6, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46933979999999,
+               "lng" : 9.195108499999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7a6bc4f9c465334944beeadbc70df5684afe4d04",
+         "name" : "La Veranda",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104532149879083077921/photos\"\u003eLa Veranda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMFxUYasGYVf0JamEt32xEmyKyE6eaCxXRZrVXOhrLwa1QxPno-8jcuV78l-Y1_1FD24ZOrRQGlPlb-p9JARqqKR1qbfo6GBYfIHKwORaWtBmsaTUPXZjR3jEbO3f4mB_OX5ahVmy3ZKHZcMctszYHKpJkby6a6fqJLs4hRmw39tEhBwi_k7JkNyuhRdeKWhYnxYGhQbWs8fi5wufiP_I9pLE19W4M3ulQ",
+               "width" : 1283
+            }
+         ],
+         "place_id" : "ChIJJViJ9LDGhkcRVzqJCin39pg",
+         "rating" : 4.1,
+         "reference" : "CmReAAAATe8krm02jhi5SkFXvvOf_BBcSiX5xQYPuRJkV4Ryz48iAX5khD7GKFP6zJIr7PeJv22d6rTqc1aYQEGesSLch8_20qXft5h2rFVDG_d5EOp9k0z9xlWZ8PNflU36iKxzEhAQs8RoHAbLz4yghNBb9ZmOGhQ3NoxCwz0TgXsc2hWxecg69oyG7w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "bar",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Gesù, 6/8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4670441,
+               "lng" : 9.195908099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fe5b8c5a72f609875912caf97153c3273cf165c1",
+         "name" : "Sant Ambroeus",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114166384334365145425/photos\"\u003eCosmina Stan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAD4v0HfY1KekQp8sJBL3E2jSUkCGBS3HfCXzg6KyxCtzpLVZ06Hj7vv4jUQ0YE53U-RgsIgyAGRtx2UDnX2IoR3rucFGzd0BSdErdBOZj3d3796RSCI1f8kPTfoLKK2z24UE0DAGXfBiiEaIQ2FGMwgLFxqDY8XfeKCHb89sIe3mEhDZHgKPFK9TuDSwyhIVhBEYGhQIXlggfgtitY7Pw4mnZgMYhwybkw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ50MAArDGhkcR3s-oelKZtUI",
+         "rating" : 4.4,
+         "reference" : "CmRgAAAABMI07_C0jdFDcTOHIt_w1GptTi4f5mHeySmARopAzIzlP_12iqG8qyjxlSJHPe2eVCpb6IWFgMPxMg1ooaRCjbBaJ4tznFpC3TBBt4mMcl6vPY8zLvy7WsTRv40nd0zDEhCj5bEmbQdudx77gt96TmzdGhRf75JTRLGSWdCRka-gKotNJaix8Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "restaurant",
+            "cafe",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Corso Giacomo Matteotti, 7, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4671142,
+               "lng" : 9.1829494
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c9685c19773f13cee3a2fb82026a843f2f97a1ac",
+         "name" : "Antica Osteria Milanese",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1064,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111236133802444777568/photos\"\u003eAntica Osteria Milanese\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKHsFohXIW73qCtmmBADyk5gj9ysFzwHClRJbaL7DnGclhGFnSgpN9bUw2pEszIPUt-dTMkhVNBSEgS_uAcmwaLQqwC9f1ehiIaM9GjagDlhRbO7VG7uV4KPxR5OHCe16dL-THUzF2rbhO4fqSzOueko_DUs93X4QHtx_iodV-u1EhBAxqsIGZ74uB5rpOkYKdrWGhQyqY_MGky4et9xzxpoOy82vjywiw",
+               "width" : 1597
+            }
+         ],
+         "place_id" : "ChIJ7dqLkFLBhkcRHreMfwkL5yw",
+         "rating" : 4.2,
+         "reference" : "CnRqAAAAL-7jkxWJSeU5fcsYlfkx5wmuBkTckX2pygsC6SHJrrAQw4O7CqTkguWJRsAjc73yBydv52KgdxrzHsiatEZKPhjxVz7d9R1Yj_3lv3ZYO3dTL456C4eW1LNL02tZ4KZ1j_RcyL0cEexRnrwNc30wkxIQwcqpBV5_MtHfPOZaVAiyyhoUYdq8oxXGZPOSCpGk1LUrF4AO00w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Manfredo Camperio, 12, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.468093,
+               "lng" : 9.195573
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "09cf2745152ba312f88fa6a86fc6e464cbb772e0",
+         "name" : "Pasticceria Confetteria Cova",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3191,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115404459281375177295/photos\"\u003e吴凡\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACrN3cIx6xi0yfei2r5WYWOVkwDN03RXAlse6cqNjRSaJ9EnD1KAZdO0BOVBTfJd2QmWTvvjRN7QEBZYmTbdAJTs6Ky830Bv6-NZ9zFoloQnbsodm0BY6xdv8CDIQ0Ww3w5PNvNpxbAOvKytJneSZ2dmjr7nNBPJ4oZ6_VVuWkb0EhAMS0-aLGToK_LRC1ivkcYQGhQ3ir7aZmc9A7u1EZhl8awLhdaKsg",
+               "width" : 2394
+            }
+         ],
+         "place_id" : "ChIJtw59UdzDhkcRQYDSBkctXfM",
+         "rating" : 4.4,
+         "reference" : "CnRwAAAA_DtG0OiNxo2086VFN9l2WV-lV6O_QMNF9lvl0mmPC9Gxv6FlLCfQnIa61Q3fPuwjmFlPTREf6WGCgRrR-8BzYdPlu33v-gUYGuDhuh_4bBgD-O9XBFtXqb5eGPyTfIKCCcH2RVlR5I9K9-QVrWUXcBIQc3vTbFpm_zFDKPRPACyDrBoUgYmAsZrgDLTx3tXxNpDm0C_Eh3g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Monte Napoleone, 8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4635273,
+               "lng" : 9.1869549
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "93bfaa6f0eeb31c40c2f5cdd911c8c3db756f2b7",
+         "name" : "Peck",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 438,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102454847251169091802/photos\"\u003ePeck\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAghacmkprhN5F2oYmuW2mYnkXUpaBh_4L3NWob3CiNXgz3YfVLlVSV10574cgzKw1ncTKli7k_mjwiyLI8ZJLC96HId9y7QxPJka9-mgiKRML3yv7VxNmJmLuMAdElo325EVLDsR7Xdv_T1HehX71DxbTYANCPsvdkBY6n1MuvFEhCkGsGfCl0snQ2kU1yFP1rFGhRRg_5tgCT_uhbd_A6Nc9m7u_sYNw",
+               "width" : 437
+            }
+         ],
+         "place_id" : "ChIJTVAKcKzGhkcRMs7mktXAZeM",
+         "rating" : 4.3,
+         "reference" : "CmRYAAAAGMZl-5VI7X4wyjo7rQ4ZLZjpwvQF8FLFJuBTNAfhDnj4_mf-ctT4Z7aDLPFMZF3KPHwPyJ0jjM4r0_xmchzFzWhBn_d7HKWFp0JgLNqw267DCXCKg4wmyDNKad34RDgIEhDs6sxyc6Sgjyrw-M9GTsJGGhQWd3JFh5wsiVShkj4aScBua09ggg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "meal_delivery",
+            "restaurant",
+            "liquor_store",
+            "store",
+            "food",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Spadari, 9, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4723063,
+               "lng" : 9.187060699999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0e334b7bf4bc4128c6f43dfdef9eeec8fbc6189a",
+         "name" : "L'Osteria Di Brera",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108464776365673483622/photos\"\u003eChristian Auer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAdzq2BWbF6h6X7cNgjPcZrDLCz2Uy69wwsEQLxVeah6cfkZ7uM-o6xt738WsRmYcNYmWW0F79D_P6q6F4jYfAxjr_PHSsINfwFJYYGBpGc6P0LuMdusFAEP_zOnezm6svOL2ABfBjuhgVC4Xt9jGjNHJjUNS60Al-pGhxdC4oGAEhCwToFmss2DzEL62n3dhOKHGhR0scLryEHDh08lFP9DIp_l35281g",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJnzLoWbPGhkcR6Nl8Kq3CRFc",
+         "rating" : 4.5,
+         "reference" : "CnRlAAAA51Olb1UmHhKNGagYh2QCZggMmLX1R98T8Jx8ghR8Pp8utlI8ih5RFjLuKoRHv3-_KWRXr_reWE0O9f7AgLpgdTZHL5OFt90-M2aoTreAI6fXjnWWDjeVUVVLbVmcrLeZIhekPyzOYy0Wem7QFzgz9RIQ1hZoBBu8atSeoAKD2b4hGhoU6cPyS9QGRciGM7HGvG0puS4w6Lk",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Fiori Chiari, 8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4702271,
+               "lng" : 9.184711400000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9153afa7db21b088ecc8b13ab883c9197a16d208",
+         "name" : "Convivium",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109799705615277094345/photos\"\u003eMichael K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJFwXMc6wcAy_qA4aeCLyAZTxwWU9TEegCAS2n5Bvj5p7uuA1HhAxSH1KwHv1aW3tzSvaCQHZSrpbsKXi8qMC9OcLQ7pAm3McjktvhMkc5SSalz7UW9x6Bp-iAu6qJXPyYZAuBnrVJ_cFTNLapIMmyqtrNosqcW1iKnVFA-7eq2WEhCHutwf43vmn4i3gnGBjy41GhR1Ye12ZEkZDs9U38Tqo_csT_mdhQ",
+               "width" : 721
+            }
+         ],
+         "place_id" : "ChIJKRMyy7LGhkcRx-5_EFrfoqY",
+         "rating" : 4.5,
+         "reference" : "CmRdAAAAi8CKAXqlRy9ti-zheTBmO0wf_QHQAyuKw0b61tdYUSE-Ode7xW54k5QvjaMDe8RqvBUNTZOi3Dz6fSNNaaVfffnO_hYsyR5PAfZNv_4lL9RP0Ek_0FzBBtqdreLbloRqEhDdungdTkzLBk9RZgAXHnDXGhRSODqve_NUD0EsZnROtDpkP3EEJg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ponte Vetero, 21, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4620375,
+               "lng" : 9.185426400000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c8576c60aef447cd99d737caeb005e8c4a86c5a1",
+         "name" : "The English Football Pub",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114130714753991459779/photos\"\u003eMartin Raichinov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHix1zeQfQMj1-G2tgeGUZtSeLgZB_BPUkWcsr3-aFFGjr-7TzE9DK0iIBeVqGnI38dkCJVbaVQJH8Qf3C_o_UVSjuR0_Cds-x67HB5H5UZMjlCY81IMeU3n_A8ocvrkdesebEYk_gq9T9Kijj9rKNQW3K9DkMeEglBSozSQTUkNEhDcV35n_vQzfLvyXXWVvWEwGhRd9wLN1-2xIDFL8tbBt-XVyzh2sA",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJU6XicqvGhkcR8ik1Hemy--c",
+         "rating" : 4,
+         "reference" : "CnRsAAAA8e6nHk1MyYxVlYXMrkP6HFOSKlDB6Fx3CdpPDQRTSlykHafUpbXhoD88j7QZq9Chwa-n0S9LXwVSkyYyDdx-Lo-0Xh5d9MpvZJezjeHoCiQjoIyILf31ABHWxImbdN9C2meUApE2ymOCHQDJ33sCzBIQYGNCvqG4scZ__4BgvgU1yxoUJp4QJZVT7Lnty2BqJyXm5x31mnw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Valpetrosa, 5, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4589322,
+               "lng" : 9.180567
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ca7d8ffb75e92b80bbe164b225e6bb278c8bcffb",
+         "name" : "Cuore",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ5WtgYFXBhkcR9C5W9X4lX4Q",
+         "rating" : 3.9,
+         "reference" : "CmRZAAAAua8XCCcB1pCMzOLXFaAHoWQO6jINKPp-6kTVfxB05Zfj85MpedkRASK2B7Pyl4EyndNF3bn8eeA0u6puMmtTuB6-90nytkKNdVqg-VBDWfXK9XnwKZpurjWRYEMmKHHHEhCsQ9UVaW3K13QwkHAuI8mDGhQkwTxnN793gJoojOMHTEE7rIQAvw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gian Giacomo Mora, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4606722,
+               "lng" : 9.186579000000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0aed62dc8bb5a7edc55059b165f8a1de05825303",
+         "name" : "Vino Vino in Sant'Alessandro",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 559,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114019595064896993976/photos\"\u003eVino Vino in Sant&#39;Alessandro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAD7j7WcK9sfJVoX2hmjt7N1AIjHaFWrPh__MODnGeIeVa1JKNHmtpN0tXwMsEfQjnnFwkTcZbPqBfJV0s1DWBxLp1Uk_ljFwkYKN2fjFrUqz_lwO5lhUhRCY4iuX37vmKm2Jo-51Kv0nontElkZMVGsjNSSF9dtPFRvmPG8ZBZ-mEhC1vQzUm8IIUdwt8bdMrH5fGhT-P_syvt2MjUJI9v9PzM22eNKyLQ",
+               "width" : 558
+            }
+         ],
+         "place_id" : "ChIJLV1ps6vGhkcRGbATQYNIcEw",
+         "reference" : "CnRvAAAA--IaR4-kw1Yk7L6koq8TcvFGVp6Mlj_ZraFyqzSBdva9_LSWTkg0wSvaKdwjhfpErjsf_iEOxNP8_y8L1z9dPBO93gjNuB34QSVtPqcFaVfko-iHO9IESBPcKY-gRsynPtQhSDAMKTwxIq1HqPWWnRIQfx7ZkUeKfIFHGQbNY2HW-RoU8QpNbc9LsjqOiK9zFA7_OUj97Y0",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Sant'Alessandro, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4611416,
+               "lng" : 9.189450100000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1603703e621f6ea2f2e985e3c52b45d5722ac91d",
+         "name" : "BYS MILANO",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109400829441437894484/photos\"\u003eCristina Zai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACFE25pJekhpe3lcMDurG-kQZuy6ixo__l20EDVCyLl2CATDKrA-mfEXhr6SiJiBVWu8NCAl7Usjpl3l_zjKtBIKRLgLO5KjJGimPEBNSnAHO0y2xJHvYuQPlyuf0lojxe0GKCG42nWBcQqqKwbWBr3iPLYM1LaotaceyjamriIeEhBCY5bwvrccNSujjz_QPi3JGhSYPTHPREU31fumMUvrJKn9yt9hxw",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJIc3fbqnGhkcR3cX0ZE8TsIc",
+         "rating" : 4.8,
+         "reference" : "CmReAAAAolHj2Z01S5CDUz8CZu-9_v4WfPp_mqLsZHJjNEXdnkMiG2q0J_qMe_5ZRqL5Ce4Q8ZCxHHMiTNx9EWyRwbYWOwdl6KnMeAlzopzBngW_QAlWg_TeTX6jZaZAa_DxO6XTEhB1MwGV3VjMlLM1rs0liX7PGhQBCeVMfLi5EnNkoqXh643HgWh38Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Alberico Albricci, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4683974,
+               "lng" : 9.1986901
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "abf1967cd2e5f29df5c7135f7b29b5a1f2b1d66e",
+         "name" : "Bar Martini",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105593983122761200878/photos\"\u003eBar Martini\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHnbXE952BBlo0VBkv3sDs3qt9NUm5RnZCljEJ_yDFsDqMNC25If14n5OTV-loLHG731JbxWccrQDkxpHMiAKlnzD6CFLxRQt_QqWSgw7hZffCk4hZ8iScLtY-RKSobtqSGwHuj6oimQsinY1cOHX-unEvGhbZJj65BUqkIwAT37EhAs8HjK_383yvj30QlnFT8sGhR3SiiUqeHF4__M8N7J8QES_Dg27A",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJSajBw7rGhkcRx7zXaCdHQQQ",
+         "rating" : 4.3,
+         "reference" : "CmReAAAAhAGJ-5Scto3fas663L7egeWwDy7tNyaaUoBScITiLUXfX34GUvCLa5VK-_Bin5wQXXmLD8Io212yCRTmeOArfYTPhtLejBupD1U65y1jZ0wqaA6Wflfqg_mQdIih8EQ2EhDXMcE2l4a6akuRSiZAB5DQGhRJuZUyEa1q04Od1R5e1Gr84TQXQg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Venezia, 15, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4621556,
+               "lng" : 9.1929301
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4ec01c86a972547df81461b81778a2209892acac",
+         "name" : "G-Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110157694756862828246/photos\"\u003eG-Lounge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAG_TZ5nmDggzCw3Kch57Z7bLEX4DiPepPxE7hxpERK6CUQ3Yxl0qxzNUfgWqEAwg9HHC9hjgF7RFEO8QWhll6pT-ceebZkHCp895X5SaMvw1XX_a1xJoJeliifpxBoKy9JYat5nhfW56ikwjvGiDAZkIYCOrIbAFGynh-2JCsUnLEhAoXHOfEjQ-_vXhDuGdMg5NGhRw3Jaec1N9qjkStG5WKYilwrBEwA",
+               "width" : 1203
+            }
+         ],
+         "place_id" : "ChIJ7z25tajGhkcRWNrqqYyMAFI",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAA3qQIgc84QBNVGHeH4tpcCgfoNvYVv1BsIgvo_2DIIGT48-3yecvKXst3u0K34LtxVNWfRA5DLAsDatKJ7jTmP5A9Z_fRfPkZ-MmmTudaU7x-4WJT__759pHeV0M942IcEhANSU_KK7zU56mZDyZIQZP4GhT-hYXG5WGSY-GfXHOhI-Ad1WZs2A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "bar",
+            "night_club",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Larga, 8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46304159999999,
+               "lng" : 9.185886099999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d40e4043c2d94cc88221b1ac2f409c70f97a14fd",
+         "name" : "Enoteca Iemmallo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 549,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112210953947830576381/photos\"\u003eEnoteca Iemmallo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKG1aVsT2p3z--aUYiPjTlT5ADFV7Pxfsh4GJkBJn9T3Z0yTmo2gVtDRgDvNRBRctg40pWatxsNGyKKJI-G3zzJUvaUTm9taGiQajIVTcORtiyn8v5aWeVpQT7Sp0e1XrS9lqUTKBaTKXwOvUt19hppa7EC6f0qDk7O8OdBku0KNEhAZ0C6cUBn2618ebh_7yxZRGhRoSc8kePHsd745kzeyILTxuK69OA",
+               "width" : 852
+            }
+         ],
+         "place_id" : "ChIJyR_sfKvGhkcRjNYyZA8Pax8",
+         "rating" : 4.3,
+         "reference" : "CnRjAAAAKDdLLVvCaJiKQoCmeIA1evgvqhRFKdxU_Z7MQfNU97-3gvmni7Ymk_WMo9LYTnFUKRL7kD2vArTGRkoD35s1cg0wNI4SvuT4Pdv5lHAbL4aeaq3yGCxLKJMQgxv3aSWSJsnmy10oVk8KxKbFrsALJBIQoNnOEO5_FyIQOJBzoB4_6BoUVC7K03SRpyRp9mHj__XkaKOltpc",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Cardinal Federico, 7, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4685894,
+               "lng" : 9.183802199999997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a7ecc53ab438735d778def46bd3f6fdc7faccd15",
+         "name" : "Cusani Caffè",
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111900731425300907071/photos\"\u003eMarcello Norsa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAN5Y5eu8dLoQM4_wg8MRgfAS9gRpTH-RHfRmIECDm0Bbr_Ve_q9sH13QiJFpJp2vk0YDRRUpe8_L8oC73Ws-f9LP_RIBtusQ7M1djSYQH3W45r5IpbXMYPIzjQ4HZTV297QB-ZQRmwRJ8QNgpIlVV3PHZe6qdMQKQu74pHsNgremEhCwmBh5C98S6nwqfiAUrMNJGhSDRyKdAqnoI9JghPmw8ASGOwbbDg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0-glQ03BhkcRxm6suedRLbo",
+         "rating" : 4.3,
+         "reference" : "CnRhAAAAPopBf34SRmj86txctOBhv2VtYZV94OWtwoCcTsuaD-PvdngJOF5jJYL9gnwgsraudR1AsnhWRsmWl-fyH49JJptGSYvu0xmsD8YccR5IzpSl3u3qj_AVDOu8Z2bnZim_Mktvj19G1FGbW9Ba_PiblhIQM2SJ5Y7j8A7dQ1lCvEpHoxoUQqcGI4bVroFbaKUZyds6z5GQsZM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Cusani, 9, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.47168670000001,
+               "lng" : 9.184235500000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4ed66a694f32e6125ff581297e04192c00dbe5c2",
+         "name" : "Obicà - Brera",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1382,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109185076676837732672/photos\"\u003eObicà - Brera\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADua1yBcNP_OOjuIUCwMkuJAW5u6rQ8oWtqDXVBofjP-mUYyfDeyySwpeP3nITvJOst5POQnEcMFidnYgai4adfxt6QVae7uAw7-oue75mh3zGP84nfad59W4IknArMthMi-a77r7op1fQmOy0nUbn8c2FeNpshqh0tkDmu4--M9EhB9dYgP6LjEEqV-HtBjl1q1GhQ_lDUNX3qOjTJP2mdQfUjuD_nNHQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwz8Uk0zBhkcRf88Xp4Mq8W4",
+         "rating" : 4.1,
+         "reference" : "CnRhAAAA5DAXrqAh0rh6Z0NkG_GrJz4-HRtFsIOX-nYZsHym6b7vPV3s30oygFG1A0vWjt9NfWZytm1wPkY-ujJq6D3MMDgOtZ6ZKgmfjKxL3lqWIaKbYcIVhm32L4utJrVaKc6QoSro452nhL6NeGZMDejcGRIQnJVCFicFvXKalCRg9n8eQBoUpcdMSXkgs80Zxc9BDf6t7WrwGzA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Mercato, 28, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4636769,
+               "lng" : 9.1871399
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0b80221eb751f53f7608424996b4e687b849beab",
+         "name" : "OTTIMOMASSIMO",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 465,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103154518026315995942/photos\"\u003eOTTIMOMASSIMO\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMzIPUo6xPpblBwVk0wSGev7B24kVRtmoz8_oVRGWrYYToxkk4zNXICbxT5uskwQ3rduTrtHozKhEFQdphRPPMJO8e_trDJJOvxCp4T3IHTHCQDP7rA0ctYj8DfIRVZlaP8Oz_zVXdAFW9Zrp2m4IhtPKbfEmwwsqrAPLeQW3aQeEhAA2z0Npe1GbTZrk6N6zNj9GhQkmJganLoKSX1vxsfGwmhUQdRcWg",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJy9XkaazGhkcRA46bWK3l4yE",
+         "rating" : 3.5,
+         "reference" : "CmRgAAAAy_BP7ImXEgsoji_SdKEvEmpvEuUzMQSbECXuseMUt9Rs-qmkiGl9qRTHcfYqDxz26-ZlJCdFFid2snyS-_K3Bm2zGUuylfwmkCya0Yb-winkF_siuxPu7aGFic-CTeCjEhAXSy75dHrlp-crpsZpplNuGhQdjSqyfszjOJj4EhRv4SUf09-2zg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Spadari, Milano"
+      }
+   ],
+   "status" : "OK"
+}

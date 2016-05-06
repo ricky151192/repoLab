@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3zy4ATltiEcRa1KDkc2uSHE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRaIj6iRtiEcRoeXy9CLaC9k",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0559252,
+               "lng" : 7.668965600000001
+            },
+            "southwest" : {
+               "lat" : 45.0523497,
+               "lng" : 7.659251
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 998
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 236
+               },
+               "end_address" : "Corso Alcide De Gasperi, 41, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0554024,
+                  "lng" : 7.659251
+               },
+               "start_address" : "Via S. Secondo, 90, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.053866,
+                  "lng" : 7.668965600000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.0523497,
+                        "lng" : 7.6672851
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia S. Secondo\u003c/b\u003e toward \u003cb\u003eVia Amerigo Vespucci\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uq~qGazxm@FHdAjA`FxF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.053866,
+                        "lng" : 7.668965600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 172
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 45.0533128,
+                        "lng" : 7.665567
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ferdinando Magellano\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eh~qGqoxm@o@tAoC`G"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0523497,
+                        "lng" : 7.6672851
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.05390389999999,
+                        "lng" : 7.6646281
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo Re Umberto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "en~qGydxm@U\\]\\y@nBGN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0533128,
+                        "lng" : 7.665567
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 435
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 45.0559252,
+                        "lng" : 7.659902100000001
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{q~qG}~wm@}BzEMh@Kj@wAbF_BfF{@xCIX"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05390389999999,
+                        "lng" : 7.6646281
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554024,
+                        "lng" : 7.659251
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q~~qGkawm@hB`C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0559252,
+                        "lng" : 7.659902100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uq~qGazxm@lAtA`FxFo@tAoC`GU\\]\\y@nBeCjFYtAwAbF_BfFeArDhB`C"
+         },
+         "summary" : "Via Sebastiano Caboto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

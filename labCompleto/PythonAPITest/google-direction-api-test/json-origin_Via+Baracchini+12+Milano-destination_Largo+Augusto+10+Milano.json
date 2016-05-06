@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkZ7UHqnGhkcRDnfixCNZiZ0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG__LSqTGhkcRgxbTTrgXMVE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4631924,
+               "lng" : 9.1976719
+            },
+            "southwest" : {
+               "lat" : 45.4609634,
+               "lng" : 9.191134
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 617
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 180
+               },
+               "end_address" : "Largo Augusto, 10, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4631924,
+                  "lng" : 9.1976719
+               },
+               "start_address" : "Via Flavio Baracchini, 12, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4613188,
+                  "lng" : 9.191134
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.4610363,
+                        "lng" : 9.191478999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Flavio Baracchini\u003c/b\u003e toward \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gdntGqcbw@v@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4613188,
+                        "lng" : 9.191134
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 45.4628686,
+                        "lng" : 9.195043499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "obntGwebw@NMgFyIOc@Y}@Qc@Se@q@sBS_A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610363,
+                        "lng" : 9.191478999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Verziere\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}mntG_|bw@Eo@Q_CAK@cB?G?U?OBYFg@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4628686,
+                        "lng" : 9.195043499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "61 m",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631924,
+                        "lng" : 9.1976719
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Augusto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "inntGohcw@KK?[CSAMEMGMOSCC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gdntGqcbw@fAsAgFyIOc@k@aBeAyCS_AEo@SkC@qCJaAKK?[Ea@M[SW"
+         },
+         "summary" : "Via Larga and Via Verziere",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-Bf0KvGhkcRFPMz1mO0Vf0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-Bf0KvGhkcRFPMz1mO0Vf0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4610512,
+               "lng" : 9.187999700000001
+            },
+            "southwest" : {
+               "lat" : 45.4610512,
+               "lng" : 9.187999700000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Piazza Giuseppe Missori, 4, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4610512,
+                  "lng" : 9.187999700000001
+               },
+               "start_address" : "Piazza Giuseppe Missori, 4, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4610512,
+                  "lng" : 9.187999700000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4610512,
+                        "lng" : 9.187999700000001
+                     },
+                     "html_instructions" : "Head on \u003cb\u003ePiazza Giuseppe Missori\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qbntG_paw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610512,
+                        "lng" : 9.187999700000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qbntG_paw@"
+         },
+         "summary" : "Piazza Giuseppe Missori",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

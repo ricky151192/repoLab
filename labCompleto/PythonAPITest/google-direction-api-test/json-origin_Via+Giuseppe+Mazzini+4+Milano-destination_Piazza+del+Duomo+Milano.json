@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJz5xpD6zGhkcRb-nTInrW1PM",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ31GTk67GhkcRPw6Nl8LeRdQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4633101,
+               "lng" : 9.1898471
+            },
+            "southwest" : {
+               "lat" : 45.4632665,
+               "lng" : 9.188515899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.1 km",
+                  "value" : 104
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 23
+               },
+               "end_address" : "Piazza del Duomo, Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4632665,
+                  "lng" : 9.1898471
+               },
+               "start_address" : "Via Giuseppe Mazzini, 4, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4633101,
+                  "lng" : 9.188515899999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632665,
+                        "lng" : 9.1898471
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Dogana\u003c/b\u003e toward \u003cb\u003eVia Cappellari\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upntGgsaw@F_D?iB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4633101,
+                        "lng" : 9.188515899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upntGgsaw@F_D?iB"
+         },
+         "summary" : "Via Dogana",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJwfJ5-xoIOxMRlrCDuuQ9RUY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJazN5bhAIOxMRSQK9Kxgy2uU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.858883,
+               "lng" : 14.2769439
+            },
+            "southwest" : {
+               "lat" : 40.8578103,
+               "lng" : 14.2733503
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 403
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 127
+               },
+               "end_address" : "Piazza Nazionale, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8588277,
+                  "lng" : 14.2733503
+               },
+               "start_address" : "Via Giovanni Porzio, 4, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8578103,
+                  "lng" : 14.2769439
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581472,
+                        "lng" : 14.2768869
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i`kxF{mcvAcAH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8578103,
+                        "lng" : 14.2769439
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.8579954,
+                        "lng" : 14.2754744
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Otranto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mbkxFqmcvA@N@L?J@H@NTvE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581472,
+                        "lng" : 14.2768869
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.858102,
+                        "lng" : 14.2745391
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Pisa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oakxFudcvASxD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8579954,
+                        "lng" : 14.2754744
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 40.8588277,
+                        "lng" : 14.2733503
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Nazionale\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cbkxF{~bvAc@@g@D[DKBCBCDABIJQf@Ah@?`@Bd@Dd@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.858102,
+                        "lng" : 14.2745391
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i`kxF{mcvAcAH@N@XBXTvESxDkAFg@HSXQf@Ah@BfADf@"
+         },
+         "summary" : "Piazza Nazionale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

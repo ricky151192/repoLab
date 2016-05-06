@@ -1,0 +1,276 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcyjopsNfLxMRKHkBk4J8N04",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJSTfFL9fLxMRf2HENzLluW0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8995345,
+               "lng" : 12.4235612
+            },
+            "southwest" : {
+               "lat" : 41.8909544,
+               "lng" : 12.4096823
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.7 km",
+                  "value" : 2742
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 368
+               },
+               "end_address" : "Via della Divina Provvidenza, 11, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8995345,
+                  "lng" : 12.4136219
+               },
+               "start_address" : "Via Aurelia, 476, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8981218,
+                  "lng" : 12.4235612
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1208
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 139
+                     },
+                     "end_location" : {
+                        "lat" : 41.8909544,
+                        "lng" : 12.4129374
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e toward \u003cb\u003eVia Alberico Gentili\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gfv~FgnyjAH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LTNZLZR`@LTv@rAHJFL\\f@jAhBVd@tBnCjAzAJLPTv@bADT@@LNTXXXNNLJNLLHTNjBfAp@b@`An@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8981218,
+                        "lng" : 12.4235612
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 329
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 41.89305969999999,
+                        "lng" : 12.4117643
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nicola Coviello\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "myt~F{kwjAG`@[f@SXSb@KNWj@yAlCS\\CFABEBA?A?C?A?A?CAcDiCGG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8909544,
+                        "lng" : 12.4129374
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Michele Pironti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sfu~FodwjAKLGHKLy@x@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89305969999999,
+                        "lng" : 12.4117643
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.8939199,
+                        "lng" : 12.4120679
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "miu~FoawjAqA}C"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "_lu~FmfwjAGBC@A@CBGHlArC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8939199,
+                        "lng" : 12.4120679
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 454
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjAeAnAMTSRQRGFKFKBYFY?KAMIc@McBy@gBs@EAKEQAI?OBKDGFGHS^CP?JAJ?H@N@L@H?D@BBHDHNXT\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Raffaele Conforti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_{u~F}xvjAw@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 461
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w|u~FowvjAi@eAa@s@IKq@gAa@o@S[qAqB{AeCcA_BaA{AaAcB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.8995345,
+                        "lng" : 12.4136219
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "knv~FaqwjAU\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gfv~FgnyjAnAvEf@dBhAtCjDnI|@tBbAtB~@nBvAbChBpCVd@tBnCvAhBhAxAFVb@h@fAbA`EdC`An@G`@o@`AqClF_@l@I?EAkDqC_@d@y@x@qA}CKDEDGHlArCeAnAMTe@f@SNe@Je@AMIc@McBy@mBu@]GYBSL[h@Er@Dl@Zp@T\\w@l@kAyBqB_DsHsLaAcBU\\"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

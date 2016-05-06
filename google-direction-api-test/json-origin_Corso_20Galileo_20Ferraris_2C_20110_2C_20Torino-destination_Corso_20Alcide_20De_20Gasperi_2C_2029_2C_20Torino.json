@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE8G_BDttiEcRTdPOGtC7caw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJa17UriRtiEcRkdesXbW9OlU",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0564409,
+               "lng" : 7.6629814
+            },
+            "southwest" : {
+               "lat" : 45.0519438,
+               "lng" : 7.659902100000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1031
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 202
+               },
+               "end_address" : "Corso Alcide De Gasperi, 29, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0564409,
+                  "lng" : 7.6605136
+               },
+               "start_address" : "Corso Galileo Ferraris, 110, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0544802,
+                  "lng" : 7.6629814
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e toward \u003cb\u003eVia Evangelista Torricelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ou~qGstwm@zD`CHDjC`B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544802,
+                        "lng" : 7.6629814
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0519438,
+                        "lng" : 7.6612182
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "}j~qGimwm@hDtB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "se~qGsiwm@_AxF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0519438,
+                        "lng" : 7.6612182
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sg~qGyawm@uAy@kBeA}CkBgBkAoBuA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 186
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.0559252,
+                        "lng" : 7.659902100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ky~qGgnwm@_BfF{@xCIX"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.0564409,
+                        "lng" : 7.6605136
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q~~qGkawm@eByB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0559252,
+                        "lng" : 7.659902100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ou~qGstwm@zN~I_AxFuAy@kBeA}CkBwEaD{C`KIXeByB"
+         },
+         "summary" : "Corso Galileo Ferraris and Via Gian Domenico Cassini",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

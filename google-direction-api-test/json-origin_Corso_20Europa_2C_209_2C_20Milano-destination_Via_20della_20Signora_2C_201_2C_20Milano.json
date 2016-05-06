@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2w4fhaXGhkcRT766E-AwPH4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJu_P9dqbGhkcRCDLWtEt1cKw",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4641662,
+               "lng" : 9.1974201
+            },
+            "southwest" : {
+               "lat" : 45.46178279999999,
+               "lng" : 9.1961198
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 371
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 85
+               },
+               "end_address" : "Via della Signora, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46178279999999,
+                  "lng" : 9.196568899999999
+               },
+               "start_address" : "Corso Europa, 9, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4641662,
+                  "lng" : 9.196308
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "26 m",
+                        "value" : 26
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.463969,
+                        "lng" : 9.1961198
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Europa\u003c/b\u003e toward \u003cb\u003eVia Felice Cavallotti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "avntG}ccw@f@d@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4641662,
+                        "lng" : 9.196308
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631785,
+                        "lng" : 9.1971317
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Felice Cavallotti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ytntGwbcw@vAcGPH\\TLLFJ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.463969,
+                        "lng" : 9.1961198
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4627548,
+                        "lng" : 9.197385499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso di Porta Vittoria\u003c/b\u003e/\u003cb\u003eLargo Augusto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{ontGaicw@d@DJJb@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631785,
+                        "lng" : 9.1971317
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.46178279999999,
+                        "lng" : 9.196568899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia della Signora\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "emntGujcw@bBxA|AhA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4627548,
+                        "lng" : 9.197385499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "avntG}ccw@f@d@vAcGn@^TXd@DJJb@eAbBxA|AhA"
+         },
+         "summary" : "Via Felice Cavallotti, Largo Augusto and Via della Signora",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei1Db3JzbyBGaWxpcHBvIFR1cmF0aSwgOCwgMTAxMjggVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn2TKfDdtiEcR5gp8axgR2Jk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0543155,
+               "lng" : 7.670320599999999
+            },
+            "southwest" : {
+               "lat" : 45.0497761,
+               "lng" : 7.6654205
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 870
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 200
+               },
+               "end_address" : "Corso Filippo Turati, 39, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0513082,
+                  "lng" : 7.667473500000001
+               },
+               "start_address" : "Corso Filippo Turati, 8, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0543155,
+                  "lng" : 7.670320599999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.0531724,
+                        "lng" : 7.669060999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e toward \u003cb\u003eVia Antonio Genovesi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ot~qGobym@vA`BlCxC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0543155,
+                        "lng" : 7.670320599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.0520457,
+                        "lng" : 7.667773099999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "im~qGszxm@dBrBxBlC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0531724,
+                        "lng" : 7.669060999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 285
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 45.0500451,
+                        "lng" : 7.6655115
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "if~qGqrxm@~H`JnA`B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0520457,
+                        "lng" : 7.667773099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 263
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 45.0513082,
+                        "lng" : 7.667473500000001
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "yy}qGmdxm@PPRc@N_@EGIIMMa@c@a@e@qDiE]a@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0500451,
+                        "lng" : 7.6655115
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ot~qGobym@dFzF~E`G~H`JnA`BPPRc@N_@EGWWsGuH"
+         },
+         "summary" : "Corso Filippo Turati",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,392 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwQ3cW7vGhkcRSbL5Umpz398",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRQhgiwLEhkcRieRAJ7EQ4FY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4693869,
+               "lng" : 9.206788299999999
+            },
+            "southwest" : {
+               "lat" : 45.4524748,
+               "lng" : 9.1873985
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.5 km",
+                  "value" : 4522
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 895
+               },
+               "end_address" : "Via Santa Sofia, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4569516,
+                  "lng" : 9.190342299999999
+               },
+               "start_address" : "Corso Monforte, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4671166,
+                  "lng" : 9.201709299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 45.46699479999999,
+                        "lng" : 9.200545699999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCorso Monforte\u003c/b\u003e toward \u003cb\u003eVia S. Damiano\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ohotGuedw@XfF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4671166,
+                        "lng" : 9.201709299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 45.468199,
+                        "lng" : 9.199777899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Damiano\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ugotGm~cw@a@J]NqD|B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46699479999999,
+                        "lng" : 9.200545699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 45.4693869,
+                        "lng" : 9.2039449
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Mozart\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gootGsycw@Ie@w@oEi@kBMWw@_B_@mDQyBI}@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.468199,
+                        "lng" : 9.199777899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 45.46756329999999,
+                        "lng" : 9.204541299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Vivaio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uvotGssdw@JC`FkAp@O`@KPCXG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4693869,
+                        "lng" : 9.2039449
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.4678123,
+                        "lng" : 9.205731199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Monforte\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gkotGkwdw@q@mF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46756329999999,
+                        "lng" : 9.204541299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 577
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : 45.4626628,
+                        "lng" : 9.206532299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViale Bianca Maria\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ylotGy~dw@^AfBGxBKdDQbBKrD[|AQfAILETGLGXKrAQ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4678123,
+                        "lng" : 9.205731199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.461855,
+                        "lng" : 9.206676
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Cinque Giornate\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "slntGycew@d@IJ?JAB?ZC`AM"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4626628,
+                        "lng" : 9.206532299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 533
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 45.4574338,
+                        "lng" : 9.2044867
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eViale Regina Margherita\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sgntGwdew@|BO\\Et@Jl@Jp@T|@^hE`DPLNJvCxB`CfA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.461855,
+                        "lng" : 9.206676
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 45.4524748,
+                        "lng" : 9.201866299999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eViale Emilio Caldara\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}kmtGawdw@tNtHVLh@TfCbAxEbAdAh@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4574338,
+                        "lng" : 9.2044867
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1034
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 231
+                     },
+                     "end_location" : {
+                        "lat" : 45.4585082,
+                        "lng" : 9.191875099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}lltGufdw@Cd@eBjDeAhBmAxBuDtHwGlLADGNOhAMNMRa@p@oArBmCxEILcArBu@tAKVe@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4524748,
+                        "lng" : 9.201866299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.4575097,
+                        "lng" : 9.1900583
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lentasio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "urmtGghbw@j@fAdAdAt@j@DDBFTbD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4585082,
+                        "lng" : 9.191875099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 198
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.4573991,
+                        "lng" : 9.187552999999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Sant'Eufemia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mlmtG{|aw@XlCHlA@p@GxBGlB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4575097,
+                        "lng" : 9.1900583
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Italia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wkmtGemaw@lAH`CDv@HHB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4573991,
+                        "lng" : 9.187552999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 254
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.4569516,
+                        "lng" : 9.190342299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Santa Sofia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ecmtGglaw@?u@Ec@EYI_@Qo@EKg@mBu@sCa@_BIY"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ohotGuedw@XfFa@JoElCaAuFw@cCw@_B_@mD[wD`IkBj@Kq@mF^A`FShG]pGm@tAOb@OXKrAQp@INAxFg@bBVnBt@bKtH`CfAtNtH`Ab@fCbAxEbAdAh@Cd@kDtGmAxBuDtHyGrLWxA[b@qBdDwCfFyBhEq@vAj@fAdAdAz@p@XjDb@zE@p@GxBGlBlAH`CDv@HHB?u@K}@iAiEaBmG"
+         },
+         "summary" : "Corso di Porta Romana",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

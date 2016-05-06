@@ -1,0 +1,298 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcyjopsNfLxMRKHkBk4J8N04",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsT0lW89fLxMRywMQwfUfCqI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9110859,
+               "lng" : 12.430146
+            },
+            "southwest" : {
+               "lat" : 41.8981218,
+               "lng" : 12.4217443
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 km",
+                  "value" : 3085
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
+               },
+               "end_address" : "Via Martino V, 28, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.90542689999999,
+                  "lng" : 12.4217443
+               },
+               "start_address" : "Via Aurelia, 476, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8981218,
+                  "lng" : 12.4235612
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 517
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 41.898456,
+                        "lng" : 12.4296763
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Via Aurelia\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "gfv~FgnyjAAEOs@SeAKq@CUCWE]Gq@@I?GAa@Em@GiACa@?S?Q?a@?O@K@EXqD?[@O?KSuBAs@?_@@]B_AB[@q@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8981218,
+                        "lng" : 12.4235612
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8982143,
+                        "lng" : 12.4300952
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "khv~FotzjAp@sA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.898456,
+                        "lng" : 12.4296763
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25 m",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.8984369,
+                        "lng" : 12.4301331
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yfv~FcwzjAm@E"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8982143,
+                        "lng" : 12.4300952
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985813,
+                        "lng" : 12.4294092
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ghv~FiwzjAOCKrC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8984369,
+                        "lng" : 12.4301331
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 326
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.9010842,
+                        "lng" : 12.4274214
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "civ~FyrzjAaCx@KHcC~AMJy@r@i@j@[^_@d@q@r@AB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985813,
+                        "lng" : 12.4294092
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 690
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 41.9068832,
+                        "lng" : 12.4254096
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Domenico Tardini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wxv~FkfzjAcAp@g@n@g@Z[Z]\\c@VyBvAQH}@f@QLMHMHMDO@iAJ}@Hc@BeADYA_@Cm@@I?O?Q@U?}AGEA_CE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9010842,
+                        "lng" : 12.4274214
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 485
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 41.9110859,
+                        "lng" : 12.424019
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_}w~FyyyjA{B@iCTUBu@N}Al@aAd@EBeDbAKB_A^OD_@Lo@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9068832,
+                        "lng" : 12.4254096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.9105123,
+                        "lng" : 12.4225076
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Calisto II\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwx~FcqyjAf@|AjAnE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9110859,
+                        "lng" : 12.424019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 697
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eVia Pio IX\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "usx~FugyjAA@?@A?A@?@?@A??@?@?@?@?@?@?@@@?B@?@B@?@@@@@@@?B@@?@?@?FAB?BABA@?BC@A@ABC@A@C?C?C?A?A?C?A?CACACzFsBvAk@fBi@rB[jEM\\?N?F@FBlAlAvCpC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9105123,
+                        "lng" : 12.4225076
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 41.90542689999999,
+                        "lng" : 12.4217443
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Martino V\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqw~FohyjA{ApD?@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gfv~FgnyjAq@qDU}B@QGoAKqCBcAXmE@[SuBAs@@}@F{A@q@p@sA}@IKrCaCx@oChBgA~@wCdDeAt@g@n@g@Zy@x@}CnBoBhA[NyALaBLeADYAmAAY?g@@cBI_CE{B@_DXu@N}Al@gAh@qDfAoAd@oAb@rBlHEDAD@PPJLALCJKBM?IAGACzFsBvAk@fBi@rB[jEMl@?NDdF~E{ArD"
+         },
+         "summary" : "Via Domenico Tardini",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

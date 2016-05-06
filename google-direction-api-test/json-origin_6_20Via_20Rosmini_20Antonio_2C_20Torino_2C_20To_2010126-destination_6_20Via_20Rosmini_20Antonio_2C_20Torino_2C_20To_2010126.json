@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJOZzgUkhtiEcR6POYEAE45vA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJOZzgUkhtiEcR6POYEAE45vA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0489257,
+               "lng" : 7.6721798
+            },
+            "southwest" : {
+               "lat" : 45.0489257,
+               "lng" : 7.6721798
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Antonio Rosmini, 6, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0489257,
+                  "lng" : 7.6721798
+               },
+               "start_address" : "Via Antonio Rosmini, 6, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0489257,
+                  "lng" : 7.6721798
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.0489257,
+                        "lng" : 7.6721798
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Antonio Rosmini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yr}qGcnym@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0489257,
+                        "lng" : 7.6721798
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yr}qGcnym@"
+         },
+         "summary" : "Via Antonio Rosmini",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

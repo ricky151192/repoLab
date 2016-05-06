@@ -1,0 +1,226 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgRmVkZXJpY28gUGVyc2ljbywgMjAsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EiRWaWEgUmltaW5pLCA3NCwgODAxNDMgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8633886,
+               "lng" : 14.276759
+            },
+            "southwest" : {
+               "lat" : 40.8567517,
+               "lng" : 14.2714196
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1489
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 302
+               },
+               "end_address" : "Via Rimini, 74, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8572632,
+                  "lng" : 14.2752419
+               },
+               "start_address" : "Via Federico Persico, 20, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.86096879999999,
+                  "lng" : 14.2714196
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8611276,
+                        "lng" : 14.2731124
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Federico Persico\u003c/b\u003e toward \u003cb\u003eVia Ferrante Loffredo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "atkxFkkbvA?SOaDO{C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86096879999999,
+                        "lng" : 14.2714196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 221
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.8630972,
+                        "lng" : 14.2727744
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Generale Francesco Pignatelli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aukxF}ubvA_CRaDX}@H[BMF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8611276,
+                        "lng" : 14.2731124
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 247
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.8633886,
+                        "lng" : 14.2756096
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "kalxFysbvA?A?AAA?AAA?AA??AA?AAA?AAA?A?Ck@EaBQeJKq@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8630972,
+                        "lng" : 14.2727744
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 419
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 40.8596562,
+                        "lng" : 14.2762522
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eclxFqecvA`@KPGNEtBEnGs@~Gk@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8633886,
+                        "lng" : 14.2756096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 312
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 40.8568795,
+                        "lng" : 14.2767371
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{kkxFqicvADA@?@?@?B?LC|BY~@KxAOvAM`@E^Gf@GZEN?FB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8596562,
+                        "lng" : 14.2762522
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8567517,
+                        "lng" : 14.2761089
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Giovanni Porzio\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePiazza Salerno\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ozjxFslcvADF@H@HBl@Hh@@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8568795,
+                        "lng" : 14.2767371
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8572632,
+                        "lng" : 14.2752419
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Rimini\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uyjxFuhcvASb@qAhC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8567517,
+                        "lng" : 14.2761089
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "atkxFkkbvAOuDO{C_CR_Fb@[BMF?CACEECAEAImCQeJKq@r@SNEtBEnGs@~Gk@FATC|De@pD]dC[VBFPDv@Jr@eBlD"
+         },
+         "summary" : "Corso Malta",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

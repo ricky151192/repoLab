@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJqbJ6rsVfLxMRPO7HKsq__tc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiVWaWEgTHVjYSBQYXNzaSwgNiwgMDAxNjYgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9031303,
+               "lng" : 12.4232108
+            },
+            "southwest" : {
+               "lat" : 41.8936605,
+               "lng" : 12.4103114
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1931
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 231
+               },
+               "end_address" : "Via Luca Passi, 6, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8965675,
+                  "lng" : 12.4103114
+               },
+               "start_address" : "Via di Boccea, 173, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9027958,
+                  "lng" : 12.4232108
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 113
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia di Boccea\u003c/b\u003e toward \u003cb\u003eVia Emilio Albertario\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ocw~FalyjASnAe@tCEPAH"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9027958,
+                        "lng" : 12.4232108
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1408
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qew~F_dyjAdHfF^TRFNDtARf@FTDHFLJl@~@|BhD`@r@LPnBhB|AhAXTDHHFf@d@XP~ApA\\XRRNVX`@~@rAdDtFjArBpB`DDJNXHRJXRl@J^Pj@Rh@Xn@lArC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 410
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.8965675,
+                        "lng" : 12.4103114
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjAeAnAMTSRQRGFKFKBYFY?KAMIc@McBy@gBs@EAKEQAI?OBKDGFGHS^CP?JAJ?H@N@L@H?D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ocw~FalyjAaA`GdI|Fb@L|BZTDHFz@jA~C|E|BzBvB~ANP`Av@|BjBb@j@xAtBpFhJvBlDXl@|@rCl@xAlArCeAnAa@h@YZWJYFY?KAMIc@MkEmBQG[A[HOPS^CPAV@XB\\"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

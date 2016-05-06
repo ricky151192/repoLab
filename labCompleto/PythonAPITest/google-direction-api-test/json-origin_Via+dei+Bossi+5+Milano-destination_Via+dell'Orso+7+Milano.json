@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsb92Z63GhkcRMw71xKJnKII",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-fDVlLLGhkcRKYz7FujlWns",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4690786,
+               "lng" : 9.1875178
+            },
+            "southwest" : {
+               "lat" : 45.4674269,
+               "lng" : 9.185353899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 487
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 164
+               },
+               "end_address" : "Via dell'Orso, 7, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4690786,
+                  "lng" : 9.186876999999999
+               },
+               "start_address" : "Via dei Bossi, 5, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4674269,
+                  "lng" : 9.186141599999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.467877,
+                        "lng" : 9.187246199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia dei Bossi\u003c/b\u003e toward \u003cb\u003eVia Clerici\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mjotGkdaw@]uBYeAKUGGEAGA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4674269,
+                        "lng" : 9.186141599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.4685489,
+                        "lng" : 9.185431099999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia del Lauro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gmotGikaw@G?C?AACAIGW[UMu@dDERAJAL?J@P?`A@lB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467877,
+                        "lng" : 9.187246199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.4689505,
+                        "lng" : 9.185353899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Broletto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mqotG}_aw@g@D[DKB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4685489,
+                        "lng" : 9.185431099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 45.4690786,
+                        "lng" : 9.186876999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia dell'Orso\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}sotGm_aw@E[Cg@Ey@IsD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4689505,
+                        "lng" : 9.185353899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mjotGkdaw@]uBYeAS]YCECa@c@UMu@dDG^?lB@lBg@Dg@HIcAOmF"
+         },
+         "summary" : "Via del Lauro",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRyTeJMZfLxMRC4fkoEfDq50",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJx0nJSepfLxMR0xdzte3tNJg",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9046896,
+               "lng" : 12.4274542
+            },
+            "southwest" : {
+               "lat" : 41.8933835,
+               "lng" : 12.4176867
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 km",
+                  "value" : 2341
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 473
+               },
+               "end_address" : "Largo Lorenzo Mossa, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8933835,
+                  "lng" : 12.4193329
+               },
+               "start_address" : "Via Gregorio XIII, 14, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9046896,
+                  "lng" : 12.4188106
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Gregorio XIII\u003c/b\u003e toward \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iow~FqpxjAn@Gh@CV@PBRHIj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9046896,
+                        "lng" : 12.4188106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{jw~FaoxjAfAF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 580
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "shw~FynxjA@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BK"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o_w~FmxyjAd@sAv@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 915
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 132
+                     },
+                     "end_location" : {
+                        "lat" : 41.8952533,
+                        "lng" : 12.4176867
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjAK|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@DH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LTNZLZR`@LT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 235
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 41.8935501,
+                        "lng" : 12.4193239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nicola Lombardi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "itu~FqixjAfCmCdAeA~AeBFCBADCRA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8952533,
+                        "lng" : 12.4176867
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8933835,
+                        "lng" : 12.4193329
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo Lorenzo Mossa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uiu~FwsxjAT?JA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8935501,
+                        "lng" : 12.4193239
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iow~FqpxjAxAKh@DRHIj@fAF@m@D}AP{EZ{Dj@aCF[nAuHbAaF`@mAh@_Bv@Mv@]lDoBtEoB~Au@nAm@K|BAdA@~@XdEFNFp@Ht@NfAb@xBpA|Ef@dBhAtCjDnI|@tBbAtB~@nBLTfCmCdDkDJEXE`@A"
+         },
+         "summary" : "Via di Boccea and Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

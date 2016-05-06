@@ -1,0 +1,457 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-AAAAEr716640jYB2qCKhwBjUu6p-ZYG9mGe3Er4xbQ3FjNiAgdcYUWs1jxpc_b42quVwGMZslbb_SiVVK9An7ZUyq0Nnv2sEuJxPseVJ7NfzMMYXwsHAZjY2A4FszzWO1ufHNRxv_odn38pd_lUTFK6Gzp4jGugbiothsRVt5dBHOK-0fsDyx09udUyRxEUGIl3jQ5Klpp_u4xf_Ox579gDMu_M20eW4yx_PtXBPhoTPUT_7Yp4YOokhRAxw9KzP84wowg7gMFf3xsxIOcxPrc3Mj42E1rMydJ8Zmna2SQFKEWxz4ECRzcCL0XmNAz04XZzQglNkxyzXuMgS0uw7cXGUiUSEOzgDIz89-cDu6T8IloV_jMaFAGcBUSzWaqUv9KwGFaN1K-snb4p",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8503392,
+               "lng" : 14.2508233
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1f0b1bc06a0f806e9d160629847dc96072af1271",
+         "name" : "Bourbon Street Jazz And Spirits Bar",
+         "place_id" : "ChIJa337CxEIOxMRaM08hi7cKoc",
+         "rating" : 4.2,
+         "reference" : "CoQBdwAAAJzlR3HNvZ9KIofxzBM3MloX25dyiKj5KU8njTbj4l5QIueVxUMVwBFts5fU4Za11yz3vfzJiGX13iug2JZQ0atStfjy4S5IEddTr0TyBFbVegb3yzxmqJ6y15YLwKI5dYufQoQN8taU_PyxgYw98MaY4TbQG0Wc0Y4njaTjnwvdEhBJkH0qZGarDlLWyVTn6BncGhRimPyoRFzk6y8LbrxxJP34xpY77w",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Vincenzo Bellini, 52, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8500349,
+               "lng" : 14.2523003
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "227fdfb1b93f3c1dec0a07e8a79062291534a24f",
+         "name" : "Intra Moenia",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110208388994808526942/photos\"\u003eAntonio Manfredonio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAA8MjtaMZ0Ist1g9X1VZ62bbLcAod0T_3rMYqSfZ1grzi4b_TfAY9fxoilKKysjCODQdkXb5g-cI7OlMgEuwPBnI4PrQqqdY1ffulDZzJ6EWbhZXYtd1xVBO02hC7eHw9p0dDA8HUY4vsx9fROFSU8TfTBX-_xdtAAzs4euFMGOzEhDcZN2BsxqeT_yMl6sYSrSQGhRYBSkLTYtxdydk3DTtUUDwzS4VJQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJqXzLJkMIOxMR7HWvCfUXmKQ",
+         "rating" : 3.6,
+         "reference" : "CmRgAAAAjc7sUKHi87qqKLYO9dF0Ga1Aa7KI9deD88ZsBaawQRmam8S2CppGGogVTM5cNpYvAXA7aa5zpdLnFijNc-1ixOop2XtjuVMIEpmEiAcAqVol9U9v1IsELu1sxmiJi8mgEhCBm4Y5kRyaMFNPuc74PQ4hGhT_6PCRfrmH_NeA4SY6RqzUE2EvUg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Bellini, 70, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8591003,
+               "lng" : 14.2492649
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6529432b357c305189079d0e3ff7f5c07544b02f",
+         "name" : "El Pocho Pub Napoli",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHbAGm2UIOxMRXFhe9XImwUo",
+         "rating" : 4,
+         "reference" : "CnRmAAAA3ZZPsFJoIswHXoW3wlM7BRQBlfhzJdqvnWYoNMkSdd5Ly3D1T5q1dZaaP89rxQlqjLL5s-9dc9K3cFF0PJO0T08yjJ6EqQRzRZMfBG4bZrkI833Zwp-pT3BKg-GEvuUquU_-uPY_BY-4XviCZH-lMBIQ3qjXY4s3AYw8uQzxeHLC9hoUM4bOnV8ELRT_gsYpgHGReM2U7Lk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Sanità, 9, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85129000000001,
+               "lng" : 14.24223
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "aa718d0dc07444b32f11587a6223c6af568735f6",
+         "name" : "Cocacola",
+         "place_id" : "ChIJwWdUAF8IOxMRf2gP2yrWNlo",
+         "reference" : "CmRbAAAAOfQNECv8i0AOSQjmGgfeyKw2UqdyuQxhGh13K8d7d1XL_4y_h-2TNG9NLXG9qaNXvPrL52JJBYG_UjZv_k-fMnkvGSyzn4nSiWdhAKRu9OlnBVe6gZURPlEyc9GzcJTmEhC1vnWB8vJvhkwmGh_vXVmXGhTsF7P8XXghLnL-h3XphPg-92c_bw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Piazza Mazzini Giuseppe, Napoli, NA 80136"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.849456,
+               "lng" : 14.250855
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b6350fe7f6f9baa6690f7981cde7e1e263591fec",
+         "name" : "Libreria Berisio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110088930286252409448/photos\"\u003eFabio Berisio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAK5CgkcD-sOV6ir6QWhwBN-daSeNCnU5xsctt0qudXG0kGdSvMZsI9HukmnpbsszLi7uVSbrS74Gx8Kk83u4CU6_9SxC6urSmlZ6xRXMvKxzn-_y6iP_fHgnqUUprwwk2InX6FOToO372VWz0fOXcaDnO3u3E0N2tljeCC5jM53GEhDGH5RfOSZZmCmqeV5WhPTNGhRQImRINdh0bGgAMkp1YxK9c8OMWw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ9ZsPzFwIOxMRW491MMse1dU",
+         "rating" : 4.7,
+         "reference" : "CnRkAAAAp5RlT-HV3wS_DQS0_0Xn7DmqnI80s1qwTurQ0AVGGqDr9kr0MwJlkun6Zdv_tzggK66eJ7FiCpFthOhWBqltIRJgn5g-9w4KrR4rDmq3EBHv4rUUFxC3By_GN-DUMPZl8hKx4pw8ZqSSZNgegYMI7xIQbjHLn73bQiaw_sJqBewrgRoU5OudVSicAdvggargsULhmMV8KS4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "store",
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Port'Alba, 28, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8554708,
+               "lng" : 14.2371142
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ef09540f49c860f0e4fe010058fb9ab4f2c14f18",
+         "name" : "Caso",
+         "place_id" : "ChIJE3F13IoIOxMRorOg59p28dI",
+         "reference" : "CmRYAAAAL_qQoIkkxGYa2aesgeMSawmsjK-0Q9zWczdm6WRONLtkWJ5MVE5z__vUYvHGSKIuQ22d-fngxX9ZQOnXnKs6ev4CNQDtNyfqv6E9HJ2sfmhWlnsMDsBgnHt1eSHiLCN0EhBBTeILgPUltvHTCw16PQMPGhRljHEIf6Zb-xKqr-yaPmFy-4-IDA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Enrico de Leva, 24, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8509265,
+               "lng" : 14.25182
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e1fc48950a9093ff317f000a3dd1a1ccc1910973",
+         "name" : "Bar Fiorillo Di Fiorillo Emma",
+         "place_id" : "ChIJ_WiU10IIOxMRNW2dm4-Iyeo",
+         "reference" : "CoQBcQAAAK6uUgm2jNi7xzLCooIUM6s77x_YED_jscuTYnTNgpSiahFypNpngvC3BnWJFnQ8yeFIeRD9dElZ-OAyzmU4QixRJlYePNQOjo0Iy_0ZjcGe-Yqm9jTpFnEm7mvGrdXvmOxeT3ahi4Cvoumv2NsnrwPvt3DJV-BSmukyDzZJ_ieXEhBweFrPHw1Iat_8pCJUgwMPGhQWyOL_akYIoOO6VvyxZAfRPFm31Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Maria di Costantinopoli, 88, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84940599999999,
+               "lng" : 14.249702
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4d592846399408c56a2f91d325b89f5c8b365c96",
+         "name" : "Mexico",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104425490415042229933/photos\"\u003eMexico\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAO7kNFDdaZ6pFAQYtJPaoNM528rhprXDPqRd1Z3k7bdyvid4pBmQl5GxpZVgvjohayvlZi4Ayi2dosm1fhLSObboCb21YFha5kgAczYzVljm41msyqmOp3PpRID6X2zod1tkXUWicoAGKvymcOG1_3svNqbryOZo7Vu1Q2ZNWuyoEhDhSE-N0-cWsL_ICIO-MA6yGhQdkAKKm4qJQgMOfA0aJ99Qn4MW8w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJtYzIwVwIOxMR3jpRzic55FA",
+         "rating" : 4.5,
+         "reference" : "CmRZAAAAq22rJMCBG-e32hTptk06fv5JH6lP1l2LftmRBU_Msx9bHw3PTlrpz7tZrtnih-ucqOs7spCVFuo-5Z94j8yar0g8Djpt7yFm1HvhdpQZJN4osH8E8fuUXMUycmMQIovjEhBUltVKUvnnmPr3FGPfI-A4GhS4pN6X9bT4LB2-J1ZIB_uNXSRG3A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Dante, 86, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.849695,
+               "lng" : 14.252662
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "cc25ad1835ab3eb446e0daa2bc95a80ba11ad557",
+         "name" : "Caffe Delle Muse Sas Di Piccolo Salvatore",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111774787114389944945/photos\"\u003eSalvatore Piccolo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOWzm-MKjAYWnsXz22pphlmd_GRQt5I6dratC-2jESYwfWrG5Rtaa45drT3J9cq5uGSCtjOlvw0inj03a7mtpm6IXxdlj3lAV31J-wQ29fBqNXAQYb6vbpdKFFJhEV5ehkF-d-BJtYaV-NE-ucHxhlFj95DX26V_K0UXNFgA8l7SEhDlgt0jAGAyg270u7PUT4t5GhQVWRiDDQL7heWGZEXIgW6kUB_QCQ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJH2yBIkMIOxMRBQkLc-koRn4",
+         "reference" : "CoQBfAAAAIO3iTyPwtU6sOjHwqqKxihtY6u6AzmRfnNpTti0vkwPia-XRr3ZPkfRXjc2UJV5rusUWY_s4ekJAbpHtbcJMHwNQvZmFTm6j1UboFvjmSeM9khN10vB2N1QPMwnPIM72hjAKoPIRlUtUHMS3mr4DeSDkYYq3ImMT9JCfyKfHWTnEhBZDpTewi4io-EAP7UZX47BGhSbXfSgmo2cTyygkQ_co-N-Ksed_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Vico San Pietro a Maiella, 9, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.849436,
+               "lng" : 14.252341
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "997c28af8861762d09aaa1b8cd5cdc20c0c3dba0",
+         "name" : "Scagliola / Nicola",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 220,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112146046895999873621/photos\"\u003eScagliola Nicola\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAANtMS6wsNwC-H_dUtcOiy5ARVwx72t72YnWpx8oz4bY_kx6EQt1ZQmtlbVMUIosBRUBIZo_vtwY2YPNT_Tbh9T_rlS6ImADAiSC78cFf9KZI-37fh7g3m_DCd2bqGbK163556q55eGhgFFyJNFlvPtLYXMPc5Au1bPZheNcvJsPEEhBzqX7ycnrh6t48clRFO58DGhRj-gC2Y2E0UsTXSjvA9JGqrLm1sw",
+               "width" : 186
+            }
+         ],
+         "place_id" : "ChIJJTpJGUMIOxMRBu49gHVCafw",
+         "reference" : "CnRmAAAA3-w8mX2qAvv6hf0bsQxxx_AX8xTwCbeETHFSxlxAjeAYA-f3vRdh9epXU6d1YinTIZ0jgmedCc8WBwMjVQ1gmMbY6hSPSK7X976iuP671xKcuH-8pnWJJBYtrwJLvdMZ5TDwE5vW7hjGNc7Mrc2VbBIQ6adsdl_OpIKgPhO-W88XFRoUbUdaT0kfr5VFcN-gzCnWhBYgYLE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Pietro A Maiella 15, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8591253,
+               "lng" : 14.2506241
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "055f1449b568e4cbb85bff791f0af3ba2b60ef62",
+         "name" : "La Taverna Di Toto'",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116729418639471028922/photos\"\u003eYasuhiro MINO\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHoVF0wymp5d3C9czBz3Q6ijWvyYVYnJh6f6swylbjVXxgCtC1zVVk9MPQIIrC_XLmBZpLk-ZtgM_Jc_DUHujFS2eaN06OPCoAEiGvefnahTKNVljQXk30irAiFePuSi7KPxu6_PirRsalVav2wo6lidgWvTDJtd0vQ33pFNoJAZEhDWqMt0d-K6e53X2mZqg9sIGhSbUmItYxG3WrN_Xn1UT6mFXPYX9g",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJuWGrlmUIOxMRiXLM5fbTb1A",
+         "reference" : "CnRmAAAAo8tbxpJK0YNYiYVtrfmMqXjh75FSFqR83GybtcjF5d6xc0UIysVxC0Y_M2lsWhU4mjhuMaN6b8QULEyU9bAIMonoK30s7hhytpW7qsOU1jksJujIyxZ02BXiDxL2vQq4EOS5AhKi3WjA5EwdnY2VTRIQSPg3iUTVyTRMeKMf7nMjhBoUvKOytXskk3t7PN_euSZ5gWj5Qlg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Sanità, 33, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8497488,
+               "lng" : 14.2504793
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9a2a59cfd6f1409a9a01cb0423ce1143357c4409",
+         "name" : "Enoteca Dante",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105077569084845103407/photos\"\u003eDomenico Serra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHfGIFdDcy1UZfXwtWPGg01oACa2AhLM637ba1YSfLnzpBtoSzP4bKGgJsvJE0wR-rQkf7NUpe6DoIIaXZhEl81tWTZCq1pvcIBlHAznjtms-PLRT53M_dQ3NfdibdX4FyVT7PH2UP0BVnEbVlE1wSONEE3MEsZFJmyr5GIzl_SrEhBBnuailFHyg4HEdZ2YmQtTGhTxrblVhDHz-ex8d126uqCeQtnXKw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJwSQwxVwIOxMRFIBCcpH52Ls",
+         "rating" : 4.6,
+         "reference" : "CnRhAAAAQDqDshQvCYQud531Wdd7cfddi1GzmorlvRJoxFHkaJoyuWuiBNhtZbg2i5Pfk7SV5T7uHgYRgFgEXnfQoDWPaVxoNKxqYu33LWXJE5tIS2YtL9t2qKYOWMJ9EFGy6BFwevSaoHGFYTvNrl6zCSU43BIQ5UCfoHeAiNx-FCJPjLugwhoUSqLyQEPmasW6mYjtdzUrH8iwsI0",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Dante, 18, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85165479999999,
+               "lng" : 14.2425219
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "42ef0b8680b0615fdf636e85f5406aad2e8f9c74",
+         "name" : "Caffe' Mazzini",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJR3MdoV8IOxMRtbx4gqnfvrg",
+         "reference" : "CnRiAAAAN3h4LaxRLwnxADfNwirIPaCfqtXssWBjv9yXGhqgqcM2d55c__0fRcpsjo-V481lgud2PO8YRDDW_Sd2p9DR8eghZ61MCqI5mhgSgYdCUKId7JQlc21p1o8qORLpTXBG4xang6QE-Dxzm_FOXmCv-xIQUUIf0s79EnR6p7slc_fkrxoUj1xpaSRCShKRWY3OMfUe08hrDUE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Salvator Rosa, 255, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8616161,
+               "lng" : 14.2469651
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6ad08701d6caaa15f017861bf3da22ef88c724fd",
+         "name" : "Bar Aversano - Di Aversano Salvatore S.A.S.",
+         "place_id" : "ChIJ10--kGQIOxMR7asWcBiOeS4",
+         "rating" : 4.1,
+         "reference" : "CoQBfgAAANNc2o9nd_qUZiLc9d8n9vTS25eaYCZ_IalpHJ-7zzNO3iZk7pyia6A6zO-NJSJ8GxzJlJNn5ank06t8XpYRSU3QeYVLnK9axnIWu2Ht_DNxhVbmLDIBEuSURulhpUHfhIHkhGZEFlLhP5CSPIehuj8OywFdHewOrTphQJMO_iPxEhCowFrdHnjTYTr3lP1EBqJKGhQxpxuOBctjenvPPbxjC1CwTpPIug",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Gennaro dei Poveri, 25, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85329179999999,
+               "lng" : 14.2462292
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5b82f8b1dca249988066cb5c122c0e5e48c72e09",
+         "name" : "Bar Di Fiore",
+         "place_id" : "ChIJg7y8j2cIOxMROUToZtpYmTU",
+         "reference" : "CmRfAAAAdkzTg5JfG8zncY5-2Qo-M-hFlRVp-RsfBwbZG1snR3z95pPmvQn-VFHKvJvIjUMZqKAl2dZO81ve6G5q2hnoDL2vKqsQvhHbY9tIriwQDavp6AIEKJZEBvovZlPsQU0iEhDAVu9lVwf23dwh6SwqZWkZGhTa6W4LyH8crKWwWoMmlGddQ-fyJQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Salvator Rosa, 3, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8571065,
+               "lng" : 14.2482385
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bb609ca81175c6132cb66212e5c0a5797405b567",
+         "name" : "Bar Emilia di Russo Ciro",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcboLimYIOxMRfgHkoz8wY7k",
+         "reference" : "CnRsAAAAeH8RyeQ1j3FZokZglMWv1LlEqusA5XnH_qtoNgxyBh6f2uM8mam5Pvub7-inyl_-bACaZtxNwAtuGNnxwwxm7J4yYsZ_BoaSVxU8W1Cb2CtMS5Sx_PpMekAWLfL47wBkRf3w1bQRyb9nLqBg0SDh7BIQjhAndFEXBGbeCzbcOkb5XRoUynyukO03eKUBmbGoJFZHy3e1RU4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Teresa degli Scalzi, 153, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.855514,
+               "lng" : 14.248445
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "04e740752524e09fd61d8cde92517903cf0cef20",
+         "name" : "Ristopub Il Grotto",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 488,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117697482575583793145/photos\"\u003eRistopub Il Grotto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMSzwTqYu6XmMumzhHzciH8Nf1RoWepaJyujnUm-O7egG2U_KFnW439MdS6GKDzSoDbyHnDsUZsxL8y1pVcS84yqC4Q10wU29pO_EOmctrH_l2E55REPqexRbeogYDYuFS9f5jFt38iPcCpfgsnBTp30h8CMLWADE_kjcDgxAtijEhA4kTuFAtwd1eLieGBXTXU_GhTFMpKcQk8Z9MtmgvWzlMmiRkqcvA",
+               "width" : 793
+            }
+         ],
+         "place_id" : "ChIJd4BrVWYIOxMRuap6cjYUuhE",
+         "reference" : "CnRlAAAAkCEokTvF5_RnhaLZsY35Gm47XoiReDkwpIGDmC1Fc5RAPWWQsfvXI6o0P1JJiD6Cc2saacjsWIK9xz4bWOsM5Cx3_kd6QlXsvzYOEPQwdnqfvVJKhDTS2FX6XwONvvE1ci9a74gHUHYRaeNkmXD2ghIQSdZhTG7ec1IVHYlN0lUV4xoUrfk9SRv_1l7CdElJLtrI5m-ga3o",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Teresa degli Scalzi, 88, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8543452,
+               "lng" : 14.2488039
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "38e16d7ac22dd2fc3f97a5bd9e38658f5399815e",
+         "name" : "Bar Santos Di Spiezia Antonio Antonio",
+         "place_id" : "ChIJHU3ComcIOxMRKgyfE58ZKKk",
+         "reference" : "CoQBeQAAABPZ5eSZRsHuMEcytyotFZXeYLGmO2nZkD7oJQGF4-ssVuKpsnbIjm2b6aJbPdB4gDhtL7xZEslr9XHQm5rW8xU0VkBuTSiAaiEjfpTWFm8q2SO_CJxY-E0bRVL4nKxp9WuZj1VqS-p4dXnvyKrBJQc5FA_v29dFv69IaIn0IroyEhAkg_m9hNWxDUu1N_mkDpwtGhRfygWmmlNyyZKz5DEtj_4Y-OYRpA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Teresa degli Scalzi, 33, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8566918,
+               "lng" : 14.2428156
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9b74a1d1c586a4f9dbf46f86a864269b0d2aa9c1",
+         "name" : "Caffè Doris",
+         "place_id" : "ChIJ3QTMBWEIOxMRABQ4DnlxohI",
+         "reference" : "CmRfAAAAhiFuikWyqpYaxYnJl0QiNCHf3iN1LQON90C6Ua4HmVTGDsPFsGlIZmAYWpCfnGEtMsPs_Yhlfg-fRoQXgRx-nXkW6DonZosdhnLoXZ9uSqKPNcZj4CHjlorcOTDFOh16EhDN0PUg5PGKx01C402GNhSEGhRiW2JcUkTvOt5J_3EQkxxq28YiSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Bartolomeo Caracciolo Detto Carafa, 5, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85441429999999,
+               "lng" : 14.2490847
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8d1bb57220415068bc5727097908ced26e476fc9",
+         "name" : "Caffetteria Santa Teresa",
+         "place_id" : "ChIJhTPHomcIOxMRXwRGndcOaR8",
+         "reference" : "CnRrAAAAmzCvaIP9AvD7OX16xnokClzUwMS7NLWN3lrNlXSRMjhCEnkUbXyHOwasjrlXTkP3cDiH3RBoF1oynxXrCoLPxd5ZJC01MtQ2cGi8Mm8OBn4duoX-Ii_yRgxXmrj9cKmMiY85h3lZ2mI1n85o0MqpvxIQ8qzdQyvvpb_DbPhrerlH_xoUELTimeURKasUu9NIKnt8LG93D7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Teresa degli Scalzi, 26, Napoli"
+      }
+   ],
+   "status" : "OK"
+}

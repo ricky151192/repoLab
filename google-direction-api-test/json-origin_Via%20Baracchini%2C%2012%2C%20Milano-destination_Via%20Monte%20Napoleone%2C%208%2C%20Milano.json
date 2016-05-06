@@ -1,0 +1,320 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkZ7UHqnGhkcRDnfixCNZiZ0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ26E8ErDGhkcRxA40DoyU9h4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4681748,
+               "lng" : 9.200545699999999
+            },
+            "southwest" : {
+               "lat" : 45.4609634,
+               "lng" : 9.191134
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1840
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 451
+               },
+               "end_address" : "Via Monte Napoleone, 8, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4679074,
+                  "lng" : 9.195641799999999
+               },
+               "start_address" : "Via Flavio Baracchini, 12, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4613188,
+                  "lng" : 9.191134
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 45.4610363,
+                        "lng" : 9.191478999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Flavio Baracchini\u003c/b\u003e toward \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gdntGqcbw@v@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4613188,
+                        "lng" : 9.191134
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 45.4628686,
+                        "lng" : 9.195043499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "obntGwebw@NMgFyIOc@Y}@Qc@Se@q@sBS_A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610363,
+                        "lng" : 9.191478999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Verziere\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}mntG_|bw@Eo@Q_CAK@cB?G?U?OBYFg@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4628686,
+                        "lng" : 9.195043499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.4623757,
+                        "lng" : 9.1979677
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Verziere\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCorso di Porta Vittoria\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "inntGohcw@b@eAhAsB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629272,
+                        "lng" : 9.1970411
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632066,
+                        "lng" : 9.198745499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Francesco Sforza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{jntGincw@QQsCiC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4623757,
+                        "lng" : 9.1979677
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 455
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 45.46699479999999,
+                        "lng" : 9.200545699999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Uberto Visconti di Modrone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "apntGescw@uCuCGEe@[{BgAi@UwB}@YEI?mFM"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4632066,
+                        "lng" : 9.198745499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 217
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 45.4668071,
+                        "lng" : 9.1977978
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Monforte\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ugotGm~cw@LjAVdE@VBfCGrB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46699479999999,
+                        "lng" : 9.200545699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 45.466919,
+                        "lng" : 9.1951704
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Giacomo Matteotti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qfotGgmcw@EpBCtAKdI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4668071,
+                        "lng" : 9.1977978
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 45.4678696,
+                        "lng" : 9.194808499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Pietro All'Orto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ggotGy|bw@kCt@q@P"
+                     },
+                     "start_location" : {
+                        "lat" : 45.466919,
+                        "lng" : 9.1951704
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.4681748,
+                        "lng" : 9.1953271
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pietro Verri\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "emotGqzbw@{@gB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4678696,
+                        "lng" : 9.194808499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4679074,
+                        "lng" : 9.195641799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Monte Napoleone\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aootGy}bw@r@}@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4681748,
+                        "lng" : 9.1953271
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gdntGqcbw@fAsAgFyIOc@k@aBeAyCS_AEo@SkC@qCJaAb@eAhAsBeD{C}C{CaDcBaDsAc@EmFMLjAX|EBfCGrBIfEKdIkCt@q@P{@gBr@}@"
+         },
+         "summary" : "Via Uberto Visconti di Modrone",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

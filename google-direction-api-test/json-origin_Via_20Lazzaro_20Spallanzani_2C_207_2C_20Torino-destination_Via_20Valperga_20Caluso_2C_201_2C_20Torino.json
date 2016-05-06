@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjBWaWEgTGF6emFybyBTcGFsbGFuemFuaSwgNywgMTAxMzQgVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwVMGjkZtiEcRZ6v4zae1us4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0569904,
+               "lng" : 7.6762431
+            },
+            "southwest" : {
+               "lat" : 45.0483324,
+               "lng" : 7.6610676
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 1958
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 379
+               },
+               "end_address" : "Via Tommaso Valperga Caluso, 1, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0538072,
+                  "lng" : 7.6762431
+               },
+               "start_address" : "Via Lazzaro Spallanzani, 7, 10134 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0483324,
+                  "lng" : 7.6625954
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.0492505,
+                        "lng" : 7.6610676
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Lazzaro Spallanzani\u003c/b\u003e toward \u003cb\u003eVia Salvatore Farina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ao}qGgrwm@_AhBwBfE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0483324,
+                        "lng" : 7.6625954
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 157
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 45.0503745,
+                        "lng" : 7.6622536
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yt}qGuhwm@oB}Bw@y@GGIECAEACCAAEEOU"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0492505,
+                        "lng" : 7.6610676
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 739
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 45.0555403,
+                        "lng" : 7.667624600000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "y{}qGapwm@Ch@QQY[qCaDY[sB}BiBwBgDaEoB{BoByBqB}Bg@a@m@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0503745,
+                        "lng" : 7.6622536
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.0560955,
+                        "lng" : 7.6682665
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "c|~qGsqxm@Ni@_CwA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0555403,
+                        "lng" : 7.667624600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.0569904,
+                        "lng" : 7.669118099999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "s__rGuuxm@qA_AuAw@?OAMGS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0560955,
+                        "lng" : 7.6682665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 592
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ee_rG_{xm@`BqBnAgBlAaBvAaCVa@Pm@~@wCd@{BP{@P{@DWl@aEPcA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0569904,
+                        "lng" : 7.669118099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "88 m",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0538072,
+                        "lng" : 7.6762431
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Tommaso Valperga Caluso\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "sr~qGw`zm@@MNmAV{B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ao}qGgrwm@wDpHoB}Bw@y@QMIC[a@Ch@QQkD}DmCyCqGyH_FuFqB}Bg@a@m@a@Ni@_CwAqA_AuAw@?OIa@`BqBnAgBlAaBvAaCVa@Pm@~@wCd@{Bb@wBr@yERqAf@iE"
+         },
+         "summary" : "Corso Re Umberto and Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,464 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-AAAAME1krf-RfOXyQ7JeNtJJH_v5XegM0WrqwnymuPLASMkIb0YQAYeCHRxzmAESQdbxt0_Gc-YbiXjHZ-b49gArB2DDTXPrAo171NPtjxNvBeXcu09ilZWJ2VsQi3jHjRib6ua-EFO44syl36Ny1U5651q827qED-8pATXAuIrz1P-hUtvZKZB-xnLRmz9GNDDdzJF-rn0cN1ZKnERRvpsxka1SVDtdCvV4NNcwITw8fuu0Mz_njrhG-usIBKOigd3NtrQFiV2tRzTlg0zAw91mFoeUviW7A8-Q5VY0bsDoVfyQy-JjARd-TRmKvyZiCvf3ZJl2s3bbrUzfiPgTFDwyJESEPFSBWdEri9w6_zxnWvmLz0aFBDsh1Fe-cVX2RR-9d5zu3OlIiUX",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0457004,
+               "lng" : 7.675024899999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e155d26806e869ebaae0d7e7ff93403e8fcbd159",
+         "name" : "Hotel Valentino Du Parc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114912940079676955340/photos\"\u003eHotel Valentino Du Parc\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPCgrP2EDalT3UBFZImiai5-xkGtXu89YoRZMDlJI10cJacf9ONdk3SuLlzxHyQAqpXPt3jhyFycvy7y1HfrZ28OqJaNC55W_9wrziOx6CyGAa-FKm4ohwB2gtr4-_8SUXFYB_9Z80cKJncJBptygAWnqugQmrfwArA9sApSbBPqEhBau-7HuybLm6fAORepVYTmGhRcHZf8B0TTaPVa5_uxIAFpSuZh7w",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ3dcjCExtiEcRf1IDaziTkuE",
+         "rating" : 3.8,
+         "reference" : "CnRrAAAAkjdierraZy2XyGLP8ZUkaiHMZKBGZ47ibF-MgGqFzGJKwjtS8hDKUgDgfQwzdh6eM2b3nPCL51vYjzUycWj4lQLDYd0xWefBotoiZVg_q-BnDzJznNaEtU0I107K2lLTo5LyqheVEGFiJvY0hrSZ_hIQRn-2LWtFoNpdgootvQXzvBoUhwvjiwdkrAsAtjKUkrFQ88CXrCA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giotto, 16, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0513596,
+               "lng" : 7.6677005
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4453e1a993cf4cbd9503dd40c750ee7f99e3be14",
+         "name" : "Pizzeria Ristorante Turati 39 Di Licciardi Luca & C. Sas",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcZU4fTdtiEcR7Nw26KJaHd4",
+         "rating" : 4.1,
+         "reference" : "CpQBjQAAACwxMQ4buyvseWlu-novMTJQiJgb8XEBvbxrM0oncJf1B3mCqqXo843omWSd40ko20Bg0O1cP3orltyIZ-2poqDoMy60xPRtaiWa0TvfgzEGIPDHfwYt8JQbx0tSW7BZkAeJhvSrKp4fzEitq-g1c0L_krGWIBLg4SfVRP85IHkLnktUjua-kj-pc_p1fIqskhIQppcBHFpx7d7nUFOBtM_RkhoU-_S7EaazQ3OGRHvhjh2UNShjmU8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Filippo Turati, 39, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0523511,
+               "lng" : 7.6776144
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d0a6ae1a8fa3b12640a2e594fdea5c8b207d7ffb",
+         "name" : "Luna'sTorta",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104660219974556898251/photos\"\u003eGiuseppe Conigliaro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAyUfPfI2ekQ9Ou9eLHhquKd2KJoeTFi73nClddFsoueTgKmf_28B6oGdhd_YY5rvmSDoGPj9whq-Ikwc4kgAgLOee5eEY6IU6SJIVEwy6tTYQbjfCSzbCsBUrFSdZXmfahJRjrIPnEdEGc3_UI1b3Pg4OvVRilCOEQizk4613uCEhABAPtaZ_HMXf0ImHd-sg4ZGhRyOaV9bUq3EZ-fLGidVskpKSQoOQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ_6J8xUVtiEcRvDPnQXoAQmA",
+         "rating" : 4.4,
+         "reference" : "CmReAAAAy0-oYUw-Lf6bpH-ZQfAQ0USEYLKWHC_Dp4f8OlHBtgQx1lmvNkvx4m_KopppjTEi72I_gyMQ5N2hU_fD8-Dy8eBMyheQwojgJp6vfOyCk6JnZLSAu14QzpmjIwh3bszJEhDbWQ4Ym45E8Ia_UV-jzqEHGhSQ93W53V_FFSHvif2XYHOMxXa9zg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "food",
+            "book_store",
+            "store",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Belfiore, 50, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.056681,
+               "lng" : 7.6693813
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c2a192751a83d1c7038a43648160a73b64d63076",
+         "name" : "Colazione Da Tiffany Di Capozza Marco Sas",
+         "place_id" : "ChIJRVwsaDptiEcRTplT0EqEkXU",
+         "reference" : "CoQBfAAAALIc_I7cdVXPstpx0aFZCzaDbAyOpKX1aEAr8mQ6kdWMuIpbkZympgNm0LoKN3AumdCSqtk2IpidsehOP35UlZkWMc4ZNTrIHo-dcHD8PJt82i-JO0g310BRRAZGR2QnbSPs1dpZi6-d7ADX0k7a9i4_hlrW8GnSJFvJa29xKjj0EhBcwWcqc7fybG7SuU6CgoFcGhSfK3dP4lgzwjSIsNjr874vgnfCZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Re Umberto, 19/g, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0546876,
+               "lng" : 7.672099999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9fcdd0432c8d4efa5829a6d46d582e47c3eb44dd",
+         "name" : "O'rafferty's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgX3pX0dtiEcRHfo9pSBflZM",
+         "rating" : 4.3,
+         "reference" : "CmRgAAAA-52kzOY09f_Cxa2Xw6kl7HCyihl2r85LqXGeIjL0yt5WppXF5P8LMBktX0bv74HgvJGLyLN_pZWViYBYx8TBv-3JEXUxd3M5LryUQ80s0qXdJrr4hUjlyCqZwQfGiSamEhAN5-HosopqNF9SEjAY2iCzGhTjiI3ZMfbsObe7GyMN64oReK0oUw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Germano Sommeiller, 17, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0550287,
+               "lng" : 7.6715728
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7e7f7e382ebb7184a3743fd65383d0dbb09d1848",
+         "name" : "Birreria O'Rafferty'S",
+         "place_id" : "ChIJgX3pX0dtiEcRWHxv8W7IyMM",
+         "reference" : "CnRpAAAA7lwGCi8CVNJsW4oeByVRCl3NqqnOGffmyTnmhgaluNsm5fCbPhie7ThDcmaiJUwH4N9koKIZjxMUPAqBwnuXBsCe0VVqVbQdz17rne44ONPxNKgA67PSZhtufHjz12Ipdgg3fw7CRk2dL0jAIPy3MRIQMRvONjQykdBuTPf78pF7JBoU4INO9CIrfaNFTnrES0lp8BldHsk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Germano Sommeiller, 17, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.04552,
+               "lng" : 7.67432
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4deaa164becb6a0c760cff4e26c5f736ccb0051d",
+         "name" : "Beppe'S Pub",
+         "place_id" : "ChIJkdsY7kttiEcR6z07w--QP-A",
+         "reference" : "CmRfAAAA-tFNTOqjqcCxbkECTuguzxy-ocvq33Y0HvaaAERo-IcRtrMacFgNSKnR8oEBXyj9p1R_sXq1eTRqU00AIfWskoFG0zyhgI2cAH7N32U3u13Ix-F8AMn-4N9rmycr_3UiEhADSeeSbo6xbKn5jry4D0vgGhRwGzfOrRkOYzpsIRFxbmi22fkUnA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "137, Via Mad. Cristina, Torino, To 10126"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0539643,
+               "lng" : 7.675958700000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4e3cf82617da7891eb4f5bc2b9f79dcbfd876e0d",
+         "name" : "Charisma",
+         "place_id" : "ChIJAS7QkkZtiEcRo0M5j0y6BH8",
+         "reference" : "CmRbAAAA0mPl4tDHSZpaQp9i92ppFL8JXT9FLpabbjmaEvq0X-kIqDOinHPIPLJ_mDaJ-qsogxg1Y0k1p5b6GVJ90rYtoOlvQSkmP9kIuwfUb5tsb1PCpLcRqhfcI3e_u4ErgAmPEhB4_-fqAMFlnUH_n8dEaNlpGhQkpnyWxkRRzSu4H3ew08gx8uRAdg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Valperga Caluso, 1, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0531362,
+               "lng" : 7.6566901
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b4d90447bbc964367106532c7b9d27db2c38d4e7",
+         "name" : "Fiorio Gelateria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcSHaliVtiEcR0AddzxkqRWY",
+         "reference" : "CnRjAAAA9Srcd0qTm-YHnQVAF6TNraGpah125K7rdC1yXH_r1-TACxKrk06HLFb5TzBGkBDHFd7kjy-sMsanLjSgHy6MVBlL8XTfliZYeg9WhnDMSLe-Q6LnGorXzpqtNSIqiaNBo8XlOx3XKSlRQKpdpF60IRIQCa4X5JrSvbTfeAtjRFzLPxoUmibkLkbJHvS2NLJtBctWBSwwjg0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Carlo e Nello Rosselli, 92, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05430200000001,
+               "lng" : 7.670126600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c0b1dc654fe22c371e6947848fde61831aef030c",
+         "name" : "Il Relais",
+         "place_id" : "ChIJ8XHm7ThtiEcRE5cAhrZs0Ng",
+         "reference" : "CmRdAAAAAsDc_ahwl1szxg8i3HJUcEdFu2mGrM7xA0JsUcCXw2lQ_LJOuBpExXb7oOaNbOuR4WIUZXZPmIrHI167JJX5Za8VIPgNjEyKc4ER0PyPXbFcZai3XffjErRU4FZXzZZ_EhBThntjpmtQWf25hlK1dLVDGhRYPI5Z1qAQitdbI2yvtGd-TNODjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Filippo Turati, 10, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0428983,
+               "lng" : 7.671713199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "abbb0c01b4f63e579e4e618a7bdbd731e7e22bf0",
+         "name" : "Frittã’",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ83B8H0ttiEcRKXWvtx3OCRo",
+         "reference" : "CmRdAAAANyQ8aU5XUPu4QjQ_A5YCklt71Tqn01c6ooSY3K_VikVBe0dyy_24Rnn_zHmJyS8lumrPuC4siey9vMu-6C4_gZNpLfc0V0ErkDmAzE1FLCPih1Q2ryPFzeLWNtHdqKQjEhAZJkzCaLIDY7ioxzd1aGfKGhRoZPWiW_oHYWQz-McBu_5qNnvBQA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "food",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "grocery_or_supermarket",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Corso Bramante, 65/G, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0520585,
+               "lng" : 7.675619899999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e9bd01dcdeded442de93f52d1473056c4b8e15da",
+         "name" : "Inferno Cafè",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104903724389618703136/photos\"\u003eDehn Whitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJGOG7Avg6M-EXoO9-IABcnmK36v31JCpUppZ4jA9V8mcuOGy8osB8Ktqt5amEFQ3ybl7ZNxf_Bg1MF_mO5RYR4qT0RpAaNZ6Ky_m2nTUSrr4wjnsUNEDBnVSZgW3rCIM3tItUzdMEebBjlKpJNbJmB-QJSK-Mj3QH9kTgZIoeyCEhBvwCrcUvUSAkfqBx5_ChiaGhT8gaqpJC8Jp_KUn2GSr4OhvxomPA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ_QumP0ZtiEcR7LbY7c5Zb4E",
+         "rating" : 4.1,
+         "reference" : "CnRhAAAArh4xZtH8XGG0Nh7d8DRc3ZhY_4iA-69TlTQkUZWTuId44__B0oDuWwwP0rS-qkfPmYgaLiBYVTYibEzhUek07VcWno1cDz-cU9f1Qn3WfHl_LrMmg7eVqGZD6n0QaPrZgAzeDtjPgHdDYt0mVyWS1xIQBRrc9izfDg_q2iBiwTK7SBoUN41sI3tk04l1qVtRzdqAtLO-Y10",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Edoardo Calvo, 3, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0554747,
+               "lng" : 7.6613594
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8ef8dfee95b376305931863b3d59c8fc2b4277e2",
+         "name" : "The Duke of Wellington",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114819233732383968781/photos\"\u003eDomenico Poerio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACNx4swDxQY7obq5ne-WZ-Rqphp-DYrcEIZ9RUwEF7Ah3TlAaZ9rvqjhEXdJDgbIeyBfpQEAZzHkFIlu75-rJoxYMBAIQb10uSGPzc73G-GAlpji16U77o7MlQ3Xo98JiqUdF0Bz6FGMWMwMkOpVdiBuordVz2QUVQ9gM41ffqqiEhC7TcV9JGfQxHQOnE6hExyCGhRKAw1v5WmD_kvvL_t0brLIV_Tl9Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ33L9NTttiEcRnUYyrlToRDw",
+         "rating" : 3.9,
+         "reference" : "CnRpAAAAunTo1kq0rLNs4dX99hWzIglucpb2YIxv221DEfEjg6IHru2zeS9oNF219v2NccvwXplZmBy9hMv9snjGhXc_SEfRAXFuC9RSh7p2m1Oxa0WPEDKfL267NyyzuGZi3rdqjviEuQCie6lggPEmkEgVZhIQwnV3hFopj0EuEQTF-LnG6hoUUtq_uhMecURq7C0aDwy7njVpTm0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Sebastiano Caboto, 26/D, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0546293,
+               "lng" : 7.6713957
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "69dcd4d17617d97161320abe48c33b25ee997299",
+         "name" : "Bar Buffet Snc",
+         "place_id" : "ChIJxyrrozhtiEcRZoT6IDU-O6c",
+         "reference" : "CnRiAAAAasaV_n1ZWKDzmh3ePHEy8Zu9ogO-ClrZeIuDneeT9jzsvTEa3J2ZOiaBKgX82_Q30n9hH5DuRQU5331hdBFL5rRT3owd5--9lr4wgDp184MmEohGtRcV__brmtmdUCw2eTH8hMugBvgI-tVZyNg_aBIQ077s8wpgWZ9HJJUvHx5YVxoUT2n_Sb5PkkzDwIU6GShFjHRsnRs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Filippo Turati, 3, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05145589999999,
+               "lng" : 7.675231399999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "02790449f0e21d337cd6ba16a6d50e4772f2dab7",
+         "name" : "Waxy O'Connor Pub",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJB2mcIkZtiEcRC4NeqByTZLo",
+         "reference" : "CnRlAAAAZMuDhKeQC9zk-VzuC5CN2m7Bb1QBXjLAkWVrW1022aR0-rNGEb5YKiSYtMD-ZuljDsTMZV9aeyGClwOGeyZ_EMILM-ikG_LAMNzzlBpWBwaZ_AdR7-H5ofucj644enT2KeRBsjDPx_ndRJ1TdW0HjBIQuTSAkaG_-ecUito3jEKKRhoUQCLUJZN_dMp0g90wpKsfqx518rE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Nizza, 77a, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0544067,
+               "lng" : 7.6739976
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6b666073f3bdf5713101efac20dbc9c7df82b7ce",
+         "name" : "Birrificio delle Officine Ferroviarie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105107876119446184742/photos\"\u003eBirrificio delle Officine Ferroviarie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAC6QLu3twao5UvWdpeJsy2j0KSbFLEkB9BqWoiDyE8QRVnQAeYhw2T7HtTGtrEZ9oZ1GPETbCZ_IOvAQwEl5FD-xoth7TgR-Whr99sY6ST-xvS8FDoyt_TVwaz4XjDZySuO9OBnVCv1xY1tl5YJskLlADHdb8B0vqy4KZsbzpyj_EhCmDFR5Tb7DsfuA33SCQoEcGhSTE2lh3dUXCMbv8RTQPefY3YinoA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJY_zNGUdtiEcRlj2r0Bq6wz0",
+         "rating" : 4.1,
+         "reference" : "CoQBeAAAABS9CDt65PTqYvh70duCovN_QXObb-7fFyDIe_WT4-78u8J0TS3PSpKnjVPouxXfHONvLb-IvXDWhqCrnu_hV1sBqFvU556ni67No49A9zHEuV_C-m11Ni-HAWWv6agObnb1BzBfkoTkfLETOvUjHd9oP5boFay2GvROPw55tR9uEhB2mAAGJ5-ujjXxSLvGhWX6GhTpPnttBOWBvBkC37JRpgU7aPgDJA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Germano Sommeiller, 12, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.049581,
+               "lng" : 7.676985
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d7916f0fc51a1c530e2db323254891057c9a2a9",
+         "name" : "DB Wine, Food & Spirits",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117741884843536961542/photos\"\u003eDB Wine, Food &amp; Spirits\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALbCnYcuF8XH1qcAXmQfysq5GXlRGgcxah8_ZxWX0MC9y7yIuBCbizuc9tSuIjy1DBGK1uoTNWvcdFP0cttZI-kZJgheaILq3rsERJnpJwLYXvCiRsvooABV4mRy4mk9Fcrlq5x4dxRR7QQw4MUFRJ-ChP-hGnBkxvBO4K-3SKHzEhC6Eqn2oqv2wTxNwdXfzCrBGhSl3kYmxb6haDBQxw5yrtqlzg516Q",
+               "width" : 3498
+            }
+         ],
+         "place_id" : "ChIJk11oOE9tiEcRKceM60Pp_pg",
+         "reference" : "CnRrAAAAfPoJALr7vPeiLHLN5LmZ95PaDvHsrf_pbM6KeZgL87878o7KbsjtkGK-fFDvAhHfIKiTt90OR7d_0QFytd7i66lmfYvTG6XqVv2CVjT_FfYb7Kyoq0M9sYi_aMn6zoSwQGo0j93WxJo8MWS8-vbPMxIQS7i685TRvYRO0pNECmMkgRoUmXsIzsiw5vAEgkT8zX63dkvNcyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Madama Cristina, 82/C, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0563497,
+               "lng" : 7.6606602
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8ecc383be8038595490585af67c51e2a3c1a2c58",
+         "name" : "F.r.a. S.r.l.",
+         "place_id" : "ChIJr0vNqCRtiEcRx6MqfITJPZo",
+         "reference" : "CnRhAAAAUazmtXP4s4QkxcgkQz7KXeZXPozEE0GDP-XoUWnXged9MFeEAlAUS7yP3A67-kTZjh0xnrDWMtFZ26hXre4_hm0xJpcw1EpmfiV5xYUTZFKL9l-i6IB32LWntrRV0Yl4VypUnN2Wnow6vpxGCq5pfRIQsTYbKQ29cQywbm-YpQZF8RoURhaCNRDSzwjbgGm32vBch5cKJH4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 29, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05196300000001,
+               "lng" : 7.677460200000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6f4f54b1403f2696969056e5e3de8f83863e72df",
+         "name" : "Caffe' Raffaello",
+         "place_id" : "ChIJDZGJ3UVtiEcRdr8PP_-QPtU",
+         "reference" : "CnRkAAAAbPtxVUVEx7Lup6pM73B1TmWS7dHTD0r3D0giygaTQagy-ZwpXvGTP7dt28ZEpCXLzOC4hFP03eIxcjWClqHloUY8i7wC07SWFRatO2UTTxZ-BkFBE_8f8aMWsOdATYdMbG6gzfgtzh4aUktZOJ_EzBIQTgcw78rb0XxpCXevcHQdoBoU7YH1rn7n3AkFqbtrGIJU9rwEnWo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Raffaello, 15, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05727699999999,
+               "lng" : 7.661847599999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fb37917f8bf1c710fb41696ab3dee87fc4eb9f45",
+         "name" : "La Croisette",
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104903724389618703136/photos\"\u003eDehn Whitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFR2VzgQbQpKGtiYiTWpKUllHmAd_uRVRQ6U3owXL64ko5jLemNZrg8iG77QjhmU9MaTsRbzDb-VML6kzQaeNk4Cjug7ml8lPYhQQvSvkdX96reoWkhAogt3PhBu504UzqTvfmH1YduKxB_hIEFQ5RSQsLli3gLLdgOgpcVmDmBHEhAvfsFFmNQkpCRGaTGSV-3ZGhQcvbGkPxfm97kme1ojLXlyaQsJmA",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJ_1z0szxtiEcRROPqHuPD7EM",
+         "reference" : "CmRfAAAA1mbI9QY1FCuc4hq-9JzWsmghVrTFXasc33ARXUN_hpGL1Shy9ueetIqt1fs29p3M8LNfVL7RpXOOk21UWR9XfQ0N59A0YT0LYWxr4NO33kUApKAhuIq5AdKDzMQAiPAiEhDTw9BilAdKh3sL-_M0_xW2GhS1CmDsFnWF-_oYnShyTSU_9pqk8A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 19, Torino"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkZ7UHqnGhkcRDnfixCNZiZ0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkZ7UHqnGhkcRDnfixCNZiZ0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4613188,
+               "lng" : 9.191134
+            },
+            "southwest" : {
+               "lat" : 45.4613188,
+               "lng" : 9.191134
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Flavio Baracchini, 12, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4613188,
+                  "lng" : 9.191134
+               },
+               "start_address" : "Via Flavio Baracchini, 12, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4613188,
+                  "lng" : 9.191134
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4613188,
+                        "lng" : 9.191134
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Flavio Baracchini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gdntGqcbw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4613188,
+                        "lng" : 9.191134
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gdntGqcbw@"
+         },
+         "summary" : "Via Flavio Baracchini",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,203 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjFDb3JzbyBBbGNpZGUgRGUgR2FzcGVyaSwgNzMsIDEwMTI5IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDQ3LCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0581612,
+               "lng" : 7.675896899999999
+            },
+            "southwest" : {
+               "lat" : 45.052727,
+               "lng" : 7.6566022
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2191
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 425
+               },
+               "end_address" : "Via Nizza, 47, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0546413,
+                  "lng" : 7.675896899999999
+               },
+               "start_address" : "Corso Alcide De Gasperi, 73, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0533301,
+                  "lng" : 7.6566022
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 45.0542327,
+                        "lng" : 7.657817
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e toward \u003cb\u003eVia Fratelli Carle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "in~qGwlvm@CKGMSYk@iAgBuB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0533301,
+                        "lng" : 7.6566022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 353
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Fratelli Carle\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}s~qGktvm@Le@hBaHnAeFvAoF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0542327,
+                        "lng" : 7.657817
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 668
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 45.05799529999999,
+                        "lng" : 7.6656453
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}j~qGimwm@Jc@gCcBGEeF_DaEcCmDuBwCgBwA_AII}@e@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 284
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ok_rGiexm@BM@GBM?OAQAIAEAEEO[a@jAeEtAsEZkA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05799529999999,
+                        "lng" : 7.6656453
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 627
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 132
+                     },
+                     "end_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@j@aA`BqBnAgBlAaBvAaCVa@Pm@~@wCd@{BP{@P{@DWl@aEPcA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 45.0546413,
+                        "lng" : 7.675896899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sr~qGw`zm@@MNmAg@QWImA["
+                     },
+                     "start_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "in~qGwlvm@KY_AcBgBuBLe@xDgObBsGoCiBmVaOaBiA}@e@BMDUAa@Ke@[a@jAeEpB_Hj@aA`BqB|CiEnBcDpAeEnAkGpAaJ_A[mA["
+         },
+         "summary" : "Corso Galileo Ferraris and Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKU7Cd0xtiEcR6GMidaMkoRE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV_CKy0ZtiEcREWDnVFbaysg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0554029,
+               "lng" : 7.6762027
+            },
+            "southwest" : {
+               "lat" : 45.0441022,
+               "lng" : 7.6724022
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1642
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 396
+               },
+               "end_address" : "Via Nizza, 28, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0554029,
+                  "lng" : 7.6762027
+               },
+               "start_address" : "Via Giotto, 27, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0446381,
+                  "lng" : 7.674752799999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.0443113,
+                        "lng" : 7.674632700000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Giotto\u003c/b\u003e toward \u003cb\u003eVia Antonio Canova\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_x|qGe~ym@`AV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0446381,
+                        "lng" : 7.674752799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.0441022,
+                        "lng" : 7.6757212
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Antonio Canova\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}u|qGm}ym@h@yE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0443113,
+                        "lng" : 7.674632700000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 45.0449715,
+                        "lng" : 7.6759909
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ormea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "st|qGgdzm@mDu@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0441022,
+                        "lng" : 7.6757212
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 292
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 45.0456645,
+                        "lng" : 7.6724022
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Tiziano Vecellio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "az|qG}ezm@g@nE[zCOrAu@lG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0449715,
+                        "lng" : 7.6759909
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1124
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 245
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554029,
+                        "lng" : 7.6762027
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~|qGooym@{C{@qBi@sAa@YIqBk@qBi@qAc@_Be@y@WeCq@YIyGuBiBc@sBm@ICkAU{@[g@QWIuBg@oBo@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0456645,
+                        "lng" : 7.6724022
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_x|qGe~ym@`AVh@yEmDu@g@nEk@nFu@lG{C{@eEkAkCu@cEmAyC}@_D{@yGuBiBc@}Bq@kAU{@[_A[uBg@oBo@"
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

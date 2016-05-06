@@ -1,0 +1,323 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiRVYmBAIOxMRrSerkPQ-ewI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJzerdiRIIOxMR9zFP_5F9Q9o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8617824,
+               "lng" : 14.2739778
+            },
+            "southwest" : {
+               "lat" : 40.8560115,
+               "lng" : 14.2657539
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 km",
+                  "value" : 1491
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 353
+               },
+               "end_address" : "Vico Santa Maria del Riposo, 33, 80139 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8600278,
+                  "lng" : 14.2657539
+               },
+               "start_address" : "Via Nazionale, 93, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8562348,
+                  "lng" : 14.2739778
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 40.8562933,
+                        "lng" : 14.2739676
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Nazionale\u003c/b\u003e toward \u003cb\u003eVia Bari\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mvjxFk{bvAK@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8562348,
+                        "lng" : 14.2739778
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 40.8560115,
+                        "lng" : 14.2712317
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Bari\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yvjxFi{bvARxDRtDNrD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8562933,
+                        "lng" : 14.2739676
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.85705220000001,
+                        "lng" : 14.2710507
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Novara\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aujxFejbvA{BToALC?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8560115,
+                        "lng" : 14.2712317
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 373
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 40.860385,
+                        "lng" : 14.2705324
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q{jxFaibvAC?{CZs@FwF`@K@gBLyAP"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85705220000001,
+                        "lng" : 14.2710507
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 262
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 40.8617824,
+                        "lng" : 14.2680762
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Alfonso Maria de Liguori\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kpkxFyebvA?RETCHELGHKNA?Q^s@rA{@~AWf@Yf@GNu@xA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.860385,
+                        "lng" : 14.2705324
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8612921,
+                        "lng" : 14.266497
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Pietro Giannone\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cykxFovavA^jBF`@Jb@l@hC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8617824,
+                        "lng" : 14.2680762
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "51 m",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.860843,
+                        "lng" : 14.2666142
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "avkxFslavAt@Kb@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8612921,
+                        "lng" : 14.266497
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "78 m",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.8605275,
+                        "lng" : 14.2657922
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Michele Morelli\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gskxFimavAFXFV^rAL\\"
+                     },
+                     "start_location" : {
+                        "lat" : 40.860843,
+                        "lng" : 14.2666142
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.8595193,
+                        "lng" : 14.2664201
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVico Lungo S. Antonio Abate\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iqkxFehavA`@Yf@W~BkA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8605275,
+                        "lng" : 14.2657922
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "29 m",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.859418,
+                        "lng" : 14.2660969
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVico Tutti I Santi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_kkxFclavAFXJd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8595193,
+                        "lng" : 14.2664201
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "74 m",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8600278,
+                        "lng" : 14.2657539
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVico Santa Maria del Riposo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kjkxFcjavAi@VoAl@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.859418,
+                        "lng" : 14.2660969
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mvjxFk{bvAK@RxDb@hJsEb@oEb@cGb@aE^?RETIVSXcCrEoBxDf@lCx@lDxAUNp@l@pBhAq@~BkAFXJd@i@VoAl@"
+         },
+         "summary" : "Via Arenaccia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

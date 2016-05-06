@@ -1,0 +1,385 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-QAAAMxbTTrSg5KFafTMUBKA8HlLmFjv43UCKUgsdPOTSXOWEuVigD6iYAh_LjlIeu3FyVO-ZLjKEiFy9Zluw-Bf3jLf0ijrKpz3zVGg9GJRr6hDoVZIzzCbr2CUFte6cirlIZtsnB8GZv3WfM2bPLI2QJQsripgm6aJl6jfHP-MGzYUN9yHxwuPiNBZOB-4mecvWBbUHjyPa5Z37nCK1FnaSuqje2YpIlfD0nt8ZcY3DPZ3_nNDNKH4X34KbLUg0AE_zmqJKjoRNCSzxIFjyHrHbEjUUiyOX-fAwK1gDbYu0k-dfKBfVRXOEWO7ysGEmeHErXmCLmdnxnsreO0cJoQBS8MSEAUVDFM-vEZHByJLkqbjv2saFHwi6PQLqwu48N0rEa_maAj9jwfF",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.04772249999999,
+               "lng" : 7.675961899999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "870224971767f6d8c0a07b14b1989a8b6df9d1f0",
+         "name" : "Intesa Sanpaolo Spa",
+         "place_id" : "ChIJ1SDrrUxtiEcRolcsy6sSASo",
+         "reference" : "CnRmAAAAP65xR5rrNr_TZuqcEevpi4Qg1CCoJg-rBqRFCU-Y52iecs-PGPPq6Qj859Dk8TVyt-Y0C4zGvYvZP9bJjd2SFAWQFoyxcIY5suzO7qYL5dXdbfHjDjLSMVnzACdGx0kWEPTsxGehUH5y8NfxWnIRJxIQL_6yhRnhzxsDTQIpgKOl-xoUJvPsEvQCtcOmneN-GQoAX77tAUo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Madama Cristina, 121/A, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05183,
+               "lng" : 7.6752
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "8bc718e17b705481ff93c0e8690fbfcde94146c7",
+         "name" : "INTESA SANPAOLO S.P.A.- FILIALE PRIVATI E BUSINESS",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZ4CxyTxtiEcRP0wnF6Qy6Ag",
+         "reference" : "CpQBhgAAALXF8arv7T7Nr-1fSnwRAmSoDVIux21H5vrjuohkeG0xyfqgeR4kauf3x2mcccQ1J4_K5WHyIMs8bK6Vx9I6rdacoas5uf2iXguS5YTaxJUXqTHRqJv8HjCF2xpf77r6ZJW4zrbALIXp6d5ssUZK-rhCHYxWv4ayGIFvaGWcZexHjH97UUHSJTthpAnf7OGMqhIQ6Qjs5y3kD1fkEETbgEaskRoUrZQuef_PKYbD9-Mv0pya1qTZiq0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Nizza, 75, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05236300000001,
+               "lng" : 7.6546791
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "14e099cc8d885284a4c87e3d671e1a5149b6c51f",
+         "name" : "Cassa Di Risparmio Di Fossano",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJE9lb4iVtiEcRQarC4nq_wAk",
+         "reference" : "CnRwAAAAl4iqqstsf4_xeUVLfaO8z9sg-amGkWbm9zNXnbIsPLwpQqLZlGu1QVkv-mH92KLR-9IsNt38bfTv8tM8_iHntaU9mopzsNzf-Z7TeGv_dwJLINmFEQojjNdZmA5hteY4j3K_38yVUwmWdC9Oxk3FJRIQ6wbUO2kiphHwCrKiznL2yxoU6m0NKnYl9F7u3nbihX5NdvVdBtE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Largo Orbassano, 66, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05713240000001,
+               "lng" : 7.668245400000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "1f0a8595de39791e60d69627de13054c4898d554",
+         "name" : "Cassa Di Risparmio Di Parma & Piacenza Spa",
+         "place_id" : "ChIJQSF8iDptiEcR2ONcGqTuUfI",
+         "reference" : "CoQBfgAAABLJSpmX5jrIc6uV_pKwnjCwnO4x3VWj4MYFg-uU0Sy9Zw_qNzuQY6Uz0V23-LIokKnvLZw7l9GeQWlhH1c5EKBNnOd3asbwBPj7mdkCeDZgsVIWf-KqbWHp-AGn-h3NpgxEx-5xwLfka1v0qgAusRGDY23MGPaTfI-2QTlFmEcbEhBRlDEeJa4bLRcZsjRbL8fYGhQy27vDKSsETigkK0pmK5RBIsCVow",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Re Umberto, 64, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0461743,
+               "lng" : 7.661860199999997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "b2eb7779ea9ed79ce65ac29b7bdbc0878ee414ad",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJn2QzzzNtiEcRl9uc7vKN1AE",
+         "reference" : "CmRgAAAA5MKFBenU2jflv27oQKGJmnjqtkq5qiDp4dpjyQ9gSg3W_GrGAxw7V5cI6g5lz1Uz9wnnHvfXRrzwJqHGa-gN7YCPlQmxBplCki3yptC_pJmrdHV50Hy3R7zOkjDZLHZTEhAvV-Ckn-O12uz-aRDMnawWGhQac69jyDSUcWVIPh8xlbCBf0-Jyw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Unione Sovietica, 75, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0423646,
+               "lng" : 7.6718628
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "80b5d6eec536ca58a76b5e42465a0daf595d3e56",
+         "name" : "Banca Banca Nazionale Del Lavoro",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMXmOKEttiEcRDR2YigqrvU8",
+         "reference" : "CoQBcwAAAE-0gTzVo7HNyHlC2MiakG4a-qmk7XU_g0gRjeiybjVWmIpbLITTFD0Hhc-gxtGhtQ1Bp9RXylhoA0SI_qku2tZZbFfhzk_P3815wF1q6edV2GuR7mMzvIveQg_BCkLdQMK2o_AliI_11MPn13IbpyhCvUDod7EVwAQZ1Ixw6XvGEhC9g4FiZEpZZkCYEKJoiSRlGhQ3LItecQSsMqgvRiGnyMi46osIyg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Giosuè Carducci, 161/A, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0556492,
+               "lng" : 7.6662201
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "45844e656430d94df9b1fe6a8f19b674dd855be2",
+         "name" : "Fineco Center",
+         "photos" : [
+            {
+               "height" : 380,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112504851458926251445/photos\"\u003eFineco Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAANajdtisEXBjE7aXPY0veL5maEXLorjhBOF5jkYLBXG8oBFjGGpzD_vHz5Uzz6ZVVx7lU-pMpGmS__4doqSC4pUr0ct8Y0Zcw1rUAnhah_R23GfkTBceToHZqT1ChCSf4oCxVLHpKSG2e_DMoLOTp4OSlRcfp1ijeF6JjjIsDDSTEhAUgYxl7AEeQXdz1ASCZ1GXGhRm5ex2zGYrG4WV-hXV5mNTzwQPzA",
+               "width" : 376
+            }
+         ],
+         "place_id" : "ChIJD8ZO-zttiEcRZKJB87Pdc00",
+         "reference" : "CmRgAAAA1NkHeusjCNuvyC2-B3Eila90YkBzX8FG2GhUmVbwYc2fbyR5AAHEGnPeWKXUysWTvOSLeChQauBrnv_HC6JCBsdZJDdApoGTPZ5SkkAPzuEaMzHJverR3fX8rvGOO_3eEhCX3ZrvmmuSxzAlrghZXOfFGhReI2dlMrNbT5Hr755q_ny4wzlfPg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Cristoforo Colombo, 7, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0558681,
+               "lng" : 7.6594079
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "8da886a50be6f818ab6b4f8de729ffaf8ea10523",
+         "name" : "Unicredit",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104903724389618703136/photos\"\u003eDehn Whitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAB7jFZUohYuTngSlGV0bMZ3rQq6mpxfXVYUEhY5iXPzqRHfko6FYFY2qEpbbQUTnqZ0LbqfDnJnxBgpuHd_mSvTGlshry17qnOaBt1KmcNxlkapp72fyN-ptnNXJJfiQgbGV8NQmHkUiyr_Xo-UGAk0wiQTeXS9FdfTxlucI6rjMEhDHKSuZn9rSk1InLa6cNz1-GhTIn8igmYc-s__TbInvaVE7Dwml4Q",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJg0splCRtiEcR3XMqY64MHcA",
+         "reference" : "CmRdAAAAiP94DrH1N-_fQ7YhCBLH8fYC6Q3UHfDlVwy5oWbn0WBYRjweeEroMnc0s9EpalIt0Q1xeHLW_-0MkY4glRI65xQQUcMz_RYNZjNbaN38k1GbchQCTXa6zlTLlcTMV7VhEhCrqzcWtzkRlSj1fVaSlJWtGhSS0lxQWzIwEljsC4bAP1eF-A5Xsw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 36/a, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05065740000001,
+               "lng" : 7.666895600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3937aaae52c014f6e19d8c86fe175cef7c41b79a",
+         "name" : "Banca Monte dei Paschi di Siena - Torino Agenzia 4",
+         "place_id" : "ChIJwVQbaTdtiEcRwYAJMUaEEnY",
+         "reference" : "CpQBhgAAAPhwnxzJGGZJxxtY4hOqNcLZds7dnUJZXO7IBjhO5gVrS3pjc_GpWFw50B_1Y6Uj2NPvkKNXS_T37GHuYXF4UfwCfF9AlQhzrq431hrVrdlZfwQGwm1xyJagaRwfWRYHx9re5iqk_lL45V4lz0XVL3xL6qwQM-_KJq9I3Yiv_D_X2KPeOKuq2cCLF-8ZHxJOjhIQp7hD3F0nRDfA8m5J23nc1hoUhBRdAI-5CRvHTQKq4HRBcsdofg0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Filippo Turati, 43, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0493457,
+               "lng" : 7.6712004
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "4779c3d46b7ab3c3cefd2e6afb81b147df08a802",
+         "name" : "Cassa Di Risparmio Di Padova E Rovigo S.P.A.",
+         "place_id" : "ChIJxU04OEhtiEcRzy-wTfXxITI",
+         "reference" : "CoQBfwAAAHJtGgU0QLf6GPGRGzLDjsi_HkFgDueTwqTxaJP3nRq1noBfzL7gVz6CIKPfnTk7CRZP9hAAqOp3H3v0ZXobIdiYggvLIGEz8Bj7b7jm0sfOO5wNXtfVcd3pJW0dKWznOSNzbPiwIg9CWP67lItifgvYVwJqeeznKERPn6o4QRWvEhCjdAygwO1r_XY2Hbt6FAF_GhT8H9chFpip5r7jv1mEB8QmiN0VNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ernesto Lugaro, 15, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05054029999999,
+               "lng" : 7.674165999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "6b113580368a2a6d350d952dc30002ddae089da2",
+         "name" : "Banco Di Desio E Della Brianza Spa",
+         "place_id" : "ChIJP4IyjkhtiEcRJIdGORr5fzY",
+         "reference" : "CoQBdQAAAKZUp2ILlN9B78UzPXu_7ma4DjvtgaNRetXJJbzUQ6W6VAGls75VpPBJ94k1QSDF1fXE5MEAMqZRCcVgDRP6cB3g9KEpIu4XzijaQ0Orcjx0RzOLv2lp7F8L4QiwPDVj4ICDJ7a_rHqu8741U7BB83JZNvS9AHZF_mR9FNnxQHb0EhAu_HZYAaEMfd2_-8rtxA89GhSZbObzLl4sePXCqS1YWE1d8vGgjg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nizza, 50, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0505713,
+               "lng" : 7.666018599999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "4ee42551f10d3c86af48ada214cb41e94742105b",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJU68fXjdtiEcRaksgkhrvVlY",
+         "reference" : "CmRgAAAAqsS4y_nl_HMnesX1JJNIxHLha2qG5pfT2YopKBdbNhH_5CR6gvY3Wy2Ohp3NHcmeg9b41_eSHvz57VtLtIZH1bpKVIWZLdXjBr7-EfjwnvpipGsGFNZA6HHDlPtyUplAEhCoBogbRQO3fizV8MoPx5H6GhQyefJhhUX8_vciG8gIy0i6ypCm8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Turati Filippo, 48, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0475196,
+               "lng" : 7.6735322
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "0777194b4ca1569129e4f36c54ea94991c045e5c",
+         "name" : "Banca Regionale Europea Spa",
+         "place_id" : "ChIJZ7gfc0ltiEcRAq-HVbeSBHM",
+         "reference" : "CnRuAAAAomYwo9WjFNWDsEKpPvIJXVRRC31FnmMSL3CsLYYdf0v0B58Lyz0B49nngd76ym11Bd1tjogkWMV8T_DSlw9eUwuIOFPnQjCHkOLRZx1zqKPmbPjehfP1bFDMsF1q67U1z1AB5lbB_aXHllsjoBTz1xIQCb5ggFbhPFirnQ5_tdWLmRoUXP3laR7iAZh5jM5pkWCIjhwOL-o",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Dante Alighieri, 57/E, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0484063,
+               "lng" : 7.6635586
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6d7437f1693b150a4e5bfd0d4401c6ac9da7f636",
+         "name" : "Family Banker Office di Banca Mediolanum",
+         "place_id" : "ChIJN8TQPjFtiEcRTt4cypDPdww",
+         "reference" : "CoQBewAAALjDb6ysnJKzu0W-GGsIs9qvceWH01n3GmGIzA2xL-LbLv0fTFs3YAjbLD2j9LrL0GjOugN6035LMYbTp3q9ZV6m4zUV-8hdJe-wdMBd89KN8Jjz1Ij5cvXxbwWd3E1QGSoztqPJXlLO_h7mVBZslRiQLzkItqobv6vPFNkYtLcuEhDmHLJ6-MYwLcCp0P705n4VGhTosr-S3eprAX6BBINU3f-DuVFfiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Turati Filippo, 70, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05745659999999,
+               "lng" : 7.661599699999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c2e6243e4dc74884641754d8d1cd396935dfd584",
+         "name" : "Unipol Banca Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1XZWszxtiEcRdY1lCGwokk4",
+         "reference" : "CnRjAAAAf1YFVzoyo7_ckj2k-jvI_xotfSpgxlvzMJGTEX2XxttzSu2OMLf7_WcpVoGWPiRl-hhJmqXb9VEu0uvauJaahH7myNmCsEuPxcytdtNBJ6lFVYTwuXEhdeHExChosbIP9nYyufv918xqU2vdBMaDjRIQLCAfCailU-IYnFaacFEYqRoUbk0QvoGf4nrRLwWidr2khE2ZDho",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 20/a, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0571416,
+               "lng" : 7.664675099999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "1b0adc495dc4860f8c6388d1757d225edf94e6c0",
+         "name" : "Fineco Center",
+         "place_id" : "ChIJD8ZO-zttiEcRgONI2XrA1ow",
+         "reference" : "CnRhAAAAEDu-JdLyxgwvE9Kn7DO6ciqh2IuD3wGWtTnE4oWW-gvyfpi0aGza9AAltsKXYhjNhgX4dMBtQ7T94KjUDmrAZv7gMXvZ-DYFfmQekdoQZtQD9VVFefjXYftKXq6adUeGkq3CJgUZ4_cMgNZaGzoa-hIQDhIIv8XJB4MTSn2K8MV22RoUzQDtMHSE9ZdYiWRfWpCl0gA2sIg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Galileo Ferraris, 86, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0424397,
+               "lng" : 7.6704795
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "6b0f4cf9091bc340e46b1fe3fd7c4bf9fc9e439d",
+         "name" : "Banca Sella Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHwN2xUptiEcR92_GnpOEoH8",
+         "reference" : "CnRiAAAAr6Uod-yXUCqsglVocmUEMq-cJ6Oqfcb_qfYL1SYTqXuZLA7dbi2wme6-KccT0lbnKNhEXRPhWM8G2Q4iUDMHKkGp-8QBMAiZthCdtbfZbW8IPQEIIQkhNm0U9G1M89wTIHfjT-W66l4qtMZy0i-GLBIQbFWTV04mZA6Wgn_VKOM9ORoU26g65cy5D99J8_ymuQBgtKoayH4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Giosuè Carducci, 122, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05707769999999,
+               "lng" : 7.6616798
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3aa1e96d742234ae7c706143df7b96ce418c699e",
+         "name" : "Bnl Banca Nazionale Del Lavoro S.P.A.",
+         "place_id" : "ChIJg7rdFt1viEcRY-1KkVHcMT8",
+         "reference" : "CoQBeAAAAO14lTgmTam-c4FO7Fzaogl2Sdtihncr0DZYFtmdSGyfga0il13j8Bqt95atGEBh5SUvrlTE_j9FKjWG3Vh7arpgBwgnPLEu8hBAUPzIX4eR-I9QwyTEpm70frucOaL25U08mSxkYwxT3zS3p6R72RZW2LA31-aHDgdhCxtOeVGAEhAqhTJcOoVBVmXiTGzB5kSYGhTXjMzqN-roSHhLfWb8q3uWjYs7sw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 21, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0520003,
+               "lng" : 7.677365800000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "994c9377f27aef686fae75c40861312d45d6b5ad",
+         "name" : "Banca Del Piemonte Spa Agenzia N. 12",
+         "place_id" : "ChIJSfeH3UVtiEcRXajn13r08I4",
+         "reference" : "CoQBeAAAAGZhMDLRAWomDaNxA_1EN1s-OQBZrxkOgtSDkmVV5GAgNVUXyd9qawrN-gDDf7Bo1RdumphLCl3sHQjFC8yquv9DUqw3Z58wWzx0SNF1eAjoD6Uv3q_0kbib4jG4BQ4ZVi_QqKXTBYuvAxHo-JxkIXPLu_BJBuktOj-nrmOAYg74EhC8sdkp8V_Tw82o8BppbEfyGhRE8ZR-rkmJBLe5cpnBkWJS73l70w",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Raffaello, 15, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05492630000001,
+               "lng" : 7.658412199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "48a3906b3dc625412ff86cb1da9268e3dcf7dcf7",
+         "name" : "Banca Sella",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104903724389618703136/photos\"\u003eDehn Whitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFsb0vsEK6nZdnnQ_fV2DEJQELhASwSiof3r4gC_WrobVSomqZgGABDmKrlNNjoqdb0UF9UrUssV8Cxl0XiAazwkjH8ajN6lNaBfyFDUkq6K0dSdwpCDMgFFrD0GISdwDkvr1anXsLEodFQcwFCetIYDCbBFijT-EfCzuOhiILaDEhDoL40ToxiETHc0Hts0Q_Y9GhSwltx8Nl4HxK3f4Ys_meUnR3xABg",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJm-WU-iRtiEcRVmeVok_zYBw",
+         "reference" : "CmReAAAAuVGc_pI80vJoFvCVL4spwWkKDRaALNotGWcqUDeyHw-JxJMtunqgnT4I6ydTeOJp_PnNuC6AwGh9mypypg7YSvkpAIRTY4AgfUvQrK2hJ9Yw4WVuDQj4y-fGmMzPQswTEhCR2NGfgTSqenBZet13KWXNGhRX1zBgLB1h7jKQmNUsj8D5j5LMtg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 46, Torino"
+      }
+   ],
+   "status" : "OK"
+}

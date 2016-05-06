@@ -1,0 +1,249 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ36QfXq7GhkcRy8RWIv2tPd4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ31GTk67GhkcRPw6Nl8LeRdQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.467392,
+               "lng" : 9.192871999999999
+            },
+            "southwest" : {
+               "lat" : 45.4649456,
+               "lng" : 9.1889772
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 763
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 274
+               },
+               "end_address" : "Piazza del Duomo, Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4649456,
+                  "lng" : 9.189268199999999
+               },
+               "start_address" : "Via S. Raffaele, 3, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4658637,
+                  "lng" : 9.191294299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.4661243,
+                        "lng" : 9.191633399999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Ragazzi del '99\u003c/b\u003e toward \u003cb\u003eVia Agnello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s`otGqdbw@s@cA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4658637,
+                        "lng" : 9.191294299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.4666313,
+                        "lng" : 9.192871999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ulrico Hoepli\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gbotGufbw@f@_AaB_Ck@w@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4661243,
+                        "lng" : 9.191633399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.467085,
+                        "lng" : 9.191880899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Adalberto Catena\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "meotGmnbw@SDKHMJKLGLCJCHOvB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4666313,
+                        "lng" : 9.192871999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.466901,
+                        "lng" : 9.1910025
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Adalberto Catena\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eLargo Raffaele Mattioli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ghotGghbw@?H?HTjAH`@@@@\\?L"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467085,
+                        "lng" : 9.191880899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 45.467392,
+                        "lng" : 9.189924
+                     },
+                     "html_instructions" : "\u003cb\u003eLargo Raffaele Mattioli\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePiazza della Scala\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cgotGwbbw@AJY|@eAlC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.466901,
+                        "lng" : 9.1910025
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza della Scala\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ejotG_|aw@tAnB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467392,
+                        "lng" : 9.189924
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ogotGoxaw@`@`@j@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 193
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 45.4649456,
+                        "lng" : 9.189268199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Silvio Pellico\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aeotGcvaw@Xu@DCBAxCD|A?f@C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s`otGqdbw@s@cAf@_AmCwDSDKHYXKXS`C?R^lBB^AXY|@eAlCtAnB`@`@j@h@Xu@HExCD|A?f@C"
+         },
+         "summary" : "Via Silvio Pellico",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

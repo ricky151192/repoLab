@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhY1Tf6bGhkcRnIBuieQjzG4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhY1Tf6bGhkcRnIBuieQjzG4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4619122,
+               "lng" : 9.197508400000002
+            },
+            "southwest" : {
+               "lat" : 45.4619122,
+               "lng" : 9.197508400000002
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Francesco Sforza, 12, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4619122,
+                  "lng" : 9.197508400000002
+               },
+               "start_address" : "Via Francesco Sforza, 12, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4619122,
+                  "lng" : 9.197508400000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4619122,
+                        "lng" : 9.197508400000002
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Francesco Sforza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}gntGmkcw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4619122,
+                        "lng" : 9.197508400000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}gntGmkcw@"
+         },
+         "summary" : "Via Francesco Sforza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpywwWDxtiEcR304ZkBuvs1U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ95OXtSVtiEcRP8PsPDAShvc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0579269,
+               "lng" : 7.664569299999999
+            },
+            "southwest" : {
+               "lat" : 45.0543451,
+               "lng" : 7.656699700000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1189
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 257
+               },
+               "end_address" : "Corso Duca degli Abruzzi, 94, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0543451,
+                  "lng" : 7.656699700000001
+               },
+               "start_address" : "Via Marco Polo, 6, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0579269,
+                  "lng" : 7.663941200000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.0569543,
+                        "lng" : 7.663256999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e toward \u003cb\u003eVia Cristoforo Colombo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ak_rGszwm@nBlArAx@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0579269,
+                        "lng" : 7.663941200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.0565199,
+                        "lng" : 7.664387199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Cristoforo Colombo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}d_rGkvwm@tAaF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0569543,
+                        "lng" : 7.663256999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 244
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.054598,
+                        "lng" : 7.663315899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gb_rGm}wm@Nc@lDtB`EbC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0565199,
+                        "lng" : 7.664387199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 411
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 45.0563509,
+                        "lng" : 7.6587074
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gv~qGwvwm@Kj@wAbF_BfF{@xCIXsAlF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.054598,
+                        "lng" : 7.663315899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544947,
+                        "lng" : 7.6570864
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ea_rG}yvm@Sp@fEpC~D~B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0563509,
+                        "lng" : 7.6587074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.0543451,
+                        "lng" : 7.656699700000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "qu~qGyovm@Ol@j@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544947,
+                        "lng" : 7.6570864
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ak_rGszwm@bEfCdBeGnJxFKj@wAbF{C`K}AfGSp@fEpC~D~BOl@j@^"
+         },
+         "summary" : "Via Sebastiano Caboto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

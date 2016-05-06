@@ -1,0 +1,251 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFVC9Ws9fLxMRWhWWvsPyFUo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwwCKl5RfLxMR0NuTISBxUb4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9075009,
+               "lng" : 12.4274542
+            },
+            "southwest" : {
+               "lat" : 41.8908913,
+               "lng" : 12.4127697
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.2 km",
+                  "value" : 3209
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 594
+               },
+               "end_address" : "Via Aurelia, 727, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8917408,
+                  "lng" : 12.4136336
+               },
+               "start_address" : "Via Martino V, 25, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9054835,
+                  "lng" : 12.4216371
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "48 m",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.9057317,
+                        "lng" : 12.4211672
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Martino V\u003c/b\u003e toward \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtw~FgbyjAq@|A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9054835,
+                        "lng" : 12.4216371
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 439
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 41.9075009,
+                        "lng" : 12.4254018
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yuw~Fi_yjAwBaDi@gAYi@MKSIUGOCICKGQUWi@EUE[GiAIoI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9057317,
+                        "lng" : 12.4211672
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 41.9056298,
+                        "lng" : 12.4253252
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{`x~FwyyjAzBA~BDD@|AFT?"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9075009,
+                        "lng" : 12.4254018
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 830
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "\u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "euw~FiyyjANFB@DDJFTRXRHFDBRBRDNBTBJ@H?lDQl@Ix@Od@Mp@StAa@lAg@v@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9056298,
+                        "lng" : 12.4253252
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1400
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 179
+                     },
+                     "end_location" : {
+                        "lat" : 41.8920691,
+                        "lng" : 12.4137179
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjAK|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@DH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LTNZLZR`@LTv@rAHJFL\\f@jAhBVd@tBnCjAzAJLPTv@bADT@@LNTXXXNNLJNLLHTN"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 152
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 41.8909899,
+                        "lng" : 12.4127697
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eVia Nicola Coviello\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m`u~FwpwjAGPTPp@b@vCtB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8920691,
+                        "lng" : 12.4137179
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14 m",
+                        "value" : 14
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 41.8909544,
+                        "lng" : 12.4129374
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Nicola Coviello\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uyt~FyjwjAFa@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8909899,
+                        "lng" : 12.4127697
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 118
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 41.8917408,
+                        "lng" : 12.4136336
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "myt~F{kwjAJY_Ak@qAu@WM"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8909544,
+                        "lng" : 12.4129374
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gtw~FgbyjAq@|AwBaDcAqBa@Ue@KUKi@_AKq@GiAIoIzBA~BDbBHT?NFHFdAv@|@P`@DvDQfBYvAa@tAa@lAg@v@Mv@]lDoBtEoB~Au@nAm@K|BAdA@~@XdEFNFp@Ht@NfAb@xBpA|Ef@dBhAtCjDnI|@tBbAtB~@nBvAbChBpCVd@tBnCvAhBhAxAFVb@h@fAbAb@XGPTPhExCFa@JYqCaBWM"
+         },
+         "summary" : "Circonvallazione Cornelia and Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

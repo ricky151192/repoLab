@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJzerdiRIIOxMR9zFP_5F9Q9o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDZqyMhIIOxMRP7GzhTqKNj4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8600278,
+               "lng" : 14.2679594
+            },
+            "southwest" : {
+               "lat" : 40.8577147,
+               "lng" : 14.2657539
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 439
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 146
+               },
+               "end_address" : "Piazza S. Maria della Fede, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.85819559999999,
+                  "lng" : 14.2679594
+               },
+               "start_address" : "Vico Santa Maria del Riposo, 33, 80139 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8600278,
+                  "lng" : 14.2657539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "74 m",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.859418,
+                        "lng" : 14.2660969
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVico Santa Maria del Riposo\u003c/b\u003e toward \u003cb\u003eVico Tutti I Santi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "enkxF}gavAnAm@h@W"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8600278,
+                        "lng" : 14.2657539
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.8589916,
+                        "lng" : 14.2663596
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Carlo Pisacane\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kjkxFcjavAtAs@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.859418,
+                        "lng" : 14.2660969
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.8591843,
+                        "lng" : 14.2669185
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Camillo Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ugkxFwkavAUw@Ow@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8589916,
+                        "lng" : 14.2663596
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 40.8577147,
+                        "lng" : 14.2671442
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{hkxFgoavAdBQl@Ch@ENAXC|@I"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8591843,
+                        "lng" : 14.2669185
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.85790739999999,
+                        "lng" : 14.2675581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Francesco Saverio Nitti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_kxFspavAg@sA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8577147,
+                        "lng" : 14.2671442
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.8579999,
+                        "lng" : 14.26751
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`kxFgsavAQH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85790739999999,
+                        "lng" : 14.2675581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.85819559999999,
+                        "lng" : 14.2679594
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oakxF}ravAYy@M_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8579999,
+                        "lng" : 14.26751
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "enkxF}gavAxBeAtAs@Uw@Ow@dBQvAIh@E|@Ig@sAQHYy@M_@"
+         },
+         "summary" : "Corso Giuseppe Garibaldi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

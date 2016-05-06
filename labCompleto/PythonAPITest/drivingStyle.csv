@@ -1,0 +1,14 @@
+Id_Itinerario,Targa,Strada,Lat,Lng,VelocitaLimite,VelocitaRilevata,Km
+1,0,"Via Beato Angelico, 7, 20831 Seregno MB, Italy",45.653021,9.1883727,50,21,0
+1,0,Via Giambattista Tiepolo,45.6535818,9.1883218,90,85,0.06
+1,0,Via alla Porada,45.6560644,9.1880356,90,98,0.28
+1,0,Via Riccardo Wagner,45.6561795,9.1925823,90,88,0.36
+1,0,Via Antonio Stoppani,45.6563446,9.2043261,130,129,0.93
+1,0,Via Giuseppe Parini,45.6556815,9.2126163,90,99,0.65
+1,0,Via V. Monti,45.6542694,9.2258588,50,44,1.08
+1,0,SS36,45.5542636,9.2391875,90,98,12.1
+1,0,Viale Brianza,45.5531276,9.2387277,130,126,0.13
+1,0,Viale Fulvio Testi,45.5331411,9.215561,130,132,3.06
+1,0,Via Gian Carlo Clerici,45.5325577,9.2176733,90,90,0.18
+1,0,Via Milanese,45.5306146,9.2174223,50,49,0.22
+1,0,Viale Sarca,45.5257529,9.2143733,50,59,0.59

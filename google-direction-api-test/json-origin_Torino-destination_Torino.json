@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0703088,
+               "lng" : 7.6868731
+            },
+            "southwest" : {
+               "lat" : 45.0703088,
+               "lng" : 7.6868731
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Turin, Italy",
+               "end_location" : {
+                  "lat" : 45.0703088,
+                  "lng" : 7.6868731
+               },
+               "start_address" : "Turin, Italy",
+               "start_location" : {
+                  "lat" : 45.0703088,
+                  "lng" : 7.6868731
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.0703088,
+                        "lng" : 7.6868731
+                     },
+                     "html_instructions" : "Head on \u003cb\u003ePiazza Castello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxarG}i|m@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0703088,
+                        "lng" : 7.6868731
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxarG}i|m@"
+         },
+         "summary" : "Piazza Castello",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

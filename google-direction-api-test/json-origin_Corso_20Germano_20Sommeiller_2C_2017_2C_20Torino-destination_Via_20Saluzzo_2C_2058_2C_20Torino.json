@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6YXoX0dtiEcRGx8lXJzf00U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV6ugoUZtiEcRBo5oDGxgUnY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0554099,
+               "lng" : 7.677527700000001
+            },
+            "southwest" : {
+               "lat" : 45.0539267,
+               "lng" : 7.672153399999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 651
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 139
+               },
+               "end_address" : "Via Saluzzo, 58, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0544918,
+                  "lng" : 7.6772628
+               },
+               "start_address" : "Corso Germano Sommeiller, 17, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0548939,
+                  "lng" : 7.672153399999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 256
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e toward \u003cb\u003eVia Chisone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ax~qG}mym@\\gAd@{BP{@P{@DWl@aEPcA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0548939,
+                        "lng" : 7.672153399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554099,
+                        "lng" : 7.676205599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sr~qGw`zm@@MNmAg@QWIuBg@qBq@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0551786,
+                        "lng" : 7.677527700000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Federico Campana\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i{~qGigzm@l@gG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0554099,
+                        "lng" : 7.676205599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544918,
+                        "lng" : 7.6772628
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Saluzzo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{y~qGqozm@tBl@RF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0551786,
+                        "lng" : 7.677527700000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ax~qG}mym@\\gAd@{Bb@wBfAkHNmAg@QmCq@qBq@l@gGhCt@"
+         },
+         "summary" : "Corso Germano Sommeiller and Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

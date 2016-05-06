@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvU5uQZZfLxMRLwEHGpv8X_E",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJES5ywbhfLxMR7CStcEg7kRY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9019283,
+               "lng" : 12.4137674
+            },
+            "southwest" : {
+               "lat" : 41.8952707,
+               "lng" : 12.4076713
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1614
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 282
+               },
+               "end_address" : "Via Bra, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9019283,
+                  "lng" : 12.4134216
+               },
+               "start_address" : "Via di Val Cannuta, 191, 51017 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8952707,
+                  "lng" : 12.4079958
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8958092,
+                        "lng" : 12.4076713
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mtu~F_mvjAkB`A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8952707,
+                        "lng" : 12.4079958
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 649
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ywu~F}jvjAESqB{GEO_@qAi@eAa@s@IKq@gAa@o@S[qAqB{AeCcA_BaA{AaAcB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8958092,
+                        "lng" : 12.4076713
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 345
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 41.9007494,
+                        "lng" : 12.4101131
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "knv~FaqwjAyApBMNKRMXK^I\\EXYrBqA~I"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 41.9016651,
+                        "lng" : 12.410039
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Monte Carmelo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uvv~FezvjAoAa@C?C@C@EF[d@IJIFGBG?CACCEEGM"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9007494,
+                        "lng" : 12.4101131
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.900947,
+                        "lng" : 12.4136784
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Rivarone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m|v~FwyvjA?G?E?EFi@^kCbBaMFc@?M?G?E?ACI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9016651,
+                        "lng" : 12.410039
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 41.90178299999999,
+                        "lng" : 12.4134697
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Bra\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}wv~FopwjAECGAG@G@G?_Cj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900947,
+                        "lng" : 12.4136784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019283,
+                        "lng" : 12.4134216
+                     },
+                     "html_instructions" : "Enter the roundabout",
+                     "polyline" : {
+                        "points" : "c}v~FeowjA?AA??A?AA??AA??AA??AA?A?A?A?A?A?A@A??@A@?@A??@?@A@?@?@?@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90178299999999,
+                        "lng" : 12.4134697
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mtu~F_mvjAkB`AESwBkH_@qAi@eAk@_AyDeGcHeLgB`CYl@U|@_@lCqA~IoAa@G@o@z@QJKAIIGU?Kf@uDjBeN?U?GIM_@@aCh@?ACCACG?GBEH?F"
+         },
+         "summary" : "Via di Val Cannuta",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJB0YSklLBhkcRDnMz2SMFRNI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJB0YSklLBhkcRDnMz2SMFRNI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4671337,
+               "lng" : 9.182482
+            },
+            "southwest" : {
+               "lat" : 45.4671337,
+               "lng" : 9.182482
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Porlezza, 4, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4671337,
+                  "lng" : 9.182482
+               },
+               "start_address" : "Via Porlezza, 4, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4671337,
+                  "lng" : 9.182482
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4671337,
+                        "lng" : 9.182482
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Porlezza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qhotGom`w@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4671337,
+                        "lng" : 9.182482
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qhotGom`w@"
+         },
+         "summary" : "Via Porlezza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

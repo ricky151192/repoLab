@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EidWaWEgR3JlZ29yaW8gWEksIDgzLCAwMDE2NiBSb21hLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EidWaWEgR3JlZ29yaW8gWEksIDgzLCAwMDE2NiBSb21hLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9011703,
+               "lng" : 12.4205467
+            },
+            "southwest" : {
+               "lat" : 41.9011703,
+               "lng" : 12.4205467
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Gregorio XI, 83, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9011703,
+                  "lng" : 12.4205467
+               },
+               "start_address" : "Via Gregorio XI, 83, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9011703,
+                  "lng" : 12.4205467
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9011703,
+                        "lng" : 12.4205467
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iyv~Fm{xjA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9011703,
+                        "lng" : 12.4205467
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iyv~Fm{xjA"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,322 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ95OXtSVtiEcRP8PsPDAShvc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.05486579999999,
+               "lng" : 7.6726011
+            },
+            "southwest" : {
+               "lat" : 45.0424926,
+               "lng" : 7.655143
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.4 km",
+                  "value" : 2398
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 519
+               },
+               "end_address" : "Corso Duca degli Abruzzi, 94, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0543451,
+                  "lng" : 7.656699700000001
+               },
+               "start_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.0428452,
+                        "lng" : 7.6715713
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eCorso Bramante\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qj|qGwpym@A?Uz@o@pC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 870
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 45.046613,
+                        "lng" : 7.6622263
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "yl|qGijym@CBCBABCBADADAB?FAD?D?D?B?D@D@D?B@B@B@@@B@@@@@@?@IlAEj@U|Aa@bCUlAo@jD]bBCJABi@jBOd@ABK^sAfCeCjFOT?N_@v@gFnK"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0428452,
+                        "lng" : 7.6715713
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 254
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 45.0481246,
+                        "lng" : 7.6598086
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Lepanto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "id}qG}owm@SZQ`@mErIGHq@fA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.046613,
+                        "lng" : 7.6622263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 45.0506774,
+                        "lng" : 7.660577399999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e/\u003cb\u003ePiazzale Costantino il Grande\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Corso Galileo Ferraris\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wm}qGy`wm@QVGJi@d@WJG@KAYIs@_@_@KeE}B{A{@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0481246,
+                        "lng" : 7.6598086
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 423
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 45.0524713,
+                        "lng" : 7.6559328
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Enrico De Nicola\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w}}qGsewm@E`@u@pGKh@Kj@EPQx@[pAYt@[t@Sf@i@bAe@x@cAfB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0506774,
+                        "lng" : 7.660577399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 45.0527145,
+                        "lng" : 7.655998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLargo Orbassano\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}h~qGqhvm@SC[I"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0524713,
+                        "lng" : 7.6559328
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.053352,
+                        "lng" : 7.655319
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit and stay on \u003cb\u003eLargo Orbassano\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mj~qG_ivm@CGAAm@_@A?CCCAA?CAA?C?CBA?ADA@GXCR@La@pB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0527145,
+                        "lng" : 7.655998
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "43 m",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.05371590000001,
+                        "lng" : 7.655143
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Mediterraneo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mn~qGwdvm@iAb@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.053352,
+                        "lng" : 7.655319
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.05486579999999,
+                        "lng" : 7.655965800000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Antonio Pigafetta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wp~qGscvm@g@_@UOgDuB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05371590000001,
+                        "lng" : 7.655143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "78 m",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 45.0545692,
+                        "lng" : 7.656863599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Fratelli Carle\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}w~qGyhvm@z@qD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05486579999999,
+                        "lng" : 7.655965800000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.0543451,
+                        "lng" : 7.656699700000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "av~qGknvm@j@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0545692,
+                        "lng" : 7.656863599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qj|qGwpym@Wz@s@tCKPEV?TL^BBInA[hCw@pEsA~GgAtDyErJOT?NgGfMe@|@uE|IcA~Aq@p@_@Le@Ks@_@_@KaHyD{@rHo@`D[pAYt@o@|AoA|BcAfBSC[ICGo@a@KEIAIJKl@@La@pBiAb@g@_@}DeCz@qDj@^"
+         },
+         "summary" : "Corso Bramante",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

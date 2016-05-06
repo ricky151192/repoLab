@@ -1,0 +1,130 @@
+<!--
+  Author: W3layouts
+  Author URL: http://w3layouts.com
+  License: Creative Commons Attribution 3.0 Unported
+  License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html ng-app="appApp">
+
+<head>
+    <title>OCA app</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <link rel="icon" href="images/logo-oca.ico">
+
+    <script src="js/jquery.min.js"> </script>
+    <script src="js/jquery.metisMenu.js"></script>
+    <!-- <script src="js/jquery.slimscroll.min.js"></script> -->
+    <script src="js/jquery.nicescroll.js"></script>
+
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }
+    </script>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-table.css" rel="stylesheet">
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-table.js"></script>
+
+<!-- Custom Theme files -->
+    <link href="css/font-awesome.css" rel="stylesheet"> 
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+
+<!-- Custom and plugin javascript -->
+    <link href="css/custom.css" rel="stylesheet">
+    <script src="js/custom.js"></script>
+    <script src="js/screenfull.js"></script>
+		<script>
+		$(function () {
+			$('#supported').text('Supported/allowed: ' + !!screenfull.enabled);
+
+			if (!screenfull.enabled) {
+				return false;
+			}
+
+			
+
+			$('#toggle').click(function () {
+				screenfull.toggle($('#container')[0]);
+			});
+			
+
+			
+		});
+		</script>
+
+    <script src="js/skycons.js"></script>
+
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-resource.min.js"></script>
+    <script src="js/angular-route.min.js"></script>
+    <script src="app.js"></script>
+        
+    <script src="js/rainbowvis.js"></script>
+
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="vistadati.js"></script>
+</head>
+<body>
+
+<div id="wrapper">
+
+    <nav class="navbar-default navbar-static-top" role="navigation">
+    <a href=app.html#/anagrafica>
+      <div class="navbar-header">
+        <p class="navbar-brand"><img src="images/logo-oca-big.jpg" alt="Logo OCA"> OCA Assicurazioni</p>
+      </div>
+    </a>
+      <div class=" border-bottom">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="drop-men" ng-controller="DropDownController as dropdown">
+          <ul class=" nav_1" style="margin-top:10px; margin-right:10px;">
+            <li class="dropdown">
+              <a href="" class="dropdown-toggle dropdown-at" data-toggle="dropdown"><span class="name-caret"><img src="images/user-placeholder.png" width="40" height="40"> Mario Rossi <i class="caret"></i> </span></a>
+              <ul class="dropdown-menu " role="menu">
+                <li><a href="" ng-click="dropdown.configure()"><i class="fa fa-user"></i>Configurazione</a></li>
+                <li><a href="" ng-click="dropdown.logout()"><i class="fa fa-envelope"></i>Log out</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+
+        <!-- /.navbar-collapse -->
+        <div class="clearfix">
+        </div>
+        <div class="navbar-default sidebar" role="navigation">
+          <div class="sidebar-nav navbar-collapse">
+            <ul class="nav" id="side-menu">
+              <li>
+                <a href="#/anagrafica" class=" hvr-bounce-to-right"><i class="fa fa-list nav_icon "></i><span class="nav-label">Anagrafica</span> </a>
+              </li>
+              <li>
+                <a href="#/polizze" class=" hvr-bounce-to-right"><i class="fa fa-list nav_icon "></i><span class="nav-label">Polizze</span> </a>
+              </li>
+              <li>
+                <a href="#/vistadati" class=" hvr-bounce-to-right"><i class="fa fa-list nav_icon "></i><span class="nav-label">Vista dati</span> </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div ng-view></div>
+
+    <script src="js/scripts.js"></script>
+
+    <div class="copy">
+      <p> &copy; 2016 Minimal. All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+    </div>
+
+</div>
+
+
+</body>
+
+<!-- Mirrored from p.w3layouts.com/demos/minimal_admin_panel/web/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Apr 2016 05:40:37 GMT -->
+</html>
+

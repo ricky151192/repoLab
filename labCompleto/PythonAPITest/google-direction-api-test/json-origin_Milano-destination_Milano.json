@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ53USP0nBhkcRjQ50xhPN_zw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ53USP0nBhkcRjQ50xhPN_zw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4654316,
+               "lng" : 9.185937899999999
+            },
+            "southwest" : {
+               "lat" : 45.4654316,
+               "lng" : 9.185937899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Milan, Italy",
+               "end_location" : {
+                  "lat" : 45.4654316,
+                  "lng" : 9.185937899999999
+               },
+               "start_address" : "Milan, Italy",
+               "start_location" : {
+                  "lat" : 45.4654316,
+                  "lng" : 9.185937899999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4654316,
+                        "lng" : 9.185937899999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Dante\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}}ntGccaw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4654316,
+                        "lng" : 9.185937899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}}ntGccaw@"
+         },
+         "summary" : "Via Dante",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

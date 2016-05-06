@@ -1,0 +1,275 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo9AkdKvGhkcRvyWnUXUQu8U",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJB0YSklLBhkcRDnMz2SMFRNI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4671337,
+               "lng" : 9.1855118
+            },
+            "southwest" : {
+               "lat" : 45.4621883,
+               "lng" : 9.1804013
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 927
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 275
+               },
+               "end_address" : "Via Porlezza, 4, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4671337,
+                  "lng" : 9.182482
+               },
+               "start_address" : "Via Valpetrosa, 5, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4621883,
+                  "lng" : 9.1853245
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Valpetrosa\u003c/b\u003e toward \u003cb\u003eVia Fosse Ardeatine\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uintGg_aw@GEKEI?SDSBK?[KCACAAAOQ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4621883,
+                        "lng" : 9.1853245
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629881,
+                        "lng" : 9.1846877
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza S. Sepolcro\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}mntGm`aw@E^AFADCFAHCDCFEFEFGJP\\@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.4635676,
+                        "lng" : 9.183836699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia del Bollo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "unntGi{`w@U\\o@dA[z@GFI@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629881,
+                        "lng" : 9.1846877
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 228
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 45.4649551,
+                        "lng" : 9.181729899999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Santa Maria Fulcorina\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "irntG_v`w@mArAOPc@h@KVa@dAw@zAMXOf@OX"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4635676,
+                        "lng" : 9.183836699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.4656351,
+                        "lng" : 9.1806047
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Santa Maria alla Porta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_{ntGyh`w@m@bAaArBGRENID"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4649551,
+                        "lng" : 9.181729899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 45.4656605,
+                        "lng" : 9.1804013
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Meravigli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g_otGwa`w@Cf@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4656351,
+                        "lng" : 9.1806047
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 45.4667863,
+                        "lng" : 9.1813366
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Giovanni sul Muro\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k_otGo``w@}@m@aAy@[W][KI[U"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4656605,
+                        "lng" : 9.1804013
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.4664263,
+                        "lng" : 9.182203999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVicolo S. Giovanni Sul Muro\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mfotGkf`w@FIDINa@BCD?FABABABKBQB_@@M@_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4667863,
+                        "lng" : 9.1813366
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 m",
+                        "value" : 85
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.4671337,
+                        "lng" : 9.182482
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Porlezza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "edotGwk`w@a@ECCCACCIIGCGCGAOCIAI?I@C?A?A??AAA?AAAAC?C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4664263,
+                        "lng" : 9.182203999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uintGg_aw@SK]D_@B_@MECOQE^CLEPS\\GJP\\@ZU\\o@dA[z@GFI@}AdBc@h@KVa@dAw@zA]`A}@|AiAfCENIDCf@}@m@}AqAi@e@[UFITk@TGFMFq@Bm@e@IYSi@KY@CECI"
+         },
+         "summary" : "Via Santa Maria Fulcorina",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

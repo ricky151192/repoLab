@@ -1,0 +1,226 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJS-X3o6jGhkcR9AdORhOsNm0",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJu_P9dqbGhkcRCDLWtEt1cKw",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4629947,
+               "lng" : 9.197385499999999
+            },
+            "southwest" : {
+               "lat" : 45.459141,
+               "lng" : 9.191156099999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1214
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 309
+               },
+               "end_address" : "Via della Signora, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46178279999999,
+                  "lng" : 9.196568899999999
+               },
+               "start_address" : "Via Sant'Antonio, 5, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4616367,
+                  "lng" : 9.1934539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604796,
+                        "lng" : 9.193101
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Sant'Antonio\u003c/b\u003e toward \u003cb\u003eLargo Francesco Richini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gfntGarbw@nC`@vAb@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4616367,
+                        "lng" : 9.1934539
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 45.4591469,
+                        "lng" : 9.192456399999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo Francesco Richini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "__ntG{obw@vA`@xBj@PD^^BD@D"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604796,
+                        "lng" : 9.193101
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607913,
+                        "lng" : 9.191485799999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pantano\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "uvmtG{kbw@@D?B?@?B?@CLEJKLs@v@{@p@}@j@QLG?y@d@q@aA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4591469,
+                        "lng" : 9.192456399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.4608529,
+                        "lng" : 9.1913675
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`ntGyebw@KV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4607913,
+                        "lng" : 9.191485799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 366
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 45.4628686,
+                        "lng" : 9.195043499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street to stay on \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iantGaebw@Uc@gFyIOc@Y}@Qc@Se@q@sBS_A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4608529,
+                        "lng" : 9.1913675
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 45.4627548,
+                        "lng" : 9.197385499999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Verziere\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}mntG_|bw@Eo@Q_CAK@cB?G?U?OBYFg@b@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4628686,
+                        "lng" : 9.195043499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.46178279999999,
+                        "lng" : 9.196568899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia della Signora\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "emntGujcw@bBxA|AhA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4627548,
+                        "lng" : 9.197385499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gfntGarbw@nC`@vAb@pElAPD^^DJ@NCNQXs@v@{@p@oAx@G?y@d@q@aAKV}F}Ji@aBe@iAq@sBS_AWoD?oBBgAFg@b@eAbBxA|AhA"
+         },
+         "summary" : "Via Larga",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

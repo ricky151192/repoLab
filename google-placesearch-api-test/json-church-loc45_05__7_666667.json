@@ -1,0 +1,206 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0492359,
+               "lng" : 7.673656800000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0681aa3664ef0e73d6108b0e44d3d05764fa12cf",
+         "name" : "Parrocchia Sacro Cuore di Gesù",
+         "place_id" : "ChIJAzwW-khtiEcRllEgmpiiKio",
+         "reference" : "CoQBcgAAAKkhDAi9APOmbS44Yr1CG038Ow_MG7-asF0dVg6XvqjRu4AtaRfZ_FGAZGN1CKtCL_2KNYklIT7eduZ4h6AdWzNY0o9wQaMsffWfrUwiiIgmGkDVfMhEj782vuz0nWJfHxR9fP0lmH1og72HiT4Q5YMMtvhiwvbWkxSABz6M9PDrEhCJqDD2zAujtZPNneh6p2shGhQDnP_M-uM18t4PShoWER57olThYw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nizza, 56, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0540552,
+               "lng" : 7.669014499999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ab5b4337526cad7559df2042b2466678d9293f01",
+         "name" : "Parrocchia Madonna Di Pompei",
+         "place_id" : "ChIJWRt5_jhtiEcRpv09SlN1vvM",
+         "reference" : "CnRwAAAA9VHx3yjGTP-9O4mLIMaAAOeP5jU6ygYLNw9mF1QG0-nNx0mpP7S1rce_eTMS4noWFzNQCWwHSr5R7_atOy2-GmLaoYl2DcKWpfaB0sKC3ganx2HNsk6_JKZ1iY3FymrpmiE3VgGjacs-deuAsAIMlBIQjb5G7PK2Mxwl5KOPD2G9kxoUEY82kXi1zC1s3m7dvJLvFr_VR3w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Secondo, 90, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0584017,
+               "lng" : 7.6645701
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ac2195c8f425c2f56908ecd892c7bd7b8e122794",
+         "name" : "Parrocchia Beata Vergine delle Grazie",
+         "photos" : [
+            {
+               "height" : 3040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113389065890860576086/photos\"\u003eLuigi Tondi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALpKWUeycVZbDKNmzuxxPkx7inWGOD5Tsv5nwD_7sFfupkXTOvTpOt-nVlIPb7t6GuE4CqlhH7Wef5o_Gtmzv8trpp40Xxhx5pDcPyXh1gPT-gelYndPTxyKlvG6whHQ-Z2nHqjv6xm7-XkxSps4uKp7XVNlu2hsMGWDcEVyy23FEhAPavdVBATTAik86wS03_0LGhTVJhfATvffUdKYyDqpNxdcWKe1qg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJiaBM5TxtiEcRd_TN9UwvAZc",
+         "reference" : "CoQBeQAAADa3XYYsIPaPAmSVIklq6P3pQ4sze7XgnaqeAWZxWaSNUhMx3yLaZZTGZEPZ_CTayHlsJliRMEq_7q75GdUOBgnccswEikTFpwYrcPAZgnFfPaL9Ydj-NuRJ6hmVyB9BgA328WP6ncm5hgN67YZMn30aRJb4HaD6WfuoQ33CDIu7EhDKvYqGP3UvuYewaLVTiZR9GhRBPy8fh0O__qtB17ME4rQIe_hRWA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Marco Polo, 6, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.048339,
+               "lng" : 7.662443999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e7bbb20f83220528bf569695449a08789eef7643",
+         "name" : "Parrocchia San Giorgio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJA-0wDTFtiEcR7WiYwOVFUJ0",
+         "reference" : "CnRqAAAA7fd_9-V6MN5r3eFvmqoKAtbIKdkdFNfr8VQ7ErBg4oIpWn9mfFlm-Hvj48ni9zKg65S7uIftJ-IrgjrdWyDejkE1xmnQ2r4KXA0srcpTHlmHZPwdtKTlQpo6dCs_w-NYqnrklMPKEW1FD5Fu9DpguxIQ2LHgPKF-bXYmxqb91AfiohoUlW1JY9e3FUd2TbTh593zXrYktjs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Lazzaro Spallanzani, 7, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05452249999999,
+               "lng" : 7.675987
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "efb34d22b3a95f3b8ca35df3c3bc3ae6ca4b420b",
+         "name" : "Istituto Suore Sacramentine Di Bergamo",
+         "place_id" : "ChIJJ83OwEZtiEcR6laT59sGIF8",
+         "reference" : "CoQBeQAAAMCWulLGxcxQbUg-AOx0m3d0FpLhXhsTkc1cdODgK-AXsfEbBPylKRCRW7vBBkPeZeJIsnT3kZoN9dL2rkW6vg93wakRGmRweDU16_vxX0diekc_z6dT-3Zo2mUxjSmcSgGFRlcBe8tkiP6fF3pLg0tPr4mbUmN0VIIHyMW7lp_LEhB20NM9GZaE4Jxl-n9wWfgtGhTAFS_Gk6I82ztTJr_d330imhyVEw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nizza, 47, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.054566,
+               "lng" : 7.677159100000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7d13554ded64e20fa784a96ed8920bbb0d2b7470",
+         "name" : "Provinciale Suore Sacramentine Di Bergamo",
+         "place_id" : "ChIJQ2CVnkZtiEcRtlw2dem9OPk",
+         "reference" : "CoQBfQAAAA5IZlFEanA8YMRLo4Viojn4RNOVci_RgLN0s1tPoteHqk0VG12yev12BDVNPK9npweXYtj7n__bM27xnwBv3XUJqf6Eh56fo1twZeGgDFxs6Vw7yG0BcUviXmxmO0_b8FSEhVi50BOEw2GXLXZPa_FIiEz4_MtC5ZS3z8iZTu5sEhCVn93jRR-l_74Tp-CkM-LVGhQfFSbICntVwpSjfin5baglS7G9JQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Saluzzo, 58, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05007199999999,
+               "lng" : 7.666556899999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1f4dcd29e189dbbecdcb10b2f87feda94f9a59f0",
+         "name" : "Associazioni Studenti Biblici Millefonti Sud",
+         "place_id" : "ChIJz7MxczdtiEcRvtsLUBd1auQ",
+         "reference" : "CoQBgAAAAF07LWYAXXxdqP7so8B3RunoGXIJ8WRMkXcSFgeZ-idaWTg58Kr2YA7gybcK1rnA2DyCqM7NgvpBWBfecmtuNP8qWl5CXtWQbTWJO8-qMsGJJdbXZRczC14aDwZuUv9Lt2mpo8DZ6NAQ0OsEcH-4PmCpwdhnKBzsATsC_e30OdwpEhAA-aTGV7-k1ks5r8tnXYuBGhQ5LH_PmzSNTXSUTxFAZxvm-DYovA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Jonio, 7, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0495232,
+               "lng" : 7.6735061
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c44f75490f5342912e4617554b9d6bfeb4860c4d",
+         "name" : "Convento Sacro Cuore Di Gesu'",
+         "place_id" : "ChIJBcg2XEhtiEcRebolqfX0PC0",
+         "reference" : "CnRwAAAALNkIchu8nwYwEyxSxRfLkPoTjigypkxpb-GgMA1tI0Uilhr13sYzbF5x-y381QighRlmSq-68hVYiqCdaA-mOpey8aGwYA148Kmyolvoy9sMHOZcHMlbESrp02KOBszD_KFpkP5hXkCrqRncpecH2RIQhaIOcFAjxnl6mw88SKNN7RoUgAkJQhtcenZ2EfJ61Ir6i-9DV9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Carlo Giovanni Brugnone, 5, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0490318,
+               "lng" : 7.672210200000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d439db7cc9b021f39ef3d373afe2437339439654",
+         "name" : "Provincia Italiana Di San Maurizio",
+         "place_id" : "ChIJTSrgUkhtiEcRnBzNd2Yr_wY",
+         "reference" : "CoQBdQAAAOcz7CpXFJbKcPxBmxRFEZ7KAqkpKaktMuoP8wW57ZC7vmhZDmUHA-FNOFddNL_H7-YHTY2rd4ktgBQ8dAaw2EZKoZ4tBzdWm1H7XeCZVnqKud4_5QQDSunkN0cywVpTMycG2vHk0fuOkWz2we80f-WmGNb2tOLKJlgjIOtsiSO_EhDbqFyek55bDy0xAYJ3uHZDGhRrqet3MCgAdS0GnSQNBRwlkIYobQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "6 Via Rosmini Antonio, Torino, To 10126"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.04611,
+               "lng" : 7.674287900000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2f36aec7841d7c3c0c2ad246ef6eba0515572195",
+         "name" : "Cappella Maria S.S Consolatrice",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104194225654007485171/photos\"\u003eLuigi Notaro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADGQQRaPS0VPoPbGjxVprZZYWiLg7RLUNA6fLsZao7tPM7R3Eg3AXcyuWUjBgdkxcg0BErT94ugvse62Jp1wQqtI-66I9AXAHuvuunfd07H2rh_1mx6ZJfv_4jDLs_M2EltwPyYM1DdcHq4mxwb6DmM2wX1Vu9nLH1eyghFNQww1EhB8oJxDw79SxdOCdy0TZ8i7GhQglpk4Phm1VA3_lrJ5tsK2UmvqaQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQSaY40ttiEcRkCNPattLmTU",
+         "reference" : "CoQBcgAAAEMO7zu6M9ORuD-4_5UIfXJubh-M7XBew4oD-vE4YziN-IhhHQDGmy6mkSdBf0SnPH3oJgA52AqKyj7foEjXKAyvSmqSssmPE5alaLcIAogKO-4TUvj8XWdE_6eUTxBTpTRQDmg0v9BP0HY9WhXtk2zcxm11WBy1nQnFizAptX7EEhDhfTBBn1EHQsw2vUhFFJegGhS7nSa2aEtcJHPcJf6yn8e1UX0l7A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ilarione Petitti, 24, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0577887,
+               "lng" : 7.668047600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "64a85f421b09fcef6c16a2e19285f5b0a5633fc7",
+         "name" : "Istituto Suore Nazarene",
+         "place_id" : "ChIJt98Cmz5tiEcRcMBsycbTV1I",
+         "reference" : "CnRqAAAA2Db02ADoUp3IcL2IyMF-DWv44GHQL1EHfPOm5-yUF0tXa0we_vrY178trHMX4tKabUUnyecSWy3-2VbEQbHiRwrr_dF8XQrJuBz0iU_rsMyPHyeUZe_nHiaIecpL0koiQI2lAJ0KQ1oXBvj_m2lkIhIQ1aL5NJAN7b_dVjolIcW3aRoU42vasAK9uN8jCeu4oGH8EnlKl8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Luigi Einaudi, 4, Torino"
+      }
+   ],
+   "status" : "OK"
+}

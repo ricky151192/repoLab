@@ -1,0 +1,345 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjBWaWEgTGF6emFybyBTcGFsbGFuemFuaSwgNywgMTAxMzQgVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0710241,
+               "lng" : 7.686951000000001
+            },
+            "southwest" : {
+               "lat" : 45.0483324,
+               "lng" : 7.6602164
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.9 km",
+                  "value" : 3890
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 842
+               },
+               "end_address" : "Via Lazzaro Spallanzani, 7, 10134 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0483324,
+                  "lng" : 7.6625954
+               },
+               "start_address" : "Turin, Italy",
+               "start_location" : {
+                  "lat" : 45.0703088,
+                  "lng" : 7.6868731
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "20 m",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 45.0704799,
+                        "lng" : 7.686951000000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003ePiazza Castello\u003c/b\u003e toward \u003cb\u003eVia Giuseppe Verdi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxarG}i|m@YMGA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0703088,
+                        "lng" : 7.6868731
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 273
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 45.07078569999999,
+                        "lng" : 7.683854800000001
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eVia Giuseppe Verdi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "oyarGmj|m@ELAB?BAB?DAF?J?PXPDBBD@BBFBF@F@F?F?D?F?DAFIZuAnFGVCR?V?N@T@RBX@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0704799,
+                        "lng" : 7.686951000000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 286
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 45.0704869,
+                        "lng" : 7.6802344
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Pietro Micca\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m{arGaw{m@@TDtADlALvDBfAZxG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.07078569999999,
+                        "lng" : 7.683854800000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 148
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.0710241,
+                        "lng" : 7.678527799999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Antonio Giuseppe Bertola\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qyarGm`{m@@Rm@hC}@tD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0704869,
+                        "lng" : 7.6802344
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.07031689999999,
+                        "lng" : 7.677967
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Giovanni Botero\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{|arGyuzm@LLt@l@fAr@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0710241,
+                        "lng" : 7.678527799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 322
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 45.0678021,
+                        "lng" : 7.6760252
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Solferino\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oxarGirzm@NNHHTZn@v@~@z@|AjANJ`Bz@`@FZDhAv@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.07031689999999,
+                        "lng" : 7.677967
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 577
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 45.0631684,
+                        "lng" : 7.672725799999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wharGefzm@hAr@lCdBlAv@b@VrBrAlD|BTNVTbCtAJFrBrA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0678021,
+                        "lng" : 7.6760252
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.06231520000001,
+                        "lng" : 7.672124200000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "yk`rGqqym@`CzAf@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0631684,
+                        "lng" : 7.672725799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1790
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 290
+                     },
+                     "end_location" : {
+                        "lat" : 45.0488761,
+                        "lng" : 7.660367
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "of`rGwmym@Rs@tDdC`DtBdDlBbEnCbEnC`@V`Aj@l@^|@l@bBdA|BtAl@`@f@`@pB|BnBxBnBzBfD`EhBvBrB|BXZpC`DXZPPdBlBfE~E"
+                     },
+                     "start_location" : {
+                        "lat" : 45.06231520000001,
+                        "lng" : 7.672124200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.0486615,
+                        "lng" : 7.660434499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Anton Giulio Barrili\u003c/b\u003e/\u003cb\u003ePiazzale Costantino il Grande\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "or}qGidwm@L\\FMT["
+                     },
+                     "start_location" : {
+                        "lat" : 45.0488761,
+                        "lng" : 7.660367
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 m",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 45.0492505,
+                        "lng" : 7.6610676
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cq}qGudwm@uB_C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0486615,
+                        "lng" : 7.660434499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 45.0483324,
+                        "lng" : 7.6625954
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Lazzaro Spallanzani\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yt}qGuhwm@vBgE~@iB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0492505,
+                        "lng" : 7.6610676
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxarG}i|m@a@OGPCT?\\^TLXB\\Kp@}AfGCj@@d@Dl@NvEP~F\\lHkB~HbAz@fAr@NN^d@n@v@~@z@lBvA`Bz@`@FZDhAv@vExCpBnA`HpEl@d@nC|AtFnDf@\\Rs@vIzFdDlBbEnCdFfDpG~DjDvBf@`@pB|B~EtFpGxHxHvIvB~BfE~EL\\\\i@uB_CvBgE~@iB"
+         },
+         "summary" : "Corso Re Umberto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

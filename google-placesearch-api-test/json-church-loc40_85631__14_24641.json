@@ -1,0 +1,399 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-wAAAGlOOKRH5-1MssA8TelamB7Tk24EDBKbbandjI6QiRoYOv2qDci-fnkcrGyc-NSKAkZvKw_S144_Z4xS-I152XRNmIGEAHJE94oRc0wmPWH3Xn2iELvYYcz7nmkH9SC6f7XTmLyOP29H17LqzdFZfgP4Z6U3DEhZDIgl-wGT-4b13SJnVIxOhjOuP5pSbNgYI4PYYHwoOd2cdUlIqp4uyXd0GIC5AS4oeZXo_PWOyq5hOkxfnF0au_AqajjrcHdghAQ9cjY_ladHQNw3fkGJYMYKnl3AcWwuXHbaFsIPPGlVEIvQEW1mmf_8dLn7f5k6FnnPTT_cUpzevnxON1070yQSEBusAfCvTuCKK6FzFKhp5uUaFEnEYEeyAjy8YFdVFwgh14kDT6vG",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8550906,
+               "lng" : 14.2440453
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "162911cd224e666d4445eb8637011ab362ee0fd9",
+         "name" : "Chiesa di San Raffaele di Materdei",
+         "place_id" : "ChIJfwfKwWAIOxMRhbiYCGvXydA",
+         "reference" : "CoQBdgAAAP3rk6o2o_lFemo7wgq4WpZQeM_LStI3zQkYeO1NMStKzXId8CIJv_JGCnyZjCHkrbtYwQe1OgD8XvfAOWi2PvJp0LqQyeyDrGCGzvy1477FjylyJLlQKDGX2QmcfgL91lWy68IEI4W32TG3fn6kTE4m-a5xDyH4z9PU3mnl_3fEEhDvwFSeGaDKO-VSY8PoXzBVGhTKSudMwk1sbjSdXyamlkYayXyvMw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Amato di Montecassino, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85491809999999,
+               "lng" : 14.2487499
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0643981f8fa14a2e58dd4b5cb126f8c4b49f7193",
+         "name" : "Chiesa di Santa Teresa degli Scalzi",
+         "place_id" : "ChIJF83zpWcIOxMRJWgz7YzO_9A",
+         "reference" : "CoQBdwAAAIiHKtPNiczZFz0fvPgS_hy8wd1yhtA9Nwdl6afvIo0SUuN20jS-q2ArgcDNL1zT6BwGZrkhhz-I7L-BaRDpsuvAbGAf4F2De8JObnR7ca7jInT_OTx8Jw7a5r53tfLaA2UTb1bxkMidyzBgatziLR0vwmCLThP4Nbn5AZhiatDqEhBgBKa5tuVbN8JZ524bz_hbGhQA1MylANIY8EPltCuP1ueenjjwOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Teresa degli Scalzi, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85589599999999,
+               "lng" : 14.2453596
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e0ccaddd911d36e58d3414cbab5193c9582c3d31",
+         "name" : "Chiesa di Santa Maria di Materdei",
+         "place_id" : "ChIJj_c51WAIOxMRirJD5EiQF24",
+         "reference" : "CoQBdAAAALUtRMgW_puSTZce0gWGaPwpO0xJOJWodxhV06dR6fK_yKDxfRMntyj4GqtyXjW4aWA2cNTT3uLigqUG2eRSTMeRNTPL_x4mSteshrbaSjzyki1iGjapPVRNZ5UHn5SBw5cRm2gQVlbI9M55DXWgS674eOgra4xdjB1ktpBF5gfHEhAAj10ehrUri5gBBK5QgCQAGhSQJ-u_DXS_2w3FOK5BON8jwUVXgA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazzetta Materdei, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8507936,
+               "lng" : 14.2457592
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "35096ee48b7399831b229b3855a8851a102e8cec",
+         "name" : "Complesso di San Francesco delle Cappuccinelle",
+         "place_id" : "ChIJUTKGK1wIOxMRcriLuxbQXuw",
+         "reference" : "CpQBgwAAAH2ZuMDtSJco9ZQleMI7-P3oqQwewv4xBatV8vZmoK3aN4J0l8P7uKpxa7Q2QJHMKavtJ3vMKbjxZiSM4n9ztKNKsXdUswz4q0ut8ivCz_CSKSRRnUmvijIbUDtKNhHN0AVuAmP49B1-Q8lgcWQTU64vtNCbQOQ4seo1qu1wh1apVE--cgxT-WYOhXy04wEFgxIQog0NoB3JltQ3ldQVCIgAjhoUb8dfH07o2UE2oP1_uxnDp01B2Ss",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Salita Pontecorvo, 44, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8522513,
+               "lng" : 14.2541747
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b3408c4fd120083cf1a2dcf620ff9b3bc0137831",
+         "name" : "Chiesa di Santa Maria Regina Coeli",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110059398615014865041/photos\"\u003eEnzo Baren\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAP7_9ArSSgpNME7QKZDCEF2nAvXNXCcgZ0VUOfUgiO439fXnEghk8arpp1Skb_zWoxgSJCHUMqEFsiHAV_kO5PdcEld2Yef4tSzyIP3oQ_bRq5P4EchdfKrAieKCCHHwvCzK7ZAymeIVuI3BVW-o4pTZ-O9sB3Zsnb_kVR0trIB4EhCWtiE0-AXaa-ZkxLiD3uUzGhSZkvcC_e3MTkl8FD7TqQUGZpNH0A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJYVXNf0IIOxMR7HWMEi5mIkE",
+         "reference" : "CoQBdQAAADjvLCGJYBoGalZJ0cuBc-j4ioq8wP0OjGatPku3mGk52um8ZO2q79olaU8EwQiK2NSGS-wrX-qagrK4VxzxPqOPVRpQ1qYDGwdPpnW5VIg57A4aMXI2oP3MQNUSmz-P-qcmuDSrf1dzs5ehDJ3BLSg0sNsn0Pe0H5MqtD68ZKULEhBP3FPrUYSlC9PvlDXMx_LsGhT98WQE5_qY09Lns148eazKoJhvMA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Vico San Gaudioso, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.850684,
+               "lng" : 14.2452926
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b222cf75026e9779317077ab59475fa1685995c0",
+         "name" : "Complesso di Santa Maria delle Periclitanti",
+         "place_id" : "ChIJV3MHm14IOxMRPAaof73R_eo",
+         "reference" : "CoQBfwAAACpqwor_9FjOPwkQjITa6tMU7js5r6lNMJ8ZjwThBBzV9inlyp5UEV1feMKGqKzI-cMUJWjbRjwIyR7t26wFMjI6V6KlIWPqCAt56QxQn5uV-gdw6CxtPBgIZ-c06g14agsulWhxd4kB2bLqOorbV8px9sPZBJ8zD8wpnTUJxqEYEhDvxzjlLcMXZJVnEGbHyx2eGhTLDpSHpRqp0HVvGbkL7tbXqMUe9w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Salita Pontecorvo, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85215700000001,
+               "lng" : 14.2404377
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "dc2825b4201c28d85536a36f992420a3713a5018",
+         "name" : "Chiesa della Santissima Trinità alla Cesarea",
+         "place_id" : "ChIJt1nvml8IOxMR6mKs4g0743I",
+         "reference" : "CoQBgAAAAOva7rQXJ6RTzJEIcLdmf1BFVoO0fB5rY314TeMJrQb3hU_O1ph3YHS6oveR0dLBQKjt3r27v427HDmPCzRp5XSibLnCgV0zsOgnpLwkg6IW6s_AXYMs-mJX_pnYy3h87rjRxprU9dfSv8vUiEqPITqX_1BUe4qTDd2VU4LsgqnoEhDGdyi4se2bx5lseAo7Kq1CGhSg33MEtzZ87XuClNaRyF_ROUCyEw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazzetta Trinità alla Cesarea, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8549628,
+               "lng" : 14.2551953
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5054fa96e9429c06dcc8d767c34f198ba46b70d0",
+         "name" : "Chiesa di Santa Maria delle Grazie a Piazza Cavour",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115231445475273742170/photos\"\u003eLuca di Meo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALw6c8kjnuJZ9jkLc2NM-UczlLJ0O0hGuL7XP4ZWEH6SGbtLPTAAwhtPOuGeu0g3XEL-ie1a0qaY_tUS_k0BH-XFze81tU7QFk5Ln9NEcGWz_ghSXSDIPsX4mcBwZlRhznbPhiWP4vaM3DvoVq2kpr_neEPPXSSlzqtr8GSTN-bBEhCMhLWRe1uxufZBTZTMCsB8GhS79ueJLzZ1zKg0pPzTdkrHaHfmfA",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJK3dkCWkIOxMRIm6E0tGDiuY",
+         "reference" : "CpQBhwAAAJrdDRL2_Xq3HunFCKKqcEkhpu3vFPrjOasbWt2ne4CiDJcUo7vLGqFw-hsFGKhzdBDzjd8w_oFBTxetAZKDV9Hd-R6uoIgoDQzIxv68c3ySCGsZRJG8HsqCyMAAZ2WcAD1uLzaDI4SJlKh9wtraLur7hQL6SWwQm46koLl7CkHMlNGPzFxee5x93HT0Lj17PRIQb-CAfadx9T5QcfZ0DmPgvBoUoapWhbkLHor5_W9llYXbZHC7P08",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Cavour, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8495387,
+               "lng" : 14.2471755
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3a13e55ed28b3f3461d2b5050ea130ca8f43bb2e",
+         "name" : "Chiesa di San Giuseppe delle Scalze a Pontecorvo",
+         "photos" : [
+            {
+               "height" : 2124,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101410078326550249229/photos\"\u003eRoberto Imposti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFx9D-r65ucksFyOcQ8JKvbT80CrO6sf4mdM7vuZZ1-kbgSUiqmr4NgpW18acUgMkgDLbwQf2xL7HTlBQ87LySrZjzv1gSAZSMgDifu0elLsSJ3YtdAhP0Xwpyn_MATMJCJklMJnE29N3nkzDFNlRAsGipwN0JikJarGLFll0r0bEhC3dpPIVe0X0mGwX7eHIK_qGhQQCGavZJtvQ5Fm_XQm_3dyXjOxiA",
+               "width" : 4258
+            }
+         ],
+         "place_id" : "ChIJlXYPalwIOxMRXW5wUGruQOo",
+         "reference" : "CpQBhQAAAIwdGLsorga-DZjOvFSeYd-gP87YCVwfmVA-GkIC9RNdLWCRcjRakEDJEVHDonhrgfe80e_SyWRD2bKbM1R4im10lbQCkCABSVLw12xFe9o9iI5ARDYuB_sMpl4_B53RPfbjFItLnnwUxKDX_uoTe0ZPu7LZiVBSp6LBH3U0FMNYEESbOLA4GOX0MSCJKCqsYhIQgG-fvxjBTYUMQUbvQd8EtRoU3wJHSvYEH3t7l9DMt7JkFvGtllk",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Salita Pontecorvo, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85234310000001,
+               "lng" : 14.2551429
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "21e520b5c8229ddbf011f7249d0dbdb869b91164",
+         "name" : "Saint Maria of Gerusalemme",
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101410078326550249229/photos\"\u003eRoberto Imposti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOAQopAQ6sYi3ALnQ8wGRB1JeMRiRSD4wOrwxSeIP4z1I3XCeuaHh3kVXKCCMwsSKWX1gZZKKygXq4MFbJihxjKJkUPgj3e_MKtYPPdEdDBbXQIGd2FH1FgaGx9pDLhZKZvUJtH35sZmJ1CZc4ZluavQ89TzyuyRTGbsCT35CsSzEhDwvzS7VKsaugbmRC1OAcpJGhS0nxX7So_zin37D3bObG1LlO0cAA",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJn89U32kIOxMR_DrziF7h7hs",
+         "reference" : "CnRtAAAA7sprifxN6Py1ojAAFguux1azCTz8sHLiu_NUp2ik2g71NX0w4_obMQvlq9ZK4y9jkEt6nV6W2YQ4oQ_dvnf0L6rZ5yhBONHD51bucbeV3c6enqqK_uwarMWKyMsPJlBalZvNJBx24xDyM4utyEAjrhIQJXDrvMdBtfVTzd33BXn_HhoUUGWiIA1zZwXBHfZacVjH6tDZegs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Pisanelli, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84833919999999,
+               "lng" : 14.2497549
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "837d481607bec410b26f17f46f5397116c898ac7",
+         "name" : "Saint Michele Arcangelo",
+         "place_id" : "ChIJmzq2mFwIOxMRK7kw2E4savg",
+         "reference" : "CnRrAAAA4VtqnfyanOs9j4GYI17FEtYmwSnYKnYRm4k_doR07iFqMQfloMyrt2V6p55RHKK2B0I0R-Y8awr2gUtnpH9nwyhi8_A3pK5Wcp2o6ylj0pqVpOB0uEiXLVSdgz04u8m0SXMHQ5ZRxCM9rw1ck_oUzxIQ4wMeGZ4E_lkq_l4IfOp7qRoUhLhlDsUPTQ1Kdm4z2RHFs2bRmKw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Dante, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8528367,
+               "lng" : 14.2513483
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "076b9dd4e323f2fb46d3c1064a4a65060cb1530a",
+         "name" : "Santa Maria di Costantinopoli",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101410078326550249229/photos\"\u003eRoberto Imposti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIiL_Cqymmf984xOPGp7gmYLFsR3ZpVNd9rMZJg19uFNJaQOKsDOEnWoIlU1-9qSMUewwYObGUhRCBS9Se5dyz7WXOhUszov4iKVDDsTTt56j7IC4d7mKt64Vss3Fl6U7_xrkgxcCru0KbGSYxddlky359TvpbN2zFHGOZFsFbGUEhDxIZSYAJ1nVAINbdSQLS81GhTaDu2C52CqcfczezENLrUN1a1klg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJpT5Ht0IIOxMRaFtgZilZrTw",
+         "rating" : 4.1,
+         "reference" : "CnRwAAAA2PLHWF-N_hgNqsnPKGGoQHX7dS-bzkecYQQXPJdnnU80VKiH3rw6f0oKshScqNH2aRf2OeJp-7AGng4sYxlUKAnCQAXSrHygOZx1FOB4bSNBCkZTUczcjEHUYRr375nMG-SRD9WkZIrIe4qDWm2gcRIQHxn0FVBl3EeMA6mdKIOfDhoUVuMujRFnw6uDIQ1SLn8ew0Vhl_E",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Maria di Costantinopoli, 127, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8525148,
+               "lng" : 14.251503
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b2ddb13c08aefd00d3f829c64621f533b481b994",
+         "name" : "Unitalsi Sez. Campana",
+         "place_id" : "ChIJB_WZrkIIOxMRMSy7U0snhWc",
+         "reference" : "CnRoAAAA8W49nZs4CgilSYUS5JjjKBRKFJzL0ionJ6kedSGugWMOn3ozRnEH4wewgQk9zHRGBdmgQxuUEEU5zc7YUSxsyLBZHZAtM0R2UziiXzL_X2qcDdUIKzKzAK91KRl0iarn_xZ0nZOUOKEuzliawH95QxIQP7BaPNowi73fYnoITrnJfBoUlRWTsu7LF3OF_i9nTOAmGWLNqPs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Maria di Costantinopoli, 122, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85281479999999,
+               "lng" : 14.248178
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a234ae10a95fd15a28debf2533ede1001f0bd8b8",
+         "name" : "San Giuseppe dei Nudi",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111317998856003180681/photos\"\u003eElena Esposito\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPHLw9T9H2pdq0bNS6mPceSiIVN6TcTIZv8CX9-pkuvW8RBd-4io15aIU6wFlxeJZ3rHft8vb67CqRD0dGZRMK0oT0Kt18zia-w3XZpx4hsLn8eZ_YEhblO1Kjc2CiySfHhAoEnMSsgz9ZnHDKB1b5YcBwEJ157ItywGpCA6gsu-EhBUg9bEypzRD-AahjXnK7pCGhQpXv434USRygo58SjDBnEanBEpNg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJmVtPh10IOxMRTpipvcQgZ6M",
+         "reference" : "CnRpAAAANXrz8yaJKBBE5mdbeliAdiPqWricD1IqsGZrTVurBgpTjZIe0PrvbYKY2fiAbwlSdl3QyagYlQW8DvOIWhbbg4ZNYQI9m0vHabk3BfCxFWKM8C6vY-C2WR6mQSmd5n2bEt4EM4trTPzwiczlnBQFvhIQAuv2Mpyry-y9kRrnW3FlbxoUa0QRYJfjHcZUraUrPWNOMFNAAwg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Giuseppe dei Nudi, 14, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8559198,
+               "lng" : 14.2451677
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d84bf18ef6192d3910a3c2bccc7aa4ad5323d91d",
+         "name" : "Istituto Materdei",
+         "place_id" : "ChIJaXtR1GAIOxMRk0BAkqZqDdY",
+         "reference" : "CnRlAAAAdbn1LqzMFXZBrtoKIeymnE3TX2fOiWLLZLgba1-LrHWoGokg3GBJ-bdG3t96Get4-sXtwH1x2RIY893d8JcgSMelbp2BIYPPdpa-AyoTNGk-8FDaSAr1yCR1HuYG8uBUeA6pkt_oqk7JTkPe7Eq-LhIQ5jBVLk-DXu3SVAp4ZFRsrxoUVMmJZDKL2vW8cfvq2Bpte7xROfA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazzetta Materdei, 10, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85960429999999,
+               "lng" : 14.2491612
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b9cde98012d89f396058abd1766fdd3119d6ceae",
+         "name" : "Saint Maria of Sanity",
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107207576599520188197/photos\"\u003eОлег Столяров\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAmBoXAODqM5vQcZiiIIkBhK8HIwRGJnTghOEJi6fIhRXkn77MyLtGyncWZEAW0p2OJV7Wa2mRMufgFM9TYaPrws_8q1CWVPZYViy_TPHVHxzERy0nbro_dKFN17fJOWcT3ub34Th2xDgfichaeSM6KBFDV8IaEDoL1BPtzI0tNBEhDkcKeg36sE_JFEnj48sXRBGhQEKJkfVc4Xk07fKUGW9zML5aycUw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJGeEUuWUIOxMRjlNqsZNwnaI",
+         "rating" : 4.5,
+         "reference" : "CnRpAAAA1xXGyxqCkHQyr4KDs9CcWIM-Q7Do9oWtmI6BnFoOYU5C7onvpvxN5-eEydlnvbvR9zzRepZE3AhVIZjyZ9f_ASRz2XE3z_xvQK-Re7yfZ2vJjjyQRMVcQfotMQHtNJKGwsIHAGR7u95zVBIkaQKTshIQ0SwWS6UcAZRHdUPQbYTfQhoUSBKVsbuJJTWbGmTdvU0zpKT-vY8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza della Sanità, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.855897,
+               "lng" : 14.2517248
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "21b94bf300f9316475b95763491c80e15b4d814a",
+         "name" : "Chiesa di Santa Maria della Stella",
+         "place_id" : "ChIJPSwynmgIOxMRETLk6JILcHY",
+         "reference" : "CoQBdQAAAK-HPyR3TfHgduUHdKbPsh-MIbdkbZzroREMOXREKQTpSnsTjdQPqp05qLLyS21jUGpMb8jSdO8q8JWtFJpny5Ry5fzmBK91ZUIafLM-1KR2IBnhw9yEE-moCJhafl6dPtqBAlbsv9o1lGUyzk8nZOX2bkGPYt1gHwbeKb3DV7P6EhDV5qg3FqfnTOwp3zpkaJj2GhT6rMTWnuEr06ijRH3rwYEFcPPIAA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Stella, 25, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8527618,
+               "lng" : 14.248635
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f53e82ce8aed001cf00d4d58f4f86ed5f667036b",
+         "name" : "Istituto Piccole Ancelle Di Cristo Re",
+         "place_id" : "ChIJy9J7fF0IOxMR05RFniH8_gs",
+         "reference" : "CoQBeAAAAMwND8xxEasDds653B6maSjPzups3r_uBtnIGZrGqHNJqtokuYEeqpXkDlqdmOLLbX0LIgiUhdjnyOos_ooUHEr-1btxOiWsWCTW8ch7DmPQnJfmB1G41Tt3GGj356Ax2yI-27_LzcgiPaqN6PT6mN3AymIm_fVPZKy0h8C6tLyoEhB3SKzH_967WQK8e8UOgICmGhTs9L6PgChWTifUE-KQcV6DDljA2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Giuseppe dei Nudi, 77, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85868060000001,
+               "lng" : 14.2557973
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6fee6f6bf258a89229af46be19b2d8df2606bcd4",
+         "name" : "Santa Maria dei Miracoli",
+         "place_id" : "ChIJi1kOwG4IOxMRR_1tVzLog5Y",
+         "reference" : "CnRsAAAAswZ7IFWs001TpMoZvXhKoBrGoIRjz2fAxjpwlTDEV_zFgL0xomgqjeblmm5INjAhvJFeBSCS_mQnCdlw7TziuRb6c0OOI_ArL_nya4rylmLfIuNGxAQ9DheUWOdHh4_bB19Wxs5UNAE3KcuroH-FfRIQiM_zT8JvsJthNL4arW0RHBoUPBGN5wgPScgnhTRvDNORxBELTRM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Miracoli, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85298999999999,
+               "lng" : 14.2479
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "12f7bb74948100577ed7f8f5d9dad579beea912d",
+         "name" : "Missionari Redentoristi",
+         "place_id" : "ChIJ82-waWYIOxMRN6Tyu3mJPkM",
+         "reference" : "CnRqAAAAimq0EvDDNiPByhyXVVoJfBgiJzIRN2lyat9FIOE24f7JgXrAtw3vGBKWNW9pxzV9TyU2Fo2Kt3e8ksk6aifsrYeHvjHsuom8n7GB_kmMnq4ug7PlUuwbpqv6G1BG0Cz9ACUGSafDwnUKS6Kl0Yn4aBIQ_AtfNG6pf8T-9fDivWZhgxoUTCjOshZ-1ckzq-T5p4XPyJhaTYE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "12 Via Celentano, Napoli, NA 80100"
+      }
+   ],
+   "status" : "OK"
+}

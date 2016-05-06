@@ -1,0 +1,539 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC_wAAAJHxW4dr8TzdUlGw7MFleJuXuoPrwLsO0OzNzQiOORG6GUN34mm2VwGBZ_Rg7_pYg95rKHNiWX06IrlZyQLf41XYxp25tqIuTbvBw-uylPz7cNJENsCq-_OEjTsrH3xuyIJkDplEc3qBus33hagMdALKPgM9zhMRVHl_yvodl8kaBaAOmPJ9fdVfErh-pDjAQ7aab08SbD8tbZ2ToArtlc6S5crGWWO2f9CmFx5D8PV0OeMFEv9D8kG7VduPfwwgUBn_glLEo93EYo-aCN1f5zGsKdnfdrE99RdkyMRLCEXrIcAkwA0bJkIpPJpIDyBsnTR-8_tYwSvpb1PkVlFSSFcSEDzyGCWZhzmsFqq4UmwySEYaFDTwXfXipY6I7IVVXEYVXsxn0V_S",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.07031200000001,
+               "lng" : 7.686856499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "6df1d595fb03452c4811e884eb6b6d0bf3a92714",
+         "name" : "Turin",
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "reference" : "CnRpAAAAZYXLRTVocbeZzbuODY5d3KM0wm0SwGWSvnXI67POYSxi0v2vFCQ8mNiqIXVdwc0ShqQvNS6G5dncw-ngBoLs8jTffv3QqtlAPsvzzaey8r5kz3Qmnd8kqYdyFjZahfV1WqefRJRQdIHT7fXWUThrxRIQGdRR9gmTPt1JJcOEDDUmAxoUMd3NUE9KkMM2ZwBi_QpgC0Qf2fk",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Turin"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0457004,
+               "lng" : 7.675024899999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e155d26806e869ebaae0d7e7ff93403e8fcbd159",
+         "name" : "Hotel Valentino Du Parc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114912940079676955340/photos\"\u003eHotel Valentino Du Parc\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAC3tK01kVAQxIgxSP6X5augui-D_zM-3zgSS9zUrt2NWm5ftIgWnytmiuZ_9o_pwurCuLLb4R1ToTeXggCJWClt42-4QtvSFon4xbBF0PD-CX8ey_wZoL_r4GAkRVkBSRvx9_i1_hUvWniAG3tqaW8Sn_TtBr3qUs0pgnXMmdMQoEhD-jKu0MQ6vHs1DPyBY5nW-GhRM9Ws34aE_U_4VR1iBv1-Wg_L9fA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ3dcjCExtiEcRf1IDaziTkuE",
+         "rating" : 3.8,
+         "reference" : "CnRrAAAAPXLM6T0rh3UJKGUVM58Wgwn6ZCqZFOXrasVdVibLZ8POtdGFo5v5wzY3sOKRfp9r4dqeGhLnMUyIYPyjEOoyEuO1uJ7T-0sPerMJ4H2ao8tPHhBLf-DB58nXGgSPAIHuUCpQmrBaoJ0ikz6xJzsnhxIQCW8x_-ZptAkDcwxIZiAEaRoUm290BA3XTtjNqq4PFBB0-AQaSdc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giotto, 16, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05523699999999,
+               "lng" : 7.676144999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d541f385555a64988a1b03cb826554e12a0d79e9",
+         "name" : "BEST WESTERN PLUS Executive Hotel and Suites",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112181402098180954371/photos\"\u003eBEST WESTERN PLUS Executive Hotel and Suites\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAM3MpoydFhnc8mZkRNyg1mMUreM3w6XGAPWxAIzSk84CU3SD1oMQNZN-lBu5iB-YmG6aF52W-nn_9FkR7WLN8p_XgR6fNRdmvJkdMShMkM1QAQKkGjuzFRztAXoQfQVxamcjaxSEcOZowZVucIQDJVyiThRfPQoegoP8lFB1xuCUEhDEYr8ke2Hyg5oZy5Yw1IifGhQNTk9CqrrfTY9u-ZGXUQd0ABHB0w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJh1fAyUZtiEcRRGa2zf0YhQ0",
+         "rating" : 4.6,
+         "reference" : "CoQBfwAAAIX4FpzmVC6t-IYgWzhZpYvZVb4G64si9tlLfSKtaU1LU_l8eVPjEhh8k294JcOXqO1Rk_FbIgn7YnlC4ZI0MaroB8w0G0fqpvwymDqDsGRAJoLIne_y8eVETubf0mWRSwo0BPaez3j63ACXBh4yixYmB3DfZiwE1H7hPlnPhp0JEhADxHV1E9ntD_GaX9vkGFDvGhTopvCtLTnHQXkRgSgF6H7hKdYQjw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nizza, 28, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.056299,
+               "lng" : 7.669321
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b9165db63996e16a9932aac7958b3d5e701ce925",
+         "name" : "Boston Art Hotel",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104321697848331102732/photos\"\u003eBoston Art Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAN_K_DsUtm2dbmZT7rSbaMFj2wPQmJcSR4TosRgwpPQclbYdOREVkclSChMCqHdm4t7YDeHPvyVb7UAHH_wxYRjyBkE8N9HZLV6tO-JXDXMMBpMxbQrM6fkQPdFp-03U8qjKaNpMOwYVRqKMOe--grjDDxGGm20rWxhgsxvK3W2gEhDWQ5HVDPcnGLBlCrFWMZSmGhS4N8lh23l-RUnAvQpjuz0N_RA3Hg",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ-3xN1D5tiEcRwC8hS9GSNro",
+         "rating" : 3.9,
+         "reference" : "CnRkAAAAh7OzlPmZ-fuiDsNZJ7zqxiDVLYEqBIfGXpxiknuAa_IKXuSz_P9I2AxyyLjZa7iPMCedkZxUErfyEMKUzyn2oRrI_Hcjc2tbGGhkap8nmxNq5iAU2OEokH3-iHBUgj7FETq3VjnegdrH2LAXHAA5yBIQO7r6eFMUFs4kNMC99WPsqBoULB4xTLx-pEPr8S3OEUF7WJCiOKU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Andrea Massena, 70, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0462241,
+               "lng" : 7.673123099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "454f5f0d3d618bf6ec1b5ec7e117257896b590ae",
+         "name" : "Hotel Plaza",
+         "photos" : [
+            {
+               "height" : 981,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100958978640816555722/photos\"\u003eHotel Plaza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAL9GxG37Q3DZ0EdZoD79f9Sh1v3M8xFmYXB4T5ZKXE5FdLlb5e7fR8A7Lf-owRV4wwk01Q3fc2a1cJiqQoBuOydGtw3TVZlLvRLAdmykk4QTnUoW3jrRFiHux4BDwkiu0bS9RxYT69BCEDll9FMBWL7kRcfGbeLc1TUr5ujzI8wnEhBYNDKxh161nNcrQp3VW15HGhS8Xve4gcISVr3PbgBhvCOgycoxXg",
+               "width" : 654
+            }
+         ],
+         "place_id" : "ChIJQe052EttiEcRLKr-WZpVNrE",
+         "rating" : 3.3,
+         "reference" : "CmRfAAAAAxg3oSjXEZHXPOLMDMpmoUSCJp7OsH10n5TB59pySZJ8LVpHIriDuG5ETVAtYDItCOuQ0sUnMoRaH5v7V_CcbVYRSQPylzIgpjJaoF4ow3PYkNhGCxV2G47N8SO8ePR1EhBM3TxHKp9J4RC0MudS46IDGhTCOD1lBzvWgXAba2C5pzMXhmmOrg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ilarione Petitti, 18, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0420896,
+               "lng" : 7.672384900000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d435bfd4fee5eb27183285cc2e31f0b45ba57bc4",
+         "name" : "Hotel Continental",
+         "photos" : [
+            {
+               "height" : 599,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113358838843266596686/photos\"\u003eHotel Continental\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKiLniMyQCqwU5bZgwJLCkSVJNe6MLvWnZw3HaEsPrjpcPk9tNPJpuQF5hrgXUUyAb1iVVDm3s7yqBnlz6OV4mBSO8twKf-JWFFNWS3rLCtKKnwLF60dQad4du2IUDW6EfyCMnMPfmroMlt2cKvVQZBZORdqINelsggeWBTEglwgEhAhidiOUL-scNJ2NW3dLg0NGhQz091xyJjILOGakl-UaRPvJ42Qdw",
+               "width" : 599
+            }
+         ],
+         "place_id" : "ChIJJ1CfNkttiEcRNCYGrckR1AU",
+         "rating" : 4,
+         "reference" : "CnRkAAAAPDwfHYcUDPE02BR7kTJIibLO2PpUPXy2Fn1JeQRstCqYSF_hAp6fWTc_OASqH3MClUitnKXFJY-qWxiC5WgTAGrDlZNDnxOsbwqyeoocX-kuDUJAYiBBE7ItEnCPDBEU3kNTqNVN9rwIe31N8Q5_tRIQmUuI8_n3tVxlQ_BdGTMaZxoUHfN6K8Uou-S5Kq349HZlGzeqJTY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Genova, 2, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0545424,
+               "lng" : 7.670412900000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7789d61f4aca2781971c84253beebf32d2dc3bee",
+         "name" : "Lancaster Hotel Turin",
+         "place_id" : "ChIJ-W7p7DhtiEcRI3iMKBFIA2k",
+         "rating" : 4.1,
+         "reference" : "CnRoAAAAx2Y1DNt_CJ72w8v4F0oZAMnbuwXsDTbAznkpYVLf8CihMquIaYkvKiTYea2WDibdRGsaXDG6Zhf4S8XwLC5-73kLdOl3L_8ryhkS8G2T860amkLeB4vv34S0a8oQvZEQmu1gAnNbiM3R5XpcrPGS-BIQsXLITImqhIMxq5IeJNIaWhoUrmJ4SnvYo74ZTwaVwoMU1H2vnnw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Filippo Turati, 8, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.04469890000001,
+               "lng" : 7.674906699999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "dc0087e154189a2605ba7cf4e835e0c0ff5ad11a",
+         "name" : "Hotel Giotto",
+         "place_id" : "ChIJg2QudkxtiEcRH1E7Fp0Ye6M",
+         "rating" : 3.7,
+         "reference" : "CmRgAAAAxxTFT0fr901iyBCjDeepZ6afB9oyh5cg0Bhc_uy5QTK8ioaBhyJ1h-7lbHInbj33o_o_pZITiHClQhrJL4o_rHfwzoIXo9ydo4i3zCat-xYWSuBeC-NHK2-gKMMfHtngEhD_PmR77laWPdrq8vN30gxzGhSnkhKkw-s5aeSmjASliIfwaM0MyA",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giotto, 27, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05441679999999,
+               "lng" : 7.671012500000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "05ddd034ceedf6dcdc1301f652f4dac14a9a7cb1",
+         "name" : "TURATISETTE - Art Residence",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTZvekDhtiEcRc9CJNsJQMZ0",
+         "reference" : "CnRvAAAA2HaiqeLopuhU-AAW512_stD8KD3OonwSLHu3sBfL4U13H75aFJubKcrLL7f5wsK88oRVmW1zEr66R9xfjIl7GSuGkaCPD_jlyGypnaAJ0Etrkf_eN8xheG3CMGPFmbBmxUsPXa0NzYHhDLmA5wMANRIQZTll6GA7calqdFNiBkiKxhoUbOtmOfrc7maoBPgWUN_GUmsbZoI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Turati Filippo, 7, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.049771,
+               "lng" : 7.677931000000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e311f48e0282e5f259c4e70f6b832f869ab0719e",
+         "name" : "Hotel Eden",
+         "photos" : [
+            {
+               "height" : 1380,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110422407749592237935/photos\"\u003eHotel Eden\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPIjNYvQ89cvAiBSeTBQK7nLnCfL52MN8wO90uaQO_b-wkJAkSyUs9y3CTi_xQ9swRrImIpiMZYJEYapZIl6eTNyCi2MZ8BxayvYuPQu6Xc5Pu0cSjbP5sy07qobStruC5QFMjGs_bXzWFpqWu00libSOtcgdYqZjoVOxMLj3TR8EhBMLk6lJ8_ukK_GJO99z005GhSHr5Fsl3YVH57_oHoBqAYq-9zjOg",
+               "width" : 1377
+            }
+         ],
+         "place_id" : "ChIJ89Yzak9tiEcRW-xuOLGb7LQ",
+         "rating" : 4.1,
+         "reference" : "CmReAAAAEdZE_Esc_go3xoGHoL0COXXgcKMOAI33rAKTRZK0Nqp0bz5_oH0t3wX5g1bHraFc-dtV7f-Glcg96CKaJZVPLTZKfsMpW_LQfusA1QmFqUWl0x3BHbCJEpS6HLzDHbNIEhBJgXtLfBXqgcfiahH3pxT9GhQeys7hgOXLjVaFzgARqtEjB6P7qw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gaetano Donizetti, 22, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05528289999999,
+               "lng" : 7.659447300000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "66071d978009cf6000e26a9c64a6bd94a4c9e63a",
+         "name" : "Hotel Residence L'Orologio Torino",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101478913127321812630/photos\"\u003eHotel Residence L&#39;Orologio Torino\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAG3q5QWGsAHzHUnkSDeK0QMIo_HQnTryVJ6dFNuxc0avikVhp58c8OcbOCOu4VErmVCwJv_4WmJAGKDeM3sgcMJBLjyG_PHAnt4FexA7J2OkSEIlVY9MyYAOBgFLq0pmsSbULk71ZehHkownrntd0MKhMLlrqBUFJ3YzrjUpBDSUEhABj2dJvmk2BhQZPz92kOXsGhSWkxLyPNC3QF7ZZloFeBRGkMDgqw",
+               "width" : 3689
+            }
+         ],
+         "place_id" : "ChIJo8s8viRtiEcRb96iLuoHYyQ",
+         "rating" : 4.4,
+         "reference" : "CoQBdAAAAFX4kOOubCr30HbvDfLqYYnb2-EndlWHv9TFqmhVdCHUHFiJz1KNdB89MGyc43n8GdPMfZ6NhL-XY5lJj0B4gTMY6JyosKXFfOYf3JpXyi_msDD6o0viYj_Vcx1r07Hxi-epdXy8mEgkmxw2Zsi6jt-VI0K6VV3xiKdBnPpynR4OEhChNQR98DM-L0N3yCKbA1yrGhTojERxKT7inQDu9eImNrz8NI7KJA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide de Gasperi, 41, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.05439399999999,
+               "lng" : 7.656655000000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e5cd88bf30f45c01ed61131530383d89870aa55f",
+         "name" : "Pensione Duca",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110019689270452796225/photos\"\u003eRoberto Boldrini\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFEp9y05P-GCcVBr-SkE6qIZ4tPtToJRgph4ube9NENWeQ_lrVjvLs95cI2Q5MU-P10n1zDeTrrKM9LlzGZ9gjw3OlInpRUbfTBvhqHN7EaSRLZHW5h6Z4fH0vE2LfGYzoGhXc6tg0ma11HoI2rzoOixj1fQkUWC5qkNvsmAzNZMEhB_qETLkhXT1KB0ms580shBGhSECX3qpxEfU5I_DGVS1SMXIcmIFg",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJF0SWtSVtiEcRGA3mkfWI8eo",
+         "rating" : 4.3,
+         "reference" : "CnRhAAAAF_vF0SwrYUxrBdg5YTw4Wxi8t-BLADB8vEGzRxHSy8MhXVCzoGVuUq3Re5joPgrFdCFlc5H24zpmf16YOWrHpuo9deHBmvO1GcIseboUwFnekNjN4xWvLe4gIWlT_2C9SON2ZSJRB7wqKmHhAXhmaBIQVzJzq0VOK5qpZqWJg3StNBoUrl0-UJ0cVrrzWJkucbQLVL8pBao",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Duca degli Abruzzi, 94, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0495897,
+               "lng" : 7.671495800000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44779757856afcccb9e11b62597f613fd3f05c43",
+         "name" : "Editrice La Stampa S.P.A.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1175,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111012813166597017059/photos\"\u003eMarco Bardazzi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPbtPw5KiZWaCBXH349UeLw3JIycZeUA8k8X055L-ykKJxD9M0G1AXFOpoMXd2nRhmfM767YtuLkcvVEglI_TkNUeAmeRoALJ-uRzbxYkGAWHPl5ln4Sl9lf3soHeaf4gX_V-k2Suhk-kgzNBJIinUDYXZtzAFoBvuceKRhmXgUtEhDx3HEQXAvA962Mb7junBRoGhTeakdqtcIEIwcbuzDuZW-ypuyi6w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJbdUZd1JtiEcROVH6mgjpp8s",
+         "rating" : 4,
+         "reference" : "CnRtAAAA5Wf4XS16ze_XmKZ2foVNEZ6TzBZeekAlekwAq6bc4boShMkm1RoaKa2CQktBywQ69SfLtDEoXD1aUvwSYj7wCiRTsVM_ur5pMvJ46apD_7tfz6ciXcPxZ5QjJ1ANKJ0vuvGn8q_9F73ZnqU66WXjYhIQsBmsnJN3CmpQbviuxcUndxoU_QktadlG6ORm_7kubvzKyKqDuGE",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ernesto Lugaro, 15, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.044914,
+               "lng" : 7.672219999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9cbfb3d892748d80215184016b9c645d743962fa",
+         "name" : "Computer Valley",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 315,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103616294819366131468/photos\"\u003eComputer Valley\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEW6ggocSgdC5PhapFJ3L6aWYw0vI7qAGFt6GRmQJUEuKBmPB4-_ha99rxP3fHg4hSy00-EBKKcv0xZpzZWpL250-z0-8ety2URZXEWAgEvvbviWnqWKYBeqE2EN153uqGXtSyvxCP748FeTxJm7ZDiG6VI8mvAKIxmbRAEP71dXEhA_GOaawJxs3n_cE8yRx0wgGhS1Q3RdbP9W9aw2TwlsW03w3B81rw",
+               "width" : 851
+            }
+         ],
+         "place_id" : "ChIJgZPPskttiEcRJcuAdplK_wc",
+         "rating" : 4.6,
+         "reference" : "CnRiAAAAA812G47Yd6w_H2vezPx77gDmCSX1GXNhDAtuU0b4cBv8yaRXzFsKIjPpecMtLzMI9KyaPdBw-8Q_EvPjPm6eiTlBtC4oDFGJ_clU38TWY2vpVYoYFJQepSZMmxdkcL0drNKxiDv6uNOunfkha9vIuRIQmiLyg_Bk5xe5BPTFXVVtZxoUP2M_oFGPG17GKj6Jq_ivmudKLoc",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nizza, 141, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.054499,
+               "lng" : 7.662853
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8840ab7d7bb2168dbebe72c86c228862ff3d85b4",
+         "name" : "Centro Clinico Crocetta",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 299,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcwAAANl6ymJzKTinLab3uJvanzeBE0P0intaCYxdxe_OUCHw1db2VcRbs53aos8EpppDGTNvYz9iZe8KAf17_WwChG37MDjOKF1hAxTfDiXp3MC0SZYcCrEihoO6MuxC3yR3YZmnvemFueEUMeKtS2mo4htw56dEbf7arfuS_j7ki76-EhCm6ePQ1CS_yS21dIyG7_gPGhTKn7SuaUdPp8WsmMtOFNXGG0E1PQ",
+               "width" : 1164
+            }
+         ],
+         "place_id" : "ChIJb5aFBDttiEcR2HZcQzjhP8o",
+         "reference" : "CnRrAAAAwhG6uG6M0rKenc-kfCOkS6ozBHxgV9JtJO7BYYjozknYcjgE_qIpPfORbu3Fxu9Li3DY8ACAS2t6GEsCsrqRtfTIHIwqI8V5utD5qvUhEAzcaHNYkE2JEOvzlC2G8OYn3Km2Xp0s_Nw3RDy-BS_TxRIQ8dcqsL26BqdArryq9AAiTBoUWxNDqt78DxVTMhnJlhLzJqBOgzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Galileo Ferraris, 110, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0543158,
+               "lng" : 7.675916000000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e9fd6c1ab9b9cba5813fea7b973e18193866109d",
+         "name" : "Sport Hotel Residence",
+         "place_id" : "ChIJW6Tn6kZtiEcRBDl2uobB_mw",
+         "reference" : "CnRoAAAARhGn2GsPUIHFtiaLYAtmWogBxv6kTMzdYZomI6Di7nDBby7OAnjOHdlNhhpG7D2jNCMLwWpJ0wHUHqSAmIUOxtNlhE5qobUBuoJi3FjkgJl_cg_zQpB35wysryZ9s0pKynOI54Mp_48dcL65kJy2CBIQFHEw7dAfoqRKrLHtcJCuXBoUDoVnsdJv5UmKgCHqnn3H3zvy7nc",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nizza, 51, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0457316,
+               "lng" : 7.6630345
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bf531d922c49461425f4783b41964be99dee5ed2",
+         "name" : "Iperbimbo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 442,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112438666741929023433/photos\"\u003eIperbimbo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAb4I7H2Gi9xBJPGg10XOv85MMDkAXMVVOoSLfmAWQjujWQfGp1Mv1TQ5E6_AfchFlh7OE4LiIpKgJIl0uKu5vwrPt9PWOY2IuLgveSdPjH2fbXaZ5zirYQUwkTclsmgXYZAtUqoWHQ0gerWmyC1pICabcMQHrFurkg7VjYbkbDwEhBrh8yLO_rXkM2fl-M1iHH0GhTxo5uWe2Gt9STn0moSCgHwrdVREA",
+               "width" : 443
+            }
+         ],
+         "place_id" : "ChIJo7iijTNtiEcRHpztoi5wF5A",
+         "rating" : 3.9,
+         "reference" : "CmRdAAAA-obIh0RG_VpMuL26mJ1Vbq9ykKJW4DMnKMAsjrm6acVSVkHasc406SH80ZJWc0Bf6n6csKB_QmuDuWrVma-8BWvRXMtoApKUkQN0kWJxmrv-iQluIAUuhBWXyN4hod2HEhCbS2NlHhVvCY7Ia6A-seelGhRdsecLQO991f73AkKET9jyYOkhdw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Bramante, 14, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0531578,
+               "lng" : 7.656667300000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d9e3e76bf7a579fabc10d7fa1cb61955eabdf5b2",
+         "name" : "Eco Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 90,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106048025317629358574/photos\"\u003eECO STORE TORINO C.so DEGASPERI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAJtZNCgMsUiq9ZJZTlXgCd53tjkDx8cyPXeOKp2Sih4V1uEnnibucx3WKeAQnkKCyeBH6Kz-xQyXRkIGvTAb91KSSj4orPVqD4U3a1CXQ0DX4SVHPgL8dfJAeR_avuHjvlHzmUGeQJNQPRFCxUFWBmCV3DF4EnHUxuHH9NbC49L6EhAcvB2TH6pEtygNVuXcspd_GhRjCHa-soiS3762LGi3acDOEmkBlQ",
+               "width" : 90
+            }
+         ],
+         "place_id" : "ChIJ2yo8liVtiEcRKp83rB3lcDw",
+         "reference" : "CmRcAAAA0m-f-_7b1l2BuLwgBvq86jymzsXh3eCOxEjYaYoUImrJwJlyJFlsuN29ugk7ivueHGH4meO6cclSS5_78EPQBPvrd56we2GgFjbMEa5V_NY8neg7UOKFsibvrDJ2ZMqLEhBu1EDTer35q4uxoIQnxhthGhS42E6IFGw8OvICPKTgFdRQxpmNsA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Alcide De Gasperi, 73/C, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.04528,
+               "lng" : 7.673576600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b18bb40cb56be7bc3554e18ece0326bd417b5a10",
+         "name" : "Amati Spa - Modellismo",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112312365765533488082/photos\"\u003eBruno Marletti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEcfmYkDCF1hPrjP_YVokcOswfAIFwSuuFKI_0hPpikCibrVzx2p86xWlXXz1bs96urK57j8O1pel-o5qgt-THnXjBmrfaULHJAO0nYhc2wI5uRl6UeyeWxd6AaL_rBljzs0Sspc89vTnuKUot913pNRRaOFB7SVrzAachmUR3zQEhD8N-Do-PIsEblGA-daNhTGGhT6QwRKRtnvx-ScieAdLjUsVwPXoA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJk3a1J09tiEcRunBwL_8heaw",
+         "rating" : 4.7,
+         "reference" : "CnRqAAAAwO3La1WTZxmgiR7BIDfzsq4aPJ9CE8rO5TBASiruBYFXeuP4BocYN-J8Ds4rseWIE3QMashUjqevkLd_5HX3LmCSWN_uniyMwhTkKfBpH3zi1JjBaU0gQnUGlqS7DvoNionv_HcEqn5cONp1TUoiLBIQhMPuWiLPDItSv3g-B_YD4BoUhfZ29VD6t44GGiCPnU10iU-ESB8",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Madama Cristina, 118, Torino"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.053003,
+               "lng" : 7.679848500000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0627304,
+                  "lng" : 7.691631300000001
+               },
+               "southwest" : {
+                  "lat" : 45.0413258,
+                  "lng" : 7.6671696
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "86d00b0d6bf98d462ea3ec55197517616d1e379f",
+         "name" : "San Salvario",
+         "place_id" : "ChIJF7mvnUVtiEcRVKSdKCxlQTQ",
+         "reference" : "CoQBeAAAAI8AtT8rswOSPTH97fjC2qDAQDT8VcPwwFfk81TYA8VJ5rl2TtJZuFvxzqmArXDf1FIAcD8k5TsB7pncPVZPr8OwvqpwVOIfItYplsf12JS_16MF4QvGe3zW-xckeGlsTNI6cls6S_1APLbnBgPEALXbaBvK7mQPmJDvQMHCgxzNEhCGGMu9qjoLCTCgEDrf_kkZGhR3cVWOpvO_WkeOGI3AghS6wAK2eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Torino"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,437 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpaXUIa_GhkcRSclt1SdAGtI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW9cfsq3GhkcR-stEgM3x-Fo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4728242,
+               "lng" : 9.200545699999999
+            },
+            "southwest" : {
+               "lat" : 45.4576026,
+               "lng" : 9.188149899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.2 km",
+                  "value" : 4206
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 861
+               },
+               "end_address" : "Via Tommaso Grossi, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4655955,
+                  "lng" : 9.188149899999999
+               },
+               "start_address" : "Piazza del Duomo, 16, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4636995,
+                  "lng" : 9.193615299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "25 m",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.46347919999999,
+                        "lng" : 9.1936331
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003ePiazza Fontana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "csntGcsbw@j@A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4636995,
+                        "lng" : 9.193615299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 45.4625308,
+                        "lng" : 9.1938721
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia S. Clemente\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "wqntGesbw@pAGn@C^@BABA@A@ABE@A@C@C@A?CBG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46347919999999,
+                        "lng" : 9.1936331
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 298
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykntGutbw@JTFLvAdD|AbC~AnCZh@FNDJDHDN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4625308,
+                        "lng" : 9.1938721
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "26 m",
+                        "value" : 26
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 45.4605652,
+                        "lng" : 9.190842699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Alberico Albricci\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y`ntGwbbw@PTTH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.4597857,
+                        "lng" : 9.189777299999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Velasca\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "q_ntGwabw@LNjBzC`@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4605652,
+                        "lng" : 9.190842699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 373
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uzmtGc{aw@|@gBhBiDx@aB\\o@d@_AJWt@uAbAsBHM"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4597857,
+                        "lng" : 9.189777299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 750
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632066,
+                        "lng" : 9.198745499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Francesco Sforza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_mmtGwqbw@k@s@m@m@kBcBOOiAeAmBcBeB_Bg@e@y@u@k@i@QOeD{CaC_CQQsCiC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 455
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 45.46699479999999,
+                        "lng" : 9.200545699999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Uberto Visconti di Modrone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "apntGescw@uCuCGEe@[{BgAi@UwB}@YEI?mFM"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4632066,
+                        "lng" : 9.198745499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.46879759999999,
+                        "lng" : 9.1992396
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia S. Damiano\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ugotGm~cw@a@J]NqD|BwBjB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46699479999999,
+                        "lng" : 9.200545699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 500
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 45.4722757,
+                        "lng" : 9.195201400000002
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Senato\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_sotGgvcw@_Ax@iAjA}@fAcBxBw@nAiGnHiA~A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46879759999999,
+                        "lng" : 9.1992396
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 199
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4728242,
+                        "lng" : 9.192776799999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Fatebenefratelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "whptG_}bw@Mb@GPCJqA`L"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4722757,
+                        "lng" : 9.195201400000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 45.4702798,
+                        "lng" : 9.1920202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia dei Giardini\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "clptG{mbw@p@J\\BH?LCXCJAz@E`@?R@XBVDXJ|Al@VLVPLLRb@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4728242,
+                        "lng" : 9.192776799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 328
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Monte di Pietà\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g|otGcibw@n@tAbAvBZn@Nb@H^F^BZB\\`@tI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4702798,
+                        "lng" : 9.1920202
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 241
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 45.4674588,
+                        "lng" : 9.190011199999999
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Monte di Pietà\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Giuseppe Verdi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kuotGqqaw@JCD?JCLG|@_@TMLIJMRUhDsF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza della Scala\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sjotGq|aw@LPtAnB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4674588,
+                        "lng" : 9.190011199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 179
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.4655955,
+                        "lng" : 9.188149899999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ogotGoxaw@`@`@j@h@HH`BvAj@b@h@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "csntGcsbw@|BInAAJGHO@EBGJT~ArD|DrGn@nADNPTTHLNjBzC`@f@fDqGvAqCp@wAxBiEHMk@s@yCqCyAuAuH_H}@y@gH{GeD{C}C{CaDcBaDsAc@EmFMa@JoElCwDdDiAjA}@fAcBxBw@nAiGnHiA~AUt@uAlLnAN|@I|AEl@Dp@PtBz@d@^bAxB~AfDXbAJz@d@rJj@OrAm@XW|DiGbB`CxDlDtAbA"
+         },
+         "summary" : "Via Francesco Sforza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

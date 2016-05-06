@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ6V-H8NfLxMResBRv_DhDE0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcyjopsNfLxMRKHkBk4J8N04",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8986508,
+               "lng" : 12.430146
+            },
+            "southwest" : {
+               "lat" : 41.8962543,
+               "lng" : 12.4235612
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1247
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 325
+               },
+               "end_address" : "Via Aurelia, 476, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8981218,
+                  "lng" : 12.4235612
+               },
+               "start_address" : "Via Aurelia, 481, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8962543,
+                  "lng" : 12.4253177
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 251
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 41.8984835,
+                        "lng" : 12.4253432
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "qzu~FgyyjAcA]aAGK@kH^"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8962543,
+                        "lng" : 12.4253177
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 362
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 41.898456,
+                        "lng" : 12.4296763
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Via Aurelia\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ohv~FkyyjAEm@GiACa@?S?Q?a@?O@K@EXqD?[@O?KSuBAs@?_@@]B_AB[@q@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8984835,
+                        "lng" : 12.4253432
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8982143,
+                        "lng" : 12.4300952
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "khv~FotzjAp@sA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.898456,
+                        "lng" : 12.4296763
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25 m",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.8984369,
+                        "lng" : 12.4301331
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yfv~FcwzjAm@E"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8982143,
+                        "lng" : 12.4300952
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 565
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 41.8981218,
+                        "lng" : 12.4235612
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Via Aurelia\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ghv~FiwzjAOCKrCCv@CpA?d@@^DvA?f@Av@K|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8984369,
+                        "lng" : 12.4301331
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qzu~FgyyjAcA]aAGwH`@QmD@oAZwD@k@SaCAsAJkDp@sAm@EOCKrCGhC@dAD~BMtD?dCXdEFNFp@Ht@NfAb@xB@D"
+         },
+         "summary" : "Via Aurelia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

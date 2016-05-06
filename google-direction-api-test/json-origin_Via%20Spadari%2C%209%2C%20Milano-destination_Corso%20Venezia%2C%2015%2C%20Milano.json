@@ -1,0 +1,296 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJddnaeqzGhkcRap7ecZhFARg",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJyf2m77rGhkcRnZ2_JTFs_Zo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4730623,
+               "lng" : 9.202435599999999
+            },
+            "southwest" : {
+               "lat" : 45.4635764,
+               "lng" : 9.1865334
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 km",
+                  "value" : 2530
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
+               },
+               "end_address" : "Corso Venezia, 15, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46835129999999,
+                  "lng" : 9.198852799999999
+               },
+               "start_address" : "Via Spadari, 9, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4635764,
+                  "lng" : 9.1870511
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4640197,
+                        "lng" : 9.1865334
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Spadari\u003c/b\u003e toward \u003cb\u003eVia Victor Hugo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "krntGajaw@Y`@}@dA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4635764,
+                        "lng" : 9.1870511
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "68 m",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.4644653,
+                        "lng" : 9.1871285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Cesare Cantù\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cuntGyfaw@e@s@s@cA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4640197,
+                        "lng" : 9.1865334
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 45.4636062,
+                        "lng" : 9.188499699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Orefici\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}wntGqjaw@GMhAcBnAsBHMBE@AHU"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4644653,
+                        "lng" : 9.1871285
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.4647005,
+                        "lng" : 9.1885516
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Orefici\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003ePiazza del Duomo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qrntGcsaw@OIeAAY?U?Q?aA@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4636062,
+                        "lng" : 9.188499699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Giuseppe Mengoni\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kyntGmsaw@o@?g@A}A?q@Da@F"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4647005,
+                        "lng" : 9.1885516
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uaotGasaw@aBwAIIk@i@a@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.4674588,
+                        "lng" : 9.190011199999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza della Scala\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ogotGoxaw@uAoBMQ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 690
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 45.4723891,
+                        "lng" : 9.195363900000002
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Alessandro Manzoni\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "sjotGq|aw@oCuCUY_@_@q@s@w@w@OO_AeAmAyAu@_AoCmCeByAy@}@u@cA[_@IMs@iAU_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4674588,
+                        "lng" : 9.190011199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 609
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 45.4718413,
+                        "lng" : 9.202435599999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Palestro\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "miptG_~bw@k@{@KMGMISGW?CCOC]EU?OWeICgAIgCAc@@SBOBSr@eDNq@Ne@L_@HWdAoCx@sB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4723891,
+                        "lng" : 9.195363900000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 479
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 107
+                     },
+                     "end_location" : {
+                        "lat" : 45.46835129999999,
+                        "lng" : 9.198852799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Venezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_fptGgjdw@X\\xA|A~BvCzBjCnF~ETRz@p@FF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4718413,
+                        "lng" : 9.202435599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "krntGajaw@wAfByAwBGMhAcBxAaCDGHUOI_BAg@?qB@eCAsALkBaBmAkAcBaCwFcGgAgAmC_Du@_AoCmCeByAy@}@qAcB}@wAuAwBQk@CSIs@WuIMoE?w@jA{FlBmFx@sBX\\xA|A~BvCzBjCnF~EpAdAFF"
+         },
+         "summary" : "Via Alessandro Manzoni",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

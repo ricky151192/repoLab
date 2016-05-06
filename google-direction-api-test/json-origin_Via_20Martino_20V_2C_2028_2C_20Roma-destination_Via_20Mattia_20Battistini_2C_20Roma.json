@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsT0lW89fLxMRywMQwfUfCqI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs3hekcpfLxMRxwnXY1Pp8Cs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9138511,
+               "lng" : 12.423723
+            },
+            "southwest" : {
+               "lat" : 41.90542689999999,
+               "lng" : 12.4184329
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1399
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 293
+               },
+               "end_address" : "Via Mattia Battistini, Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9138511,
+                  "lng" : 12.4184329
+               },
+               "start_address" : "Via Martino V, 28, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.90542689999999,
+                  "lng" : 12.4217443
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 41.9057317,
+                        "lng" : 12.4211672
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Martino V\u003c/b\u003e toward \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}sw~F{byjA{@pB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90542689999999,
+                        "lng" : 12.4217443
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 41.9074462,
+                        "lng" : 12.423723
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yuw~Fi_yjAwBaDi@gAYi@MKSIUGOCICKGQUWi@EUE[GiA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9057317,
+                        "lng" : 12.4211672
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 326
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 41.9102455,
+                        "lng" : 12.4225659
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Pio IX\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q`x~FgoyjAsBZgBh@wAj@{FrB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9074462,
+                        "lng" : 12.423723
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 172
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.9113517,
+                        "lng" : 12.4212747
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eVia Cardinal Passionei\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "arx~FahyjAIAG@E@OBC?A@EBA@?@A?A@?@?@A??@?@?@?@?@?@?@@@?BkBpCu@fA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9102455,
+                        "lng" : 12.4225659
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 290
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 41.9115895,
+                        "lng" : 12.418566
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Melchiade Papa\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}xx~F}_yjAFDBFDJt@vB?DBL@L?P?PANCLCLEJEJGFGFEDKHIDEBIDE@I@C@G@G@G@G@CBEBADCDAFAB?B?B@FLl@Jn@BH?H?H?FCL"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9113517,
+                        "lng" : 12.4212747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.9138511,
+                        "lng" : 12.4184329
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Mattia Battistini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mzx~FaoxjAUAu@A_@@uBNO@YDG?oDD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9115895,
+                        "lng" : 12.418566
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}sw~F{byjA{@pBwBaDcAqBa@Ue@KUKi@_AKq@GiAsBZgBh@wAj@{FrBIAMBSBIHCDAL@DaDxEJLz@bCDr@A`@GZKVONa@X]J_@FIFEJCR^nB?RCTkACuCPi@FwDD"
+         },
+         "summary" : "Via Pio IX",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgTWFkYW1hIENyaXN0aW5hLCAxMTgsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbSaY40ttiEcRfDzJWMXBeB4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0464403,
+               "lng" : 7.674311299999999
+            },
+            "southwest" : {
+               "lat" : 45.0453143,
+               "lng" : 7.6724022
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 362
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 88
+               },
+               "end_address" : "Via Ilarione Petitti, 24, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0461976,
+                  "lng" : 7.674311299999999
+               },
+               "start_address" : "Via Madama Cristina, 118, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0453143,
+                  "lng" : 7.674171299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.0456645,
+                        "lng" : 7.6724022
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia Tiziano Vecellio\u003c/b\u003e toward \u003cb\u003eVia Saluzzo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e||qGqzym@OrAu@lG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0453143,
+                        "lng" : 7.674171299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.0464403,
+                        "lng" : 7.672700499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~|qGooym@{C{@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0456645,
+                        "lng" : 7.6724022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.0461976,
+                        "lng" : 7.674311299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ilarione Petitti\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gc}qGkqym@Fm@LoARsCDo@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0464403,
+                        "lng" : 7.672700499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e||qGqzym@eA`J{C{@Fm@`@cFDo@"
+         },
+         "summary" : "Via Tiziano Vecellio and Via Ilarione Petitti",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

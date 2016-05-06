@@ -1,0 +1,181 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE8G_BDttiEcRTdPOGtC7caw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "Ei1Db3JzbyBUdXJhdGkgRmlsaXBwbywgNywgMTAxMzQgVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0544802,
+               "lng" : 7.666071999999999
+            },
+            "southwest" : {
+               "lat" : 45.0484095,
+               "lng" : 7.6602776
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1144
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 232
+               },
+               "end_address" : "Corso Turati Filippo, 7, 10134 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0496473,
+                  "lng" : 7.666071999999999
+               },
+               "start_address" : "Corso Galileo Ferraris, 110, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0544802,
+                  "lng" : 7.6629814
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e toward \u003cb\u003eVia Evangelista Torricelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ou~qGstwm@zD`CHDjC`B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544802,
+                        "lng" : 7.6629814
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 45.0502226,
+                        "lng" : 7.6602776
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "}j~qGimwm@Jc@fDnBZRbEdCPNzAz@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Tirreno\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{z}qGwcwm@Do@l@uCNk@Li@t@gCh@sAf@eALQlBaC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0502226,
+                        "lng" : 7.6602776
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498622,
+                        "lng" : 7.665598699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ep}qGizwm@RWy@cA_BiB_CgCGG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.0496473,
+                        "lng" : 7.666071999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Turati Filippo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sx}qG_exm@N_@X}@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498622,
+                        "lng" : 7.665598699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ou~qGstwm@dEfCjC`BJc@bEbCtEtCzAz@Do@|@aEbAqDpAyCzBsCRWy@cA_FqFGGN_@X}@"
+         },
+         "summary" : "Corso Galileo Ferraris and Via Tirreno",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgQWxlc3NpbyBNYXp6b2NjaGksIDM0LCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjtWaWEgR2VuZXJhbGUgR2lyb2xhbW8gQ2Fsw6AgVWxsb2EsIDMwLCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8644505,
+               "lng" : 14.2717202
+            },
+            "southwest" : {
+               "lat" : 40.8630425,
+               "lng" : 14.268313
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 446
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 143
+               },
+               "end_address" : "Via Generale Girolamo Calà Ulloa, 30, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8644505,
+                  "lng" : 14.2717202
+               },
+               "start_address" : "Via Alessio Mazzocchi, 34, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8630425,
+                  "lng" : 14.268313
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e toward \u003cb\u003eVia S. Attanasio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_alxF}wavACeCGsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8630425,
+                        "lng" : 14.268313
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.8642475,
+                        "lng" : 14.2696595
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kalxFwabvACWqBf@oBZ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 175
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 40.8644505,
+                        "lng" : 14.2717202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Generale Raffaele Carrascosa\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qhlxFk`bvAWcFOwD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8642475,
+                        "lng" : 14.2696595
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_alxF}wavAKyHCWqBf@oBZWcFOwD"
+         },
+         "summary" : "Via Alessio Mazzocchi, Via Arenaccia and Via Generale Raffaele Carrascosa",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

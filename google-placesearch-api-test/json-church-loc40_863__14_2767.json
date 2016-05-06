@@ -1,0 +1,362 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-wAAAKJkjWSfZAB6c0pHd4LyKFSBhR6OycmsT06lYShsXTDR2MbZafDWaR2ik7IwpWQYIBhBl8auTqW79FzI2UDwNZ55ToRrqRd50Y1qcM5fn4lFn-8faRkUIOcnSTT3nBYOZVRQdBMJxaOpv1Hrv2rTVlOY0E6gqu-Upx9R6b3lXmwumoHsJjjZSr5-IH1AXZ9-gnH_nw_0M8qkzY3DXudAR6RfJEkgAoLyTWWlofQ9T5W9uWIlJDggQYcgBigdkwHwZOu-977C-rdZnQJ6j19Q8bvNjZOMIz3IKjXASq3vD2dRWWrlUgSjsDaJRhOz9S4fVk5h78oRwqfEUHlosjyuA1cSEBRr_p-WZqb2r9dY3rJ5VSQaFF5bj8t01rTE6iAzHtcBWnekRRQg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8682683,
+               "lng" : 14.2735317
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6ab726903bf970a1227acd44cde192a85137261a",
+         "name" : "Salesiani Don Bosco",
+         "place_id" : "ChIJ-77xbQgIOxMROTDRRkbEIIQ",
+         "rating" : 4.4,
+         "reference" : "CnRnAAAAmPqtECPc_JI3AyaM7aK_KI_rQKn7UCEoafEJufEbH1JN2HJeb2X8FSNqCJGJ3luyzWFREYVH53xSqFynWj82MVu9xFBR-5sKx1cWg8m_gXvMIKmMDxG9OhQGhLJHBnvkK-2vg0VxQ4WTS5dIDUunkhIQTumrSnht1OEqpzs7yheS1RoULmFNab0nON1BEc1yvUErwZCwXUo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Don Giovanni Bosco, 8, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8684099,
+               "lng" : 14.2683113
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "cd570ea9b78fd89c1e818912a875573d9e608efc",
+         "name" : "Chiesa dei Santi Giovanni e Paolo",
+         "place_id" : "ChIJbQ4tKQoIOxMRE462itHU6BA",
+         "reference" : "CoQBdAAAAPqiqojtcQKN8boNDfUKxHM5nFOGMMXKFWfXHX1U_WuxS3-iIYEX5ydGmhdL_hpAUPGXLcMqVJw8g-gzjqH_2Se618g8OYlCa9JJwYiETFEN_gI5fr7Vrh8Qw7vh_nA5wpq1QRPnEMOOWAPrfuVi8fd64UPVflvXvFGXu8TvKhuoEhAmITQhQXLDT3kHB7Dc0JunGhTYKKpgONn4-480ZWWGkaiCamYH9g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Naples"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85700029999999,
+               "lng" : 14.2739764
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "924d71ed7aefeb96734a1e02c5c058c46bfcf817",
+         "name" : "Esercito della Salvezza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 599,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101575586983013752674/photos\"\u003eEsercito della Salvezza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOKjCVk4oPrUFrZ_ePFxqoPhtxr-wfTwrPQKChRZTRK4AOUOwuM3xzUGw9aN1czLTYD1zj-4S5KtkJkbpF3U8Ncn_LSpyxWju36aB6XWpEEwbe6qHAOOPUaBWr-l-HuYf2KP1rMYo6bBYEGSq2J1xSDhS-atysgb37F8SK-wcyYiEhCLa2g4iEfhELMZGgL2DmDtGhT3dW1P_zE4Eg0VbGu4YTrM4G53hA",
+               "width" : 472
+            }
+         ],
+         "place_id" : "ChIJucBrvhoIOxMRhWK6EZFDugY",
+         "reference" : "CnRqAAAAX7vcFqxNDcVrtigPodpAYgy3sGZ6PJ3JsB4T-yL8ZcL8tuBqsoJJfhSnNgAeTKMg2jnRsovRZf8JxAGigUerz1ykDLCTfFZmI6mmdDSYDHgcircfUmm_oxLzC7-ygMT66ysPUo1kwpmMqUe7mvh2VRIQmvhH1_2Ymx8fG3kYdhWr6BoULLI3AXHmkaUpa2zfY5m5wDXtVTY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ferrara, 66, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8634865,
+               "lng" : 14.270854
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "48f262003372741dcdbd024e53960f7bba5dca15",
+         "name" : "La luce di oggi",
+         "photos" : [
+            {
+               "height" : 262,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117614124725826504947/photos\"\u003eLa luce di oggi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFrLPMKAunXHMQZ1mMyxHhGvEHnaYpVAIW1IsKuzc5TnTw7BUaODqIzZHpjdgTuuhXHhCXOTeuaiqvGieqIcfe0QF3_TISE8uGFKTwOFoxtqGkDE-qVT022mbQPGZk2NskSzHL91BydLju1JZ7mgXoXhz62ZiG3DJ6HhvTLYlzjaEhAmiOJK5NiiyE-Lm2JhdfaEGhSBiaCcdZpQ6co6W0PX7n597jTjPA",
+               "width" : 262
+            }
+         ],
+         "place_id" : "ChIJVcpo6A4IOxMRYljJFODo1f8",
+         "reference" : "CnRjAAAAzDgPT7TmkmffLXNxfINZGgYNTPHJpUUElEiRf6xi4btgfEpl1pr2IrcEdUPqN6ksUCpF5EEUfoTurRDjJ0SWvZL9T9siyDgmPVbxSEKcQtzuP7oMPve1ZFDWGNv5NV4yVkv4xvIosvZmygSsH8h_cRIQNTXMBkgAXirzShc3uoK1ghoU3WoSbR1qKyI751lC6hOmzQJma7A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Generale Francesco Pinto, 27, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8613382,
+               "lng" : 14.2651154
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d4d0532480bda34341cb85aacb15cfc401522d6a",
+         "name" : "Sant'Antonio Abate",
+         "place_id" : "ChIJ1Z22ZQ0IOxMRHqSvNCIX-qk",
+         "reference" : "CnRmAAAAwPBLLpq97V1DeW0hMqOEGB1Z0mvgsh1HFCqqFICtlmgqAMCizsgtpQYmtSZ1xGihBlGq1RebT5BCf51Gveh0Mc2oEVfKgnJUnBAVlmbVfmSchFIyg3C-AUSOYIxofdBs9Bm4wViQuxHCW9Gw7IGfuhIQlbmX6Q6uxd_VNuClLB4P-hoUPA43WJK_v6O_oWT4IPPA24RsGP8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Foria, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8565142,
+               "lng" : 14.2738032
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "aad9ea44e11902d0260db78fee63d26c2b117d33",
+         "name" : "Chiesa dell'Immacolata e Sant'Anna al Vasto",
+         "place_id" : "ChIJcdigmRAIOxMRIyyPEs9RqMI",
+         "reference" : "CoQBfwAAAFWVqWVb6tZf3VdtIzbaWXhHiNACl72IoTEumqXJEsKGR53eQn6OyZXTmbfjkvySSR5-KCNkftl6fkDBKicpuZsOLz6Df8KlYpcK44WN7_GW8tkEfV5KlxCES1_ec7E40jTNbKUvUaSVHdrCggaAx0NykUxbHNyvjLq7H_N2rBQ2EhAKqUe8XdEZEpiY5Kdd_apfGhTeGKTvMrbCCVBUW-UTRBbkK6c1jA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nazionale, 33, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8679573,
+               "lng" : 14.2767503
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "bb0c29bfe3e8704991782516080e0eec7378700c",
+         "name" : "Parrocchia Sant'Anna Al Trivio Napoli",
+         "place_id" : "ChIJpXWAEJAGOxMRArMhnWsRw7U",
+         "reference" : "CoQBeQAAANKNeYAZZ_YeNHeOPrFz_YY6ABGn1sSyTJSOgmor_CuEuxKPLN8r_bRZs8VBPZN_0y6ESSK_JBDHlNetFyRafNs4sxPPFH3_7Dhosw5D-jzS6GQRaYH82d7837qHOJDL3JBL9SPOEW0z7JxOHdEnpS4LMl1Z8bX-AORCd8smRftIEhCuLEbqGXKX2qu0qb20Xr6MGhSV0pfOq5v9GXi4GtLAqL8jhTfgfw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Traversa II Rione Trivio, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8571239,
+               "lng" : 14.2767138
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "74898cb0015973b4f2866d58e0d5c7f65d618a76",
+         "name" : "Suore Di Carita Dell Immacolata Concezione Ivrea",
+         "place_id" : "ChIJEXQw-BoIOxMR5wjcLd5IxQw",
+         "reference" : "CpQBhAAAAMKHtx2PElzwKqNEllDClfrOvGuuAEtFfo9J_YVPyGgZi5JlT4YTVGeUP0wR77O5K_yNmQ-CCOXbGKGj5eB6zC9SgAKXNN8QF6NeFrN-cnRyn6q-OLEnmzzNVhhF09VManfOoZXJekVBF-PiEd-9TcWOl8bEw9pCxcFUn0dlG8uzaYvly98__lyEunP4Ggr_IRIQ2YW2rXXFsupFsyS4bN4b6RoUVuULVDE7YSBD53eErL3b-LZdvLM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Porzio Giovanni, 17, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86053260000001,
+               "lng" : 14.2674591
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0d66932b78c54e1d691feceeca4ef6424af54a60",
+         "name" : "Assemblee Di Dio In Italia",
+         "place_id" : "ChIJqzoDCxIIOxMRJm6S3_o8cG0",
+         "reference" : "CnRtAAAAPxhJD3M2M0yTX1jevBCbqktkC6rEyhrSqexM8KCo-FAtEgnFRveSwCKpQb-MqqtQnxi2vPLZA58bYaI9oJlIgOx85J4Y7RYeuuJbD_JYEOyqGS6JCtCGwRbJHLZNtn_pDEzye2fv7Qsrs19mQYrnshIQcMjxyzSLBdXP_GaZul8zFBoUA0QojXUzDYCZ60JcB5oDMbiuOQY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Carlo della Gatta, 50, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85810499999999,
+               "lng" : 14.268247
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7444a90dc3ddd1faa9daac1f8624f2c0e6f9effe",
+         "name" : "Santa Maria della Fede",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115045538809624293112/photos\"\u003eLaura Nasti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAB-g-crWKEoZD_-dYCkcgi8jlMLxt5dVmBqAVJYl6i6yLW2OwSrm_rKGo8_lCZjR7ojukVj2eNGVWA2WMZyzTUgeEfXI1BT1K8f2RXFaCzkUwrHi6u3jRaQFlIFmF8L0eZzDjgAvbzTHhoMA2_OW5N9y7-oJOljeop6Z80pgA59nEhAw47tOv0j08wa0ndVioyBcGhQg8zY_YqqHHEUVgtnX0FLcA1mlHw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJOV-RLBIIOxMRczDE4VFX3Yk",
+         "reference" : "CnRqAAAA2YnaLitt4YGBgc-Jy84vzNY9yr-ks8sq4-DHOMycIoAkMdjGNdfKSpOQhrF-NwACHYmW-K-AAOtwzfGST9JrzqP9QxlrGwPdYecC9K_WZB5kf7MD4rEbNsuScFj0k7j3B3An8Z9tZyK4mvnwbXxW_xIQA3-pWgbxdOy9ujbxgT7XRBoUIzXAzoUNaUswPcfcGrvWhCil5Dw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza San Maria della Fede, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866388,
+               "lng" : 14.276154
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "49a111bf0ec44be757847b769a3f4427c8c94a60",
+         "name" : "Convento Della Trinita' Al Corso Malta",
+         "place_id" : "ChIJyUU7PgYIOxMR0df_qr53JVI",
+         "reference" : "CoQBeQAAANg_a8qPJWhMp0_uuNfMSc-_Zs2a1U5WC5O8deIaWPP3gCgADdqTJ4oqtYumlUc5XcKDUHZrPAIKYp9q7kwunyWefenOPOaX-es_sfz3G4wIljiM84YHOt1NI0Vzj40u8OKH02d0B57GfPBkcWqLq2s1bSF9aRGRvQhvULzyabMCEhAm4gvov2pazNmE9IorEKm6GhQMhUKtZhbE3al182wzs-FPZfZ6KA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Fontanelle Al Trivio, 24, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866388,
+               "lng" : 14.276154
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7b3105e87ec64c44882f7f910cb6bdfa0ff6cebe",
+         "name" : "Parrocchia S. Maria Grazie Al Trivio Cso Malta",
+         "place_id" : "ChIJyUU7PgYIOxMRhjHs54t8wZ8",
+         "reference" : "CpQBgwAAAN8sG5lQMYbB19lvSfzbeARMKUFWS7ugmyhaYXz8QMbOCNdKoKChPULETJUne2f-B1SpTInD1mG4r6VkAWJEuRWyRzJZFu6L8UGUd0mrltdjqv-oo0VVkDOc0vsVDVy28tRhPiffwfbwzzglbfnlA5NccIGB-8rRepUuK_Bnyo1ETdx--DH29ghGIzdihlO38BIQF3j67PiARdA2c3sJpEtaURoUMkUcuABkaeeuzSfS1HRMVlnxPrs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Fontanelle Al Trivio, 24, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86593200000001,
+               "lng" : 14.275912
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1090f646f3c5ec163ac5a4b35ef82cd59cda7fae",
+         "name" : "Parrocchia S.S. Trinità al Corso Malta",
+         "place_id" : "ChIJq4qBPwYIOxMRA0GbH6lEU2M",
+         "reference" : "CoQBegAAAD8YNjKeBoXyTzO1Nd3S6hJO3b5DBtyma_LcdCrd5ELAC452MBS_42Lr84ufSnReq9hmKytmjtXZolXHlink5wMIIPJrv9o-iiLqj-HzFQ1pM_tjFZXvX1ItFxhZxaCiUPaNMxGBwK0p52AusFqXKzUH_O9VQeL6jkTJ5vwRPTHYEhANk3c29delg38lnxOGnZ4sGhTsiTjiSrhYf-XhvG3bT0JiQeQanA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "10,, Via San Giovanni de Matha, 2, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86663939999999,
+               "lng" : 14.2763465
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3939e5954b2e348e289cf322bd228f7cbc87e644",
+         "name" : "Provincia Della Nativita'B.M.V. O.Ss.T.",
+         "place_id" : "ChIJk9g0PwYIOxMRV4SHg-q2HF0",
+         "reference" : "CoQBegAAAM61Df2P_UBsqmFnqFzzN6E5kOweWC8zEbSjggg2Q3N0pE0fZEGSsVITfYxCXOGstx5u7SDTdTJJaZuQ1i7zXGsh5uHRIIKfw7BFOxhAk1bZ6OXOA4s7_9Lnj7zDd3ibRaPCyJP7ANoRuGs1N_Wh838brQS2NH0m6dFwEBtJQnMnEhARB6sYPlrLjXjQV8vSyYPeGhRvQE1EKex29ps32CYGiTBbw1kOow",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Fontanelle Al Trivio, 34, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8587702,
+               "lng" : 14.2747925
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3a51fa10283a82dac7884a9dc8a5563209d53e68",
+         "name" : "Chiesa Cattolica Parrocchiale S Giacomo Degli Ita",
+         "place_id" : "ChIJoUlOoRoIOxMRYyFKAguEeqo",
+         "reference" : "CpQBhgAAAA-6sPwGp3TpYM9etvP3KvJ-zeJpMcHE4Mlb3lVa_ah5-4FtmUyM_cq20IgN76_EKtmZTiMc5WW8yJnI1lgDgB0xNoRUVWgTshHQ8HPMzFsbWEfz7NthL-SKz5VNjTMRZTAGqXRGuwvy0wLp0rf4X5r5-Y7vDRL-3AyrrW2idAhczFAiYOv_l7ZgJ4sXdvZyLBIQMUYnEULXZXvC5e_oK9k4BRoURjkPEdh-35u9rjkaHY59r-PzOMs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, 165, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8589425,
+               "lng" : 14.2816959
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7be982e7bdd191d031fb9d5d18da5d5be00290cd",
+         "name" : "Parrocchia di San Carlo Borromeo",
+         "place_id" : "ChIJ9_osyBwIOxMRSn5pVigWqXQ",
+         "reference" : "CoQBcwAAANBrKOp2e5WPrE6XHMfkhexKVl11jNpcc9KMqMOHj-LCqPGni27DQ50yzhcTgYiFhQXM6gKENE4i29jq0UU2NVnIDc6Fsaqr71jQtO8cOSB7OmROvzsRq0I-wL6iwbbZFvUXTgRM0lPvC32DarY-3AebIRLqxkS9ityJOUbZ68ivEhD2ArVMZ52fp-UJE3t-HVLdGhSnXkIeztMVSP13OWFB7lQnx8hHaw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Naples"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86100509999999,
+               "lng" : 14.2672974
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7655665c1b34ef6d86bc570cfc7a45cb8e96b139",
+         "name" : "Chiesa Cristiana Evangelica ADI - Napoli",
+         "place_id" : "ChIJA0Ez8w0IOxMR-qP4pkwqQw8",
+         "reference" : "CoQBewAAAHvkOE3vCy-Ou2N9WvFMKgORdfJCGy5Ht2kVZkjZHLyS6Lu2VRrN7zYykEv-6hluPZbe0b2WUZMYE_MsGaFljd-lk8Oe3vcd6PvyvCZHdT8pXt1UOz25a_w_dQrjUypv7Q6n-JsTVNlOX9XpjVPlEbDcjWdoPGyIu6AhxVAQVZzqEhCnWL_9bn0HJBX1PJ7RNM0IGhQbJoDU1wb6uKivmwAH8baTjWUr2A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Frà Gregorio Carafa, 13, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8684292,
+               "lng" : 14.268576
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "427011a11a22d6da7f82a901ae9b22b4b9ca5545",
+         "name" : "Parrocchia Ss Giovanni E Paolo",
+         "place_id" : "ChIJUcxRLwoIOxMRP0PPeyrR-EU",
+         "reference" : "CoQBcQAAAJzycyXXaM7lrWvA23TY3bGCaRVEUiIS0DU7heCvwh4WUo3j2RbDXK8XFy1J55q5itndvWlEWMAx0ArFUA68iXF0UGri3b7p1FUXaLNdINORguXRfNL-ZlDh4uEqfSZfWPXCXIQG3LSf-of186TLqII8kl4OFvqjBUAtyKR9FbOZEhC1smL6rl6apAFiFmcN_go1GhQ95JKJxHdtlNoRcug6KLkzik0WeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Astore Ludovico Antonio, 6, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8612526,
+               "lng" : 14.2653644
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c3eecf4b7a3e545d73c24683a440710dbe22808",
+         "name" : "Istituto Stella Mattutina",
+         "place_id" : "ChIJF8b0ew0IOxMRF6bg8NQzaU0",
+         "reference" : "CnRsAAAAw8-frKiuJg3aYeOb-YiWOUsDGzSOjPA9xQfLJ7u_zbbSurBgjI0iJr_hAI14sa6jUWBJG7-kRRyVILSnlg0gHTifmQwMDhiaL7-8GFEsOgZY1GWBRO8QNOdGG4NIKal0JVlEugcHw4SEdtR7Z8ylQBIQGFmPjfgcpVQqLPRS2QfoPhoUk0N2z6mQKkzC8qfKiAsDdASKLGA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Sant'Antonio Abate, 11, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85945419999999,
+               "lng" : 14.2660911
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ab8dba8c725d060598ee091789a33ae4aeec6693",
+         "name" : "Arciconfraternita S.Francesco E San Bonifacio",
+         "place_id" : "ChIJBc38iRIIOxMRGSxXNdAlX4k",
+         "reference" : "CpQBgQAAANEvjXdA6WODcKTGfwntgprHkFIyw9DOFxq8cyqSxx19WA-_UaoOg9-cMTHAYI22dCaOZ25yfJu0zb9PU41u7_NgYxi65gLvTwrisaR4zatJjQI1ziHh0vLzFoy0SndPu7jsT_JEXA04v0JNuITZcv1GZVGolsuFaC2BL1nvLQ6G96tLcSwQteMEKDsEjufP8BIQpQxUqu8k_P6RZn0FaUAzehoUdv3XP7fFsL20ioJQaX_ihcU2L3U",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Vico Santa Maria del Riposo, 33, Napoli"
+      }
+   ],
+   "status" : "OK"
+}

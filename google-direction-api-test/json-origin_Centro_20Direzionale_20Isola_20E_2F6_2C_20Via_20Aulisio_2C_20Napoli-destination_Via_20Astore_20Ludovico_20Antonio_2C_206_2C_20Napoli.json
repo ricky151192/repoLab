@@ -1,0 +1,370 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "Ei1WaWEgRG9tZW5pY28gQXVsaXNpbywgNiwgODAxNDMgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQXN0b3JlIEx1ZG92aWNvIEFudG9uaW8sIDYsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8685684,
+               "lng" : 14.2846788
+            },
+            "southwest" : {
+               "lat" : 40.8603672,
+               "lng" : 14.2681721
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 km",
+                  "value" : 2473
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 462
+               },
+               "end_address" : "Via Astore Ludovico Antonio, 6, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8685684,
+                  "lng" : 14.2682046
+               },
+               "start_address" : "Via Domenico Aulisio, 6, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8603672,
+                  "lng" : 14.2846788
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 40.8612957,
+                        "lng" : 14.284592
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Domenico Aulisio\u003c/b\u003e toward \u003cb\u003eVia Grimaldi Costantino\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ipkxFg~dvAkBJ_@@m@B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8603672,
+                        "lng" : 14.2846788
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 277
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.8610045,
+                        "lng" : 14.2813196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Costantino Grimaldi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cvkxFu}dvARdFNbDNrDFnA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8612957,
+                        "lng" : 14.284592
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Serafino Biscardi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gtkxFgidvAiCP[B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8610045,
+                        "lng" : 14.2813196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618339,
+                        "lng" : 14.2808708
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mykxFqhdvAKDC@CBC@Vt@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.8633855,
+                        "lng" : 14.2809316
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gorizia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mykxFmfdvAGFA@IFIDUBG?{A?k@EaAQKCMAMEIC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618339,
+                        "lng" : 14.2808708
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "67 m",
+                        "value" : 67
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639241,
+                        "lng" : 14.2812984
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Aquileia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eclxFyfdvAMI{A_A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8633855,
+                        "lng" : 14.2809316
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Vicinale Cannola\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oflxFcidvA}@n@i@^OJQjAWpBg@rFaB`QAZ?D@B?H?H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639241,
+                        "lng" : 14.2812984
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8650172,
+                        "lng" : 14.2732752
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Piazzolla\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{olxFydcvA?H@P@Xh@hEZhCBR@T?D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8640404,
+                        "lng" : 14.2734472
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Piazzolla\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Generale Pianell\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kmlxF_wbvAbEa@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8650172,
+                        "lng" : 14.2732752
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 309
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.8636872,
+                        "lng" : 14.2697986
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Marchese Giuseppe Palmieri\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gglxFaxbvAPbDDlAHpAPtDP~E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8640404,
+                        "lng" : 14.2734472
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 550
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : 40.8684611,
+                        "lng" : 14.2681916
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Arenaccia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aelxFgabvAoBZ_B\\WFQBOByAVA??AA?A?A?A?A?A?A??@A??@A??@A??@A??@?@A??@k@Pg@JqARi@PmEpA{Ab@s@RMD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8636872,
+                        "lng" : 14.2697986
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.8685606,
+                        "lng" : 14.2681721
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eCalata Capodichino\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{bmxFewavASB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8684611,
+                        "lng" : 14.2681916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3 m",
+                        "value" : 3
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 40.8685684,
+                        "lng" : 14.2682046
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Astore Ludovico Antonio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ocmxFawavAAE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8685606,
+                        "lng" : 14.2681721
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ipkxFg~dvAkCLm@BRdF^vIFnAiCPg@HGDC@Vt@IHSL]BgCEmAU[GWM{A_A}@n@y@j@i@|DiCtX?n@B~@dArIDh@?DbEa@VpFZfGP~EoBZwBd@a@F{ATE?E?GFABm@RyB^wFbBoCv@a@HAE"
+         },
+         "summary" : "Via Vicinale Cannola",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

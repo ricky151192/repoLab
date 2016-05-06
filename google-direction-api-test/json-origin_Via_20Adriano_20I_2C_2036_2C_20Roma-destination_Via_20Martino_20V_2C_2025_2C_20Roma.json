@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69Jg8cdfLxMR-yMNMdntsN8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFVC9Ws9fLxMRWhWWvsPyFUo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9074462,
+               "lng" : 12.4237865
+            },
+            "southwest" : {
+               "lat" : 41.9035205,
+               "lng" : 12.415615
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1416
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 321
+               },
+               "end_address" : "Via Martino V, 25, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9054835,
+                  "lng" : 12.4216371
+               },
+               "start_address" : "Via Adriano I, 36, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9047109,
+                  "lng" : 12.415615
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.9044841,
+                        "lng" : 12.4161488
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Adriano I\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mow~Fs|wjA@ANSN]FWB]"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9047109,
+                        "lng" : 12.415615
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035219,
+                        "lng" : 12.4161248
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia Adriano I\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_nw~F}_xjAl@DpC?"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9044841,
+                        "lng" : 12.4161488
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 257
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035818,
+                        "lng" : 12.4192254
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_hw~Fw_xjA?s@AaAQkJ@m@@o@Bm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035219,
+                        "lng" : 12.4161248
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 592
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 117
+                     },
+                     "end_location" : {
+                        "lat" : 41.9074462,
+                        "lng" : 12.423723
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "khw~FesxjAkCuAsBiAmDcFwBaDi@gAYi@MKSIUGOCICKGQUWi@EUE[GiA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035818,
+                        "lng" : 12.4192254
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 306
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pio IX\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q`x~FgoyjAjEM\\?N?F@FBlAlAvCpC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9074462,
+                        "lng" : 12.423723
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.9054835,
+                        "lng" : 12.4216371
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Martino V\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqw~FohyjA{ApDIT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mow~Fs|wjAPUVu@B]l@DpC??s@SmLB}ABm@kCuAsBiAmDcFwBaDi@gAYi@MKi@QYG]]Wi@EUMeBhFMV@FBlAlAvCpC{ApDIT"
+         },
+         "summary" : "Via del Forte Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,542 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC_wAAAAVIlNNl4_eeg3t1gxRxpuV2KP6W7Tb5rST9jgNIRX6D4T7mLuWSt4T0bIpaKWddzBnuVOwqdMSzmZjXCx43CG-93U5DcbzdsPBqLNEuQvZr7YuTfDA8alQT__dOJl9ZhpvUQZ5rTz5GVULRLiLHbAk2wD15Rg-A8OsylRa8_6kO0bGrAZdshcqoFtZ2j2xVrguFruZXkeQWM6Q0RDie9KT5YIktWpA7FfvYcZf16CCQdU7D8nO0QcSAceQkXqbuQsMKxUvociNdk4jrWjHuRSpOLK9cDZ70XeBsnNxNhs8WxxCxrR7yN2giH2ARHGhWsBJG7bsdRBK2CJJvg_NWr-ISEMXQzzI0vKOd1_LEg5KlfPYaFP5B8lVoDDnRewomHTmIimLeBr9T",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90278349999999,
+               "lng" : 12.4963655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0505462,
+                  "lng" : 12.7302888
+               },
+               "southwest" : {
+                  "lat" : 41.769596,
+                  "lng" : 12.341707
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c201ff6d6339dac3b34184b3972b232aa097ff8a",
+         "name" : "Rome",
+         "place_id" : "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+         "reference" : "CnRoAAAAdwyeTVqDEmFFnUz-ROBNxX6XkAdiN4aQ9A5L-g6DtRWUDsjwYlbtm7ZZFAQbI1W61Yp1dETQFHbKNjiaGG3tzeqMqVtrDXWEgGDp8JQniZORAyV4l5MDkSMEUC2diGdOUxaURujLoaB03t01CGXoCxIQrh7t7rMJ4JGxlfi2U20HlBoUaIuydazHr0AkZGlWUD-6p0gRQU0",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Rome"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89490430000001,
+               "lng" : 12.4176917
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7d0534bc4c34ddeac6c4d157f62a569bf4cfe8b5",
+         "name" : "Hotel Aureliano",
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100755922914892604193/photos\"\u003eHotel Aureliano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADSfH5HxLMAEHXGaPM8Niw-4WOTDvjmDAAf0Kmysx8PGqOz0lA1eHkDH-wh-TsHq1ECGgRKvYYsxQGHaaWu42iwvGtEsvy7gXz-w4YKPFJTpJ6t_8bhs8jozxFl_zVdoZ3QI1a9yIvEG7gPRofcYvXiP6X8mIRTAzBJjiBqn_4HBEhBVXo5EHYiED2po4KfYkhUoGhQJ39ygM4rnPHdRsosECx9uRSidEQ",
+               "width" : 351
+            }
+         ],
+         "place_id" : "ChIJwY7fhOpfLxMRsMFQoHNvZss",
+         "rating" : 3.7,
+         "reference" : "CnRjAAAAMfMfD6u-y8RKWWSvBfTaG8f3kIgkyThygFu-XGex-ZIr0fxaidJtOOaBsSwGk4oeHSAQ9bOuVMoEpwt93r1uzjWiRKp3c7gNto_YrkpW-n3ji_H6HIg0nDaS-1l31kW_HHhPMkmzoGz2PhI1vBkjNxIQlfV6TW5vpd-_GWeB9Tj5XBoUl99DQEQxyfu7evkggiN5BCy7RK8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 619, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8963163,
+               "lng" : 12.4249061
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "59fff7d5b1467b27b33c66715f7b3af7f8bd4995",
+         "name" : "The Church Palace",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1135,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104611772519288838108/photos\"\u003eThe Church Palace\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAANaz97KaZ2HwYFXlyNwtte-nINWnGWUX-qoBBIvC7WdgLtbxSnLGhxoe3NtpybRt52IUSkmvmnyq-4--Mt4AABaCbyhrumWPda1wIwahHbM_GLJH8CFtqovvCZFgnaS3lUHBV4AgH09pQ376M8GL6yg5gAkdVDnBeltBVpivd6mbEhD5nx09ll9DsecboSPNr-3xGhSRpROR6I2DwuR7M4_7ZuFfaSrqbA",
+               "width" : 1135
+            }
+         ],
+         "place_id" : "ChIJ8yZb6cJfLxMR2g81l8PbjyU",
+         "rating" : 3.8,
+         "reference" : "CnRkAAAAECd9W5bKaH0tXt4z9WiVOTtXwciR3v8iK9hiN0l7mqaN9Q_3AFf-wbxu3gilCvhpxyMeWKXGOBQ7Y8Ph_fB38kecCKQFgJlnZ9cz_agYe9Sg9KUddZW6uyqHtWxUbBpISbpZlxVmaKbNuvLKKYCzRRIQSbqKdILmJkilt0zCe2kYIxoUW5vB-doKwdSHNxng5DJkiMD62Ck",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 481, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89225,
+               "lng" : 12.418427
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e532bc160b521eb7673a5654c3d8776d7ddc2380",
+         "name" : "Ergife Palace Hotel",
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103595168517387906037/photos\"\u003eErgife Palace Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGawkT_KirPATWHWBLL_5-F2RCfGTL0ftiACh3NdRbD8fO71Ts63O922q8_5gNVHgRS2-TUgEfsLxHhkE9SHca6aFNaJa4OBHzSbwEtH0oFQjnrvShqj5xkjzodi5InEwBz7hyuPUAytfbKPNBkJ-DtfhgnHIL8jAZKek3JDMfmuEhBDpwKGmrO-La8rkP8_xVObGhQBfqZw0e8Qpp7rVIg_iXv_l9eq0w",
+               "width" : 534
+            }
+         ],
+         "place_id" : "ChIJwY7fhOpfLxMRCaLcxUHGu2k",
+         "rating" : 4,
+         "reference" : "CnRmAAAAg1QJbipBbU9PhmFmSHSJipb1wswFb-JsWbNU5jMgN7rRipKl5cZJi6Ayyw_MrNx9SYg4CmC2NVWe5lOr4NlUAVW4ZhESkhH1PKaUU_Lln5EKbVW404KoUqFALctWUYdIvwmZCl5jxAcCO6MidFi11xIQ1me2drds5Uik-DHk5iQ-thoUGZ-UgD-OO9VyETp-SKZuko_sDdw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 619, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8988321,
+               "lng" : 12.4256337
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "110c4ffe23b7300d731639773124c3536fe023b3",
+         "name" : "Hotel Aurelius",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115940343395683710540/photos\"\u003eJoe Murphy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABqH3mFxL3POfJ5L859tYG0SvKV5KY7e3X0_o1qJhGw3L1rYEOmcw574hpPg2I3mWGGhpLdv27G4_kWAR-6dwlACs7Zd5ZxB0ayQtFCuRTqcwOratKpzgOT6dIUgpVt1FGN07pxd-5EcAG6KuDUgnczbnlXiJ3wWenSWm8bMLwqtEhBAs-Dn_qjx59SleYY4F1sUGhTmuV42SZ728GJFyrnSDk049ifvWg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJjTZLa8NfLxMRLzwlb5Mm5ug",
+         "rating" : 4.4,
+         "reference" : "CnRiAAAAuydlwHy2MmpynSvOwMOCTQdW8zU4sXsZbK4wfZPE9GfArWMxrKGhXx8luFFNyx9KJs92DG-bf_N3XfCBMzPUO8nCAIFnOkWz5dKSUbmLvwFPymlwijhzVfG0kClksHLh7_ZXMP5bDfkYZc6FQLzwchIQXtKSJhi0i2gs6xudQbNSpxoUw5CShk5lLb_V_bIDqZMPfJvtkY0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 458, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8921772,
+               "lng" : 12.413343
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "79207fb30937d0b021d650008ca3444d7557e887",
+         "name" : "Raganelli Hotel",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115864392268939256095/photos\"\u003emartin power\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALNFCuo0OkzCwMf8C2exA6PzHVGGp68iPTJORMS7mYzB32Rssoj8V45OwOxYLjiDR3ZnhUCXa20VYblERZHsK7VpJxVsDpzFZk2KsSxsrEccF4UaYTadxb4QuIZ1PbmT0e3qmDyzAil5xJG97qLa8F-Sax26lNmYxkVe4VV-AttcEhATKiORJsmd8iN-VXbreygkGhRCG0WAKgIY2HgsBsArHcr7cFABRg",
+               "width" : 1382
+            }
+         ],
+         "place_id" : "ChIJbfB8lJRfLxMRmj5jRg8_y00",
+         "rating" : 4.5,
+         "reference" : "CnRiAAAAd75GGrLwwhsH1d-rHIL7Ei-VqNFVvvXGYT2zMdoNVfBMoJCBJiPoeIXksiZ2fYN2GOuXGuQW6KiZR5vrD145UrkSVt3JAsyHQdFPsAHIiT20xuW12iO519rxikTT16GpLVdwfLCKHmNREgd3Nsw31RIQx_E8LGsWm2M0sXt5EJlkbxoUBfFb4-Lc4xtvIYnMp3cRbAhWme8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 734, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9043781,
+               "lng" : 12.4265908
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f5b7ae86a01dbc74d0dac56f0dc08fbc4aae69b0",
+         "name" : "Hotel Club House",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104910939588062017252/photos\"\u003eАндрей Гордеев\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEfBjzyiBdULkG4cdBNr4Oci5L-cn2xS-ReJuVD3XvhOOh2wsg_2IHzDn_8UQBBv6FMgRbOXeeGotNYj0mvwr5h5Dp5R6oal3COcpMKJx7--2eYxrp-XioC6BbBpWeyilM01zE1Tiq9l_yPvfoSsgjyzi9qzKCSXEKS0zsOJ9HYhEhBwc85EXN_jEoheXnrKTc6eGhRZapQiAMf_XZmivYDFIa2kqRNgTg",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJmRp3qtpfLxMRFITS5ugn5zk",
+         "rating" : 3.2,
+         "reference" : "CnRjAAAAqee0Acddrs1pjpxFquqUKhNjLs3HCesIbkQOw3KZ0Cypi74rDwDiOMy0fkmHjVo3DvbsEjYGwEb68lc2VC_AKCo0Cf1yEyj3OWL9JEvSgakAdY7-7yuZkl7kuFRCiI_pGH8RhpIKEB7C6zIHz53fixIQGMEAJ23pk2c2u9K6ax1zIhoUH0D0wPEKqCLa0gO9FoZaKD7PMec",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Andrea Alciato, 14/16, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90317950000001,
+               "lng" : 12.4226622
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6b60999af67c995120ed8740307250943bdfddae",
+         "name" : "bed and breakfast Destinazione Roma",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116809628626461351050/photos\"\u003ebed and breakfast Destinazione Roma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAz_WuIqI-A1QxhKYw86xZegOdn-HrjG8SNkmYyk7TwlevE6r7KgVNJ5il1UUfOsb5iXN8_ci3YthEwLikpL-nZumXxCszorKhLjy4nBUGXmOFDE97Lzliu7m8BmDnchkAGVj_I6fUUuQpSgKk3jEWn5zyA_ddLwNTuUXJeQ2NpLEhCtCE6laWbH2THQ_Okc7ic2GhQ2i3fJOlMGmTB4hCN2asejoX3eug",
+               "width" : 478
+            }
+         ],
+         "place_id" : "ChIJGRmLucVfLxMRPfUbS7bq1OQ",
+         "reference" : "CoQBdwAAAOrMjMRmQg2iaoZH-WBExLVSvGtCLNXdQpMRaPBof-TXWbpnKDnPrn0XqNAFtHTrPYWgdVYUvS7B4HxndJEPNtiTa8oL23hgIjoGR7jVp6HRuZwctjVfzNSudTHZ36VEVgOeQPmYB3Xrfu1MfmRRT0un0is4-9s2WP6KeMJhAny0EhBYu4Ilmhr4QeacBr_BAUk1GhSMkcktK5XCkCfzD_fr5IKxQq_dhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 190, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.899534,
+               "lng" : 12.419475
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "548efd1d15f66d30aaece52e7ecc5e764f5ccd45",
+         "name" : "Hotel Marc'Aurelio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103774928215167294455/photos\"\u003eHotel Marc&#39;Aurelio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJnogr6TiqMuQiysdmZgZ5XtJrrjQcpJiUtNwQHJhXuHTjtpybyVaKOKNSqQHHyawbVrHUZBm0PyRauK0MGDCpQQbNsGCzBlH2yKtAzyiUYNcSqMY2kn_SJGVsVLC88SNLPu55D94ZCEAe6Egpw81o9o0yTfESDHI-GDfnaCTggbEhAz_LXlj1NieLdwg8t6JOmnGhRrH3bQyEF-cFuSqafGMCti55Hkzg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJewylOcFfLxMRE6Y0a5dSYyo",
+         "rating" : 3.3,
+         "reference" : "CnRlAAAAXkOC0DMVY6AqfqmHsZC0gNYyAD05yYMKAXz8wPIAIvK_YSlCL66XnUSGtlArh4Ic3H95Ixtz7Lc0vMkhyo8IWQYVjyJZVj2Fje8yHqpR9ODHWDlUtVMkyB52h-nwheCHrJhl8HKLpzaFYTcQ0lMR5BIQavGrqql7sywjs-A-1r_TwRoUTxEVKHQH16_N7fI9BWZgZJSp0SM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XI, 141, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8987005,
+               "lng" : 12.4206025
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "eac5f2de6df20a40e91c681ce86b8af49753f8d6",
+         "name" : "Parco Tirreno",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114211085085769201330/photos\"\u003eashraf Reda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEw8fDWv02WOx4fURPCKpUzSJCmWwjMSbqa3YTvASjoiJKLLLILATmMxfgO4VZ-6S4N-q3G8-u5pqDjwZ-TgMxm69aZ2lNQULsZlr1djkcM9sMedqemmvbEHJv0nGS3Hw2-ivHLieeb7K_uIm-Eg9aF-H44qrMaE-yFfjTpOyUsMEhB1Bw-rDmMQgW9FYe2I7Iy6GhRQLMhuK53HgeZIq5yaOL9PP4sr5A",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJ16FdxcFfLxMRax5G0UjU2ME",
+         "rating" : 3,
+         "reference" : "CnRhAAAAU0bsmYsP3WhW8Ur34UmhmZfmHWFC9kXUFNXS5I9HLUKL8IMyAXo-HNbwIyWju2GqcN0bLInnPCnpVAmxfGl6DtaCtPL604Z6MnGjiiPe4tK5Dx47426pnoes-SJ71TSdEYrL27RwTVriNBsRjGi5ZBIQn7G3snNr-yxIw6X_OVV-HRoUHPQ7hO8n3GJYLXIiNrjpBi2Jtck",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 480, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.893227,
+               "lng" : 12.420931
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "15a332d7d266cf68e866bfbdc915f4f7e6e9b7f4",
+         "name" : "Green Park Hotel Pamphili",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104110023494884864260/photos\"\u003eGreen Park Hotel Pamphili\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHRaLKDDPDtQBuIv0gUC3EVIkF7jQX4Hk6RMQM48CYgRa2JDY5RF4jH3qFrCIfz2R8xmtJOTmq-IYZJvWonxmfoGa1X_dUbziV0dVRK-PYli1KGwP_-PoEEyXeFN_rzDclRWPydFrWhubtyOmmSEIPAkCgWuyZuVCOk_PG7gX6RpEhDG1eqG9kiRYB5BG0d5vQVTGhQwO5gFJpW2_DmhYbX4o7tVhDoTjw",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJZwQ2SOpfLxMR0YZ0yfK2FF4",
+         "rating" : 3.8,
+         "reference" : "CnRsAAAArDuF1CPb3bBX-Z_pOezufDhlLOK6JKTKdJ408BKDCQczfRNlSAzOerVMp5BbAY_jb5oXjvUZ2chAPnR-4PiYNzvcbRLS7fy-7kA6byl3ebl4EWoCC9VPG9qfgLlo6-xMWIpPHNQJSsbCQLeCTb19qRIQZQNEBxEONfl7D0SzjnfDDRoUj0EEAgNrP7HZyHuTNaCLpp5WHAM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Largo Lorenzo Mossa, 4, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8994149,
+               "lng" : 12.4086229
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "59893789d3c83bde0759c7458811d19aa51ebcc9",
+         "name" : "Park Hotel Ginevra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103953661388041496773/photos\"\u003ePark Hotel Ginevra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJgwPgIUjARGbwCbTRpfyoqVCwuWZFayDJrXBAQXltMGqnDy7yZrSpXBkC6vG5ZpjuSzju0AuoidQr-irZp_LLD6bGlOBPDxChuI_FHJLbhFw_Ark24de942iMoMCLwr4R1lQj9Qn6RhSv3dWdA-AzPTMhn_BYIrU8O00mNQmGExEhBmPQfVQo2DyRq1rj2MAgOuGhTSeieI0RNgI12elmc3w9EZoQF_Bg",
+               "width" : 1357
+            }
+         ],
+         "place_id" : "ChIJJe94QrxfLxMRuQ7xyQ48WNE",
+         "rating" : 3.8,
+         "reference" : "CnRmAAAA2g_FvHQvIADaw5Ro3tx-CddLkQLFKN8ATupovQS7udA5-IyUEDvwanKLzwUcbTGIN8YMxEkr-vj4R-2uZqHaQpunQ2AXdPJRHU5leduH4uJwl5pTJo4JCrOcZNuvdO2JIsrjBYrMFAOjpraxnyTknhIQFYF34WSD5IlYvqiqI7emBBoUxScAqE5yxtu3xfv-dVk37_QfY4g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Giovanni Della Croce, 35, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90543390000001,
+               "lng" : 12.4215222
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f271c0a6e10470786ac4b7f5c612f00006a58896",
+         "name" : "La Casa di Nazareth",
+         "place_id" : "ChIJpRJlUM9fLxMRkIoH1sj4dis",
+         "rating" : 4.7,
+         "reference" : "CnRmAAAAzkG_ALyXI3Fbu4fsGEL-l5BD5sUU7TmChBVspqTgyrGP9X2JdstpkfZsMekTxc4EwWLVBevo8MMUIci9G1QRUvHJnbRz3E_lwRYVxFACgcSHQdv4w_gIzSeLq7lfarGy7GytFQWfrkcdD5rUc3fbCBIQHvy0j-sMd6wcd3aJbv9_FxoU5FQv4YsYfxhV4BMWSfoHabw1Rhg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Martino V, 25, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8961761,
+               "lng" : 12.4104114
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ec939748ca6a5908cea2d6609bb6e796ccd8e478",
+         "name" : "Hotel Bellambriana",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109495504532268978134/photos\"\u003eHotel Bellambriana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKPBY0M19ZfuV5WDQqgJ2w3VCrYWFtm-U_NCAc1JR7zF4Q9ij6gERmrH9X9xQ3bhchjgaZI0xegBM1_fh5EeDJJPpAW1UwZNd1ZKS17yDY20756ySpfK9GTKWtskNy8xPLWdjCONT7N19EK3w4-lmoLnbU4OP76K0x-Q4_HT1jY8EhDRXVQjTnYLQDRHk1bfPXakGhSyB557q1tqhE8yn1SPaYpVmH7yzg",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJFdYN-ZVfLxMRk4yRUcOZkQk",
+         "rating" : 3.7,
+         "reference" : "CnRlAAAAPhMJ7jCvvi8QE8kQXeyNKaR9csqztU_mVOgWe40xfzkTCS6-2D4OjQCrds2jAjTH507gfHS1hBhi-NZwEX9j6fLGh0dPcbl7hZKGs_eoZAcc-HSBWASRChO9YQS1lpGG-suE_DDoiUCk5akwYSR1JxIQjz3w45UFgMzzY9oynmNnTxoUEBPZ-X_ABAh6mjknvuogyIRoz1k",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Luca Passi, 6, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8913962,
+               "lng" : 12.4178017
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "11a287afc7cc046c97162497573784545fb6f5a4",
+         "name" : "Princess Hotel",
+         "photos" : [
+            {
+               "height" : 542,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115214704499973117214/photos\"\u003eHotel Princess\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGI5GKbgCSTT9ed1IV_01Uvv-FFPtDWXPHwO5O_FC9X4GXJRnW_hLqRx0Qn6Y8Tq4A-CO9L3NpwbV1VBZmnAr_HbVOLFSU8Id2T7m7ohLfMAXoY1kd1rRb6mlgVoP_eCYEIGOpOqqgpE6UAZaVDXLdq6Jrgp0nZRiKPGEDtij8xtEhA0gJrwNDHnzc7rIg9g-qFJGhRq415Jj3_X8L1WEaxJ3DDVLx-YsA",
+               "width" : 699
+            }
+         ],
+         "place_id" : "ChIJK2lSDetfLxMR4DTwX8iA3WQ",
+         "rating" : 2.9,
+         "reference" : "CnRhAAAA7iqJIKU_4RNCckJKRFBEuhEIIvY1Ovh9tB8ANVhdUNLoHv_W6_ubg3aiknYN21S1MSByr1RgIqPY8kTEnf0jEn1jVmem7-kQXY-tEPdndFl9_SlWozPAd1_pvlD1MAe9DsPR37xZYVeFDFUbSAK10RIQ0EVPkUu7gkG_YbbYkJUkYRoU65t_S_cOP0y5-6D9jNwQzpxx-rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Andrea Ferrara, 33, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90471780000001,
+               "lng" : 12.4186843
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "684a3dc8b86a3323f52c4f3415fa7501223db070",
+         "name" : "B&B Abeona Domus Roma",
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113022428495506350404/photos\"\u003eB&amp;B Abeona Domus Roma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFBDcochshwQ68ScUduwRO3uJjai6KZE-dfRUir8Y1jvSeYKSwJkK0ocPD_UOtFOQPLvjwMY7D94ftAtHnXjtq8jlW4cwQAEQHzx-mFOfoS6iETulQczDKiAEur1NJU9tYYmfXOa0cKcrYmv1ztCwtOvVAMlYNMC1vSfKwVIlfk0EhCHJx0COi8-Xg0Ikw1j8vwFGhTOTEIcOoC7bWDfQLlM9MMDOab8kw",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJvQKWJcZfLxMRDbSNt_hLM_k",
+         "reference" : "CnRpAAAAFBi7Exx6NNp6okNWSX83Q2n_7xEteFhO-qr2Lb_bdldWq1uKbqW8uYy4I_a-dQ_YNjk7FiFUM4FJ1m9EhFQLbdkOzJqZjJbj4V0eJC_AyZdOoAyNQJXjlladmMyUmXBwVPD_kRdyqtxCQYNrbLvfHhIQtJpBpqXu42pLsaljEKVlphoUBwlCRFaYF3eyOid7jcsRukiEEGU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XIII, 14, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9037015,
+               "lng" : 12.4180385
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c1d03211cf7733d6a853c3e0dc139810bc7f06be",
+         "name" : "Thousand Sunny",
+         "place_id" : "ChIJpe46TcZfLxMRMeUm2Iz1juA",
+         "rating" : 4,
+         "reference" : "CnRiAAAAy1XZeb743e4KlhjjMyrpfbf-ICbJY19FEBzM_6CB6c4YJzkxsbnoWghUgNEf3EdBLFpugmkgcbRyI029e10oKTWONgPcgVYX3iE5szOBpmSsZ2Me5YNeCZlP3Iu-M9Fi_v3rzhffjn6NG0WRQMCAvBIQpmXp0YwlvP2HAZ66iSMoKxoU45ZoG-Ivbr61lI-ks658NFoc7a0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 276, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89848060000001,
+               "lng" : 12.412236
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "736a2dc017f6d8835b16aa2f0ce794be49f27d00",
+         "name" : "Casa per Ferie Enrico De Ossò",
+         "photos" : [
+            {
+               "height" : 404,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103745740842264651616/photos\"\u003eCasa per Ferie Enrico De Ossò\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAN7kdWkpm5qV6N1SHK4IX2qw1xA-EOXlSH_b02lbHhTdMriQ8lCd77SigGTaFq9NKgJKDl8z1ZBFqpYZY_WvYlG3Ij43rc9YQxHmXDyY-GHwCDDMgEfX_Uat0qIYQkQqo2tIDg3fCqG8pVGQQseJkoFBzHmpYTwqxsIsfTUhZYS2EhC2giyeGxXhnu0Fy1FB5caaGhTSwpEEw1NT-2gGucMrMTRO6xMY4g",
+               "width" : 675
+            }
+         ],
+         "place_id" : "ChIJR-Axq79fLxMRYgtIm9ataac",
+         "reference" : "CoQBcgAAANthu4kWgYPuwu33RXcl8ZIMsPSznUt2APM_r8Nb-vel8exaGgn81LoOBybrt6Vnn1vt_Gm0ZkT_Mv7dvBfqNN6Me9oXzUU28vwKnTxl7A8HA0c6893OxsA2bqKNK6cpyBFtfffd2Ky1fOlaGqMJIN052xzr4TzdxD4doRnzbNG6EhC1VdWB7juoZIczRvQfFsn1GhRz1R78ZWycvBi7hddwfYzJBxII_w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Val Cannuta, 134, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8916349,
+               "lng" : 12.4137093
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "526f50f89f9b94c9cbbe10593e1e02ff5442c9fe",
+         "name" : "Consul",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102889595834913029190/photos\"\u003eAlessandro Turaccio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAB4shOxYVwBylYK8Zah73eQeplwYovp4Xzj0GdlWiRR85bKegi0PwcW2ut9EY57DlviJabsi6QWsXx2HSo-shaFo7yodZLoxC6RCzDT3Buegs6rWsJf2KzQl79lWn3uFPJtkMUPB6A9IflHwLxW9kun-vhI9BuEaXUAx1SCfhzUtEhC3U6f1PqpIRa6jwJ7MnLtnGhTZceN70rQ7Af86FKfSFaEAb43p0A",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJX4K-mZRfLxMRjclaWGdkIDc",
+         "rating" : 2.5,
+         "reference" : "CmRZAAAAfjHRWN5wXf8EqzadoBbMVmglHp9xX_K-AK-QJJFTTWTu4uwNd9yCLNK5teUxsV1rw99Mdfp8SzGZA-VUOuVDJimL625rqgI3X2ULjmlSIkJnVBsMlj4Cuhdb553ClW1eEhCpSczYePsciDiSZYcVqzKcGhSl_vbi6ixYHh4FHAufnLT62lnoSw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 727, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9264532,
+               "lng" : 12.4036729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9698864,
+                  "lng" : 12.4555334
+               },
+               "southwest" : {
+                  "lat" : 41.8984737,
+                  "lng" : 12.341707
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "ef6731443dd1903e4b0a71f1bb1e3529fbc2a75a",
+         "name" : "Municipio XIV",
+         "place_id" : "ChIJ3-REiIFgLxMRtG3doEqcKKk",
+         "reference" : "CoQBdwAAAI2y_sNJOqX_tynDjqQQzKepjLMChyEwnDs22CugWSGStn8BG9B6f1rrb-9GpSyiAkZJOoT3g2ZXPpqLLf_w0a6bSWtI2tQ0oVwLgHtyVvfNmGzcmObORZjwkr0-Zr2hXAbAi-qpIWzCFIuZJ4rCnognNlhqEJgy4hy2_vkQA1ykEhAheDz45lFOU-lsQ9RacEW0GhQ2g0DeGGvd6BDFjU7JOGHxyGzhZg",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Municipio XIV"
+      }
+   ],
+   "status" : "OK"
+}

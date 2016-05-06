@@ -1,0 +1,347 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQXN0b3JlIEx1ZG92aWNvIEFudG9uaW8sIDYsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQWxmb25zbyBEJ2F2YWxvcywgMjUsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8691704,
+               "lng" : 14.2733541
+            },
+            "southwest" : {
+               "lat" : 40.8597152,
+               "lng" : 14.2679357
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1797
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 429
+               },
+               "end_address" : "Via Alfonso D'avalos, 25, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8603749,
+                  "lng" : 14.2717247
+               },
+               "start_address" : "Via Astore Ludovico Antonio, 6, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8685684,
+                  "lng" : 14.2682046
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8687163,
+                        "lng" : 14.2688215
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Astore Ludovico Antonio\u003c/b\u003e toward \u003cb\u003eVia Ignazio Falconieri\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qcmxFgwavA]{B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8685684,
+                        "lng" : 14.2682046
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.8691551,
+                        "lng" : 14.2686737
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ignazio Falconieri\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "odmxFc{avAc@LQDA@OBOB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8687163,
+                        "lng" : 14.2688215
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8691704,
+                        "lng" : 14.268112
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Tommaso Costa\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ggmxFezavAAnB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8691551,
+                        "lng" : 14.2686737
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.8686414,
+                        "lng" : 14.267938
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCalata Capodichino\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "igmxFuvavA\\@B?J?DAt@`@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8691704,
+                        "lng" : 14.268112
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 405
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.8650385,
+                        "lng" : 14.2685622
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia SS. Giovanni e Paolo\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "_dmxFsuavAH@HAd@ITEZCxAA|AEv@GfDc@jEs@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8686414,
+                        "lng" : 14.267938
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654391,
+                        "lng" : 14.2691436
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Giovanni Gussone\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "omlxFoyavAPQaBaB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8650385,
+                        "lng" : 14.2685622
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 271
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "_plxFc}avA?A@??A?A?A?A?A?A?A|AWPENC`B[dAOv@OpBe@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654391,
+                        "lng" : 14.2691436
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kalxFwabvACWEiEE}DCyAHi@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631032,
+                        "lng" : 14.2698766
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 390
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 40.8597693,
+                        "lng" : 14.2733541
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Generale Francesco Pignatelli\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ualxF{rbvA@??A@??A@??A@A?A@A?A?A@A?A?A?A?A?AA??ALGZC|@I`DY~BS|BYpCU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.859861,
+                        "lng" : 14.2725351
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luigi la Vista\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qlkxFmwbvAF~A@p@?DA@A@E@QB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8597693,
+                        "lng" : 14.2733541
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8604225,
+                        "lng" : 14.2724572
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Ferrante Loffredo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cmkxFkrbvAoBN"
+                     },
+                     "start_location" : {
+                        "lat" : 40.859861,
+                        "lng" : 14.2725351
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.8603749,
+                        "lng" : 14.2717247
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Alfonso D'avalos\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "spkxF{qbvADzBBV"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8604225,
+                        "lng" : 14.2724572
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qcmxFgwavA]{Bc@LSF_@FAnB\\@B?J?z@^R?z@OtBEtCMfDc@jEs@PQaBaB?A@C?E?C`F}@|B_@pBe@CWKgKCyAHi@@??A@ABEBG?GACLGxAM`Hm@nGo@HpCAFGBaCRHrC"
+         },
+         "summary" : "Via Generale Francesco Pignatelli",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

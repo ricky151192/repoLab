@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDb3JzbyBkaSBQb3J0YSBUaWNpbmVzZSwgMzksIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9QaWF6emEgU2FudCdBbGVzc2FuZHJvLCAzLCAyMDEyMyBNaWxhbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4607018,
+               "lng" : 9.186389799999999
+            },
+            "southwest" : {
+               "lat" : 45.4566123,
+               "lng" : 9.1807155
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 820
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 175
+               },
+               "end_address" : "Piazza Sant'Alessandro, 3, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4607018,
+                  "lng" : 9.1863452
+               },
+               "start_address" : "Corso di Porta Ticinese, 39, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4574504,
+                  "lng" : 9.1807155
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "17 m",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 45.45738679999999,
+                        "lng" : 9.1809168
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Edmondo de Amicis\u003c/b\u003e toward \u003cb\u003eCorso di Porta Ticinese\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "almtGob`w@Jg@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4574504,
+                        "lng" : 9.1807155
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 279
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 45.4566123,
+                        "lng" : 9.1843124
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Molino delle Armi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ukmtGwc`w@l@cE?Ed@eDBIHo@XmB^mC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.45738679999999,
+                        "lng" : 9.1809168
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 248
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 45.4587773,
+                        "lng" : 9.1846379
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Chiusa\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yfmtG}x`w@_@KWGUCg@?iBDyABaAAu@q@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4566123,
+                        "lng" : 9.1843124
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 213
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 45.4601392,
+                        "lng" : 9.186389799999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Olmetto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ktmtG_{`w@c@[IIsAkAiBaBc@iC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4587773,
+                        "lng" : 9.1846379
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607018,
+                        "lng" : 9.1863452
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Amedei\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{|mtG}eaw@oBF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4601392,
+                        "lng" : 9.186389799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "almtGob`w@x@kFd@kDfAuHw@S}@CcEHaAAu@q@m@e@}DmDc@iCoBF"
+         },
+         "summary" : "Via Molino delle Armi, Via della Chiusa and Via Olmetto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

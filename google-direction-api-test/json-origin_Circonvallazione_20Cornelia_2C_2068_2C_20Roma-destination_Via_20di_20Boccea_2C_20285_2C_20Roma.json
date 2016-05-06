@@ -1,0 +1,109 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDaXJjb252YWxsYXppb25lIENvcm5lbGlhLCA2OCwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiZWaWEgZGkgQm9jY2VhLCAyODUsIDAwMTY3IFJvbWEsIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9036193,
+               "lng" : 12.4265627
+            },
+            "southwest" : {
+               "lat" : 41.900644,
+               "lng" : 12.4175476
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 875
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 213
+               },
+               "end_address" : "Via di Boccea, 285, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.903573,
+                  "lng" : 12.4175476
+               },
+               "start_address" : "Circonvallazione Cornelia, 68, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.900644,
+                  "lng" : 12.4265627
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e toward \u003cb\u003eVia Taddeo da Sessa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_vv~F_azjA{@TOVQd@{@^_A`@g@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900644,
+                        "lng" : 12.4265627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 711
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 167
+                     },
+                     "end_location" : {
+                        "lat" : 41.903573,
+                        "lng" : 12.4175476
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~v~Fs{yjAGPe@rACJOb@Qh@i@lCYrACLCLa@bCe@tCEPAHk@`C[zDMxCC`ACl@An@Al@HbE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_vv~F_azjA{@TOVQd@{@^gBv@m@dBSn@Qh@i@lC]`Be@pCk@fDm@jC[zDMxCGnBC|AHbE"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

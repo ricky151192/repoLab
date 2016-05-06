@@ -1,0 +1,395 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJswx30JRfLxMRObM82OC53W4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3-REiIFgLxMRtG3doEqcKKk",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9268037,
+               "lng" : 12.4144751
+            },
+            "southwest" : {
+               "lat" : 41.8840928,
+               "lng" : 12.3812063
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "9.0 km",
+                  "value" : 9042
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 695
+               },
+               "end_address" : "Municipio XIV, Rome, Italy",
+               "end_location" : {
+                  "lat" : 41.926473,
+                  "lng" : 12.4036646
+               },
+               "start_address" : "Via Aurelia, 702, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8929679,
+                  "lng" : 12.4144751
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.8921064,
+                        "lng" : 12.4136264
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e toward \u003cb\u003eVia Michele Pironti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "afu~FouwjAFHrAzAnAbA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8929679,
+                        "lng" : 12.4144751
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "9 m",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 41.8920691,
+                        "lng" : 12.4137179
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u`u~FepwjAFQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8921064,
+                        "lng" : 12.4136264
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1205
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 41.8863874,
+                        "lng" : 12.4019446
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m`u~FwpwjAjBfAp@b@`An@XTPNHHXXFHXXNTDFJPJPLZL\\Pn@J^Fb@BPDVFt@Fp@FdAJ~@Df@Df@DXBN@H@FBFBJHVf@|AHVH\\Lh@BNPdALp@TnA\\fBLp@N|@Jh@FZDLFXFNDPL\\N\\HTT`@b@v@pC`FXj@NZJTTj@JXDNPd@?B"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8920691,
+                        "lng" : 12.4137179
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 41.8857306,
+                        "lng" : 12.4002396
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "}|s~FcgujAlAfEXdAZdA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8863874,
+                        "lng" : 12.4019446
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1532
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 41.8853835,
+                        "lng" : 12.38335
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "yxs~Fo|tjAzAlFPj@n@|BVx@f@hBL`@H^Ld@Hf@H\\BNBRDXD`@DZDd@B^Bf@B^@h@@n@?l@Af@?V?TA^CZI|@I~@Gh@Ip@Kl@Kh@SdAOd@k@hBENg@zA_@hAw@zBGTc@rAq@nBUr@]dAK\\ETMv@Gl@AXCf@Ad@A\\@f@Bp@BVD^Fj@HXNj@Lb@j@~AdBvEJT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8857306,
+                        "lng" : 12.4002396
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 591
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 41.8898719,
+                        "lng" : 12.3812063
+                     },
+                     "html_instructions" : "Take the ramp to \u003cb\u003eCassia\u003c/b\u003e/\u003cb\u003eFirenze\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "svs~F}rqjA?B?FFj@?`@?RCPI\\INKPWZeAp@w@b@a@Tu@XoAXaAN_AFkAAG?G@OHgBAkBCq@AG?E@MFWJ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8853835,
+                        "lng" : 12.38335
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.4 km",
+                        "value" : 2382
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 41.9110084,
+                        "lng" : 12.3853916
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eA90\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "urt~FqeqjAi@AWAYASAK?KAI?[C]AyBIu@CoCIoCIqGM_ACyBK{@K{BW}AYoFoAoFwAmAYQEiBg@aDy@mBa@gAScAQ_@EE?uC[aAKEA[COAgQqBA?]EUCIAaKiAiAMSC{AOwDa@SA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8898719,
+                        "lng" : 12.3812063
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 418
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 41.9142215,
+                        "lng" : 12.387219
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eCasalotti\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "yvx~Fu_rjAKMEEMEUC]GSGOEi@Ui@Yk@c@a@_@c@e@eA_AwBqBk@g@GEMBKBIBSJGHGHIR"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9110084,
+                        "lng" : 12.3853916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.9143404,
+                        "lng" : 12.3867707
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "{jy~FckrjAQ~@EX"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9142215,
+                        "lng" : 12.387219
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 842
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 41.9187234,
+                        "lng" : 12.3942187
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia del Quartaccio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sky~FihrjAGQGUQc@_@}@IWO_@]g@IMg@c@m@UkA]w@k@qA}Bi@s@o@k@OKwA{@aAw@GIy@_AEICQS}AEi@Ac@Aw@Gq@_@_De@{E"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9143404,
+                        "lng" : 12.3867707
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1340
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 41.9246087,
+                        "lng" : 12.4065303
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Andersen\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_gz~F{vsjA[QWGe@Cc@A]E_@KWMOKKMKUG[Gi@C[?GHaAFEDIDIBIBK@K?K?KAMCICKEIEGGGGEIEg@y@ESIWCGKa@Oe@Oc@KWGMQQoJyH][YWSWMSKWOa@S{@sAuFa@{Cm@uFe@gDi@aEMgA@I?G?GEY?I?I?Q@MBIDU"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9187234,
+                        "lng" : 12.3942187
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 41.9261832,
+                        "lng" : 12.4059363
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Valle dei Fontanili\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yk{~FycvjAm@\\_@HcBn@_@LKBMBK@O?Q@O@O@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9246087,
+                        "lng" : 12.4065303
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.9268037,
+                        "lng" : 12.4050913
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Torresina\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "su{~Fc`vjAY\\s@`AW^EHGHCJCH"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9261832,
+                        "lng" : 12.4059363
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.926473,
+                        "lng" : 12.4036646
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Felizzano\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oy{~FyzujA`A|G"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9268037,
+                        "lng" : 12.4050913
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "afu~FouwjAzAdBnAbAFQ|CjBzAdA|@|@z@hAXl@^lA\\lBb@lFTxBJd@dAjDbCxM`@lBj@|A^v@tDxGh@fA`@`Ab@rA~E`Q`ClIn@nCVzATbCJ`DAbCEz@S|BQzAWvAc@jBq@xBgCvHiC|HQr@UdBIdCDxAHv@PdA\\nA|CpIFr@?t@Mn@U`@WZeAp@yAx@u@XoAXaCVsAAWJmGGSHWJi@Aq@C_@AoAGoMa@qIQuDW{BW}AY_NgDkJaCuDu@cBWcFi@uRwB_MuAqJcASAKMSKs@Kc@MsAo@mAcAmG_GGEMBUF[TQ\\WxAOg@kAyCg@u@g@c@m@UkA]w@k@qA}Bi@s@_Aw@wA{@aAw@aAiAI[YgCC{Ag@qEe@{E[QWGe@CaAGw@Y[YSq@KeAHiALOHSDW?WEWIUMOQKg@y@ESM_@[gA[{@Y_@mKuIm@o@Yk@c@}AsAuFa@{CsA}Kw@iG@QEu@@_@H_@m@\\_@HcC|@u@Ha@BO@Y\\kA`BMRGT`A|G"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia and A90",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

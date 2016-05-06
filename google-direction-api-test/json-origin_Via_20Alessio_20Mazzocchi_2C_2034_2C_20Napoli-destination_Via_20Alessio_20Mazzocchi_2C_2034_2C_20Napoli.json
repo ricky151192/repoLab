@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgQWxlc3NpbyBNYXp6b2NjaGksIDM0LCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgQWxlc3NpbyBNYXp6b2NjaGksIDM0LCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8630425,
+               "lng" : 14.268313
+            },
+            "southwest" : {
+               "lat" : 40.8630425,
+               "lng" : 14.268313
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Alessio Mazzocchi, 34, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8630425,
+                  "lng" : 14.268313
+               },
+               "start_address" : "Via Alessio Mazzocchi, 34, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8630425,
+                  "lng" : 14.268313
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8630425,
+                        "lng" : 14.268313
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_alxF}wavA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8630425,
+                        "lng" : 14.268313
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_alxF}wavA"
+         },
+         "summary" : "Via Alessio Mazzocchi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

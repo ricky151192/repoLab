@@ -1,0 +1,203 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn2TKfDdtiEcR5gp8axgR2Jk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ95OXtSVtiEcRP8PsPDAShvc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0564523,
+               "lng" : 7.668135999999999
+            },
+            "southwest" : {
+               "lat" : 45.0513082,
+               "lng" : 7.656699700000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 km",
+                  "value" : 1292
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 312
+               },
+               "end_address" : "Corso Duca degli Abruzzi, 94, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0543451,
+                  "lng" : 7.656699700000001
+               },
+               "start_address" : "Corso Filippo Turati, 39, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0513082,
+                  "lng" : 7.667473500000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 45.0518672,
+                        "lng" : 7.668135999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e toward \u003cb\u003eVia Achille Loria\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ua~qGupxm@oBeC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0513082,
+                        "lng" : 7.667473500000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.0533128,
+                        "lng" : 7.665567
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Ferdinando Magellano\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ee~qG{txm@Q`@Qf@{@~Ao@tAoC`G"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0518672,
+                        "lng" : 7.668135999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.05390389999999,
+                        "lng" : 7.6646281
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo Re Umberto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "en~qGydxm@U\\]\\y@nBGN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0533128,
+                        "lng" : 7.665567
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 541
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 45.0563509,
+                        "lng" : 7.6587074
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{q~qG}~wm@}BzEMh@Kj@wAbF_BfF{@xCIXsAlF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05390389999999,
+                        "lng" : 7.6646281
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544947,
+                        "lng" : 7.6570864
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ea_rG}yvm@Sp@fEpC~D~B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0563509,
+                        "lng" : 7.6587074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.0543451,
+                        "lng" : 7.656699700000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "qu~qGyovm@Ol@j@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544947,
+                        "lng" : 7.6570864
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ua~qGupxm@oBeCQ`@Qf@{@~A_EvIU\\]\\aA~B}BzEMh@Kj@wAbF{C`K}AfGSp@fEpC~D~BOl@j@^"
+         },
+         "summary" : "Via Sebastiano Caboto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

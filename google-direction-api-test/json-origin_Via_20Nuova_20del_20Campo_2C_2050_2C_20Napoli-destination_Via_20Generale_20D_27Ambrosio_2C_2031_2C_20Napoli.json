@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE_SOgwAIOxMRNdj7MNdy7ZA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAVExmgkIOxMRrMZ4r3RYI5M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8755311,
+               "lng" : 14.2845445
+            },
+            "southwest" : {
+               "lat" : 40.8680613,
+               "lng" : 14.2697366
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 km",
+                  "value" : 2645
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 422
+               },
+               "end_address" : "Via Generale D'Ambrosio, 31, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8683016,
+                  "lng" : 14.2697366
+               },
+               "start_address" : "Via Nuova del Campo, 50, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8683542,
+                  "lng" : 14.2827238
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 40.8694801,
+                        "lng" : 14.2844196
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova del Campo\u003c/b\u003e toward \u003cb\u003eCupa Lautrec\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ebmxF_rdvAMc@EMSk@GMGKc@u@U_@_@q@OWMQOOKIUO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8683542,
+                        "lng" : 14.2827238
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 842
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 40.8755311,
+                        "lng" : 14.2786868
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eViale Comandante Umberto Maddalena\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gimxFs|dvAq@SKCIHkAjAoArAmAjA}C`DCBA@?@KJKJKJ{H`IQR}B|BmBlBw@z@mAnA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8694801,
+                        "lng" : 14.2844196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1555
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 240
+                     },
+                     "end_location" : {
+                        "lat" : 40.8681502,
+                        "lng" : 14.270152
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Filippo Maria Briganti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aonxFyxcvAHPnErHFDFBF@vBNHDFDDBBDVXzCrDXZRXJTLVFVDN@L@T?`@ARANAJGb@Wr@?H?H?B?DBH@HBB@BBDBBHBD@B?B?BAFABCDCDEBIBIBOBWTuC@IBGDIFGFEDAD?F?D?D@H@XHHDB@DBDDDFDHBB@D?H?F?@?DCHCHEFCFEDEDGFCFEFAFAF?DAL?N@J@F@LNb@HVRb@T\\DHBD?D@J?FCPQbACP?D?D?B@DDPVb@VZFBF@J?f@C\\@LDJFDFDHDP@JANIz@CPCV@VBNBHDHDFLFN@LALGHGHQFYR]LMNCBA@?F?LDB?TJ@@LDDBVLPJv@d@PNLLPTRZHRDL"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8755311,
+                        "lng" : 14.2786868
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8683016,
+                        "lng" : 14.2697366
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Generale D'Ambrosio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}`mxFmcbvAFRHh@o@R"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8681502,
+                        "lng" : 14.270152
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ebmxF_rdvASq@[y@aBsC]i@[YUOq@SKCIH{C~CkFlFQRwUdVxEdINH~BPPJ|DvEl@t@Xl@Lf@Bb@At@CZGb@Wr@?RD\\LPNDF?TKHOFYXmDDQLQLGX@l@PTRHL@NCXS^W\\Eb@@ZBTXz@h@`AHN@PCXUtA@TDPVb@^^R@dAAXLJPF\\KjAGh@Df@HRRN\\?VOPk@`@k@\\E|@\\h@Xv@d@PN^b@\\n@L`@Hh@o@R"
+         },
+         "summary" : "Viale Comandante Umberto Maddalena and Via Filippo Maria Briganti",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

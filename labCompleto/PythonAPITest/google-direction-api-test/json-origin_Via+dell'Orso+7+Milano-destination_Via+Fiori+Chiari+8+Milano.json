@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-fDVlLLGhkcRKYz7FujlWns",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEbklWLPGhkcRujjxIeGti7A",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4723183,
+               "lng" : 9.1882506
+            },
+            "southwest" : {
+               "lat" : 45.4690786,
+               "lng" : 9.186876999999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 465
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 171
+               },
+               "end_address" : "Via Fiori Chiari, 8, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4723183,
+                  "lng" : 9.1875511
+               },
+               "start_address" : "Via dell'Orso, 7, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4690786,
+                  "lng" : 9.186876999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 108
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia dell'Orso\u003c/b\u003e toward \u003cb\u003eVia Ciovasso\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wtotG_iaw@?KG}AKgD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4690786,
+                        "lng" : 9.186876999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 45.4723183,
+                        "lng" : 9.1875511
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Brera\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuotGqqaw@}CbA_Cn@qAJO@KAMCy@MS@g@BcBV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wtotG_iaw@GiBKgD}CbA_Cn@qAJ[?gAQ{@DcBV"
+         },
+         "summary" : "Via Brera",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

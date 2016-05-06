@@ -1,0 +1,154 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT-Bf0KvGhkcRFPMz1mO0Vf0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhY1Tf6bGhkcRnIBuieQjzG4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4619122,
+               "lng" : 9.197508400000002
+            },
+            "southwest" : {
+               "lat" : 45.4560254,
+               "lng" : 9.1873985
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1652
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 297
+               },
+               "end_address" : "Via Francesco Sforza, 12, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4619122,
+                  "lng" : 9.197508400000002
+               },
+               "start_address" : "Piazza Giuseppe Missori, 4, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4610512,
+                  "lng" : 9.187999700000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 45.460489,
+                        "lng" : 9.188283799999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003ePiazza Giuseppe Missori\u003c/b\u003e toward \u003cb\u003eVia Zebedia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qbntG_paw@LEXOd@O`@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610512,
+                        "lng" : 9.187999700000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 502
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 139
+                     },
+                     "end_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "html_instructions" : "\u003cb\u003ePiazza Giuseppe Missori\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCorso Italia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "a_ntGwqaw@z@TdBZd@Bb@HdDn@`@DH@lBN|@HlAH`CDv@HHB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.460489,
+                        "lng" : 9.188283799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 507
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Santa Sofia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ecmtGglaw@?u@Ec@EYI_@Qo@EKg@mBu@sCa@_BU{@Kg@Iw@OgB]iEGo@Cc@?UEMESYc@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4560254,
+                        "lng" : 9.1873985
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 577
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 45.4619122,
+                        "lng" : 9.197508400000002
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Francesco Sforza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "_mmtGwqbw@k@s@m@m@kBcBOOiAeAmBcBeB_Bg@e@y@u@k@i@QOeD{Cc@c@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qbntG_paw@f@UfAa@z@TdBZhALfEt@vBPjCR`CDv@HHB?u@K}@iAiEwAsFa@cB_AyKCy@Ka@eAwAyCqCmHyG_DuCiE_E"
+         },
+         "summary" : "Corso Italia, Via Santa Sofia and Via Francesco Sforza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,458 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-AAAAHxzzlorbdTsJwyqvSy1SkeM3PUlpoWjm53Jae9HCp3-j_EPWKu2tLf07mQnAag1tf3eci8CvERNa-OOh0HPlCD4e1AISaxXh9P0sW3Z8T2QJhFDbX8V1wpDvtIvHDuGo5blABdujtX6tiPGBbJCOy6U8RdpjQlaka4YLs7xUl0xqLWrtyuqCdykpbE8IUgueZNqAZi2pEZlKDYh0Osw1Fi0-f7jdyKDSEGGET-g7SYHoqe5xIGdCn1mgnMD4ZThtBa66xHhcDxuFg6jU69L7HaS3zf1p4oXPUXFEXsahEUcZ5t1NEMXkE1NrIDSnn3acAXRKYAl86a4MUWoRd_vD30SEAKXx0K7MklXu66BG66t2r4aFETw611Ud8YOYGzIh2Y4TmP1GsD1",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8999259,
+               "lng" : 12.4278988
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cc2571a358454872186aecfffa71593402669395",
+         "name" : "Joseph",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104337675016077553985/photos\"\u003eDonato Massaro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAA2J_E7XkxL1VHspHCXxlR8VocitHV97PpbXFnSivLNE7ZBQc9Zc69F0jlNadE3pMx8tD9wBUuD8KcH1a1mJb8GyhXhQvdTEbU0HoLSaNHWhoX9bd6rCUh8Hf4RdHff2MZLwMNu6koyXKlA7_AY9RoLtjcfT11TjKwR63aE7MNBrEhCoPtSbCXxYJJ7CVxTfkRs9GhQHhI6vyeIgLnGGwMJNYCxk6agDHw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJUVzTZ9tfLxMRMLYTl9ga6Q0",
+         "rating" : 4.2,
+         "reference" : "CmRZAAAA0E5HcB469Peml3UnbkciMkxojSwlDao5aF5IWFQuy7uXjkdC0zNqjIB46RqotwfXDh-UMQCCEUFvuv0p11ltwm6KEdi3c53I4mjJ7u4RAU0T4UoqNZwiHWQbgsQGpAwVEhCw1nrDAfqAgUqWhVOcyiMmGhTNY_E_5c9qVcq19WmvvgK0smtWFg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Accursio, 12, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.894428,
+               "lng" : 12.416129
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b084d1dd9080df69a6dc437943b4d0615de8e761",
+         "name" : "Bar Ristorante Benedetto",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103703919692823658875/photos\"\u003eSedat Yanturalı\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAF5sQDZzq7zpyaE7eASG1K1jMVdAvgS187kdFbCSDuq0LRop2qXL_1SvycddJHpEv5jFQj_696HMb38-G22nnRMCzS2K2ZybOIFIukd63q68WWBm3QHFnILvMk1-Ot7H_KOjhKsfnuiyWr9lLtkIAzpqP0jUcnrqVgf-iZ-j-_6SEhDxPwL1A_P4jHEBT-SsIQDbGhT0ISGrlPy8XH-Acm_FEnUubzvATA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ04rq7elfLxMROEvX7n6c6VQ",
+         "rating" : 4.1,
+         "reference" : "CnRrAAAAlw73NyNKVpuWDDZ92-gVutUXfQ_1Wcr7ZXJSOF6hyk7tCDZVLbtpjXmBTzvIJqsi7FM85gt7dVuq_CJ4ystZf8ZqjL6KeiOBZGDH0FPCPY2evN1EZGLX5nW3wWLkBVZO53wsmG8uH-PYGjmW6ZgktxIQNor-0TiJWGeo3rAR9FKhXhoUTM2EGW23f_pFgunDK4TMhew0jBw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 666, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9003025,
+               "lng" : 12.416272
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "48038a50744121bdb434b35cf02a8ad6b83364fc",
+         "name" : "I Fraschettari",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 537,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105724713851851907935/photos\"\u003eI Fraschettari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAArHeGBa-SypbvlJq4Vs6Qi9dzDxyxpBkvjODWkdakmSk68Hvu_gfBudpIBSWbgJ_wiBx60fz5FjYd819GyYvGP4ze71rbUlOiS0hkyhB5MEAFxz4oUbg70G4YE3fzc8RqGUrK0qiYgZp9SXERZsvBRst22oGr3MhtMo1APY5Ue5EhA3teGmLfvm36iRfUumGZtCGhS8LzV6-Vnbzk9DO4o7BYsQY22dNA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJm8GxtsBfLxMRZ4OTUxPV19I",
+         "rating" : 4.1,
+         "reference" : "CnRiAAAArjj4TCY9QuJ6ifIYEgnKp5GXe_l8f4nmsKThdQ-whRmKkUjiIBOLSlWQHcjKF9Og8ZgR9_GWnAYLAZ1jvLqMrtlsI2DWRLnDnNaAV9E9iRLvJPET83RaOrdxu5y3x_qvS5YVm2TF4ZB2QVNG9f8hNRIQwrhWZnKJorf5vQ_eRM35JRoU9K-LTmaFoLlf3W9SZIcboXUs_jk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "park",
+            "food",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Fulvio Maroi, 64, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9010139,
+               "lng" : 12.4262136
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "52431a2ec0db9e775bd9183e627e826778cb1e61",
+         "name" : "Caffe' Cornelia Cornelia Srl",
+         "place_id" : "ChIJyRxcycRfLxMRmCxg2nHA4t8",
+         "reference" : "CnRwAAAApNEIpjMOs6teTOtbq9DU5uFVceZgjjTAGYFR3dPRbMQP9H--vVKQDWsOzPKJ1zz5klNjLmvZCSl33npQ7YBQmI9302NT_rGrmEd3FoPjX9KWlz78PFBnUxixNIhcM8HLpqRwPIcKQV8jfvdYqt1aFxIQ6rbgWBvZekRO95FU2FSlKBoUCPZHjbVWfcrXxkG5u2Dq4ZELth8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Circonvallazione Cornelia, 68, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.902646,
+               "lng" : 12.423137
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e1fed90cbcb50a737f388f10de07155e7a788e5b",
+         "name" : "Castroni",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ134_rsVfLxMRUkDzwDPsrmM",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAVP-2d8cFpAax2Obd7hnQy6sjXTgijkbqUM5cPAvwkbT26EdbZjJRceeJpyd9GpsSQGKMsqzLkfr70XR5axA-3490mZeUunYnhkaqnXykxZVaUNwFd-lrr_Wkv1KkjSq-EhBeTNzC8A4eorHJFOwugAIFGhT15hHnsC6ksZHOvRnAw7q9qlxuTA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via di Boccea, 173, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89620399999999,
+               "lng" : 12.4108869
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b88980a047b934598902c8cfb6224099d9ef71df",
+         "name" : "Ristobar Sunseri",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwZpoHb5fLxMRwF8qNwNETrw",
+         "reference" : "CnRkAAAAqsHKWBC3rf1Xqoh0TAd9Cds6-TIT0RwzKSnY4FNcuLZUTf3zLSazIex0x86RxjTpSYlbM62l2sbRp9oI2WiysdBfsbSeCBWtofdWoLR9l1Sm2c_1gF7S6CF7mO38k12aLuvsFw1ifP1Ah1PulQZXnBIQwK2YQX-C4p94M12v0NaogxoUDYBY3EqbHQZYroxn3VwrTxpNWKM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "restaurant",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Passi Luca, 24, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9043091,
+               "lng" : 12.418076
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5867d679b53ef969bb5cf3805c6a7b3c8c277823",
+         "name" : "FUMO E CAFFÉ DI Sergio Galdelli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117754912402652974302/photos\"\u003eFUMO E CAFFÉ DI Sergio Galdelli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKVt9nR2cET4pEPpGznlGIcqabD7wZFOArW4sGp0EH1W-RYS-r2wFdUXlBN3TBoBJVI6yD6FwvZAbkk3jdrUA54HYrpwbyl8KDrqppZebDNlpRA4m7CsuURTetOo47pLm7v0ZkCpgnE7eWHTQmtURZ54_6DNMI13YSMuOBxqz9RcEhB7M_O0dvBjg7QhWe1cldqHGhS5NN9oYbLp4uMENKGp1He0sOfKFA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJUbPWNcZfLxMRfKzRbECCCIs",
+         "reference" : "CoQBdAAAAEICZUa5sOxtiQU47qFDYewzhaKm2MCwgSSmO1bfDIyz5ow6WKhWSmxDOdS1xJ8yOt7heVN1o_cW5LZLlvxsi40pzho4MT_0lYyZrpSCm9KL-wzwvvQUF2SMufgS0bplkZHE2iSVb1iEzIPEMgkzuPvKYcXgRRzBLrzy1Kh8ripHEhDdSFKtyAw5Jbl0OzCBbhpvGhRdeCrC9aXj12LAkZVYNU0Wt7EMPA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Bonifazi Ennio, 8, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89985120000001,
+               "lng" : 12.4144863
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f225818788711878907c0ce794c666f043493ab2",
+         "name" : "My Life",
+         "place_id" : "ChIJT7a-XL9fLxMRBK63temdP2Q",
+         "reference" : "CmRaAAAAQNEFqJrzXkMVF7aGHSGWLH_uiZDJ05kGRTL5uQ_hapvM0vUtppRroEVkoanMapr9HFec3_FBpAfKStOsObiOecfcL82JpX5uPWQ2WwJvJiLNGX_y6rVBUcbNrVYa7cSTEhD3hdHSHdD1NRSUn9LmhFrMGhS0QXLSxPiUf8w4ZNTZS1IaW2RZZA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Val Cannuta, 113, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.898062,
+               "lng" : 12.428083
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ea25d254810697b76334eed3cffcdb41e9cf2a9e",
+         "name" : "Ferro e Ghisa - Ristorante",
+         "photos" : [
+            {
+               "height" : 727,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108249631283508480912/photos\"\u003eFerro e Ghisa - Ristorante\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAN7o5yGrWqDX6LddHtHyX9kStpi-swGd1R4Wj97IUqpYnIBon_ckFrSVN5gqaO1y3y_XT_QXHHn_brXLcIGamhnuDOCgKTuIyfL7_Z7G6nAlGz8NX4hA97wOSzke9oXdTMwjydZlG7dWI76kt7H75Zf-L580oaTR_rVzpIIuZvVIEhA1qOet1BbJMBbkBqh7actyGhSPT4PDRgHB05smR-EXEAq93nsjmQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJM83T6txfLxMRNkfyMVfQUvs",
+         "rating" : 4.2,
+         "reference" : "CnRuAAAA55BBJSa-_WNvhsocmpvmWDwhW42yXaEAUPY99YY_WmTedDEOxlKyAwjCH4UJ-WGFcUUUOgt8mwG8AePCaq8dfdhx21e-p8a6n97mOoqBPAGFwOgLIV7E3YJULXB_GxzSku5ZnO4y513cXXdjV5qfTxIQHvER-eFwRtzFehbFKc0AfxoU6-BO4LjjxUNKv-LVtz_hihZnJGY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Circonvallazione Aurelia, 11, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90176900000001,
+               "lng" : 12.4266235
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9a8687d703b3886afd34c6c15bf9cf8d8cddf1c1",
+         "name" : "Enoteca Costantini",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDXBtR8VfLxMRYy93Q6j3y5s",
+         "reference" : "CnRmAAAA_zbrqo0dX1F_rzaEdpjEuHPFQJfzgqzDsiUH_HYHq6zw6rYLhUhwXxUdvw1sdsNBvXHBM5miFAp7zJHWk4UlqFJNlJnTOMwsn5HCwYnlbfc3GJw4e7QKYCDL8pLNVQABD-Bn5Hw9Y50SVp2d2aX31BIQdeTOM03u4yd_uOBlMyVerhoUIB_CrREumPI4uJ2ei7q7k-A3W-g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "store",
+            "food",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Domenico Tardini, 3, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8965382,
+               "lng" : 12.4202089
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dabda95c28ec05de9829971cb30d107958b8b434",
+         "name" : "Osteria Romana",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118318833996667181089/photos\"\u003eOsteria Romana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEaZ59O9g4Zm0IqFlDXV01fBKzuuqsAMm6oh9RJeo_fm76gricABBPsEeN1v3DsO8XkzrdZ882BXi29uHh6lE_q7geQrpEawcS5oFq25wNtm_DLkf0smvDcbSgpovowgRU58tnBscwL21fo66N_tL0F3CozDutmTreCz390GU7SLEhDoFZvTGes_jxr9HlsY_2cIGhRZ2owxheNLD1OCDH9vuA4qlzZFdg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJxlOjcFfLxMRZ-xpRQXXRho",
+         "rating" : 3.9,
+         "reference" : "CnRhAAAAG6Y4dH7EdepDSk1fKFcXv0Vev4zc2HVyETRiBvr41Q_ncUPn2KHgijQV6gQ_jcxjJ4gUANviJixSqI_CM-0aJ9TzqbUTCrW0YQOVC-tGTov59_4Z8NVsV31tn0pUsNaCIwbmYvkzGMNfJm2dL_4rhRIQgnJ69Pt-mpeY0N3OcD_9zRoUbpwunuvfKp3ai1OhsQp6K5wffvs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 553, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8993115,
+               "lng" : 12.4268937
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b229b67f75046cee3f23aa4a3885531bcb11705c",
+         "name" : "Caffè & Cappuccino",
+         "place_id" : "ChIJhd5zqdxfLxMR_-aefzEas7c",
+         "reference" : "CnRnAAAAKcdB-BoafTww4EPc0c8GlpRR_Y-E1rlIChkZh9fNYfSEI9ik7H7hQbSMQInu5WBJ47oL3Lu9tKyvsWTsbWADKdkoYiR-i21UuvdV4BtcJBohTLrJdz42OX8pCzlspv2dRYvNQ3Z6cNl4_B0vQuOBsRIQy_bmBP5Xo7FdcXVn6qaUkhoUDK1tSiWI5ByJBHvAWL7WPM1sfh4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Circonvallazione Cornelia, 13, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9025935,
+               "lng" : 12.4133528
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2edbffaae97efd79d04786264f32468b82521f6a",
+         "name" : "Bar Mario Di Romeo Massimo",
+         "place_id" : "ChIJcUiD6bhfLxMRjqzy-Rq0qMg",
+         "reference" : "CnRuAAAAypqNE16NIzSSgVfYFVlxt_Yt4MiKAZcqbSCjJAkB7pgYFUYPweYWhFSmeIZrb77hurOZHzOK2-8sPKaM_lqzdhxeQZAJaIWUaP-3DAH1sfXpjkrqg1tVCT0sWQsU7iL699WVFl0tgbPEyV0jIAkcvxIQ-wg6pRquJvLeeCVOzoAg-hoU7iDu9TjOezxH-3WoiF75cIlWY0s",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Bra, 15, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90666849999999,
+               "lng" : 12.4148806
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b6af99b88964f1956c99eeb3261bc20de3e0e790",
+         "name" : "Valemar Srl",
+         "place_id" : "ChIJEZn-hbdfLxMRCdhUg2oZQ8U",
+         "reference" : "CmRfAAAAFdan8I7PuyAqmYhQBgS5T3sGLDn3I6OsBfQMOf1Sazx-YyfOBf_YTFtEBjE4H2bnL6JcfYZQk1ADoBknkcqEN6BfH3GFdAadWPm3yh2YrYb2Py_bPllEdj3cQ_gIU49pEhDVDaOAEfkxOFhbiwWzcJB2GhRgYd3xBlFnSI4REZqFAhP3g3apqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Mattia Battistini, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8979362,
+               "lng" : 12.4118109
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "323708bf9e96b5d33bab37770984a75cdfcdd9a5",
+         "name" : "Orta S.N.C. Di Tafanelli Andrea E Ortolani Domenico",
+         "place_id" : "ChIJR4y5EL5fLxMRgX_tPYcgUC4",
+         "reference" : "CpQBhwAAADiGc_astMV_Thz2-Bw8U2jhPe_udmRXp9XdgeaXbo0OC3JrmN05XvvFytcSMeJ2YMGe0lQNL5HHFMPmQwVsTtFyCTuQ_8Ja_kmbA2FFVxoAjrn4vL6aTpDwecqFLghd0cYvTUekr1lb39hvet4_YumpeNYOD3HaTy5Pyv2bnJWwiZBZwlsATKonG59a3k3BxRIQO5MsL2cPotCL2MERIj5g2hoURZ_wKxADuZsONG1MwOP1dSyubMc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Val Cannuta, 191, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90119989999999,
+               "lng" : 12.4206765
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e91f22eb71ca73fca8a85b956b7cf54177f68fa2",
+         "name" : "Visconti Felice",
+         "place_id" : "ChIJPw9uocZfLxMR3tu9o7p9DXU",
+         "reference" : "CnRiAAAAJxdPbQvRu0T47HhM0eiJGLHFAhNtaTD2EaLIehwooJHKHQYPn6foLwBYVMrUO-Dns1tLQGSuE6582912FR87XKBZ5DBpIiqY1tuDsNTNjdasDf9AUL5_ZJ4xyvikQXZZUtA9pzFRABPhkCxlgtPGvRIQJX9NUJygr5zlEeogAROWkBoUfgnJZd3MHnI3RpGDFWiqDhTeNSA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XI, 83/a, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90349,
+               "lng" : 12.41643
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "af922f2437290afda0b28b9bec7f25a99f8beb94",
+         "name" : "Caffetteria Santini S.A.S. Di M. Costa & C.",
+         "place_id" : "ChIJKzZ5osdfLxMRoOGUlZ1wGRw",
+         "reference" : "CoQBfgAAABabmQlCRCSzkmYEi02vQeAgh3cM0cnlFkryNRWhrwxVUKwjlT8TTR2-6JMLYbgVJGZ_or1YaaRpz468izF3M1NFp6z07r5neZFO8_Yu-9ueZFwNsrqlfI3dkDPsYf7GsT7Ev7SD-xA2qJ4s-XIQmYtmhqB0QDm43rQaki1lBJfQEhDLpnDulmNvkWr4KHbzJn09GhTerA91wTkMs3qr_AOI90oDHZZ_pQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 302, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90347149999999,
+               "lng" : 12.415638
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e089135f87195ffda8ce2a84da4bf4981bfdf08e",
+         "name" : "Vecchi Daniela",
+         "place_id" : "ChIJSZFyh7hfLxMRKW76sN-6Xkc",
+         "reference" : "CnRhAAAA2RFy9QXlL8fFbx8K1WkoUWhlsvBNOIIgg3Ir_eF8UNKrTcYR9Vtrbdc8JQPMbK3AkkP4grD7y4lroo1Bu_Qaq_2_fF4mW-ML_X595bkCbZdnG2qpXTDmDHOiW8liibp9oe3C0XIjut55YqKrD1Er_BIQVYGeg3egjBHgvhowa58DZhoUWNoCbySTjgmAAOcXQjjjjNVEz-U",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via di Boccea, 285, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.902631,
+               "lng" : 12.4216621
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "150e9cf1e7ee479060ddb67b0bcb8bbc1c6d5e2e",
+         "name" : "Milonga S.R.L.",
+         "place_id" : "ChIJZTR_0sVfLxMRqY_v0J05IqI",
+         "reference" : "CnRiAAAAmsnH691QnEB8wdPq8ls_sZYuR1redqvnuA8o7n-NgO7aamI9Jm1pUuTMsYscqd_mPbgWIxVrifrWJwFPqZ3vilB5mugBy9lmZAAJ6GCkgfJ-AVeGWEASYwXv75wcZW6Kmf19Q71-zlcV_Su-MigvoBIQGK14ekH5QG5eGOFlNla9mxoUksllXsR91DntsU3LhGWeQqIYwic",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XI, 11, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9026483,
+               "lng" : 12.4216757
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6dbd5708b32d4ece675e0fdbf3d9efb0a403447a",
+         "name" : "Bar De Nardo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-3CfzcVfLxMRiKWD3bL-9zE",
+         "reference" : "CmRfAAAApyLbpF1OlyIkYoKUt6ZK1YMjxX8Y_FaU7AX-8cduGuvdBLu8UTJiiwSf9h8ojW71DVVhGKXpyskQ49FSIz2DHKjjwlH-DsfMNrXtF3FfZBq2rRouMcf7YTpXjfW6yNgyEhDTVVgf5xvq0_b7TEYufoeCGhQp97H9prBDyoD9a0EdBoyn4DKRsg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XI, 11, Roma"
+      }
+   ],
+   "status" : "OK"
+}

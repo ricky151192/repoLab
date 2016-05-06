@@ -1,0 +1,559 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC_wAAAHfZuQAl5uOvmY3-0jEWcRgP3zpfIpg7BTh0JM6iphb5rc5MmiHKosLN9aPJBsLARQCYy0J5Z7ybpbqyBCywuJv2oaOsT-TEkB2hlXKSfwrIoE9HNzhyJ0f3r_PVMF-57oXKpBeYmgg628r2ieuN1_wvC458HzqFzJ1zREshw9x3V43L7CrL2izJAFq9WidOne9WuAgSCpKOHx-DNz8vptzjGpFU8MKRyugaK6KNtyLZSaqJJQefkxf29_QILnYncXjSLOXB2Eln8UTVABMYS4nOXB1_OmiexWCQZ_skcM82s8rtF0wG29GEQjACL-aDs5DYATzl2fDbMIwOkonkL04SEGarFruMcbmjlqyjWwYjskYaFG_AfYwLJ3rYZ0up1iU_YBl7j4c4",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4654219,
+               "lng" : 9.1859243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
+               },
+               "southwest" : {
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "5ab86c521807bb6e3f9e406280987e901b166bc8",
+         "name" : "Milan",
+         "place_id" : "ChIJ53USP0nBhkcRjQ50xhPN_zw",
+         "reference" : "CnRpAAAADJuHaN8iDoVBZaNMTDjI8k44WtEoj0-2yJyodpjaGFcrNqyP2AWFhiQ-uAOEyX4T_mXWuRvlU6WzHUunxQhKLpJ-rayCBx3Pd0sJaXsKoR6EWs9cadAZFW7ramLM2iR3QMS8kpOg88jibgkMdYFNPRIQj87vBvE9TQ80rCDRYrJGkxoUGM7BPcs-VIt7xoGnM6fL-Nxnk34",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Milan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4633289,
+               "lng" : 9.1884242
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c8be9e5485626c7c68a11beef6b4666efb7ccbc4",
+         "name" : "UNA Maison Milano",
+         "photos" : [
+            {
+               "height" : 899,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108017074624662683896/photos\"\u003eUNA Maison Milano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAK3RQHYIrikqPspsd0i2EJQYmqVx6QRzvF7uJxwkER7hzmyea2iXCDLzE4gKvNs5tbf4nx5QXxqLGqrf8p-e_XbY13cYAMmqss_zT07ad1BVGiPSa1Nq0ORNYtnZzKApmLrWXll_MOhP4Df4ZWDa9nEXSSj8AnvPPBzFPHk_ULYhEhD_n7U6AqZ18HgbhlvVmsnMGhRG3NrSEMt9-u6HD9IBlt4b7bCggA",
+               "width" : 1348
+            }
+         ],
+         "place_id" : "ChIJsZLxD6zGhkcRU1aNOMXF97E",
+         "rating" : 4.4,
+         "reference" : "CnRlAAAAT7AsyHPEQHfoUueQMrhmqqgqh_gEPi-sXiiAJp2uy7HJ_kGusrbV6THJKbdp2pDDNdR5xyX0W_GeeGNKhAV5klhRhdVemU4QLqP9y2L-ITx0GXqdr1KZNI43ZDqWrONkFisF6IrfJh-tQEZHzvqeUhIQGKcsB8ydGKFnF3aHsFuNGxoU7ViaPNEltIqqil9gzp3NkTVxtzM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giuseppe Mazzini, 4, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4654912,
+               "lng" : 9.1889612
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "40445f7e381795a4f83192d5b5493925656eef87",
+         "name" : "Park Hyatt Milan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 414,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113021524434458286904/photos\"\u003eDiscover Milan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAH3msS5dEgUVBSN4QI0cKIBLJvP2fPjlIZXyXedx3a52qQAFBLvNNh7e0YgaJLjDV7QbhO1TxHydWReVY1eIfuMJJMfxdjtHunJqYroKMudmDoESgF-OwrJQVnrq3y-0edJ67KLgG7p-J8Tp96dNk2jkHX6_Z080QJjDt9iU-ppgEhDCdFLnVbcK1P6AQRpklfhgGhQbv-nWwyMEAXNHVPmz8sbyTQEjyA",
+               "width" : 737
+            }
+         ],
+         "place_id" : "ChIJ9UXYzq3GhkcRdOypx8zxtS0",
+         "rating" : 4.7,
+         "reference" : "CnRjAAAAENoCcDxWNc9L4RTadbDrFfQCyM08Dykua6FygAN4NmSp-sTqGHn1QKgHY3Mh5MdIWI17L-AydZVFfH9x7RP-hR1KcobmOOa4ZAChz44SpdBmllC99aFh89ekRhJW3H6UbUeYUnMuBY8P6GTsugZwKxIQMSUD8I86LMjr6G6Y7bnzShoUdMXXv8gg5HvkGBmK-JsIK5yAR7w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Tommaso Grossi, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4630832,
+               "lng" : 9.1883388
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "963f3ea7d2e988eb9d4209c1222c8f89e082cbf9",
+         "name" : "Hotel Rio",
+         "photos" : [
+            {
+               "height" : 1895,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112765117305729018924/photos\"\u003eMilestone TV\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALjfMTF29AAVRZgtqTcpqYIrgCT7j4WWptcOLuOP0AWN_CC1E-3B2M5twtcjAfN8k0dBdVP7XATydmXmJmhbfMC_fAdYo4RhTmMQuUa8SjEXzGffB7n3wOGt7PZNd6tVxejBq4f19J8jTKizJi00OKVNdZMeAs_We-IyAyQLWhxlEhAbhyh41wls-g99pkKUtO5DGhS44-_sTxK-U7odCc99DoGvNaydpA",
+               "width" : 1895
+            }
+         ],
+         "place_id" : "ChIJc_4yBqzGhkcRnmISUk0wK-s",
+         "rating" : 3.3,
+         "reference" : "CmRdAAAAX1DHHaPpFmaLwHObMY_VRwmCYcL6pGgtThR2HPpE6YiWTYrHbjlozNuCqm3tQJTDm6cYhyKZOKeTcRB6tQn3_9oTjK__fkfqhXeX0gDBlbsfu1tqqBSNXsSBU2fPh5B0EhAezGdlMTCKw-v8xG73wR9xGhSjF70fcozcn-z91Ruu2v8yOtAP1w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giuseppe Mazzini, 8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4659319,
+               "lng" : 9.1894601
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9570dab1ecda6fa7372f00803c37ed38718b2536",
+         "name" : "Hotel TownHouse Galleria Milano",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115874167641255885450/photos\"\u003eHotel TownHouse Galleria Milano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOW4HTSB9WPe3j56gVKLnaSYgVZ7f2wDamXIlAVfgAwt_5kj_ZzcB0_6LSrT__01vJIP0GfxGmOZorotgrt4tyMH9m0NoPG27KLRK4cxJGAlUGS5AnedFpxO6cUoOEbhkeC076NPc1xumw9zLDNtZVh39SafPCrTe4aQL4-mvvShEhDk5vwiwA0x64sifVNySUjWGhQHSxtOsJvjx2Vz-BxSi5_Ga-cmCg",
+               "width" : 1370
+            }
+         ],
+         "place_id" : "ChIJqQYw0K3GhkcR_-tW-ttOqTs",
+         "rating" : 4.3,
+         "reference" : "CoQBcgAAAHMqQzNwGIY339BXKf2Ep7AEBERb7Pg15-ablxmb9WyWjW4vnXWwV3PoRMypFmSOtSYWT_Cwv1j8erKsmTDu5FzzIZTM90u-ESLIzr0tM40nJos6_HmpQQJRmZJ2knwhYJWJgxbWQO18e9266Zg76f3FljwK_l6OsY_raVc1TqSDEhDQWzYj9dZotRVElnr3aGX_GhRzKediZZPPBkM2q9NvDOWZY862aw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Silvio Pellico, 8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4655245,
+               "lng" : 9.191457999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f2e3f6f3d3cd2dea1fe7c95455a41b57b205bd32",
+         "name" : "Hotel The Gray",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114715784387921005632/photos\"\u003eHotel The Gray\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACkZc90X5d2HL-lI1rYoXp_scsWivCUWPPh9UXC5-RCwEJHDx9Hk61LCeR6xyy2AqvYL3KYWXvHJihcf7Zb06KBiE5CBCAU6_CEEwxwFD7umufrOX0zVP3-ge5_mr68txtX9slc0FbcGZkKseADeB149AxPaGq9SHobAo9phgFWSEhDxA22t04m44W8QmSkx8kBtGhRVelgWyYY-9cnKzBrN8r-w4b1t9A",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJRzxr9K7GhkcRdzKT6cT142M",
+         "rating" : 4.1,
+         "reference" : "CnRhAAAAp9wQ-PPhoZs3tz4x6ss0ucpujoy_nm2gNYc_HqhvV8sZeJyNyOxM1S72UTYtjIrxP5NQ2McS7YgjcWY7aHeGyUUA52oeazdlzGaxQSUOsyQ110qVZo9ym5EjwbTz4BeplfcvXZ8JvOcUYN4tV4EvcBIQ4-OIwTQEUWKFgqvlutGn4hoUFANeusCp8uZNm2gpsKD2dQRaqnE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Raffaele, 6, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46359169999999,
+               "lng" : 9.186824399999997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b9cf38eb3c3709e565dc3f7a2a4178ed01a8ee01",
+         "name" : "Hotel Spadari Al Duomo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109753489762113585636/photos\"\u003eHotel Spadari Al Duomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJO8AOJpQM_7Ci_aXCqNnNH9x8FpapfhXUmS0BIjyeQ1q6lHi49P_rCuIK9D5y0KUUgw2n3HLt76XGyuGa5qBUIKei4MYYv5JWqKRnWdicJJo7dWeCaa5dMIKqeSAnWy74r-xxpzGwqJWEpQOrtMRjvTh6Yf1WRogfwlVlzxYjxEEhDxZ2auWa2auKt3IFWSgw0AGhSat_oG1bzZbBWWhVh8kKwasDmaLA",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJD6tSe6zGhkcRKEWAQxmU1tc",
+         "rating" : 4.2,
+         "reference" : "CnRqAAAAaDL6kk0z8a9QxagxUpyKyoy1kG1Kdpi8yoj1k3zTFLTs-pagGSCCADfRa3HpaEu2XBu5M0pz6A_Neh7YlhiIkgJsTgS3PEg_QMRN2S4SaIhiHJMDyJd4qj0wXDG0DOHOeq-NTnxQGY2_K6MsqfgZsxIQR5MMK7gNwPMuxcPqmYY-hRoUjcy3-MMkmsSIjlnELfZgZf6JSGM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Spadari, 11, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46388460000001,
+               "lng" : 9.193985600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9699bb22665d13ad0df16534063e1983862f507c",
+         "name" : "Starhotels Rosa Grand",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108497707381101159571/photos\"\u003eStarhotels Rosa Grand\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOyWY7BzYnWqYSTe7mpbDkOrrFzLi-fVb__kMWwi9ZC9nGjQ7GiwtIkd8epAsLVu7szL57kJWX3HvilfNL-nDzeeuwuZ3lnpNByJeaaj9JT4svsJqbZn8mFdzNy4UgBzYqjZ4MDejwvFy_ouspPQpwQUFPgKnFrtyDFJExtMOxWaEhDvAT3YKpEOKSKfyCNEPtKhGhTIH2MwVu2o9Wq4l659hOsCiNYldQ",
+               "width" : 511
+            }
+         ],
+         "place_id" : "ChIJO6fbQq_GhkcRALpIaMXnqKY",
+         "rating" : 4.2,
+         "reference" : "CnRpAAAAPkQtRljLkVp_Ud7Kq5Oddhq45USoNJLNbdo8bK6rqmh6mIFO6ZuSNIaEB0z_FPUvIcbqJ-GyHTyyTwu1AhOxvsPblahSigb4L3W3yOZAqkn_Y84Wx3N04XdLvgbFTjFbNrX4s5yqkPedGpyrhyGSGhIQC4EXG8-y8rc8AY4tTEbIfRoUTUoNllR4BkDu05WJlJEd24162y8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Fontana, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4608096,
+               "lng" : 9.188673699999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b20f4890577018a9b9bf2cca9da37051e9f32b2c",
+         "name" : "Hotel Dei Cavalieri Milan",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117986412283662873103/photos\"\u003eTraian Timis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGq40fx1_a_lkPzsltDVbkRU2RtuX5QhTRfoiCxgikfaeD9iqIBwZZioSJFsIFiscSCHF06J__182HIG66BfNhXZah7mnNiKhIdt5A6GGBb0-BnM__NqNTyaoRLH6RuGwh3v7sT8CS0o3a8jDPgVqxuNgCbMHPq6GFLdbseTwcAUEhC0XXBrNDQB1e8vTcxi5CAaGhSImuOkOtZx56UCHLtfpeMHoQAghA",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJryjTfKnGhkcRL9k5IKNNy90",
+         "rating" : 4.1,
+         "reference" : "CnRtAAAAznIDTe4ifER-n3bRS5xQIIlIq9Rkvf4jT5N21zM0jT7WXWV_rXuMsWfVtxeKr0ty3J0iJ93zxllOmzk9d4eHL2sn6wlOz-Ho1QpzoaPUeBwxgAyWpzrINS1bIINRySWQcshiI0YR1iSGEy-TPAlv1BIQAQXN7aZuABN3zyKVDkqotRoU59lVzUfnId49NSNkRzDbqS3Efvw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Giuseppe Missori, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46739820000001,
+               "lng" : 9.1861636
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7f70157c73c096f998bfa64b8686c5629e2bd0c2",
+         "name" : "Hotel Star",
+         "photos" : [
+            {
+               "height" : 549,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106967673551384082857/photos\"\u003eHotel Star\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAC008ft7B9gY94AVyn0byWb3ajR4Xrto8-rcHooFRV9j21bg6DODDQjjCNEpj4Agg9cfcBCxUs393kekfFNq5CbRqmQLTjSbFFrIY5gXptI_jqdEdTERa_tfy9Gzw2AUbS--bYLmZ-Rq34BQGHSg4151JWeuBCUoQ7apSR0XB2rsEhD7ZPMqfQMRqqw6W1mhgXH5GhSUdsB-CJ3ZJvDu5Y57SmpjMSjqGA",
+               "width" : 549
+            }
+         ],
+         "place_id" : "ChIJZ_dHZ63GhkcR4oWWgHr9LOo",
+         "rating" : 3.7,
+         "reference" : "CmReAAAANySvxM333FwM4ZA61G7t8Bk15W5QU5jSSABT49m7ZjW4YYOGE1PS41uqWfdQNxi9-FXNWT3p6iJaMP-8Ubwg1nRcdL9Guw50vDisPQTCZrInzR72bGFsZsSRx-ct82lCEhA9LlsX8RNZTpZ4Ppy9VFxZGhSPtFde1TppPm7NC4PeKMts9d13oQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via dei Bossi, 5, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46453820000001,
+               "lng" : 9.195349
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d35f8a808097a827f0da51a4ba1dc64d1d32c0d9",
+         "name" : "Ambasciatori Hotel",
+         "place_id" : "ChIJMfdyf6_GhkcR9H2XA1tpxw8",
+         "rating" : 3.7,
+         "reference" : "CnRlAAAAOoJ2KxBKIYYUJcZQd5qsawJyT46MiUgP9t07b7xwE38HQbuh7miZjbYOrQXhmBBdAj8oT6eo9t6alhDF3Fr-szjTOyU94e-JkcescF1WJuzE6eDVdpecvQg-7pgE_Mg6KsyYCA1b8lcAYbiKzD4M1BIQlqL3C7QFLqFv14oCdpka8xoUc8w_4QQ17nmmkE5GZQAVuRDl_g8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Galleria del Corso, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4642651,
+               "lng" : 9.196056900000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d6e4744cffc3abe30e428f9f50b5f07336613179",
+         "name" : "Hotel Galileo",
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103219932906583618058/photos\"\u003eHotel Galileo - Milano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACWLFQ6J3IRTK9axOsUA2to6ixiulJ-8DpLOwk91f1qgYLzHf0BwXYXfFLXRMolY3yKPmK5m9TQBhucinMQSPvPLnTEQJ4l9HWS5UZuc5x77VO3j0-g0lIqmoRG95jF9_DMvv8B0QYtl6-FVJZHl9BvOlwan363sOFbzXrwOxygTEhCiEqUDCmK_IZEvbqJxZjZ4GhTmRS_Yp_D_jlNgjjxfv8laFSACWQ",
+               "width" : 343
+            }
+         ],
+         "place_id" : "ChIJu3BJm6XGhkcRrhz8EDKcuaI",
+         "rating" : 3.9,
+         "reference" : "CnRhAAAAlhoaS8zh-Rrvj9NiFLbds2yV3Fqxwr1CJsL7YOzp8WXfTPnwLYdJNdaelJQNLt77TAe6KiWTRMjYT1VBIEnM0t-47CuTJA_cZ4TEzOqPqDC7-vHwc5ebbjJeMyo5lD71RnlN1k49DJag7Pgaq79n0RIQp33TRmWawZ7qwgdCU0fPkRoUFzN6PzwXCxqiYsUoRrI3-SxX198",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Europa, 9, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46738509999999,
+               "lng" : 9.184275899999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b14961f5b7237d690fb3ec4a0c05f536480e00f0",
+         "name" : "London Hotel Milan",
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112394415591208384210/photos\"\u003eHotel London Milano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOJz8FAlOd-T507eJoHdQ0yUKECaXBubTQ8IJca9xTsbVuPzCF9gy0CqKSbnfl7I074aWEgEgGmlHkyrjMrKBcz7xtNhUNAGGsAXWNawHdw8pWgMrcxFO9vhXmd2lricLunYK9lQbZZNDs59i7vRjdQWJXlxS0AcIGhT11VC0XRdEhBQSVBqef51QfQpGwqZ0JGVGhSIE8Zmi2TVmcGT3nTfS11CZ-IOkw",
+               "width" : 662
+            }
+         ],
+         "place_id" : "ChIJUe-OslLBhkcRcK4CWvQod64",
+         "rating" : 3.9,
+         "reference" : "CnRmAAAAoQClk9hM5m31ccuHYPj8I63TtDKY8Z0iYfNLDgTcMIe2LeLtdGRa2_gRRkEwZDauC-e69Nj9Hye8Pq-AY4Xj1DrXcwynOR8TuOl5xCXXFawxvceLFCQkO24lqwMCOz7N7X4QVCfO1TiQQ396A1wzSxIQ4xeGfQ0D7op1SnI_0HTtyRoULX4UbnaM6RQPRH-S3LIT1PZeu54",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Rovello, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4689376,
+               "lng" : 9.1868891
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "070170e13999174cbb4a6dd59958dd0767e96041",
+         "name" : "Hotel Milano Scala",
+         "photos" : [
+            {
+               "height" : 936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112921301352107134888/photos\"\u003eHotel Milano Scala\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADhmqJNh5lUZ-5ZRDxMfDr_0cilW9TaHLrmqxrRvQsGNUw-rIDFHsB4kidCQE1hVV7WRL1SF4fqnio1atnQZfERH6C4-c5ZooHnGvyT-gxl3VSUbWsMjyj2s8cI_brC3lA-F16UoWO2E1W7IYxjzMb0E4Tf8AdCEO370ZTxr5v_2EhDxTPZoyHYmjznCpSmRMIqZGhRq2vSjT8ELMa6creBqdJ_6J3n1HA",
+               "width" : 1404
+            }
+         ],
+         "place_id" : "ChIJeyCF6rLGhkcRO2cVAlXiN-E",
+         "rating" : 4.3,
+         "reference" : "CnRmAAAASC9LWt7AFgKWkviwAgVGG3Dgoez99oICqK_Wpes0uAoCmXrayllTHK22Uc76Dn27AojDlpWqFbLvwrnIrhDaAuJJzl3d-y7FoEFWfDZsKI8XAtP8s3O9_DafYCUdxGP0lNeZzENwjitM7dXdzEyr7hIQFRHB9dlczRedWMcQyfpPVhoUOL8zMWuwPYTHz8HO36SIMox55b8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via dell'Orso, 7, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4671445,
+               "lng" : 9.1824514
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "312a662aea202888c3b92f01c27ddc3eb9ff0802",
+         "name" : "Hotel Genius Downtown",
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116618778562618776129/photos\"\u003e武田和子\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADaPplVF_QukhkyQf0HGjGWwH3wVXgqO8AihmK_xWNc2wqbXH682T5pYTGaA65mSckaPhSDfjlWfizW7ip_ZbXRF-5AAr2GFrLca6Y93r6sTFflFhBUOB8zCHIgbef6Py_cqBTPdjucodomkgQL6MSQ0OAcM8EB39GFLFo_pjUcTEhBXWOuc2gjtpPwQrovmAVdPGhQ5bmRVcwgvSpDRaAPW_pVMDDfVFw",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJd7oRklLBhkcRBvacWszCK5g",
+         "rating" : 3.8,
+         "reference" : "CnRpAAAAyQM0Y5-6oDJTdAFLX277m8V_FO2vgjvrz5ehl4zXHgRGBybr50gXt5sXUf4GrZYOqhxB6jsAvdurUIdeBdl_sstqDzEzRqTBNMVPUKyP5t3vvZdS911MyXSCJkoU8ASmOBsVTYQfl7NU1sBR1wlrPRIQWkgj0GSUrUawvWy9MM0WWRoUsz8euUhg8aUdQ46I0cegpETg8Js",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Porlezza, 4, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46306850000001,
+               "lng" : 9.1979367
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0a6d771bf86359f9ab92d3c951efb6caa6568a7f",
+         "name" : "NH Collection Milano President",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106899315077109161270/photos\"\u003eNH Collection Milano President\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJvrWtpNPvCwDY_YREtuhHjxzehNp1ahXaCkFlsB655NODIK1goCXzYyt-O8Iw-sGZJpA_6lKSGAQ2ymG1sFQN5TRw068wGHyTKPWbB3RIWtK6cu8cKwrAH8-91BNe22sW6J5CniDm5xOVRv309TGDcuh76AAE3AD96quhKQNX7OEhDZ9kLH3rImhH5ubrflteHyGhREaJjQl6C7emkb9unSf2cnlsmD5w",
+               "width" : 1299
+            }
+         ],
+         "place_id" : "ChIJ3f8Dy6XGhkcRbwud_cDLgW4",
+         "rating" : 4.4,
+         "reference" : "CoQBcQAAAJD-AbTyf6LWQKDrINqXCriC9JqYVIypkpdb-2eoV0WZRN8s-UacdQ13R6Sa9-FfaCMGbeR5DSAvZgalypwI2OZ_Vp6m2SrcVJRUWpS99196YMTjpEwufMtg6HPljFmzdffKrPE8JPEIZvOVEJDgxPNaRnsbor2YtFGvImptd2ULEhBkn36T6gful_CWKZ1aNPgWGhTWb2jaNTfDUqBh7hqbYcG-aXmQuA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Largo Augusto, 10, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4580137,
+               "lng" : 9.1913676
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "de197d152994f65e5437b87e11a80fa95242eea8",
+         "name" : "BEST WESTERN Hotel Ascot",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1241,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107305433946471761140/photos\"\u003eBEST WESTERN Hotel Ascot\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGzfAWSNXSGGiv6Q_xPSLhGBwer-MEhZr4z4KornSBuW83dGmJJ-OR9HxL8CbMrLUPVkh996Kgh2FmsBUTTPr-mQ-ewQvn8q0TsvcV8cxhL9n3a3niEd4OzvtZhR4aAxs4Bbo3XojV3RysFrpjvWKbmyrLvHUyz2r2XjKxFzOHN8EhDYNzyPIJQvp_nWab9rEaM0GhTKww-1C5S7oJAOqkhcuxK6lNP1cw",
+               "width" : 1241
+            }
+         ],
+         "place_id" : "ChIJUfeFPKjGhkcR4KGlWGHy30Q",
+         "rating" : 3.2,
+         "reference" : "CnRrAAAA5IN9qL8kmc3BcP3zpKw0GRTwDQjupoKJkeMMdeocpMa3Jqqx1795tlnBWsReIq1KBAkvmPGV1zTAhBrw7-0cBhzwIfnQgrlesAlvEXjeXcZ0nOcZoRRu5-2trUAzGqrWGfCJ_X2VmPuIKiQkOl5AKRIQID940ydG25XvwRvMRSMQsRoU3ocMC6jbvx1rOX_YMn7fM8bko2A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Lentasio, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.469339,
+               "lng" : 9.195107999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "21cd98f932cf0e70d005971b33536167b5beb8f8",
+         "name" : "Four Seasons Hotel Milan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1289,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106798176221325811049/photos\"\u003eFour Seasons Hotel Milan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKJva8wFDVvthD2p0ekjZe_wOiX0UNDLlnCc3B9yZl8wVHVRDsU1FKvfDAq-u9um8mdDlYI8XRLc0jAOosSAxnoh5BpC65FCzCcSITtAxD7iktsVtVlyc55iwYAEzxOSXvw-k3xFmotPKcF4T719PaEnNZSDkzrmyUnMfgprdQkvEhAU_zGkz8UC8dV0TI48ATk6GhT_JNsHOjVQL41zrT-OrvRFUYRH2g",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJE9wa9rDGhkcR5J-_JPjvJBs",
+         "rating" : 4.9,
+         "reference" : "CnRrAAAAB2z7sTE1bW1HhNdCA3HyUX_zuCpyChFgcWxvm6nE5ufEd2nv3QXcfs-E960x4H4QCtSPy2P-3z3iFLL3wtLnJyaow26eMyJsnIV24B6Ceggld2_hKFSS-lOX7KKIet1P8IupQ_s0Vw9l3CvuoqZ15BIQX5QE4IUcbFBrt3HkPwxUyBoUBJvlKTygr3J2EQUcpW_eYK4Vsqk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gesù, 6/8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46117719999999,
+               "lng" : 9.1910466
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "692b8e12bd6342fec6748bf0a8f8f26e3eba106c",
+         "name" : "Hotel Brunelleschi - Milano",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108976091583698297382/photos\"\u003eelvis caron\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAIPWu6ScOkz0D_yCrcXYgSHJ4wpD4vpaxGe6LEJWKcxFA-LXTxhJNXogOxtvgYIrnGnSVxjsjBle2deyzaYIPV23aQnBlSCdgf5zIVkMyyl0QBXoqCXLAznrQ9sym2vVkXns7C58SvXSvwuzEFUIsZ5UEse6Qo2qSKiscfVWg5CZEhApCn8CssFkg10du260UK4MGhSmi3ysiBm1mlU8177B01c__H9vgw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7YMkh7Qh1RIRDxMRd2xZyLU",
+         "rating" : 3.9,
+         "reference" : "CnRvAAAAAuJkQfOIrP9Ayg3hGRP_q4YqotDCQiKxHT5Shi9kmGVpQom8gjMgct2EqAxOM0DIKnZvM-u7r7NOSHQTCZB2Fylk2stXbFd1gFkDKEcd_aPNaJXDvFTYID0ZJDWq9vXMk2R3ctfXh1MCEHuWahxEZBIQXC0Y12ldgxoF_iOoCRElghoUfpzs5kqNeTs04BZJM8U7bgldutk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Baracchini, 12, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4627939,
+               "lng" : 9.189043099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4819196,
+                  "lng" : 9.2068005
+               },
+               "southwest" : {
+                  "lat" : 45.4517619,
+                  "lng" : 9.160280199999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "67af062dbd9e0b8c858c843f6dcd6d049ead02f6",
+         "name" : "Zona 1 Centro Storico",
+         "place_id" : "ChIJea74SK3GhkcRxs1NkUGQw6w",
+         "reference" : "CpQBgQAAAH9KxvQys8NcrDcC3dIpGhJXDFn_5xta37AZEC7zq__OTWmXqirx3sGGlr8J19WDliXdWykCvc-0nSjm9lyHexhEeneg6gWdqGrEcnsakWL_2gau66Add_7zXDl0ib_u1thIX-XG0XAnEYwgN14IwMxmslhEkUdS8ChruXx66kVovHFNEirvVqnH8qu9EAJxJRIQJGWxKWRw84sFT7aHxO_9rBoUhws_zUWct8mUyRn7BVRFN8_zwuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Milano"
+      }
+   ],
+   "status" : "OK"
+}

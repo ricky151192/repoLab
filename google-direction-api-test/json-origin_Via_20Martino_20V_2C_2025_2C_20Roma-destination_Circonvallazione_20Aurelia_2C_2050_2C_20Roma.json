@@ -1,0 +1,178 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFVC9Ws9fLxMRWhWWvsPyFUo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXW3Z4NxfLxMRw-JfbMWLLlc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9075009,
+               "lng" : 12.4281909
+            },
+            "southwest" : {
+               "lat" : 41.8971409,
+               "lng" : 12.4211672
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1698
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 366
+               },
+               "end_address" : "Circonvallazione Aurelia, 50, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8971409,
+                  "lng" : 12.4281909
+               },
+               "start_address" : "Via Martino V, 25, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9054835,
+                  "lng" : 12.4216371
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "48 m",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.9057317,
+                        "lng" : 12.4211672
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Martino V\u003c/b\u003e toward \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtw~FgbyjAq@|A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9054835,
+                        "lng" : 12.4216371
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 439
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 41.9075009,
+                        "lng" : 12.4254018
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yuw~Fi_yjAwBaDi@gAYi@MKSIUGOCICKGQUWi@EUE[GiAIoI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9057317,
+                        "lng" : 12.4211672
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 41.9056298,
+                        "lng" : 12.4253252
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{`x~FwyyjAzBA~BDD@|AFT?"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9075009,
+                        "lng" : 12.4254018
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 830
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "\u003cb\u003eVia della Pineta Sacchetti\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "euw~FiyyjANFB@DDJFTRXRHFDBRBRDNBTBJ@H?lDQl@Ix@Od@Mp@StAa@lAg@v@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9056298,
+                        "lng" : 12.4253252
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 41.8971409,
+                        "lng" : 12.4281909
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e (signs for \u003cb\u003eP. Za Carpegna\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjA`@OvAk@nAi@lAi@HC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gtw~FgbyjAq@|AwBaDcAqBa@Ue@KUKi@_AKq@GiAIoIzBA~BDbBHT?NFHFdAv@|@P`@DvDQfBYvAa@tAa@lAg@v@Mv@]lDoBtEoB~Au@nAm@`@OfDuAvAm@"
+         },
+         "summary" : "Via del Forte Boccea and Circonvallazione Cornelia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

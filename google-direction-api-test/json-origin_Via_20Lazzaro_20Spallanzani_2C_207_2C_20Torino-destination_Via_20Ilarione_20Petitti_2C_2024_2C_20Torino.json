@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjBWaWEgTGF6emFybyBTcGFsbGFuemFuaSwgNywgMTAxMzQgVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbSaY40ttiEcRfDzJWMXBeB4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0483324,
+               "lng" : 7.674311299999999
+            },
+            "southwest" : {
+               "lat" : 45.042517,
+               "lng" : 7.661921
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1720
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 320
+               },
+               "end_address" : "Via Ilarione Petitti, 24, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0461976,
+                  "lng" : 7.674311299999999
+               },
+               "start_address" : "Via Lazzaro Spallanzani, 7, 10134 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0483324,
+                  "lng" : 7.6625954
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 45.0479486,
+                        "lng" : 7.663228299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Lazzaro Spallanzani\u003c/b\u003e toward \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ao}qGgrwm@jA}B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0483324,
+                        "lng" : 7.6625954
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.0469246,
+                        "lng" : 7.662081499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ul}qGevwm@rB|Bz@dA\\`@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0479486,
+                        "lng" : 7.663228299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 881
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 45.04262749999999,
+                        "lng" : 7.671021799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gf}qG_owm@V^Pa@R[fFoK^w@JELWhCcFfA{BHUL[?CRi@Le@ZeA?ABIDMh@yCj@aDnAqGRu@Lm@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0469246,
+                        "lng" : 7.662081499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 499
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 45.0464403,
+                        "lng" : 7.672700499999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mk|qG{fym@@A@A@A@A@A@C@A?CBE@E?E@E?E?E?E?EAC?EAC?CACACAAACCCCCCACCCAC?CAC?E?C@C@C@C@CBCBABCBADADAB?FoAYMCcCw@oC{@gBa@cAY{C{@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04262749999999,
+                        "lng" : 7.671021799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.0461976,
+                        "lng" : 7.674311299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ilarione Petitti\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gc}qGkqym@Fm@LoARsCDo@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0464403,
+                        "lng" : 7.672700499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ao}qGgrwm@jA}BrB|BxAfBV^Pa@zFkL^w@JEvC{FpAqCL_@|@wCHWtA{HbBgINo@FGFOBWAUCQIMOKQAOFMNEV}A]sGsBkD{@{C{@Fm@`@cFDo@"
+         },
+         "summary" : "Corso Bramante",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,299 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRQhgiwLEhkcRieRAJ7EQ4FY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJUSVb6nGhkcR3y9YBg3U71s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4611221,
+               "lng" : 9.193401999999999
+            },
+            "southwest" : {
+               "lat" : 45.4569516,
+               "lng" : 9.1883382
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 km",
+                  "value" : 1286
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 320
+               },
+               "end_address" : "Via Alberico Albricci, 3, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46106169999999,
+                  "lng" : 9.1894791
+               },
+               "start_address" : "Via Santa Sofia, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4569516,
+                  "lng" : 9.190342299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 253
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Santa Sofia\u003c/b\u003e toward \u003cb\u003eVia S. Calimero\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}hmtGs~aw@Ka@Kg@Iw@OgB]iEGo@Cc@?UEMESYc@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4569516,
+                        "lng" : 9.190342299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604349,
+                        "lng" : 9.188514899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_mmtGwqbw@ILcArBu@tAKVe@~@]n@y@`BiBhD}@fB{@~B]x@e@bA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4576026,
+                        "lng" : 9.193401999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "83 m",
+                        "value" : 83
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.4611221,
+                        "lng" : 9.188340199999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Giuseppe Missori\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u~mtGesaw@INIHIDIBKAq@Oc@N"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604349,
+                        "lng" : 9.188514899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.4606757,
+                        "lng" : 9.190888899999999
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Alberico Albricci\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "_cntGcraw@r@yFB[\\uD@W?Y"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4611221,
+                        "lng" : 9.188340199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13 m",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 45.4605652,
+                        "lng" : 9.190842699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia Alberico Albricci\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "g`ntGabbw@TH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4606757,
+                        "lng" : 9.190888899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604911,
+                        "lng" : 9.1909382
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia Alberico Albricci\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q_ntGwabw@NS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4605652,
+                        "lng" : 9.190842699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607913,
+                        "lng" : 9.191485799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a_ntGkbbw@?MAEGWq@aA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604911,
+                        "lng" : 9.1909382
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11 m",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.4608529,
+                        "lng" : 9.1913675
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`ntGyebw@KV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4607913,
+                        "lng" : 9.191485799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street to stay on \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iantGaebw@IRFNDJDHDN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4608529,
+                        "lng" : 9.1913675
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.46106169999999,
+                        "lng" : 9.1894791
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Alberico Albricci\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "y`ntGwbbw@@LAL?PCPe@jDObA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}hmtGs~aw@WiAY_De@yFCy@Ka@Yc@ILyBhEq@vA_GbLyAxDo@rASNU@q@Oc@Nv@uG\\uD@q@THNSASGWq@aAUj@Xt@C~@u@nF"
+         },
+         "summary" : "Corso di Porta Romana and Via Alberico Albricci",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

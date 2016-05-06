@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsb92Z63GhkcRMw71xKJnKII",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ31GTk67GhkcRPw6Nl8LeRdQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4675806,
+               "lng" : 9.189359399999999
+            },
+            "southwest" : {
+               "lat" : 45.4649456,
+               "lng" : 9.186141599999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 634
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 224
+               },
+               "end_address" : "Piazza del Duomo, Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4649456,
+                  "lng" : 9.189268199999999
+               },
+               "start_address" : "Via dei Bossi, 5, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4674269,
+                  "lng" : 9.186141599999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "49 m",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.4675806,
+                        "lng" : 9.186734699999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia dei Bossi\u003c/b\u003e toward \u003cb\u003eVia Clerici\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mjotGkdaw@]uB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4674269,
+                        "lng" : 9.186141599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 163
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 45.4663007,
+                        "lng" : 9.187758199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Clerici\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kkotGahaw@~FmE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4675806,
+                        "lng" : 9.186734699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 45.467187,
+                        "lng" : 9.188953999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Dalmazio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kcotGonaw@eAsBWi@IMWKq@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4663007,
+                        "lng" : 9.187758199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLargo Antonio Ghiringhelli\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}hotG}uaw@Tg@FONY"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467187,
+                        "lng" : 9.188953999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ogotGoxaw@`@`@j@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 193
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 45.4649456,
+                        "lng" : 9.189268199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Silvio Pellico\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aeotGcvaw@Xu@DCBAxCD|A?f@C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mjotGkdaw@]uB~FmE}A}CIMWKq@u@Tg@Vi@lAjA^y@|CBdCC"
+         },
+         "summary" : "Via Clerici and Via Silvio Pellico",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

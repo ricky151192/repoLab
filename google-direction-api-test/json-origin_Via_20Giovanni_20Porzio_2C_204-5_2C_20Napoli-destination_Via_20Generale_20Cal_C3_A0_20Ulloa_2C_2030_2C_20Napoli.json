@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJwfJ5-xoIOxMRlrCDuuQ9RUY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjtWaWEgR2VuZXJhbGUgR2lyb2xhbW8gQ2Fsw6AgVWxsb2EsIDMwLCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8654261,
+               "lng" : 14.2769439
+            },
+            "southwest" : {
+               "lat" : 40.8578103,
+               "lng" : 14.2717202
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1388
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 218
+               },
+               "end_address" : "Via Generale Girolamo Calà Ulloa, 30, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8644505,
+                  "lng" : 14.2717202
+               },
+               "start_address" : "Via Giovanni Porzio, 4, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8578103,
+                  "lng" : 14.2769439
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.8596761,
+                        "lng" : 14.2766117
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e toward \u003cb\u003eVia Francesco Lauria\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i`kxF{mcvAcAH[D}BVwCX"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8578103,
+                        "lng" : 14.2769439
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 406
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 40.8632402,
+                        "lng" : 14.2761927
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_lkxFykcvAM@A?G@eDZuBTmAJwFl@YIM?AAAAAAACGIAAA?ACCAEBA?CD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8596761,
+                        "lng" : 14.2766117
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 245
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654201,
+                        "lng" : 14.2757761
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gblxFeicvAS?YBQBuDb@}Dd@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8632402,
+                        "lng" : 14.2761927
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 216
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.8650172,
+                        "lng" : 14.2732752
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Piazzolla\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{olxFsfcvAAZ?D@B?H?H?H@P@Xh@hEZhCBR@T?D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654201,
+                        "lng" : 14.2757761
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8640404,
+                        "lng" : 14.2734472
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Piazzolla\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Generale Pianell\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kmlxF_wbvAbEa@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8650172,
+                        "lng" : 14.2732752
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.8638744,
+                        "lng" : 14.2718319
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Marchese Giuseppe Palmieri\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gglxFaxbvAPbDDlAHpA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8640404,
+                        "lng" : 14.2734472
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.8644505,
+                        "lng" : 14.2717202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Generale Girolamo Calà Ulloa\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eflxF}mbvAsBT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8638744,
+                        "lng" : 14.2718319
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i`kxF{mcvAmKdAaRjBYIM?CCMQCCI@EDm@BgEf@}Dd@AZ@H@n@@Xh@hE^|C@ZbEa@PbDN~CsBT"
+         },
+         "summary" : "Corso Malta",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

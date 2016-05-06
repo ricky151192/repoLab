@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHw8mhOpfLxMR2Zw0HeCc8Uo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJx0nJSepfLxMR0xdzte3tNJg",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8952533,
+               "lng" : 12.4193329
+            },
+            "southwest" : {
+               "lat" : 41.8933835,
+               "lng" : 12.4175129
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 274
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 54
+               },
+               "end_address" : "Largo Lorenzo Mossa, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8933835,
+                  "lng" : 12.4193329
+               },
+               "start_address" : "Via Aurelia, 619, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8951338,
+                  "lng" : 12.4175129
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "20 m",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 41.8952533,
+                        "lng" : 12.4176867
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e toward \u003cb\u003eVia Nicola Lombardi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qsu~FmhxjAWc@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8951338,
+                        "lng" : 12.4175129
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 235
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 41.8935501,
+                        "lng" : 12.4193239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nicola Lombardi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "itu~FqixjAfCmCdAeA~AeBFCBADCRA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8952533,
+                        "lng" : 12.4176867
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8933835,
+                        "lng" : 12.4193329
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo Lorenzo Mossa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uiu~FwsxjAT?JA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8935501,
+                        "lng" : 12.4193239
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qsu~FmhxjAWc@fCmCdDkDJEXE`@A"
+         },
+         "summary" : "Via Nicola Lombardi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

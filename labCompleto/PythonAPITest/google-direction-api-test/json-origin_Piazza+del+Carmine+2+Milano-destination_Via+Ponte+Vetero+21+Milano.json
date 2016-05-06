@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EitQaWF6emEgZGVsIENhcm1pbmUsIDIsIDIwMTIxIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EipWaWEgUG9udGUgVmV0ZXJvLCAyMSwgMjAxMjEgTWlsYW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4701887,
+               "lng" : 9.184874299999999
+            },
+            "southwest" : {
+               "lat" : 45.4701084,
+               "lng" : 9.1848271
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "10 m",
+                  "value" : 10
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 2
+               },
+               "end_address" : "Via Ponte Vetero, 21, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4701084,
+                  "lng" : 9.184874299999999
+               },
+               "start_address" : "Piazza del Carmine, 2, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4701887,
+                  "lng" : 9.1848271
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 45.4701084,
+                        "lng" : 9.184874299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Ponte Vetero\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u{otGe|`w@NG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4701887,
+                        "lng" : 9.1848271
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "u{otGe|`w@NG"
+         },
+         "summary" : "Via Ponte Vetero",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

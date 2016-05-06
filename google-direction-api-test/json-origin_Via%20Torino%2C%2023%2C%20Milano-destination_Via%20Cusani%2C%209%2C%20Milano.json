@@ -1,0 +1,416 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNWHYmqvGhkcR7YZZutjiaLw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJC0rRXE3BhkcRYb9jaLHU1K8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4686852,
+               "lng" : 9.1865571
+            },
+            "southwest" : {
+               "lat" : 45.4591106,
+               "lng" : 9.1756616
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.7 km",
+                  "value" : 2724
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 634
+               },
+               "end_address" : "Via Cusani, 9, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4686852,
+                  "lng" : 9.183795399999999
+               },
+               "start_address" : "Via Torino, 23, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46230970000001,
+                  "lng" : 9.1865571
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 488
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 131
+                     },
+                     "end_location" : {
+                        "lat" : 45.4602448,
+                        "lng" : 9.181318299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Torino\u003c/b\u003e toward \u003cb\u003eVia Lupetta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mjntG_gaw@LL\\h@|@vAZf@Xh@`@l@V`@JTp@pBXzA@T@b@FtBB`BD\\J~@F^JZFLFJd@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46230970000001,
+                        "lng" : 9.1865571
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 256
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 45.459162,
+                        "lng" : 9.178424600000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Cesare Correnti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "o}mtGgf`w@V~@nCdKJ`@FRFPFXJZ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4602448,
+                        "lng" : 9.181318299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "87 m",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4595867,
+                        "lng" : 9.177661199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Caminadella\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wvmtGct_w@@N?@F`@KJKJgAjA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.459162,
+                        "lng" : 9.178424600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604294,
+                        "lng" : 9.1776322
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Caminadella\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVia Orazio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mymtGko_w@g@BkBJSI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4595867,
+                        "lng" : 9.177661199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604162,
+                        "lng" : 9.177826899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Lanzone\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u~mtGeo_w@@g@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604294,
+                        "lng" : 9.1776322
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 179
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.4617981,
+                        "lng" : 9.1782533
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Pio V\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~mtGmp_w@]JIB[JSHUJI@E@I?IAMAGCICGCGCKIMIEGCCCCQYWw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604162,
+                        "lng" : 9.177826899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631768,
+                        "lng" : 9.1770762
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Lodovico Necchi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ggntGas_w@EM?CA?A?A@IH}FnF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4617981,
+                        "lng" : 9.1782533
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.4638216,
+                        "lng" : 9.1784064
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Lodovico Necchi\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVia Santa Valeria\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{ontGwk_w@_CiG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631768,
+                        "lng" : 9.1770762
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 45.465764,
+                        "lng" : 9.178188
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nirone\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{sntGat_w@M?O@sC`@cC`@g@K]IGC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4638216,
+                        "lng" : 9.1784064
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 204
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 45.4659213,
+                        "lng" : 9.1756616
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Magenta\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_`otGur_w@c@vBUrAL|CJnC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.465764,
+                        "lng" : 9.178188
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 45.4678776,
+                        "lng" : 9.1768556
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giosuè Carducci\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_aotG{b_w@UOgDcBc@WyA_A]Sm@O"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4659213,
+                        "lng" : 9.1756616
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.4679104,
+                        "lng" : 9.1773343
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazzale Luigi Cadorna\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gmotGkj_w@E{A?A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4678776,
+                        "lng" : 9.1768556
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 381
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 45.4679445,
+                        "lng" : 9.1820176
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to continue on \u003cb\u003eForo Buonaparte\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "mmotGim_w@@cB?]BYj@_CJc@Fq@@UBg@?mBE_A?ACc@CYEYEYIy@EQEQScAMu@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4679104,
+                        "lng" : 9.1773343
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.4685713,
+                        "lng" : 9.1826402
+                     },
+                     "html_instructions" : "At \u003cb\u003eLargo Cairoli\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eForo Buonaparte\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "smotGsj`w@DO@K?I?M?QAC?EACAEACACACACAACAAAAAAAAACAIEMCIAI?G@GBEBGFEHUS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4679445,
+                        "lng" : 9.1820176
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 45.4686852,
+                        "lng" : 9.183795399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Cusani\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qqotGon`w@GuACw@IuAAC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4685713,
+                        "lng" : 9.1826402
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mjntG_gaw@j@v@xA~B~AnCp@pBXzABx@JvEP|ARz@NXd@z@V~@zCfLb@zA@PF`@KJsAvAsCNSI@g@g@NoAb@g@Aa@Oc@_@U]]eAACC@gGxF_CiGM?cDb@cC`@g@Ke@My@jEXlH}DsB}BwA]Sm@OE}A@aCBYj@_CJc@Fq@D}@?mBE_ACe@Is@OsAKc@a@yBF[Am@ESGMIG]MSAODMJEHUSKmCKyA"
+         },
+         "summary" : "Via Torino",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo9AkdKvGhkcRvyWnUXUQu8U",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJU-U1YqvGhkcRwI8heI6kh0I",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4629006,
+               "lng" : 9.1855118
+            },
+            "southwest" : {
+               "lat" : 45.4621883,
+               "lng" : 9.1853245
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "93 m",
+                  "value" : 93
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 28
+               },
+               "end_address" : "Piazza S. Sepolcro, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4629006,
+                  "lng" : 9.1853479
+               },
+               "start_address" : "Via Valpetrosa, 5, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4621883,
+                  "lng" : 9.1853245
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Valpetrosa\u003c/b\u003e toward \u003cb\u003eVia Fosse Ardeatine\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uintGg_aw@GEKEI?SDSBK?[KCACAAAOQ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4621883,
+                        "lng" : 9.1853245
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13 m",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629006,
+                        "lng" : 9.1853479
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza S. Sepolcro\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}mntGm`aw@E^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uintGg_aw@SK]D_@B_@MECOQE^"
+         },
+         "summary" : "Via Valpetrosa and Piazza S. Sepolcro",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

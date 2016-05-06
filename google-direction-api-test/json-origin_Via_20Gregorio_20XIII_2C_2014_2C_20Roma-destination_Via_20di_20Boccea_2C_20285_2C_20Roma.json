@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRyTeJMZfLxMRC4fkoEfDq50",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiZWaWEgZGkgQm9jY2VhLCAyODUsIDAwMTY3IFJvbWEsIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9046896,
+               "lng" : 12.4188682
+            },
+            "southwest" : {
+               "lat" : 41.903573,
+               "lng" : 12.4175476
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 226
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 46
+               },
+               "end_address" : "Via di Boccea, 285, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.903573,
+                  "lng" : 12.4175476
+               },
+               "start_address" : "Via Gregorio XIII, 14, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9046896,
+                  "lng" : 12.4188106
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Gregorio XIII\u003c/b\u003e toward \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iow~FqpxjAn@Gh@CV@PBRHIj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9046896,
+                        "lng" : 12.4188106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{jw~FaoxjAfAF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 41.903573,
+                        "lng" : 12.4175476
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "shw~FynxjAHbE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iow~FqpxjAxAKh@DRHIj@fAFHbE"
+         },
+         "summary" : "Via Gregorio XIII, Largo Gregorio XIII and Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

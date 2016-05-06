@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJVblgc6zGhkcRqZWuyTdH-10",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJVblgc6zGhkcRqZWuyTdH-10",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.46311499999999,
+               "lng" : 9.1875084
+            },
+            "southwest" : {
+               "lat" : 45.46311499999999,
+               "lng" : 9.1875084
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Torino, 17, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46311499999999,
+                  "lng" : 9.1875084
+               },
+               "start_address" : "Via Torino, 17, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46311499999999,
+                  "lng" : 9.1875084
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.46311499999999,
+                        "lng" : 9.1875084
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Torino\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "montG}law@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46311499999999,
+                        "lng" : 9.1875084
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "montG}law@"
+         },
+         "summary" : "Via Torino",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

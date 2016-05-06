@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDQ3LCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRaIj6iRtiEcRoeXy9CLaC9k",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0593105,
+               "lng" : 7.675896899999999
+            },
+            "southwest" : {
+               "lat" : 45.054006,
+               "lng" : 7.659251
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1762
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 395
+               },
+               "end_address" : "Corso Alcide De Gasperi, 41, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0554024,
+                  "lng" : 7.659251
+               },
+               "start_address" : "Via Nizza, 47, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0546413,
+                  "lng" : 7.675896899999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.0541266,
+                        "lng" : 7.675712199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Nizza\u003c/b\u003e toward \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ov~qGkezm@lAZVH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0546413,
+                        "lng" : 7.675896899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 673
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "is~qGedzm@V~AALQbAm@`EEVQz@Qz@e@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0541266,
+                        "lng" : 7.675712199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 481
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 45.0593105,
+                        "lng" : 7.6634331
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@[jAuArEkAdEQn@Qp@M`@Sn@aAhD}AjF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554024,
+                        "lng" : 7.659251
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "us_rGmwwm@TJvBtApAn@\\l@nB~BnC|D~@hAdBxBhB`C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0593105,
+                        "lng" : 7.6634331
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ov~qGkezm@dBd@V~AAL_AdGWrAw@vDqAdEoBbD}ChEaBpBk@`AqB~G}BhIuAxE}AjFTJvBtApAn@\\l@nB~BnC|D~@hAnEzF"
+         },
+         "summary" : "Corso Germano Sommeiller, Corso Luigi Einaudi and Corso Alcide De Gasperi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

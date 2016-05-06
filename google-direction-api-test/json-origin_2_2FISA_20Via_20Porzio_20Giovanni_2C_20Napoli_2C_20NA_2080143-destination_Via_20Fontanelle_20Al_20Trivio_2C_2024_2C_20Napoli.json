@@ -1,0 +1,324 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJpbU5-wCoOxMR4A4PCyPhCRw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ8S1OPgYIOxMRHqtqFxYOhfs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.86846750000001,
+               "lng" : 14.2961178
+            },
+            "southwest" : {
+               "lat" : 40.8638906,
+               "lng" : 14.2754786
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.2 km",
+                  "value" : 3214
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 470
+               },
+               "end_address" : "Via Fontanelle Al Trivio, 24, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.86593,
+                  "lng" : 14.2756953
+               },
+               "start_address" : "80143 Naples, Italy",
+               "start_location" : {
+                  "lat" : 40.8655487,
+                  "lng" : 14.2888708
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 333
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 40.8671652,
+                        "lng" : 14.2921946
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eVia II Traversa Macello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uplxFmxevAcBqEuAqDGQUo@GQg@oA[}@EG?CKWAAAAECCE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8655487,
+                        "lng" : 14.2888708
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 40.8660114,
+                        "lng" : 14.2931208
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Michele Parise\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yzlxFemfvAJEDEBGBG@CBCNI`@QBCBCBOLGFCVKl@_@TQDEPQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8671652,
+                        "lng" : 14.2921946
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 194
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 40.8646656,
+                        "lng" : 14.2945862
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Leopoldo Tarantini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qslxF_sfvATWb@c@dAeAn@q@VWbAyA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8660114,
+                        "lng" : 14.2931208
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 453
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 40.86846750000001,
+                        "lng" : 14.2961095
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nicola Miraglia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eklxFe|fvAoCEaAAy@K_D_Ae@WqAw@o@YQKOKy@_AQUGAKAKAU@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8646656,
+                        "lng" : 14.2945862
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1046
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 163
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639302,
+                        "lng" : 14.2852533
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}bmxFuegvABHnBrI|BtJLl@BLBD?LHZDNV~@p@fBPh@Nd@~EjMn@`BFPdF|MHT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86846750000001,
+                        "lng" : 14.2961095
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.8649512,
+                        "lng" : 14.2844108
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Vicinale S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qflxFyaevAyC|Bq@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639302,
+                        "lng" : 14.2852533
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 292
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639241,
+                        "lng" : 14.2812984
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Aquileia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}llxFq|dvAh@jBhA~ET`ADLBDFFJJFJDJZzA@R?RANCJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8649512,
+                        "lng" : 14.2844108
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Vicinale Cannola\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oflxFcidvA}@n@i@^OJQjAWpBg@rFaB`QAZ?D@B?H?H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639241,
+                        "lng" : 14.2812984
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658322,
+                        "lng" : 14.2754786
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{olxFydcvAc@@C?i@?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Ferdinando Manlio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mrlxFwdcvAAG?AACAS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658322,
+                        "lng" : 14.2754786
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "8 m",
+                        "value" : 8
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 40.86593,
+                        "lng" : 14.2756953
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fontanelle Al Trivio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "srlxFyecvAMI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8658647,
+                        "lng" : 14.2756491
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uplxFmxevAiHmRO_@IIPKLWp@[FGBOLG^ObAq@VWnDsDzAqBqEGy@K_D_AwBoAaAe@iAkAQUGAWCU@BHlFhUPz@BRNj@V~@p@fB`@nAnGlPlFnNHTyC|Bq@h@h@jB~A`HHRRRLVZzA@RAb@CJ}@n@y@j@i@|DiCtXA`@@L?Hc@@m@?AICWMI"
+         },
+         "summary" : "Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

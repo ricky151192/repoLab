@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwVMGjkZtiEcRZ6v4zae1us4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKU7Cd0xtiEcR6GMidaMkoRE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0538072,
+               "lng" : 7.682451100000001
+            },
+            "southwest" : {
+               "lat" : 45.0446381,
+               "lng" : 7.674752799999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1741
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 338
+               },
+               "end_address" : "Via Giotto, 27, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0446381,
+                  "lng" : 7.674752799999999
+               },
+               "start_address" : "Via Tommaso Valperga Caluso, 1, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0538072,
+                  "lng" : 7.6762431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 522
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : 45.05222089999999,
+                        "lng" : 7.682451100000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Tommaso Valperga Caluso\u003c/b\u003e toward \u003cb\u003eVia Saluzzo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iq~qGogzm@ZmCf@oFZeD\\uCn@mC`@aBn@aC|@mD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0538072,
+                        "lng" : 7.6762431
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 483
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 45.04830459999999,
+                        "lng" : 7.679852899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kg~qGin{m@fC|AjDvBHBTDJAF?HDPH~A~@|CtBlCbB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05222089999999,
+                        "lng" : 7.682451100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 45.0464677,
+                        "lng" : 7.678284999999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "{n}qGa~zm@K^pCnBxCpBlAv@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04830459999999,
+                        "lng" : 7.679852899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.0446749,
+                        "lng" : 7.677618499999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mc}qGgtzm@zCv@jEjA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0464677,
+                        "lng" : 7.678284999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 217
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.0451685,
+                        "lng" : 7.6749478
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Tiziano Vecellio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ex|qGcpzm@QnAUfBSlCg@nE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0446749,
+                        "lng" : 7.677618499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "61 m",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.0446381,
+                        "lng" : 7.674752799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Giotto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i{|qGm_zm@hBf@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0451685,
+                        "lng" : 7.6749478
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iq~qGogzm@|ByT~D_PrHtE^HRAZN|FtDlCbBK^jH`FlAv@zCv@jEjAQnAUfBSlCg@nEhBf@"
+         },
+         "summary" : "Via Tommaso Valperga Caluso and Corso Massimo d'Azeglio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

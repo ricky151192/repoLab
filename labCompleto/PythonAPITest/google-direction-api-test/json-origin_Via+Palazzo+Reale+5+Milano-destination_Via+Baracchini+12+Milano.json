@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJx7OtzajGhkcRJQpqW6sJwXc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJkZ7UHqnGhkcRDnfixCNZiZ0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4622971,
+               "lng" : 9.192857
+            },
+            "southwest" : {
+               "lat" : 45.4610363,
+               "lng" : 9.191134
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 230
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 70
+               },
+               "end_address" : "Via Flavio Baracchini, 12, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4613188,
+                  "lng" : 9.191134
+               },
+               "start_address" : "Via Palazzo Reale, 5, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4622971,
+                  "lng" : 9.192630399999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 45.4619937,
+                        "lng" : 9.192857
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Palazzo Reale\u003c/b\u003e toward \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kjntG}lbw@|@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4622971,
+                        "lng" : 9.192630399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 45.4610363,
+                        "lng" : 9.191478999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mhntGknbw@|AbC~AnC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4619937,
+                        "lng" : 9.192857
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 45.4613188,
+                        "lng" : 9.191134
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Flavio Baracchini\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "obntGwebw@w@dA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610363,
+                        "lng" : 9.191478999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kjntG}lbw@|@m@|AbC~AnCw@dA"
+         },
+         "summary" : "Via Larga",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDbAH0K3GhkcR9yCvpyi7sjg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW9cfsq3GhkcR-stEgM3x-Fo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.46603390000001,
+               "lng" : 9.1892549
+            },
+            "southwest" : {
+               "lat" : 45.4651448,
+               "lng" : 9.188149899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 274
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 119
+               },
+               "end_address" : "Via Tommaso Grossi, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4655955,
+                  "lng" : 9.188149899999999
+               },
+               "start_address" : "Via Silvio Pellico, 8, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4657372,
+                  "lng" : 9.189252999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4651526,
+                        "lng" : 9.1892549
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Silvio Pellico\u003c/b\u003e toward \u003cb\u003eGalleria Vittorio Emanuele II\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{_otGywaw@V?|A?"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4657372,
+                        "lng" : 9.189252999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.4651448,
+                        "lng" : 9.188562900000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Carlo Cattaneo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e|ntGywaw@@hC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4651526,
+                        "lng" : 9.1892549
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giuseppe Mengoni\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c|ntGosaw@}A?q@Da@F"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4651448,
+                        "lng" : 9.188562900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 45.4655955,
+                        "lng" : 9.188149899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uaotGasaw@j@b@h@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{_otGywaw@tB?@hC}A?sALtAbA"
+         },
+         "summary" : "Via Giuseppe Mengoni",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

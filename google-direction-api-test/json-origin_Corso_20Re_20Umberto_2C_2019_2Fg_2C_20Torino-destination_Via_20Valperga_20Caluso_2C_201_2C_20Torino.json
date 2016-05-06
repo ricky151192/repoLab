@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJz7duthRtiEcRj1e00JR9so8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwVMGjkZtiEcRZ6v4zae1us4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0644222,
+               "lng" : 7.680113
+            },
+            "southwest" : {
+               "lat" : 45.0538072,
+               "lng" : 7.6739335
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1615
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 305
+               },
+               "end_address" : "Via Tommaso Valperga Caluso, 1, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0538072,
+                  "lng" : 7.6762431
+               },
+               "start_address" : "Corso Re Umberto, 19, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0640735,
+                  "lng" : 7.6739335
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.0642954,
+                        "lng" : 7.674098
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCorso Re Umberto\u003c/b\u003e toward \u003cb\u003eCorso Vittorio Emanuele II\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mq`rGayym@m@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0640735,
+                        "lng" : 7.6739335
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 45.0622773,
+                        "lng" : 7.680113
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Vittorio Emanuele II\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{r`rGczym@WOb@eBbAkEt@uCr@oCJ_@FSDMDKHY~@gDRy@H]HWT}@Po@^{A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0642954,
+                        "lng" : 7.674098
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 974
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 139
+                     },
+                     "end_location" : {
+                        "lat" : 45.0541266,
+                        "lng" : 7.675712199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gf`rGu_{m@PLr@b@@@ZPZRVPjAp@p@d@FDbDrBvDbCpB`ATNx@Z`A`@z@Vv@T\\Jx@RxAb@tAd@bB`@pBp@tBf@VH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0622773,
+                        "lng" : 7.680113
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "74 m",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.0538072,
+                        "lng" : 7.6762431
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Tommaso Valperga Caluso\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "is~qGedzm@f@PV{B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0541266,
+                        "lng" : 7.675712199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mq`rGayym@eAq@fBqH|ByItA{E|@mDp@kCdAp@pAx@hHpEvDbCpB`ATNx@Z|Bx@tA`@rCv@tAd@bB`@pBp@tBf@~@ZV{B"
+         },
+         "summary" : "Corso Vittorio Emanuele II and Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

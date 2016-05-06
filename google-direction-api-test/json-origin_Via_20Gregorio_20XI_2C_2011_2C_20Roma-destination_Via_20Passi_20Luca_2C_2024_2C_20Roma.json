@@ -1,0 +1,109 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJv-YRzcVfLxMRvxoJLxv8VFM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJXYveipVfLxMRxK-sBN5c9ZQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9026634,
+               "lng" : 12.4215475
+            },
+            "southwest" : {
+               "lat" : 41.8936605,
+               "lng" : 12.4103708
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1663
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 172
+               },
+               "end_address" : "Via Luca Passi, 24, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8961713,
+                  "lng" : 12.4110984
+               },
+               "start_address" : "Via Gregorio XI, 11, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9026634,
+                  "lng" : 12.4215475
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1348
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 131
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Gregorio XI\u003c/b\u003e toward \u003cb\u003eVia Giovanni Novelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sbw~FuayjAfE|C^TRFNDtARf@FTDHFLJl@~@|BhD`@r@LPnBhB|AhAXTDHHFf@d@XP~ApA\\XRRNVX`@~@rAdDtFjArBpB`DDJNXHRJXRl@J^Pj@Rh@Xn@lArC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9026634,
+                        "lng" : 12.4215475
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 41.8961713,
+                        "lng" : 12.4110984
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjAeAnAMTSRQRGFKFKBYFY?KAMIc@McBy@gBs@EAKEKA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sbw~FuayjAfFrDb@L|BZTDHFz@jA~C|E|BzBvB~ANP`Av@|BjBb@j@xAtBpFhJvBlDXl@|@rCl@xAlArCeAnAa@h@YZWJYFY?KAMIc@MkEmBQGKA"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

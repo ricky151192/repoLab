@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiXokrlLBhkcRQk2UFJf8F8A",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiXokrlLBhkcRQk2UFJf8F8A",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4674079,
+               "lng" : 9.1843498
+            },
+            "southwest" : {
+               "lat" : 45.4674079,
+               "lng" : 9.1843498
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Rovello, 3, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4674079,
+                  "lng" : 9.1843498
+               },
+               "start_address" : "Via Rovello, 3, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4674079,
+                  "lng" : 9.1843498
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4674079,
+                        "lng" : 9.1843498
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Rovello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ijotGey`w@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4674079,
+                        "lng" : 9.1843498
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ijotGey`w@"
+         },
+         "summary" : "Via Rovello",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

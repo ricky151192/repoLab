@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ9yL0dDdtiEcRo91koXwhkZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE8G_BDttiEcRTdPOGtC7caw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0546581,
+               "lng" : 7.668135999999999
+            },
+            "southwest" : {
+               "lat" : 45.0504449,
+               "lng" : 7.6629814
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 744
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 191
+               },
+               "end_address" : "Corso Galileo Ferraris, 110, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0544802,
+                  "lng" : 7.6629814
+               },
+               "start_address" : "Via Jonio, 7, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0504449,
+                  "lng" : 7.6677784
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 45.0507319,
+                        "lng" : 7.6680493
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Chisone\u003c/b\u003e toward \u003cb\u003eVia Gerolamo Savonarola\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g|}qGsrxm@y@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0504449,
+                        "lng" : 7.6677784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.05115970000001,
+                        "lng" : 7.6672976
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gerolamo Savonarola\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~}qGitxm@uAtC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0507319,
+                        "lng" : 7.6680493
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.0518672,
+                        "lng" : 7.668135999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w`~qGsoxm@mCgD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05115970000001,
+                        "lng" : 7.6672976
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.0533128,
+                        "lng" : 7.665567
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Ferdinando Magellano\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ee~qG{txm@Q`@Qf@{@~Ao@tAoC`G"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0518672,
+                        "lng" : 7.668135999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.05390389999999,
+                        "lng" : 7.6646281
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eLargo Re Umberto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "en~qGydxm@U\\]\\y@nBGN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0533128,
+                        "lng" : 7.665567
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 45.0545274,
+                        "lng" : 7.6635289
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{q~qG}~wm@}BzE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05390389999999,
+                        "lng" : 7.6646281
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "58 m",
+                        "value" : 58
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544802,
+                        "lng" : 7.6629814
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "yu~qGaxwm@Mh@Kj@b@V"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0545274,
+                        "lng" : 7.6635289
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g|}qGsrxm@y@u@uAtCmCgDQ`@Qf@{@~A_EvIU\\]\\aA~B}BzEMh@Kj@b@V"
+         },
+         "summary" : "Via Ferdinando Magellano",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

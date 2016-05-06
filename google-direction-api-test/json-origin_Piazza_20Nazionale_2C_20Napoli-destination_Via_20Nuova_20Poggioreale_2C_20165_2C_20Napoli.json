@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJazN5bhAIOxMRSQK9Kxgy2uU",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_-KMlwMIOxMRmfwQhU6krBk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8620317,
+               "lng" : 14.2816149
+            },
+            "southwest" : {
+               "lat" : 40.8577484,
+               "lng" : 14.2726515
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1079
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 231
+               },
+               "end_address" : "Via Nuova Poggioreale, 165, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8620317,
+                  "lng" : 14.2816149
+               },
+               "start_address" : "Piazza Nazionale, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8588277,
+                  "lng" : 14.2733503
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 368
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 40.8586243,
+                        "lng" : 14.2744658
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003ePiazza Nazionale\u003c/b\u003e toward \u003cb\u003eVia Matteo Andrea Acquaviva\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ufkxFmwbvAFp@Jd@l@n@PBf@Ej@INIBC@AXs@A_CIgAIu@WYWMc@@g@D[D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8588277,
+                        "lng" : 14.2733503
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 711
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : 40.8620317,
+                        "lng" : 14.2816149
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kekxFm~bvAsAcD}AeEKUCKGKISaCqGaCyGmCoH[{@g@oA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8586243,
+                        "lng" : 14.2744658
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ufkxFmwbvARvAl@n@PBrAORMZu@A_CIgAIu@WYWMc@@cAJqDiJa@aAmLw[g@oA"
+         },
+         "summary" : "Piazza Nazionale and Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

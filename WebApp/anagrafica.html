@@ -1,0 +1,82 @@
+<div id="page-wrapper" class="gray-bg dashbard-1">
+  <div class="content-main">
+    <!-- tree line -->
+    <div class="banner">
+      <h2><span>Home</span> <span>Anagrafica</span></h2>
+    </div>
+
+    <!-- record search form -->
+    <div class="grid-form">
+      <div class="grid-form1" ng-controller="UserSearchController as usersearch">
+        <h3 id="forms-example" class="">Ricerca</h3>
+        <form ng-submit="usersearch.doSearch()">
+          <div class="vali-form">
+            <div class="col-md-6 form-group1">
+              <label class="control-label">Nome</label> <input type="text" placeholder="Nome" ng-model="usersearch.search.name">
+            </div>
+            <div class="col-md-6 form-group2 form-last">
+              <label class="control-label">Sesso</label> <select ng-model="usersearch.search.gender">
+                <option value="">
+                  Non Specificato
+                </option>
+                <option value="male">
+                  Maschio
+                </option>
+                <option value="female">
+                  Femmina
+                </option>
+              </select>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+          <div class="vali-form">
+            <div class="col-md-6 form-group1">
+              <label class="control-label">Età</label> <input type="text" placeholder="Età" ng-model="usersearch.search.age">
+            </div>
+            <div class="col-md-6 form-group1 form-last">
+              <label class="control-label">Codice Fiscale</label> <input type="text" placeholder="Codice Fiscale" ng-model="usersearch.search.fiscalcode">
+            </div>
+            <div class="clearfix"></div>
+          </div>
+          <div class="col-md-12 form-group1 group-mail">
+            <label class="control-label">Indirizzo</label> <input type="text" placeholder="Indirizzo" ng-model="usersearch.search.address">
+          </div>
+          <div class="clearfix"></div>
+          <div class="col-md-12 form-group1 group-mail">
+            <label class="control-label">Email</label> <input type="text" placeholder="Email" ng-model="usersearch.search.email">
+          </div>
+          <div class="clearfix"></div>
+          <div class="col-md-12 form-group1">
+            <label class="control-label">Note</label> 
+            <textarea placeholder="Note" ng-model="usersearch.search.note"></textarea>
+          </div>
+          <div class="clearfix"></div>
+          <div class="col-md-12 form-group">
+            <button type="submit" class="btn btn-primary">Cerca</button>
+          </div>
+          <div class="clearfix"></div>
+        </form>
+      </div>
+    </div>
+
+    <!-- record table -->
+    <div class="grid-form">
+      <div class="grid-form1">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="panel panel-default" ng-controller="RecordController as record">
+              <div class="panel-heading">
+                Advanced Table
+              </div>
+              <div class="panel-body">
+                <table id="record-table" data-show-refresh="true" data-show-toggle="false" data-show-columns="true" data-search="false" data-select-item-name="toolbar1" data-pagination="true" data-sort-name="name" data-sort-order="desc"></table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="js/bootstrap-table.js">
+    </script>
+  </div>
+</div>

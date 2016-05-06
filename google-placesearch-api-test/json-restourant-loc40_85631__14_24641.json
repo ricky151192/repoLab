@@ -1,0 +1,504 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC_wAAAN5Zixb0I2K7NaokQZEKRgCOAB885onudXxHx03Qg5KMcgl-c9Ywt6cAej5XssMvKFCakBNGX14b3V9MyVBz_iXyI-9xCUMOHSlsSZr-ET1__meicu0ucfMe3eMecynOm3AGkylNl0W8XJN33Z62716HLycgrD3dlEn7h1DWhdx06eVzKDO65qIAjInzHcWkYCbBD6qxTyB3HfWdi74C0R3UdefH1-xb6snqCRxIhZlPjDVxnvERfpRdyMO7zlgXK4FjMgnCzq2LdKOoF0BpCQTjL6JUDDsYmkjEMO29uRw6STCaOplbJ31IzJTdKqlvOx3oSzMYqAeUj5SSryWEjv8SEJQ9rBzJ96QMqQaUa0CFiI0aFBQeqcgj2dSaMJ8bACogK-7WnUXC",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8517746,
+               "lng" : 14.2681244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7920363,
+                  "lng" : 14.1394899
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b2aaa9753e7bab447d0a3f71a2336c8bb96c3cac",
+         "name" : "Naples",
+         "place_id" : "ChIJ6_p622YIOxMRfriMZcxDOtI",
+         "reference" : "CnRqAAAAQdkcw3p0tFGTM-IFI6l92AJnP1mYwg9bkbvXk6jqcWCpSTDhYAU_FwLkwdJtocI8ChAVdSzeVK6WeNbjtUlTWGZmCpRhZDrSTBLWfxXDHASSClTZg1SGGWA5VfXAFsWoNqIHK5DYjLqod9wTDq-pvhIQsLVr-dl185C6lVm0QmGZlhoUTZNI1xChTXlkJRIEIxnG8qVfSPM",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Naples"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8505027,
+               "lng" : 14.2516128
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7617328722747f059545dcdbc9d1ff6db227a4bc",
+         "name" : "Hotel Piazza Bellini",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111240255473550606079/photos\"\u003eHotel Piazza Bellini\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALUVyjsD87Qizv4JxpQa4vGSyI_Y0I1_2pISDFrEEl0ulo43wywNKvtdL3PWjJZwPRVWHefh3AZ7zof41si5EzCF2_lbNpEbl7EU4AYbnSrd1PlqlHIhbUyUS9t7-8tVX3JJ4fiD2-gOHZEhO2YD4wRsTHEMwNQM5y0LNWOycuuOEhDeENOyJRw5yeWpMolPMx7RGhRna5gaJtRX8RdkSE6jLP88AVz04Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJAWE110IIOxMRvdkJ2HZxj6w",
+         "rating" : 4.5,
+         "reference" : "CnRoAAAAlsy3PxrDPbXgUyuQRKyrhHqW1fTLbqTuet1UJcDuyfdHKNzrIhsiBMlUijpUf0_GrDAP83F18aMH5jMT2JUKAQsVIZWMAxw1g4YZS7p78JcgdXOKwKymrpj3VC8sYLoM-47KbM1RMAeHnLCxD6ROiRIQyy_2QUJWDJ8d1W6nIT_B8BoUDH9oqO-kFsIldHfwo4365A6vneE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Maria di Costantinopoli, 101, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.851382,
+               "lng" : 14.243982
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "5a073b8b7b0a33d81f8fdea784b98d0c2291741f",
+         "name" : "Ospedale Gesu' E Maria",
+         "place_id" : "ChIJ2QWJYF4IOxMRhGF7-zfSa5Q",
+         "reference" : "CnRqAAAAsKihD-NrMtPlv1ODH7AasDp97tStu5fYlG6RloL2Ic3cEpCsph9jqc7OLI5b9KGkqS9KJOF7yP9i9A30CsZ4oYgA9th5JBcpgHt0YLfbEFs5zQ6ELxrhlM8Xk8ebWTyRKdgm1jeTU_9alQhk20oaYhIQw_QD-IhfVovUQQbQWstnKBoU81o6FNH-JuUjlu3IN5RYWq10CWo",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "Naples"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8536462,
+               "lng" : 14.2464607
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b755916ac608d692e5a7d73738e6b7c920172da2",
+         "name" : "B&B Terra Mia",
+         "place_id" : "ChIJfRl9WWcIOxMRhAFWx8xuNZA",
+         "reference" : "CnRhAAAAMlFMWSz7AwALiq5iUeigsYoCJNBPc9Rfuyw--0mLnWQi6M05Z6Y68IXUx5Ngj9PL7OBezm8RdNGEhgbfTO_5s05vjqTVBZHOnmR1LJLPGg1gY7oVh5FkkAfRiWjlptoZBRFvMT_lfSRHSbhQnGKMYhIQn4JLBBvTwhTj_8mC-XarMxoUqft3No7SHhPZVUi71RwPmsWsEZY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Salvator Rosa, 63, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85655499999999,
+               "lng" : 14.2486198
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f3313c7d3d30e7b42f11079fdc3473b79b661a46",
+         "name" : "B&B Chiaro di Luna",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101520789429147442065/photos\"\u003eB&amp;B Chiaro Di Luna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFYLmdVsctZvpvA-b6hH35k3lOYkngdbqfbcL_o6EPNFn4Y_-a9T7nhj_AMgVxvO_l7yrgcXV0Eu6zc0i1fl6811PhSTqm99aB2F9MXd09okIPM--mWy-ulishfErjWFgkmXzHaVpG8Tc9FKSyBUrKr6ELaaX72zWUod4X2T1gnzEhD3Zft1cjKbch20zN7qz0npGhRxeFwbOjZQqaYRmrTN4qvnOs9FQw",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJlWa6XmYIOxMRKEf3XhXMDn0",
+         "reference" : "CnRlAAAAO2BUzYRWQsoO9G0oetTV-TkpBp0INhSMYq-AVUtU_x56pqXJwSsMRm_Ou5MK-6xdMS1TuqwFVhRg-uV3_I_Df1K6zs0symjKYPaTmVDoFmVtqtJLC3rBFWGT0if2g5T9V95SuLup0PUPC7bSfmr9FxIQHsOkgkrksjUDQJ7LyxlKQxoU8WhbBdgBqrjfuaBR64KauhXy6yY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Teresa degli Scalzi, 118, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8522098,
+               "lng" : 14.2402804
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7f129ef83a4947385adffc5178a04484d982404b",
+         "name" : "Hostel La Controra",
+         "photos" : [
+            {
+               "height" : 503,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107513838449196604135/photos\"\u003eHostel La Controra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADpcMuu4n73dXtGjBbMhyqiHsM4IBgU2B0LdV2_o9WzCy1Y_332hKNNp9AtX-YYFaYCUGr4pmWw7yFMpJG3pfmjEoWGWCP-pTMwekIq0pTqmTfCgZDDfC-0BlLVqOGutYy4rB21pS8vpLzQ7J0BlmdIdy5XOWQ6rg83IUhToldKnEhBFPkMqCDTgKwB7pf5BjPNCGhR2A0QhM3UIjjt6IQ-45ah5w9Y_eA",
+               "width" : 760
+            }
+         ],
+         "place_id" : "ChIJPd5sm18IOxMRrJAtQj9Fb4g",
+         "rating" : 4.3,
+         "reference" : "CnRmAAAASBKmK2EMXs3cMpZvAFRG8YYG9BmCnxR8-ONv7FNFkh_oSRpdgj2mXRxdRg-YcqAlt75pP7iu6WtTkIRt5a1yTjo0d3VxBjUdMjr_qaCOMSH8aGHf8tkfEuZ1jAk_QbbQwXRo7O7G8pd3idv7Ne2m4BIQ05BBRlerjCufq7Mo8cyE6RoUQphIS-fRS9XKWpldBGeKzoNUvkI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazzetta Trinità alla Cesarea, 231, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8507946,
+               "lng" : 14.2516807
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "88fe61128696c7e5e97e89a887ae7de458cb5d52",
+         "name" : "Costantinopoli 104",
+         "photos" : [
+            {
+               "height" : 377,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102875003860684902295/photos\"\u003eCostantinopoli 104 Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAD_cysWARast1FGcxJogsuviWic4HzlP_T8ewPYy0DKsR8Q9AZlur7e2Ee4zSXVf0ueyv6vObm9eC5ayF61tVib3mX0nKDijGaj437DdIiFsj_q01HdQ9y-d6d8Rg35SIctNRyRPE6cgOi9O0UKfZfayaSM4mE5JgiLvaetmaFnaEhDF82AFYkN6_UuTGCWPr5LyGhRD-FZRVdIcONISsUisiN-L7E0bRw",
+               "width" : 473
+            }
+         ],
+         "place_id" : "ChIJe-YH0UIIOxMRbUgIZZytXzQ",
+         "rating" : 3.8,
+         "reference" : "CnRlAAAA6Qc0sIWqb_y_0rprg00-cq3qD_fuE1tGAd3Mi45MAlJudyUNOLlPEJ4QdWmmQqBmjAhhpRtJkk8X97FKxiRe9deEALtsNoQBH2N69YUKLpQnBwtJEDXy_M6ODEaAX11mI0UJ0NyMscqh8r0aQ7bIChIQwS5Q7Oegvstuz9SFZBB8dxoUm5FLX_1SPg6lKzuoJ3FVGemQjP8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via S. Maria di Costantinopoli, 104, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8582869,
+               "lng" : 14.2487662
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b4b0e59d4e574be5d859ca6d5877c20889f60ccf",
+         "name" : "Villa Bruna",
+         "photos" : [
+            {
+               "height" : 535,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111354060723281014475/photos\"\u003eB&amp;B Villa Bruna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHdIRTS4CkJG6VsrxYr_KsBVfhO4opDBl_WmlceTDw60tRnnPdfpGP2akdfyHN3ftyMU8pGRAIMFTl0tNh8milWnLQH0Tx2MwYXJvbgIKbMjBSgMUJz2GoK4U21JznIuZsjdqzdCUSDB_Az2zjjsJSrrM9a-CdjhE7sftunoW0lEEhDOHAiig_ZbZM_4BREQweLWGhTE_-6T-HT07AMW2mFF-HoYDUKxKg",
+               "width" : 729
+            }
+         ],
+         "place_id" : "ChIJRcXL1WUIOxMRiCEhcay0QhU",
+         "reference" : "CmReAAAAMXQoeuWyBDK3w2IdE4Y5eAlVqDqbdsoHcBeq-lA423HX2QFCyzAYOqgvCBKYgqTNdG9YA0Czn52nBVppxbea_9K5dbtDZo9mlhrpiVeNiHu4unrFV7dRvki1b103-Do-EhDwIGGzCywS51s8t6MrlBASGhQ7CnXUKCCb54vghmPfUtYmzfwnjg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Teresa degli Scalzi, 154, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.849876,
+               "lng" : 14.249128
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5384e5cb979797868bb7619825c13397c1efa92f",
+         "name" : "B&B I Vicoletti Napoli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109449788523012777730/photos\"\u003eB&amp;B I Vicoletti Napoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKI561ot7waTIvypsq8Xh1PoXHdnme3dPOsSOMlQe-1euvBvNN6CyQSpVKQwxaFHs3acGNTRdILjTyD-6O_s4GljeHDpVte5e4a_SSTYaS78Uc8Q5q4tKRZIyVP3I4d1vhy_kAojWtuD-uten-XhRwS0m2Nv9eWoCNtZNyntFhrBEhBwtBMXEoUD9dZSw-grQ14kGhThgNm2VlcY5IQCu7zaTsGK9393uQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJNSPr71wIOxMR55DqA_w8n6o",
+         "reference" : "CnRqAAAA-JiQ6uwVq2tIW16OEneu9JbI2OKH3Vegt6E5c07t-0-hqFWWOvvyeXEAGJoAIpS7jEBzBl4KorJ6rLoAWjaDLPpt9oz-VHCpTn0xQA9MyIFxCLQJkP-AUxivbrin1cq8gxwu0ZlwmzAbACbWJ7mefRIQsbT_hOX2JTdAhg_-ouknSxoUYmeFzgIBSpS5IbJe-wQWrScsPLA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Domenico Soriano, 46, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8509093,
+               "lng" : 14.2491023
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3ceb68a8f7eaaafd95866f02d8ad58dc27b2f4a1",
+         "name" : "Correra 241 Lifestyle Hotel in Napoli",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1130,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111878620058357107654/photos\"\u003eCorrera 241 Lifestyle Hotel in Napoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAKcqjTWcibUukDuTEtv1qUd6QT5oVAIhKW2Uyo0aJPHYjHPLIK23DCjSiveNYi73j2qmS5Smk1t3QvtbzI-Ld3FCElzSGoRpHcrRNEaEeQ6xE7DuOK0lB3lDk8nOEh6nqLckUmVa5_nMaYnNHu5pxrK55phxrvbIa853BcUM-3NZEhAFxZkADGU11p55-8858gjDGhSkgY_3JRT-7iAMYBQtJqjLiWNcUw",
+               "width" : 1130
+            }
+         ],
+         "place_id" : "ChIJDffLHF0IOxMRcf1HiYWUITo",
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAOA-CXc9A1d1pW1UNfpviGSYWZY7RWcHyimhzCWbQ1UXOe1dlCQ8WLsG4kk9OwwdLLlRmhx_0feZynlnx22PdxdNXPw73ndnB0U9f5uiywmieXAIsDgPLNscIYiFmViX9PR2lKPyf4n8J_NYK-G1H7NG4-17lK-RsCWCKJt3ZeFhEhAwJOeTwTlOglJ3zTe3RK2OGhQ7LGhXc3XbmvAxE0R0UFKt4_FjyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Correra, 241, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8530252,
+               "lng" : 14.2514281
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fe4e3768723f9b2f7222fd9d98225a357551547e",
+         "name" : "Bed & Breakfast Museum",
+         "photos" : [
+            {
+               "height" : 1362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103868683366996052793/photos\"\u003emarco de simone\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABVBTysAO1P66qp69SZ2h2aKcXjJaLgv7LHgJTPf0nyDL7zUyZUbV2oPD6fg8RzwzlsYAmqKZJ9qkd3XdW86wMhic5QXuMxjnwLo8q6lvcIqHXlzHKPXKQHmQ2cxspPwmErqcB8FQly-oDB_Akdr8DQKwNmSYBhEXmQzVhFYHPfVEhDLCtUg6QdqpbrDRrWSTBvVGhTWYVHLNvSSbaBzOHcbR0U4a3S0gA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ2QLUAGgIOxMRU1MbFBF5Ogg",
+         "reference" : "CnRpAAAAt7lLwif4JsLw2ImD8NzttSsrFmyOMIbXDTHRzf-y5MkZpqI9pJMdP7OuIRUK6d_yuBCProCRBx3gOL0EKkJ8gSkGuex91I189b1KAeeoPgtJxDSip74TtoS6QwTo_CttVYCIP3Vl78THgWkDyMZYgRIQF_Qt7eypA_SvALzX0e129hoUW36S_SMRKmTUSGzE0q78KFTVUzg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Maria di Costantinopoli, 130, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.851749,
+               "lng" : 14.251845
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f6b051a6b5992363d9df4a90eae3df43b9026fd0",
+         "name" : "Belle Arti Resort",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 436,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107958169281886881955/photos\"\u003eBelle Arti Resort\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACOcGlm15GfbpnEklDMHMMJjzY8omr3nKOJhHCjflHir_rY-vTiI1D7XzfAf86EcmJGK1lOP-_Fm1Cu6ddz-lew2cURSzZOq-3ZI8gEejumzyzlW1DqOAMiGJO7GYcLqVTIUfzHe6tiRByChNYXqtIyGts0PzdKvV3_nM787cJJIEhDj4KZMd_qk4pq79N14qkk_GhS5_BULVvnK_etDOzuZKdbKg9PqdQ",
+               "width" : 436
+            }
+         ],
+         "place_id" : "ChIJpT5Ht0IIOxMRc3vG8HJCvSk",
+         "reference" : "CnRkAAAA-zd38kVuu6W-gkZ4Juy0yYY06RYJMUfIeu9_TabH-yzZu9blL2IsafGrsXY4qx8gpeJMS0ESXwJpqQtGkKu4v6oS-FT7a-T85vsyidZSQLgMXyuR34rzRTvlYjsCArwmfO_YGyEAUIfd88t4_Gpw-RIQxvK80QHkxSUIHHUvTA_ZgBoUaaQqhvy--Qm6gbxZAbR1Hypl41g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Maria Di Costantinopoli 27, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8550906,
+               "lng" : 14.2440453
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "162911cd224e666d4445eb8637011ab362ee0fd9",
+         "name" : "Chiesa di San Raffaele di Materdei",
+         "place_id" : "ChIJfwfKwWAIOxMRhbiYCGvXydA",
+         "reference" : "CoQBdgAAADKumMvUcd0cdeQt4L9l6TUYTUMGFx87qE9rDyfgBtosJJ9u9YSttJcykGQB1sD0ZWJSNVqwHR6KdbGKzbglVqqxUEtBcbdDfCNoOfooWJ7YjlbM9V_TsTNbSDkrx1B6vimC7p48dGSol40AXuucSQcTZdtVpqYZrc1x08gOgbu7EhAPRcsAYa7ufLAUKrY4BSTaGhSyYyR2zpYzOMXdoBmEJM0sP-mGyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Amato di Montecassino, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85491809999999,
+               "lng" : 14.2487499
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0643981f8fa14a2e58dd4b5cb126f8c4b49f7193",
+         "name" : "Chiesa di Santa Teresa degli Scalzi",
+         "place_id" : "ChIJF83zpWcIOxMRJWgz7YzO_9A",
+         "reference" : "CoQBdwAAAAHv7jCDGCX7nGccZ4NGPziUBGJXCEFl0_bmCl88qo5xOtxZoTiqSouilrVjUAn1sx5JW9uRSqBFwEODUxngpjDPG64VvZckqBBEoP931ATmmmbglwWaA9_UsbMaIlJcOrPzJsmAwlHFyKE90vIc_ABn2b7YftYCIXWtn0_-e6gfEhAebgm8FX8O9DlfUA8qCaGJGhR1V36KJES9A0jQxZJV95I2lStXjA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Teresa degli Scalzi, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85574810000001,
+               "lng" : 14.2545382
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4fd30cd8df14279cff4a5290a1703e836313560f",
+         "name" : "B&B Conte Cavour",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108904566135112402204/photos\"\u003eB&amp;B Conte Cavour\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFXTTD8espurP51kI-VtaCmiYfR954ujAloOGj1Bi3VxmPLoHofLhe3TnxIbm7Skb7hM3pjY6xf8astx-LvW8vFx8gzOeLnDPif1Hox0UlJ5VVxMo8ITqqwiaEMgaj2htO_JVpfcv9V9RarnWBwIyUpi2Ix4FhvMRZu-lUSCpvCiEhCz8mP3EVIrzG6AgZyQVGisGhR9hhOu9MV9FwMaLd0YYFkcqZ_I5w",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJl71tGWkIOxMR5iUyTNOp1ho",
+         "reference" : "CnRjAAAAS6tp_67aCjyklN7i_nbLQcFciueAmSlCJ1bAjhEUnMBWYonZ1okFoG8_bZ82QURpb871vTcE92kGJ1GbH7z94O9IGtUzjJUpyA0cVNSJgQ4G7-SdGeG9dU2gXSqnl9qbGMAWQ4jv87azh6P0AwnwPxIQXrUh9OpI17EZ9KTIcpolIRoUA8mkvqRxC_87qKW4V1TwEGXpph0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Cavour, 152, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85589599999999,
+               "lng" : 14.2453596
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e0ccaddd911d36e58d3414cbab5193c9582c3d31",
+         "name" : "Chiesa di Santa Maria di Materdei",
+         "place_id" : "ChIJj_c51WAIOxMRirJD5EiQF24",
+         "reference" : "CoQBdAAAAChOm4R8IqVHhqDYkIPO5pTqwfW5YPadqCLuqe13OpQAMvXQk-uxpNKnFpiDDeig0ZgJgo-Mxx8lwkNs2ubl3aa4xM5mtLOpJRn6IcTZmroe6R-3tsC4VzQO6ypR2TtDbsfIbQ61IFNK9iyI1fn9tBqWwhfL_Ub-FQTSwUxffjnhEhBZfkmW8ppgWjgmkJR3aigLGhSNzHNmMtio4b1xNWYmL_15ypJCiw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazzetta Materdei, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8504183,
+               "lng" : 14.2547905
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3d3eb27f35c3a2be491581df68f61d1cf1317cde",
+         "name" : "Le Terrazze di Neapolis",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117505411054585150052/photos\"\u003eLe Terrazze di Neapolis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAF9O8mybDTFT3gBNtv6hWoAsHz_ikrG5ynw6vjwVHe0BA2bJ3INFYdkjm5QBNgfiWMheuGnRi9uTFiDzX7uE-cWn4cF8OXUM3eQIMUOxk-I0uX47B-1LfSMC4CMHDFfkSO4L22P8XYHyvaxh01sLU37WUxPedafSae5ioagPRJ7FEhBqHX_1hNltbQV4kR5yYgmnGhRXN1Z6TiA_PC4XisKxIqK5FojLMw",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJG0VDUEIIOxMR83f-v8vVevs",
+         "rating" : 4.4,
+         "reference" : "CnRrAAAAPOL0mOio90WOaCUC8kRF9Tc4nuLs_NHNHkukCo32IxY9Hv5zzClFEZ-WFNKBH9Se_CoYrR5LR2KN_3uitKmeUWtFDUdIdkGPufeV5mxR8w2mOYYga_A2HV-G7NjcoCO8I1xbCIpJHM2BIKtSgAprehIQE79XlTcIqtE0_jZ7kFcmKBoUkgCGpD9KaPFwjiW9C7xCPuHYi3g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Atri, 31, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8524329,
+               "lng" : 14.2504504
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e4627c79c30b0acf50bd2b5b068c9f2bdee4c335",
+         "name" : "Galleria Principe di Napoli",
+         "photos" : [
+            {
+               "height" : 2014,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117162507282113102399/photos\"\u003eJeremy Hylton\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAKJ4Rx5fwp6xwr7_bFE8rsFp-9Cuv4uqB3GuGgaSc2nzLWkNDh_peyj27E9ZO9CNGuCUR3acoGRmOrbiGgKtvhk4KyRCcTwiIUIvxVzowKVywtNI7V7D9HMCCxWWI0gx8Ndm8HMlojcesFLoIGZXVJCi2ufvDd2s_mI27LSaVM2EhDAetlFhacAHEPy25YGDNKaGhTpkZQim6UdTR05uGpXQu-clUZztw",
+               "width" : 3039
+            }
+         ],
+         "place_id" : "ChIJ5Up7Wl0IOxMRuSSpq0Rx71w",
+         "rating" : 3.9,
+         "reference" : "CnRuAAAAk-ZPg7zptRmlUb8fk3EWrL6pRi0Vzzc6ycEwA5_avCUUgH-8SHaGFr4Qh99S_J5NAvbor8VmKEQ1chq7po9Yh676onBdKdPiGURCyKKBxqLdW7tpbIeEMn1SmyoxGh_2F37acVmyIMFkX0sNYsLskRIQS4v0oiYoE27nlfdepNEzDhoUSKwhP1jvquFB3Axh6t7ArglRMi8",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Montecalvario, Naples"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84963,
+               "lng" : 14.24912
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "84fa13cb0936e7517928c76e188ddc883e219e0c",
+         "name" : "B&B Soriano 44",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105293121645095106119/photos\"\u003eB&amp;B Soriano 44\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEosrNWDTtdEKnlGBcDqapYuIjkiOmk9ZH-m6sro24fRpN60CX1Cxnp5bZkr1ObBxhkzZjndAPH3L8YBT1G4b-Qs7KXqiQ8rU8JhIHROG-A3ylQAk3qgGHaRadUslQJABjW2n_TaXnyEbTXUYPY5aFAYYggyshD_ISNlWq785k8KEhAkirZlnjCa_ybxkXUxBbo_GhS-6okVPfELvWwb2Ob2NdfwNW940w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJNSPr71wIOxMRBPgiDc1mCHk",
+         "rating" : 4.4,
+         "reference" : "CnRhAAAAxbLtdNmqEo9Khor8WPd-C4gycIg8G4oZwaotei00LK1m0kohM294AHJ2g490RVwDfaG1HF82b3HzKi5zNpFVJSb388N024aDh1oR3V9y_fbrT2xE47_zk6b4DVXwL_om6JQGHbui24Dbf2owU9V-9xIQDTzESNLORn3jXBC2bcdTeBoUE3GebHQVZwHJJq-s0RMXVZnsBrc",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Vico San Domenico Soriano, 44, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8528532,
+               "lng" : 14.2308738
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8612129,
+                  "lng" : 14.2426433
+               },
+               "southwest" : {
+                  "lat" : 40.8462164,
+                  "lng" : 14.2149354
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "dad835f5a08c0387726d3787007278932e70e0d3",
+         "name" : "Arenella",
+         "place_id" : "ChIJBQnse_IIOxMR2QuqxclFMEM",
+         "reference" : "CoQBdAAAAB5k7y-9ZZUQtTZKbfPNN_Vas82O1du2RyCPNrrqZxJmaZD2m2Xye5cCzmLgJmqbdmYI9zEIJr5AEMZ17N5gP1I_5avo1jfFicUjw34Ye2B1UOLVxJEnUPEWxvygkedgxUcync10VszdFC3jwg0eheSxoyN1_djXZ3EWzmAKIBMbEhAv44sO-3YwBBcwYkP6yGu0GhT0fGgxk5XXNqvofs8Gl67uu5ilYA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Naples"
+      }
+   ],
+   "status" : "OK"
+}

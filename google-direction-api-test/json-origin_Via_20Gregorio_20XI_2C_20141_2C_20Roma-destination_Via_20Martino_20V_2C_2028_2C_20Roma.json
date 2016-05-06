@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EihWaWEgR3JlZ29yaW8gWEksIDE0MSwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsT0lW89fLxMRywMQwfUfCqI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9074462,
+               "lng" : 12.4237895
+            },
+            "southwest" : {
+               "lat" : 41.899551,
+               "lng" : 12.4190614
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1692
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 371
+               },
+               "end_address" : "Via Martino V, 28, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.90542689999999,
+                  "lng" : 12.4217443
+               },
+               "start_address" : "Via Gregorio XI, 141, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.899551,
+                  "lng" : 12.4190614
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 474
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Gregorio XI\u003c/b\u003e toward \u003cb\u003eVia Fulvio Maroi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eov~FcrxjAIO}BiDm@_AMKIGUEg@GuASOESG_@UeHgF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899551,
+                        "lng" : 12.4190614
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035818,
+                        "lng" : 12.4192254
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qew~F_dyjAk@`C[zDMxCC`A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 592
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 41.9074462,
+                        "lng" : 12.423723
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia del Forte Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "khw~FesxjAkCuAsBiAmDcFwBaDi@gAYi@MKSIUGOCICKGQUWi@EUE[GiA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035818,
+                        "lng" : 12.4192254
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 306
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pio IX\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q`x~FgoyjAjEM\\?N?F@FBlAlAvCpC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9074462,
+                        "lng" : 12.423723
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 41.90542689999999,
+                        "lng" : 12.4217443
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Martino V\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqw~FohyjA{ApD?@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9049663,
+                        "lng" : 12.4226367
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eov~FcrxjAgCyD{@kAIGUE}B[c@MeI}Fk@`C[zDQzE_G_DeHeKcAqBa@Ue@KUKi@_AKq@GiAjEMl@?NDdF~E{ArD"
+         },
+         "summary" : "Via Gregorio XI and Via del Forte Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,181 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR4HMiLhfLxMRUPzKx8KSs1I",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJ9dcMANBfLxMRv8Soj7K9QD8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9052236,
+               "lng" : 12.4268502
+            },
+            "southwest" : {
+               "lat" : 41.9019269,
+               "lng" : 12.4142413
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1552
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 353
+               },
+               "end_address" : "Via Andrea Alciato, 14, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9044199,
+                  "lng" : 12.4268502
+               },
+               "start_address" : "Via di Boccea, 302, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.90311620000001,
+                  "lng" : 12.4142413
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 943
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 212
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia di Boccea\u003c/b\u003e toward \u003cb\u003eVia di S. Zeffirino Papa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oew~F_twjAYuAS_ACOG]G[Ec@GsB?s@AaAQkJ@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BK"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90311620000001,
+                        "lng" : 12.4142413
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 240
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036006,
+                        "lng" : 12.4254929
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "o_w~FmxyjAd@sAFQsBj@e@JOBO@OCQE[GWCMAQ?K@Q@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.9050154,
+                        "lng" : 12.4253316
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eVia Domenico Tardini\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "ohw~FizyjAO@iAJ}@Hc@BeADYA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036006,
+                        "lng" : 12.4254929
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 41.9052236,
+                        "lng" : 12.4267629
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Francesco Albergotti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kqw~FiyyjAUoCCWEWG}A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9050154,
+                        "lng" : 12.4253316
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 41.9044199,
+                        "lng" : 12.4268502
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Andrea Alciato\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "srw~FgbzjALCHAF?j@@T?J?ZETG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9052236,
+                        "lng" : 12.4267629
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oew~F_twjAy@cEM_AGgDSmLB}AFoBLyCZ{Dl@kCj@gDbAsFh@mCPi@Ro@l@eByCv@_@Da@Is@K_@AwBPaBLeADYAYgDMuBVEr@@`@?p@M"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

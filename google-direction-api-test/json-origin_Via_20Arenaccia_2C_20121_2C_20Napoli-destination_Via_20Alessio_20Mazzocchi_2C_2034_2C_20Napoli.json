@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EihWaWEgQXJlbmFjY2lhLCAxMjEsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgQWxlc3NpbyBNYXp6b2NjaGksIDM0LCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.86306099999999,
+               "lng" : 14.2702379
+            },
+            "southwest" : {
+               "lat" : 40.8614123,
+               "lng" : 14.268313
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 309
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 89
+               },
+               "end_address" : "Via Alessio Mazzocchi, 34, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8630425,
+                  "lng" : 14.268313
+               },
+               "start_address" : "Via Arenaccia, 121, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8616296,
+                  "lng" : 14.2702379
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8614123,
+                        "lng" : 14.2695401
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia Nicola Rocco\u003c/b\u003e toward \u003cb\u003eTraversa Rocco Nicola\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "exkxF_dbvA`@jBH^"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8616296,
+                        "lng" : 14.2702379
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 40.86306099999999,
+                        "lng" : 14.2689756
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Attanasio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yvkxFs_bvAsARcAXwAf@yAX"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8614123,
+                        "lng" : 14.2695401
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.8630425,
+                        "lng" : 14.268313
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "calxFc|avABdC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86306099999999,
+                        "lng" : 14.2689756
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "exkxF_dbvAj@jCsARcAXwAf@yAXBdC"
+         },
+         "summary" : "Via S. Attanasio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,202 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhY1Tf6bGhkcRnIBuieQjzG4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpaXUIa_GhkcRSclt1SdAGtI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4636995,
+               "lng" : 9.198745499999999
+            },
+            "southwest" : {
+               "lat" : 45.4619122,
+               "lng" : 9.193615299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 735
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 190
+               },
+               "end_address" : "Piazza del Duomo, 16, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4636995,
+                  "lng" : 9.193615299999999
+               },
+               "start_address" : "Via Francesco Sforza, 12, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4619122,
+                  "lng" : 9.197508400000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632066,
+                        "lng" : 9.198745499999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Francesco Sforza\u003c/b\u003e toward \u003cb\u003eCorso di Porta Vittoria\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}gntGmkcw@}A{AQQsCiC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4619122,
+                        "lng" : 9.197508400000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 155
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631785,
+                        "lng" : 9.1971317
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Augusto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "apntGescw@Mx@UpAEXCXQhAPH\\TLLFJ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4632066,
+                        "lng" : 9.198745499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.4629669,
+                        "lng" : 9.1949855
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Verziere\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{ontGaicw@BJBTBTB`@?DAdA?j@@l@FlAP|A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631785,
+                        "lng" : 9.1971317
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.4625308,
+                        "lng" : 9.1938721
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qnntGu{bw@N|@DPBLf@rATl@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629669,
+                        "lng" : 9.1949855
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 45.46347919999999,
+                        "lng" : 9.1936331
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Clemente\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykntGutbw@CF?BA@ABABA@CDA@A@C@C@_@Ao@BqAF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4625308,
+                        "lng" : 9.1938721
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25 m",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.4636995,
+                        "lng" : 9.193615299999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Fontana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wqntGesbw@k@@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46347919999999,
+                        "lng" : 9.1936331
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}gntGmkcw@oBmBsCiCMx@[jBUbBn@^TXNxA?dDFlAP|ATnAj@`BTl@CFADCFIJGBoA@}BH"
+         },
+         "summary" : "Via Francesco Sforza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4ZgAybhfLxMRe-qN4xFfbZI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJswx30JRfLxMRObM82OC53W4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9036136,
+               "lng" : 12.4274542
+            },
+            "southwest" : {
+               "lat" : 41.8929679,
+               "lng" : 12.4131127
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2877
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 536
+               },
+               "end_address" : "Via Aurelia, 702, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8929679,
+                  "lng" : 12.4144751
+               },
+               "start_address" : "Via Bra, 15, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9021268,
+                  "lng" : 12.4133538
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.9030263,
+                        "lng" : 12.4131127
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Bra\u003c/b\u003e toward \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i_w~FmnwjA]JUD{@NcAL"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021268,
+                        "lng" : 12.4133538
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1038
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 234
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}dw~F}lwjA@aA?m@?YCWEa@I]YuAS_ACOG]G[Ec@GsB?s@AaAQkJ@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BK"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9030263,
+                        "lng" : 12.4131127
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o_w~FmxyjAd@sAv@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1082
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 41.8942255,
+                        "lng" : 12.4162179
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjAK|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@DH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LTNZLZR`@LTv@rAHJFL\\f@jAhBVd@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 41.8929679,
+                        "lng" : 12.4144751
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}mu~Fk`xjAE\\X`@nA`B`@j@l@v@fAtA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8942255,
+                        "lng" : 12.4162179
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i_w~FmnwjA]JqATcAL@aA?gAIy@c@sBg@iCMwCAuBOyKD}AP{EZ{Dj@aCF[fAyGjA}FjAmDv@Mv@]lDoBtEoB~Au@nAm@K|BAdA@~@VvD@LFNFp@Ht@NfAn@~ClB|GhAtChBrE~BpF`BfD`@|@dAhBzBjDVd@E\\hBbCvCxD"
+         },
+         "summary" : "Via di Boccea and Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ8WrPTMZfLxMR--e5MZ9Nv3k",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJw16IzMdfLxMRljxVDk2FdZA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9044819,
+               "lng" : 12.4187916
+            },
+            "southwest" : {
+               "lat" : 41.9035976,
+               "lng" : 12.4178323
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 195
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 57
+               },
+               "end_address" : "Via Bonifazi Ennio, 8, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9044819,
+                  "lng" : 12.4178323
+               },
+               "start_address" : "Via di Boccea, 276, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9035976,
+                  "lng" : 12.4180697
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia di Boccea\u003c/b\u003e toward \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ohw~F}kxjAC{A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035976,
+                        "lng" : 12.4180697
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 41.90393359999999,
+                        "lng" : 12.4187916
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "shw~FynxjA@m@_AE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qjw~FmpxjAIj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90393359999999,
+                        "lng" : 12.4187916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "83 m",
+                        "value" : 83
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.9044819,
+                        "lng" : 12.4178323
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Ennio Bonifazi\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{jw~FaoxjA_A~AYb@IN"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ohw~F}kxjAAiC_AEIj@yAbCIN"
+         },
+         "summary" : "Via di Boccea, Largo Gregorio XIII and Via Ennio Bonifazi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

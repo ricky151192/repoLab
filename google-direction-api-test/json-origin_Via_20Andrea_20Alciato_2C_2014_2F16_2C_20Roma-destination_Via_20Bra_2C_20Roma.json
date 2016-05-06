@@ -1,0 +1,276 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJ9dcMANBfLxMRv8Soj7K9QD8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJES5ywbhfLxMR7CStcEg7kRY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9051337,
+               "lng" : 12.4273999
+            },
+            "southwest" : {
+               "lat" : 41.9017794,
+               "lng" : 12.4088095
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 km",
+                  "value" : 2967
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 623
+               },
+               "end_address" : "Via Bra, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9019283,
+                  "lng" : 12.4134216
+               },
+               "start_address" : "Via Andrea Alciato, 14, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9044199,
+                  "lng" : 12.4268502
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036715,
+                        "lng" : 12.4273999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Andrea Alciato\u003c/b\u003e toward \u003cb\u003eVia Nostra Signora di Lourdes\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "smw~FybzjABATGZKFCDERQd@c@VW"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9044199,
+                        "lng" : 12.4268502
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036814,
+                        "lng" : 12.4254794
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nostra Signora di Lourdes\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}hw~FgfzjATzFFtA?DABABCDEFQP"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036715,
+                        "lng" : 12.4273999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.9048871,
+                        "lng" : 12.4253151
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Domenico Tardini\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_iw~FgzyjAiAJ}@Hc@BeAD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036814,
+                        "lng" : 12.4254794
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 327
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 41.9023589,
+                        "lng" : 12.4254097
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "qpw~FgyyjAGFCHAFAJ@J@HBHDDJJTBJ@H?lDQl@Ix@Od@Mp@StAa@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9048871,
+                        "lng" : 12.4253151
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1506
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 278
+                     },
+                     "end_location" : {
+                        "lat" : 41.9051337,
+                        "lng" : 12.4090324
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w`w~FyyyjAH?F@FDDFBJBNCJOb@Qh@i@lCYrACLCLa@bCe@tCEPAHk@`C[zDMxCC`ACl@An@Al@PjJ@`A?r@FrBDb@FZF\\BNR~@XtAH\\D`@BV?X?l@A`AQfDGpAAHMRc@tBQZMLOLc@XGDs@^QJQNOPIJSXsBtE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9023589,
+                        "lng" : 12.4254097
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 41.9037653,
+                        "lng" : 12.410467
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "arw~FmsvjAHRDHJL\\i@FOHYFKDMf@y@DEl@u@fAuAPQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9051337,
+                        "lng" : 12.4090324
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 41.9029731,
+                        "lng" : 12.4094623
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Soriso\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qiw~Fm|vjA~ChE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9037653,
+                        "lng" : 12.410467
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 354
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 41.9018589,
+                        "lng" : 12.41333
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Peveragno\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qdw~FcvvjAPSLONUd@aAZy@h@aBHe@L_AJmA\\qG?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9029731,
+                        "lng" : 12.4094623
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019283,
+                        "lng" : 12.4134216
+                     },
+                     "html_instructions" : "Enter the roundabout",
+                     "polyline" : {
+                        "points" : "s}v~FinwjA@?@?@??A@?@??A@??A@A?A@A?A?A?A?A?A?A?A?A?AA??A?AA??AA??AA??AA?A?A?A?A?A?A@A??@A@?@A??@?@A@?@?@?@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9018589,
+                        "lng" : 12.41333
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "smw~FybzjA|@YvAsAZzIEHWXqF^KPCRBTHNJJTBT@lDQl@I~A]fCu@P@LLFZSn@Qh@i@lC]`Be@pCk@fDm@jC[zDMxCGnBC|ARlLFfDL~@x@bEN~@Bp@AnBYxFAHMRc@tBQZ]Zk@^eAj@a@`@]d@sBtEHRPVd@y@Pe@l@gAr@{@fAuAPQ~ChEPS\\e@`A{Bh@aBHe@XmC\\qG?g@@?@?BABCBG?KCIGCG?EFCH?B"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,394 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3-REiIFgLxMRtG3doEqcKKk",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJswx30JRfLxMRObM82OC53W4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9268037,
+               "lng" : 12.4177959
+            },
+            "southwest" : {
+               "lat" : 41.8821799,
+               "lng" : 12.3789839
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "11.2 km",
+                  "value" : 11170
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 967
+               },
+               "end_address" : "Via Aurelia, 702, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8929679,
+                  "lng" : 12.4144751
+               },
+               "start_address" : "Municipio XIV, Rome, Italy",
+               "start_location" : {
+                  "lat" : 41.926473,
+                  "lng" : 12.4036646
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.9268037,
+                        "lng" : 12.4050913
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Felizzano\u003c/b\u003e toward \u003cb\u003eVia di Torresina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mw{~F{qujAaA}G"
+                     },
+                     "start_location" : {
+                        "lat" : 41.926473,
+                        "lng" : 12.4036646
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 41.9261832,
+                        "lng" : 12.4059363
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Torresina\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oy{~FyzujABIBKFIDIV_@r@aAX]"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9268037,
+                        "lng" : 12.4050913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 155
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 41.9248407,
+                        "lng" : 12.4063841
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia della Valle dei Fontanili\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "su{~Fc`vjANANAPAN?JALCJC^MbBo@^I"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9261832,
+                        "lng" : 12.4059363
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1330
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 41.9187234,
+                        "lng" : 12.3942187
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Andersen\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gm{~F{bvjANXF\\DZFTLfAh@`Ed@fDl@tF`@zCrAtFRz@N`@JVLRRVXV\\ZnJxHPPFLJVNb@Nd@J`@BFHVDR?l@ATIHGFEHCHCHAJ?J?H?J@JBHDHDHDFFDDDHBb@|@BZFh@FZJTJLNJVL^J\\Db@@d@BVFZP"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9248407,
+                        "lng" : 12.4063841
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 842
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 41.9143404,
+                        "lng" : 12.3867707
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia del Quartaccio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_gz~F{vsjAd@zE^~CFp@@v@@b@Dh@R|ABPDHx@~@FH`Av@vAz@NJn@j@h@r@pA|Bv@j@jA\\l@Tf@b@HL\\f@N^HV^|@Pb@FTFP"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9187234,
+                        "lng" : 12.3942187
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 282
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 41.9151482,
+                        "lng" : 12.3835556
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sky~FihrjA]lBw@|DQp@Kf@Mh@Gv@WxC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9143404,
+                        "lng" : 12.3867707
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.91311169999999,
+                        "lng" : 12.384875
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Maglianella\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "upy~FgtqjAHNBBRD|BeBp@c@v@aAZ]\\WXM`@MVC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9151482,
+                        "lng" : 12.3835556
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 41.9034266,
+                        "lng" : 12.3817751
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia della Maglianella\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}cy~Fo|qjAP@R@dADNDLFJDTJLHNNJLHHHLLRZh@d@z@r@bAJNLLJFTLtBl@bEjApATj@FXBvBHrBFhAD~EPH?HANEp@YTIZMVI`@G^?\\?XBl@Np@`@bC~A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.91311169999999,
+                        "lng" : 12.384875
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 41.90306169999999,
+                        "lng" : 12.3824962
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Suor Maria Agostina\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mgw~FciqjAn@`@NJDQDOBIBOB[?MC]Ea@CW"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9034266,
+                        "lng" : 12.3817751
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1498
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 41.8901264,
+                        "lng" : 12.3810406
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to merge onto \u003cb\u003eGrande Raccordo Anulare\u003c/b\u003e/\u003cb\u003eA90\u003c/b\u003e toward \u003cb\u003eAeroporto Fiumicino\u003c/b\u003e/\u003cb\u003eAurelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cew~FsmqjABO@G@O@G@KBKBMDIBKDGDGDGFGBCFGDCHEHEFAJCF?@?H?H?L@PBPBJBB@L@LDRBj@LXFb@H^Fn@HZDRBN@D@D?XEtD~@@@@?hG|AD@zA^ZHlDv@`BTzANfAFbAFz@DH?rKTpADnADl@Bz@Bz@D~@DF?v@BZ@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90306169999999,
+                        "lng" : 12.3824962
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1133
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 41.8835281,
+                        "lng" : 12.3797312
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e1\u003c/b\u003e toward \u003cb\u003eRoma Centro\u003c/b\u003e/\u003cb\u003eAurelio\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "itt~FodqjATNDBDBB@B@l@FxBJj@?pEH`@?lDDbEDX?^@hBBbBBZ?j@@f@@T@xCBFDDDB?D@J?H?N?NBLBTLNJHJHNFP@DDXBV?XCPGXKXMPOLMLSNSHWBIAOEWMOQKOEKKQIUISACSQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8901264,
+                        "lng" : 12.3810406
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.8 km",
+                        "value" : 3764
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 312
+                     },
+                     "end_location" : {
+                        "lat" : 41.8953169,
+                        "lng" : 12.4177959
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "aks~Fi|pjAUq@Ws@mB}EwAuDQa@yA{DKUQe@g@sAs@iB]aA_@mAOq@G[Gi@Cc@Ci@?}@Bw@B]B_@D]BUJk@HYPk@V{@Z{@jAmDVu@fAeDp@{Bb@uATw@Lc@DQDWH_@Hk@BQBQFe@De@HwADy@@u@@c@?o@Aw@Ai@Ck@Cg@Ei@Ea@E]Ko@E]Ki@Oy@GYI[S{@WaAeEwNgBgGWw@[_AQc@M]IQq@mA[m@i@}@i@_A[k@_@q@QYKSSe@MYIYKa@GWWoAQcAOy@Ki@Ki@QcAKe@Mu@Ki@CMESCMEOK[Og@IWM_@M_@EUCQMuAScCEg@Eg@KaAG_@Ig@G[Ss@EOYw@S[GKu@cAQSWUOKQM_Ak@qAu@iAk@]UOMa@[MKKKMOOQMOAAOGw@cAQUKMkA{AuBoCWe@kAiB]g@GMIKw@sAMU"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8835281,
+                        "lng" : 12.3797312
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.8954377,
+                        "lng" : 12.4176818
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lanfranco\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wtu~FgjxjAWV"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8953169,
+                        "lng" : 12.4177959
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 382
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 41.8929679,
+                        "lng" : 12.4144751
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ouu~FoixjAr@fAdAxAlAlBb@p@X`@nA`B`@j@l@v@fAtA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8954377,
+                        "lng" : 12.4176818
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mw{~F{qujAaA}GBIJU\\i@lA_B`AEdAWbBo@^INXF\\Lp@v@hGrA|K`@zCrAtFb@|AXj@l@n@lKtIX^Zz@h@fBDR?l@ATIHMPGRAV?TDTJRLLNHb@|@BZNdAVb@f@X|@PhADVFZPdAzJHhBFlAVnB~@hAhA`AfBfAn@j@h@r@pA|Bv@j@xBr@p@p@\\f@N^h@tAXx@FP]lBiAnFYpA_@pELRRD|BeBp@c@v@aAx@u@z@[h@AxAF~@^\\XTVV`@`AdB~@rAXTTLtBl@bEjApATdAJjFPhHVRArBw@x@Q|@?XBl@NtD`C~@l@Ja@FYBi@I_ACWBOBWBSPo@X_@ZUd@Kb@@r@LzAX|@PnAPdAL^EvD`AlJ~BhE`A|Dd@pETbRd@~DNrADZRHDp@HdDJrFHjLLtGH|@BxCBFDHDP@X?\\Fd@XRZHVHp@Cj@Sr@]^a@\\SHWBYGWMOQQ[a@_ASQUq@eCqGoEiLkCeHo@_COeAGmABuBPqBTeAh@gBfEeMxBmH^uBToBNqCByAAgBEuAUqCm@qD}@sDmH_Ws@wB_@aA{@_BkCwEqAeCWs@Sy@eAwFqAcHk@kB[_AIg@m@iHSaBQcAYcAYw@S[}@oAi@i@sD{BgBaAq@i@w@y@OQOGw@cA]c@aEkFiCeEaA_BMUWVxB`DpB~CxDfFfAtA"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

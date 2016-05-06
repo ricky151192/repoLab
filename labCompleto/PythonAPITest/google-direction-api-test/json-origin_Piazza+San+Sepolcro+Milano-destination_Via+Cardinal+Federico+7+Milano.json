@@ -1,0 +1,107 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJU-U1YqvGhkcRwI8heI6kh0I",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQ2FyZGluYWwgRmVkZXJpY28sIDcsIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4629006,
+               "lng" : 9.185535
+            },
+            "southwest" : {
+               "lat" : 45.46286509999999,
+               "lng" : 9.1853479
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "16 m",
+                  "value" : 16
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 8
+               },
+               "end_address" : "Via Cardinal Federico, 7, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4628813,
+                  "lng" : 9.185535
+               },
+               "start_address" : "Piazza S. Sepolcro, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4629006,
+                  "lng" : 9.1853479
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "13 m",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003ePiazza S. Sepolcro\u003c/b\u003e toward \u003cb\u003eVia Cardinal Federico\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cnntGm_aw@D_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629006,
+                        "lng" : 9.1853479
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3 m",
+                        "value" : 3
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.4628813,
+                        "lng" : 9.185535
+                     },
+                     "html_instructions" : "\u003cb\u003ePiazza S. Sepolcro\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Cardinal Federico\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}mntGm`aw@AE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cnntGm_aw@D_@AE"
+         },
+         "summary" : "Piazza S. Sepolcro",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

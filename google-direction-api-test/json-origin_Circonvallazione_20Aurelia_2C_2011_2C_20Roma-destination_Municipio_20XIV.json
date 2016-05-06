@@ -1,0 +1,299 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFZ106txfLxMR6r-8GhArXVI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ3-REiIFgLxMRtG3doEqcKKk",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9268037,
+               "lng" : 12.4280152
+            },
+            "southwest" : {
+               "lat" : 41.89803269999999,
+               "lng" : 12.4036646
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.2 km",
+                  "value" : 5233
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 837
+               },
+               "end_address" : "Municipio XIV, Rome, Italy",
+               "end_location" : {
+                  "lat" : 41.926473,
+                  "lng" : 12.4036646
+               },
+               "start_address" : "Circonvallazione Aurelia, 11, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.89803269999999,
+                  "lng" : 12.4280152
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.898413,
+                        "lng" : 12.4278147
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e toward \u003cb\u003eVia Aurelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uev~FcjzjAC@gAf@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89803269999999,
+                        "lng" : 12.4280152
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 429
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ahv~FyhzjAa@NaEdBo@f@s@j@gBx@cAp@g@V{@^_A`@g@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.898413,
+                        "lng" : 12.4278147
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1713
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 310
+                     },
+                     "end_location" : {
+                        "lat" : 41.9067193,
+                        "lng" : 12.4083002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~v~Fs{yjAGPe@rACJOb@Qh@i@lCYrACLCLa@bCe@tCEPAHk@`C[zDMxCC`ACl@An@Al@PjJ@`A?r@FrBDb@FZF\\BNR~@XtAH\\D`@BV?X?l@A`AQfDGpAAHMRc@tBQZMLOLc@XGDs@^QJQNOPIJSXsBtEUXIFCBMDGDI@WBq@FYDk@P{@b@m@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 716
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 41.9117912,
+                        "lng" : 12.4108847
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pasquale II\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_|w~F{nvjA?[?G@ED_@LYBG@G@K?K?KAKEKEIEGOKOEQESAU@c@LwA`@c@N}@XqA`@WFK@UAKAUG[I[Qc@[s@i@yBiBwEkDu@k@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9067193,
+                        "lng" : 12.4083002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1202
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : 41.9219668,
+                        "lng" : 12.4136863
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Pietro Bembo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u{x~F__wjAwE|Bw@^}@Zo@B[?[?e@C[GOE_IcCyA]YKKCw@a@c@Y}NeG}CkAsH}C"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9117912,
+                        "lng" : 12.4108847
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 41.9227436,
+                        "lng" : 12.411731
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Giovanni D'Andrea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i{z~FqpwjAKt@@h@?FABADADABCFOXIL_@z@GNWr@i@zA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9219668,
+                        "lng" : 12.4136863
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 41.9230185,
+                        "lng" : 12.4119477
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Torrevecchia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c`{~FidwjAw@k@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9227436,
+                        "lng" : 12.411731
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 683
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 41.9261832,
+                        "lng" : 12.4059363
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia della Valle dei Fontanili\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{a{~FuewjAsAxMa@tDc@vDO~@ETGPGRGJIJKLQPUN_@\\WPm@\\_@HcBn@_@LKBMBK@O?Q@O@O@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9230185,
+                        "lng" : 12.4119477
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.9268037,
+                        "lng" : 12.4050913
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Torresina\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "su{~Fc`vjAY\\s@`AW^EHGHCJCH"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9261832,
+                        "lng" : 12.4059363
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 41.926473,
+                        "lng" : 12.4036646
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Felizzano\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oy{~FyzujA`A|G"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9268037,
+                        "lng" : 12.4050913
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uev~FcjzjAoH~CcBrAgBx@cAp@cBv@gBv@aAtCQh@i@lC]`BqAxHm@jC[zDMxCGnBC|AZtQL~@Jl@l@tCN~@Bp@AnBYxFAHMRc@tBQZ]ZqBjAa@`@]d@sBtEUXMJ_@LiAJeAViBx@?c@Fe@Pa@Bk@GWKQ_@Qe@GU@c@L{Bp@oCz@c@Ha@Cq@Q_Am@mDsCmGwEoG|C}@Zo@Bw@?aAKoIiCsBi@cAe@c@Y}NeGqMiFKt@@h@AJIVYf@g@jAaAnCw@k@sAxMeAlJUtAOd@QV]^u@l@eAn@_@HcBn@k@PYDaADmA~A]h@KTCH`A|G"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDaXJjb252YWxsYXppb25lIENvcm5lbGlhLCA2OCwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EihWaWEgR3JlZ29yaW8gWEksIDE0MSwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9031303,
+               "lng" : 12.4265627
+            },
+            "southwest" : {
+               "lat" : 41.899551,
+               "lng" : 12.4190614
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 980
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 211
+               },
+               "end_address" : "Via Gregorio XI, 141, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.899551,
+                  "lng" : 12.4190614
+               },
+               "start_address" : "Circonvallazione Cornelia, 68, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.900644,
+                  "lng" : 12.4265627
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e toward \u003cb\u003eVia Taddeo da Sessa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_vv~F_azjA{@TOVQd@{@^_A`@g@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900644,
+                        "lng" : 12.4265627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~v~Fs{yjAGPe@rACJOb@Qh@i@lCYrACLCLa@bCe@tCEPAH"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9019269,
+                        "lng" : 12.4257026
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 474
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 41.899551,
+                        "lng" : 12.4190614
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qew~F_dyjAdHfF^TRFNDtARf@FTDHFLJl@~@|BhDHN"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_vv~F_azjA{@TOVQd@{@^gBv@m@dBSn@Qh@i@lC]`Be@pCk@fDAHdHfFr@\\dBX|@LVRtDxF"
+         },
+         "summary" : "Via di Boccea and Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

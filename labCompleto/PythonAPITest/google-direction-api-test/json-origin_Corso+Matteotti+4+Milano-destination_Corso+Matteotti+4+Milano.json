@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJy9uQ06_GhkcRvP8LtkTvEKk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJy9uQ06_GhkcRvP8LtkTvEKk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4669161,
+               "lng" : 9.193467
+            },
+            "southwest" : {
+               "lat" : 45.4669161,
+               "lng" : 9.193467
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Corso Giacomo Matteotti, 4, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4669161,
+                  "lng" : 9.193467
+               },
+               "start_address" : "Corso Giacomo Matteotti, 4, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4669161,
+                  "lng" : 9.193467
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669161,
+                        "lng" : 9.193467
+                     },
+                     "html_instructions" : "Head on \u003cb\u003ePiazza Filippo Meda\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ggotGerbw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669161,
+                        "lng" : 9.193467
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ggotGerbw@"
+         },
+         "summary" : "Piazza Filippo Meda",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

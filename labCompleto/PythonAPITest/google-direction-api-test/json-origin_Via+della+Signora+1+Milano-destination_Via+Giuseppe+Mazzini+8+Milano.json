@@ -1,0 +1,369 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJu_P9dqbGhkcRCDLWtEt1cKw",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJO3ihCKzGhkcR6XGZLj1r3HY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4633101,
+               "lng" : 9.206395799999999
+            },
+            "southwest" : {
+               "lat" : 45.4524748,
+               "lng" : 9.1883382
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.0 km",
+                  "value" : 3999
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 825
+               },
+               "end_address" : "Via Giuseppe Mazzini, 8, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4633101,
+                  "lng" : 9.188515899999999
+               },
+               "start_address" : "Via della Signora, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46178279999999,
+                  "lng" : 9.196568899999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 45.46126650000001,
+                        "lng" : 9.195839599999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia della Signora\u003c/b\u003e toward \u003cb\u003eVia Laghetto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cgntGqecw@dBpC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46178279999999,
+                        "lng" : 9.196568899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 45.4608092,
+                        "lng" : 9.1964658
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Laghetto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}cntG_acw@dAqAJOH["
+                     },
+                     "start_location" : {
+                        "lat" : 45.46126650000001,
+                        "lng" : 9.195839599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 210
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 45.4623757,
+                        "lng" : 9.1979677
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Francesco Sforza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aantG}dcw@QOeD{CaC_C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4608092,
+                        "lng" : 9.1964658
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 413
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 45.46226350000001,
+                        "lng" : 9.203223599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso di Porta Vittoria\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{jntGincw@Ne@BO@KB_E?w@B_EAqAA_@AaF?kE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4623757,
+                        "lng" : 9.1979677
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 131
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.4610964,
+                        "lng" : 9.2034608
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Podgora\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cjntGcodw@j@EzDi@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46226350000001,
+                        "lng" : 9.203223599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 259
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 45.46001769999999,
+                        "lng" : 9.206395799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Enrico Besana\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{bntGspdw@|BcIFa@pAeF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4610964,
+                        "lng" : 9.2034608
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 45.4574338,
+                        "lng" : 9.2044867
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViale Regina Margherita\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c|mtG_cew@hE`DPLNJvCxB`CfA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46001769999999,
+                        "lng" : 9.206395799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 45.4524748,
+                        "lng" : 9.201866299999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eViale Emilio Caldara\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}kmtGawdw@tNtHVLh@TfCbAxEbAdAh@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4574338,
+                        "lng" : 9.2044867
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1373
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 306
+                     },
+                     "end_location" : {
+                        "lat" : 45.4604349,
+                        "lng" : 9.188514899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso di Porta Romana\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}lltGufdw@Cd@eBjDeAhBmAxBuDtHwGlLADGNOhAMNMRa@p@oArBmCxEILcArBu@tAKVe@~@]n@y@`BiBhD}@fB{@~B]x@e@bA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4524748,
+                        "lng" : 9.201866299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.4612105,
+                        "lng" : 9.188420599999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Giuseppe Missori\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u~mtGesaw@INIHIDIBKAq@Oc@NIEGI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4604349,
+                        "lng" : 9.188514899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.4620303,
+                        "lng" : 9.1897553
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Maurizio Gonzaga\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qcntGsraw@GMEKCO?O{BuDU["
+                     },
+                     "start_location" : {
+                        "lat" : 45.4612105,
+                        "lng" : 9.188420599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.4632419,
+                        "lng" : 9.1899345
+                     },
+                     "html_instructions" : "At \u003cb\u003ePiazza Armando Diaz\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eVia Guglielmo Marconi\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "uhntG_{aw@?cBgC??`A_BCC?A@C@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4620303,
+                        "lng" : 9.1897553
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.4633101,
+                        "lng" : 9.188515899999999
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Guglielmo Marconi\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Dogana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gpntGa|aw@CF?BAB?hBG~C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4632419,
+                        "lng" : 9.1899345
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cgntGqecw@dBpCdAqATk@wDkDaC_CNe@D[BwFB_EAqACaG?kEj@EzDi@|BcIFa@pAeFzEnDfDdC`CfAtNtH`Ab@fCbAxEbAdAh@Cd@kDtGmAxBuDtHyGrLWxA[b@qBdDwCfFyBhEq@vA_GbLyAxDo@rASNU@q@Oc@NQOMYC_@qCqE?cBgC??`A_BCE@GHAF?hBG~C"
+         },
+         "summary" : "Corso di Porta Romana",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

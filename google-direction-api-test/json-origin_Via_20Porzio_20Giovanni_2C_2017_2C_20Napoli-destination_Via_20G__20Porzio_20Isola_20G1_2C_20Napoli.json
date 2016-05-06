@@ -1,0 +1,321 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTWpi8BoIOxMRweFxKR0uRpI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJ6_p622YIOxMRfriMZcxDOtI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8574979,
+               "lng" : 14.2767576
+            },
+            "southwest" : {
+               "lat" : 40.8517763,
+               "lng" : 14.265235
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1658
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 419
+               },
+               "end_address" : "Naples, Italy",
+               "end_location" : {
+                  "lat" : 40.8517763,
+                  "lng" : 14.2681383
+               },
+               "start_address" : "Via Porzio Giovanni, 17, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8574979,
+                  "lng" : 14.2766547
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.8568795,
+                        "lng" : 14.2767371
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e toward \u003cb\u003ePiazza Salerno\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k~jxFalcvA^Gf@GZEN?FB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8574979,
+                        "lng" : 14.2766547
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8567517,
+                        "lng" : 14.2761089
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Giovanni Porzio\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePiazza Salerno\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ozjxFslcvADF@H@HBl@Hh@@H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8568795,
+                        "lng" : 14.2767371
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "26 m",
+                        "value" : 26
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 40.8565143,
+                        "lng" : 14.2761261
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza Salerno\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uyjxFuhcvAn@C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8567517,
+                        "lng" : 14.2761089
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 415
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.8560115,
+                        "lng" : 14.2712317
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Bari\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "exjxFyhcvATnFT~DRxDRtDNrD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8565143,
+                        "lng" : 14.2761261
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.85705220000001,
+                        "lng" : 14.2710507
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Novara\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aujxFejbvA{BToALC?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8560115,
+                        "lng" : 14.2712317
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 463
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 40.8548031,
+                        "lng" : 14.2664157
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Casanova\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q{jxFaibvAHPpAfDp@bBf@tAd@nAVv@Xp@Zz@^nAtAfD`@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85705220000001,
+                        "lng" : 14.2710507
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "83 m",
+                        "value" : 83
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.8542698,
+                        "lng" : 14.2657348
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza S. Francesco a Capuana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "omjxFclavAr@jA@@r@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8548031,
+                        "lng" : 14.2664157
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 114
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.8535748,
+                        "lng" : 14.2656967
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Enrico de Nicola\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ejjxFygavAHHTRBFHNDH@BBBb@ZRg@Xu@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8542698,
+                        "lng" : 14.2657348
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 172
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 40.8527711,
+                        "lng" : 14.2674369
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Alessandro Poerio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yejxFsgavAHW^aAFQVy@Xy@HQTo@Pe@HS"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8535748,
+                        "lng" : 14.2656967
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "9 m",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 40.8527093,
+                        "lng" : 14.2675113
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "y`jxForavAJM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8527711,
+                        "lng" : 14.2674369
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 40.8517763,
+                        "lng" : 14.2681383
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "m`jxF}ravAFMJe@@i@XAhC]"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8527093,
+                        "lng" : 14.2675113
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k~jxFalcvAfAOj@ELJBRLvA@Hn@Cj@nLf@nJNrD{BTsALtDrJrBtF^nAtAfD`@z@r@jAt@|@^\\Td@f@^l@}Ah@yA^kAjAaDTa@Rs@@i@XAhC]"
+         },
+         "summary" : "Via Bari and Via Casanova",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

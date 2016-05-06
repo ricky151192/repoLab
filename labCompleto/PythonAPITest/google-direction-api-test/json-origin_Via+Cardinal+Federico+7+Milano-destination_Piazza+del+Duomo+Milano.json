@@ -1,0 +1,226 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQ2FyZGluYWwgRmVkZXJpY28sIDcsIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ31GTk67GhkcRPw6Nl8LeRdQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4665738,
+               "lng" : 9.189270199999999
+            },
+            "southwest" : {
+               "lat" : 45.4625928,
+               "lng" : 9.185535
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 871
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 322
+               },
+               "end_address" : "Piazza del Duomo, Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4649456,
+                  "lng" : 9.189268199999999
+               },
+               "start_address" : "Via Cardinal Federico, 7, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4628813,
+                  "lng" : 9.185535
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "49 m",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631899,
+                        "lng" : 9.185976799999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Cardinal Federico\u003c/b\u003e toward \u003cb\u003eVia delle Asole\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_nntGs`aw@}@wA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4628813,
+                        "lng" : 9.185535
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.4625928,
+                        "lng" : 9.186860899999999
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Cardinal Federico\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVia delle Asole\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ontGkcaw@v@kA~@cB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631899,
+                        "lng" : 9.185976799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 45.4637355,
+                        "lng" : 9.188276999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Torino\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "elntG{haw@g@q@kA{AgB}BIO"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4625928,
+                        "lng" : 9.186860899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.4647005,
+                        "lng" : 9.1885516
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza del Duomo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ksntGwqaw@HMBE@AHUOIeAAY?U?Q?aA@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4637355,
+                        "lng" : 9.188276999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Giuseppe Mengoni\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kyntGmsaw@o@?g@A}A?q@Da@F"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4647005,
+                        "lng" : 9.1885516
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uaotGasaw@aBwAII"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 193
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 45.4649456,
+                        "lng" : 9.189268199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Silvio Pellico\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aeotGcvaw@Xu@DCBAxCD|A?f@C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_nntGs`aw@}@wAv@kA~@cBg@q@sDyEIOHMDGHUOI_BAg@?qB@eCAsALkBaB^y@|CBdCC"
+         },
+         "summary" : "Via Silvio Pellico",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

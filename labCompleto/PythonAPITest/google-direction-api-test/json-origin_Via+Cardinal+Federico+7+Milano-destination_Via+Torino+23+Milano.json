@@ -1,0 +1,131 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQ2FyZGluYWwgRmVkZXJpY28sIDcsIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNWHYmqvGhkcR7YZZutjiaLw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4631899,
+               "lng" : 9.186860899999999
+            },
+            "southwest" : {
+               "lat" : 45.46230970000001,
+               "lng" : 9.185535
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 km",
+                  "value" : 184
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 66
+               },
+               "end_address" : "Via Torino, 23, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46230970000001,
+                  "lng" : 9.1865571
+               },
+               "start_address" : "Via Cardinal Federico, 7, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4628813,
+                  "lng" : 9.185535
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "49 m",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.4631899,
+                        "lng" : 9.185976799999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Cardinal Federico\u003c/b\u003e toward \u003cb\u003eVia delle Asole\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_nntGs`aw@}@wA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4628813,
+                        "lng" : 9.185535
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 45.4625928,
+                        "lng" : 9.186860899999999
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Cardinal Federico\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVia delle Asole\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ontGkcaw@v@kA~@cB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4631899,
+                        "lng" : 9.185976799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.46230970000001,
+                        "lng" : 9.1865571
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Torino\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "elntG{haw@DFp@r@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4625928,
+                        "lng" : 9.186860899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_nntGs`aw@}@wAv@kA~@cBDFp@r@"
+         },
+         "summary" : "Via Cardinal Federico and Via delle Asole",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

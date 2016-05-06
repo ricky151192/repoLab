@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo9AkdKvGhkcRvyWnUXUQu8U",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo9AkdKvGhkcRvyWnUXUQu8U",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4621883,
+               "lng" : 9.1853245
+            },
+            "southwest" : {
+               "lat" : 45.4621883,
+               "lng" : 9.1853245
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Valpetrosa, 5, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4621883,
+                  "lng" : 9.1853245
+               },
+               "start_address" : "Via Valpetrosa, 5, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4621883,
+                  "lng" : 9.1853245
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4621883,
+                        "lng" : 9.1853245
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Valpetrosa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uintGg_aw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4621883,
+                        "lng" : 9.1853245
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uintGg_aw@"
+         },
+         "summary" : "Via Valpetrosa",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

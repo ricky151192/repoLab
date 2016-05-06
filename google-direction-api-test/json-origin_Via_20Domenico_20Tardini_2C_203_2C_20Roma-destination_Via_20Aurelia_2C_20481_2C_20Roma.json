@@ -1,0 +1,229 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EitWaWEgRG9tZW5pY28gVGFyZGluaSwgMywgMDAxNjcgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ6V-H8NfLxMResBRv_DhDE0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.904963,
+               "lng" : 12.4274542
+            },
+            "southwest" : {
+               "lat" : 41.8953169,
+               "lng" : 12.4176818
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 km",
+                  "value" : 3034
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 565
+               },
+               "end_address" : "Via Aurelia, 481, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8962543,
+                  "lng" : 12.4253177
+               },
+               "start_address" : "Via Domenico Tardini, 3, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9019295,
+                  "lng" : 12.4266741
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 354
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 41.9048871,
+                        "lng" : 12.4253151
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Domenico Tardini\u003c/b\u003e toward \u003cb\u003eVia S. Bernadette\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "a~v~FuazjAEB]\\c@VyBvAQH}@f@QLMHMHMDO@iAJ}@Hc@BeAD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9019295,
+                        "lng" : 12.4266741
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 779
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 206
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "qpw~FgyyjAGFCHAFAJ@J@HBHDDJJTBJ@H?lDQl@Ix@Od@Mp@StAa@lAg@v@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9048871,
+                        "lng" : 12.4253151
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 856
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 41.8955735,
+                        "lng" : 12.4182485
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjAK|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@DH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8954377,
+                        "lng" : 12.4176818
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eVia Lanfranco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ivu~FamxjAEX?@?@@B\\nA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8955735,
+                        "lng" : 12.4182485
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 41.8953169,
+                        "lng" : 12.4177959
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lanfranco\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ouu~FoixjAVW"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8954377,
+                        "lng" : 12.4176818
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 726
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 41.8984835,
+                        "lng" : 12.4253432
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wtu~FgjxjASa@M[O[MUe@_A]u@ISs@aBWm@i@mA]y@kAyCi@qA_@cAW{@Oi@y@wCK_@I_@AEOs@SeAKq@CUCWE]Gq@@I?GAa@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8953169,
+                        "lng" : 12.4177959
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 251
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 41.8962543,
+                        "lng" : 12.4253177
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ohv~FkyyjAjH_@JA`AFbA\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8984835,
+                        "lng" : 12.4253432
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "a~v~FuazjAc@`@}CnBoBhA[NyALaBLeADGFEP?VDRPP`@DvDQfBYvAa@tAa@lAg@v@Mv@]lDoBtEoB~Au@nAm@K|BAdA@~@XdEFNFp@Ht@NfAb@xBpA|Ef@dBhAtCjDnI|@tBbAtBLTEX?@@D\\nAVWa@}@]q@cAuB}@uBkDoIiAuCg@eBqA}Ec@yBOgAIu@E{@Ai@vHa@`AFbA\\"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

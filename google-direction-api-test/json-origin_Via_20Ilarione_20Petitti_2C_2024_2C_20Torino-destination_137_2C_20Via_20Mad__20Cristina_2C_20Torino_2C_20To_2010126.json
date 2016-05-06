@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbSaY40ttiEcRfDzJWMXBeB4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0703088,
+               "lng" : 7.691562999999999
+            },
+            "southwest" : {
+               "lat" : 45.0461398,
+               "lng" : 7.674311299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.3 km",
+                  "value" : 3334
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 741
+               },
+               "end_address" : "Turin, Italy",
+               "end_location" : {
+                  "lat" : 45.0703088,
+                  "lng" : 7.6868731
+               },
+               "start_address" : "Via Ilarione Petitti, 24, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0461976,
+                  "lng" : 7.674311299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.0461398,
+                        "lng" : 7.674744500000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Ilarione Petitti\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wa}qGm{ym@JuA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0461976,
+                        "lng" : 7.674311299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 664
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 45.0514772,
+                        "lng" : 7.678524100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ka}qGc~ym@iDqBeBsA[SWQsAq@mAy@oCgBmCeBcDqBcC{A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0461398,
+                        "lng" : 7.674744500000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0510451,
+                        "lng" : 7.679691699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Raffaello\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wb~qGwuzm@tAiF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0514772,
+                        "lng" : 7.678524100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1131
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 246
+                     },
+                     "end_location" : {
+                        "lat" : 45.0600794,
+                        "lng" : 7.686310299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ormea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a`~qGa}zm@qEuCeCaBgDyBgBoAmBsAcBeAWQUO}BwA}B{AuBuAuB{AcDsBaC_BmAw@s@e@UU"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0510451,
+                        "lng" : 7.679691699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 902
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 194
+                     },
+                     "end_location" : {
+                        "lat" : 45.0672898,
+                        "lng" : 7.691562999999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia S. Massimo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eParts of this road are closed Mon–Fri 7:30 – 10:30 AM\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ox_rGmf|m@OMyBwAsDaCiC{AoD_CmA_A{CoBwDcCuAy@qA}@}@o@aDyB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0600794,
+                        "lng" : 7.686310299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 498
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 141
+                     },
+                     "end_location" : {
+                        "lat" : 45.0703088,
+                        "lng" : 7.6868731
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Po\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qearGgg}m@iAtBcBxC}BnEaCxDwBxDu@tA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0672898,
+                        "lng" : 7.691562999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wa}qGm{ym@JuAiDqBaCgBkBcA}EaDqHwEcC{AtAiFwIwFoGiEqEyCm@a@{FsDkFqDgLqHe@c@mHyEiC{AoD_CmA_A{CoBmG}DoCmBaDyBiAtBaFhJaCxDwBxDu@tA"
+         },
+         "summary" : "Via Ormea and Via S. Massimo",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

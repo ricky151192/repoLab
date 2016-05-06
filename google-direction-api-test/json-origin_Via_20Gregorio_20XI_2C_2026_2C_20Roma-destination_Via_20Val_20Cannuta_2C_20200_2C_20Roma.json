@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ68bW0sVfLxMRJ_HiR1-r-wU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJyw5psZdfLxMRXBq9m_kfd8M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9025302,
+               "lng" : 12.4214424
+            },
+            "southwest" : {
+               "lat" : 41.8936605,
+               "lng" : 12.4061381
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2154
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 228
+               },
+               "end_address" : "Via di Val Cannuta, 200, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8952142,
+                  "lng" : 12.4061381
+               },
+               "start_address" : "Via Gregorio XI, 26, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9025302,
+                  "lng" : 12.4214424
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1331
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Gregorio XI\u003c/b\u003e toward \u003cb\u003eVia Giovanni Novelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yaw~F_ayjAlDfC^TRFNDtARf@FTDHFLJl@~@|BhD`@r@LPnBhB|AhAXTDHHFf@d@XP~ApA\\XRRNVX`@~@rAdDtFjArBpB`DDJNXHRJXRl@J^Pj@Rh@Xn@lArC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9025302,
+                        "lng" : 12.4214424
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 454
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjAeAnAMTSRQRGFKFKBYFY?KAMIc@McBy@gBs@EAKEQAI?OBKDGFGHS^CP?JAJ?H@N@L@H?D@BBHDHNXT\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Raffaele Conforti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_{u~F}xvjAw@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 332
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 41.8952142,
+                        "lng" : 12.4061381
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Val Cannuta\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w|u~FowvjA^pADNpBzGDRDNd@hBl@lB\\hA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yaw~F_ayjAlE|Cb@L|BZTDHFz@jA~C|E|BzBvB~ANP`Av@|BjBb@j@xAtBpFhJvBlDXl@|@rCl@xAlArCeAnAa@h@YZWJYFY?KAMIc@MkEmBQG[A[HOPS^CPAV@XD`@n@jAw@l@^pAvBjHJb@rAvE\\hA"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

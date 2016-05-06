@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp4P1bK_GhkcR3XPtA0_xAMk",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJUSVb6nGhkcR3y9YBg3U71s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.46394369999999,
+               "lng" : 9.1938721
+            },
+            "southwest" : {
+               "lat" : 45.4607665,
+               "lng" : 9.1894791
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 586
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 194
+               },
+               "end_address" : "Via Alberico Albricci, 3, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46106169999999,
+                  "lng" : 9.1894791
+               },
+               "start_address" : "Piazza Fontana, 3, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46394369999999,
+                  "lng" : 9.193595999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.46347919999999,
+                        "lng" : 9.1936331
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003ePiazza Fontana\u003c/b\u003e toward \u003cb\u003eVia Carlo Maria Martini\u003c/b\u003e/\u003cb\u003eVia dell'Arcivescovado\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "stntG_sbw@n@Cj@A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46394369999999,
+                        "lng" : 9.193595999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 45.4625308,
+                        "lng" : 9.1938721
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia S. Clemente\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "wqntGesbw@pAGn@C^@BABA@A@ABE@A@C@C@A?CBG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46347919999999,
+                        "lng" : 9.1936331
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 298
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Larga\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykntGutbw@JTFLvAdD|AbC~AnCZh@FNDJDHDN"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4625308,
+                        "lng" : 9.1938721
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.46106169999999,
+                        "lng" : 9.1894791
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Alberico Albricci\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "y`ntGwbbw@@LAL?PCPe@jDObA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4607712,
+                        "lng" : 9.190998199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "stntG_sbw@|EQb@?DCHMFQRb@vAdD|AbCzBxDLZJX?ZCb@u@nF"
+         },
+         "summary" : "Via Larga",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

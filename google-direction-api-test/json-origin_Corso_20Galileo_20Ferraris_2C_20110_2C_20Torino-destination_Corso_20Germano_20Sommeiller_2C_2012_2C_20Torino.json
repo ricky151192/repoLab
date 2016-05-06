@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE8G_BDttiEcRTdPOGtC7caw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJr9TIGUdtiEcR7ZYo5LiVtNg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0569904,
+               "lng" : 7.6739736
+            },
+            "southwest" : {
+               "lat" : 45.0520466,
+               "lng" : 7.6618145
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1595
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 317
+               },
+               "end_address" : "Corso Germano Sommeiller, 12, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.054309,
+                  "lng" : 7.6739736
+               },
+               "start_address" : "Corso Galileo Ferraris, 110, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0544802,
+                  "lng" : 7.6629814
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e toward \u003cb\u003eVia Evangelista Torricelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ou~qGstwm@zD`CHDjC`B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544802,
+                        "lng" : 7.6629814
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 163
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 45.0521234,
+                        "lng" : 7.663669899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fratelli Carle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}j~qGimwm@Jc@Ng@xA{FNk@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0527879,
+                        "lng" : 7.6618145
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 506
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 45.0555403,
+                        "lng" : 7.667624600000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "wf~qG}xwm@Lc@iBwBgDaEoB{BoByBqB}Bg@a@m@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0521234,
+                        "lng" : 7.663669899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.0560955,
+                        "lng" : 7.6682665
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "c|~qGsqxm@Ni@_CwA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0555403,
+                        "lng" : 7.667624600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.0569904,
+                        "lng" : 7.669118099999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "s__rGuuxm@qA_AuAw@?OAMGS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0560955,
+                        "lng" : 7.6682665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 493
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 45.054309,
+                        "lng" : 7.6739736
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ee_rG_{xm@`BqBnAgBlAaBvAaCVa@Pm@~@wCd@{BP{@P{@DWDW"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0569904,
+                        "lng" : 7.669118099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ou~qGstwm@dEfCjC`BJc@hBcH\\oAqGyH_FuFqB}Bg@a@m@a@Ni@_CwAqA_AuAw@?OIa@`BqBnAgBlAaBvAaCVa@Pm@~@wCd@{Bb@wBJo@"
+         },
+         "summary" : "Corso Re Umberto and Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

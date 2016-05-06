@@ -1,0 +1,186 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgTnVvdmEgUG9nZ2lvcmVhbGUsIDQzLCA4MDE0MyBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJ-fosyBwIOxMRNwITCIHm9Us",
+         "types" : [
+            "transit_station",
+            "train_station",
+            "subway_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8618292,
+               "lng" : 14.2818322
+            },
+            "southwest" : {
+               "lat" : 40.858327,
+               "lng" : 14.2753025
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1045
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 184
+               },
+               "end_address" : "Centro Direzionale, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.858327,
+                  "lng" : 14.2812905
+               },
+               "start_address" : "Via Nuova Poggioreale, 43, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8590405,
+                  "lng" : 14.2753025
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 585
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_hkxFsccvA}AcEKUCKGKISaCqGaCyGmCoH[{@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8590405,
+                        "lng" : 14.2753025
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8610045,
+                        "lng" : 14.2813196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Serafino Biscardi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mykxFqhdvAZChCQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 40.8598296,
+                        "lng" : 14.2814656
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Giovanni Falcone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtkxFgidvAhEc@^D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8610045,
+                        "lng" : 14.2813196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.8595688,
+                        "lng" : 14.2818322
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eViale Umberto Terracini\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "}lkxFejdvA?@@@?@@?@@@??@@?@?@?@?@?@?@A@??A@??A@??A?A@??A?A@A?A?A?A?A?A?AAA?A?AAA?ABMBKNQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8598296,
+                        "lng" : 14.2814656
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 181
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.858327,
+                        "lng" : 14.2812905
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ikkxFmldvABl@@LBX@JFRHHRFv@GhAGbAK"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8595688,
+                        "lng" : 14.2818322
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_hkxFsccvAuBqFkCeHoGiQ[{@ZChCQhEc@^F@@@@@@B@JAFG@MAG?A@QBKNQDz@Dd@FRHHRFv@GlCS"
+         },
+         "summary" : "Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR_yNzxoIOxMR6yl8MlW-gmY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR_yNzxoIOxMR6yl8MlW-gmY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8578905,
+               "lng" : 14.2765838
+            },
+            "southwest" : {
+               "lat" : 40.8578905,
+               "lng" : 14.2765838
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Giovanni Porzio, Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8578905,
+                  "lng" : 14.2765838
+               },
+               "start_address" : "Via Giovanni Porzio, Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8578905,
+                  "lng" : 14.2765838
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8578905,
+                        "lng" : 14.2765838
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y`kxFskcvA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8578905,
+                        "lng" : 14.2765838
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "y`kxFskcvA"
+         },
+         "summary" : "Via Giovanni Porzio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

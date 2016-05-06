@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs3hekcpfLxMRxwnXY1Pp8Cs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjFDaXJjb252YWxsYXppb25lIENvcm5lbGlhLCAxMywgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9138511,
+               "lng" : 12.4269844
+            },
+            "southwest" : {
+               "lat" : 41.899401,
+               "lng" : 12.4171418
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2160
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 428
+               },
+               "end_address" : "Circonvallazione Cornelia, 13, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.899401,
+                  "lng" : 12.4269844
+               },
+               "start_address" : "Via Mattia Battistini, Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9138511,
+                  "lng" : 12.4184329
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 659
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 41.9081283,
+                        "lng" : 12.4171418
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Mattia Battistini\u003c/b\u003e toward \u003cb\u003eVia del Forte Braschi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qhy~FenxjAnDEF?XENAtBO^At@@T@nBTZDtBTpAVj@N`@Nj@Tr@\\~AdApAx@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9138511,
+                        "lng" : 12.4184329
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 41.9073644,
+                        "lng" : 12.4181076
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lucio II\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ydx~FcfxjAjBgC`@e@DIDI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9081283,
+                        "lng" : 12.4171418
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 414
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_`x~FelxjA^GH@DQDMBCBAHCLC\\?r@MbBW~@Kz@MdBQvAMh@CV@PBRHIj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9073644,
+                        "lng" : 12.4181076
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{jw~FaoxjAfAF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 580
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "shw~FynxjA@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BK"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 349
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 41.899401,
+                        "lng" : 12.4269844
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o_w~FmxyjAd@sAv@Mv@]|BqAn@]lBw@fBw@LE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qhy~FenxjAvDEh@GtCQjABjCZtBTpAVlA^~Ar@pD~BlCmDJS^GH@J_@FEVG\\?r@MbDc@`D_@`CQh@DRHIj@fAF@m@D}AP{EZ{Dj@aCF[nAuHbAaF`@mAh@_Bv@Mv@]lDoBtEoBLE"
+         },
+         "summary" : "Via Mattia Battistini and Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

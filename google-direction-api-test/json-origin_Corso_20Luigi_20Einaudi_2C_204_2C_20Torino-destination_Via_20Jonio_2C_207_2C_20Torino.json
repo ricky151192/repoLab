@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1WyTmj5tiEcRBrYfZjaoFws",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ9yL0dDdtiEcRo91koXwhkZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0586442,
+               "lng" : 7.6677914
+            },
+            "southwest" : {
+               "lat" : 45.0484095,
+               "lng" : 7.6602776
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 1992
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 397
+               },
+               "end_address" : "Via Jonio, 7, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0504449,
+                  "lng" : 7.6677784
+               },
+               "start_address" : "Corso Luigi Einaudi, 4, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0577855,
+                  "lng" : 7.6677914
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.058315,
+                        "lng" : 7.6664241
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e toward \u003cb\u003eVia Alfonso Lamarmora\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ej_rGurxm@YbAoAlE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0577855,
+                        "lng" : 7.6677914
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1090
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 183
+                     },
+                     "end_location" : {
+                        "lat" : 45.0502226,
+                        "lng" : 7.6602776
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "om_rGcjxm@I@C@GBGBKFKLCFAFCN\\T\\T\\Rd@V|@d@HHvA~@vCfBlDtB`EbCdF~CFDfCbBfDnBZRbEdCPNzAz@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.058315,
+                        "lng" : 7.6664241
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Tirreno\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{z}qGwcwm@Do@l@uCNk@Li@t@gCh@sAf@eALQlBaC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0502226,
+                        "lng" : 7.6602776
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 219
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498622,
+                        "lng" : 7.665598699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ep}qGizwm@RWy@cA_BiB_CgCGG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 m",
+                        "value" : 85
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 45.05026669999999,
+                        "lng" : 7.666293899999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "sx}qG_exm@N_@EGIIMMa@c@a@e@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498622,
+                        "lng" : 7.665598699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 45.0503898,
+                        "lng" : 7.667726399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Jonio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e{}qGiixm@Vc@GaAMcAYuB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05026669999999,
+                        "lng" : 7.666293899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.0504449,
+                        "lng" : 7.6677784
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Jonio\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Chisone\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}{}qGirxm@II"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0503898,
+                        "lng" : 7.667726399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ej_rGurxm@iBpGMBOFWTENCN\\Tz@h@bB|@`BhAdI|EfLbHnChBbEbCtEtCzAz@Do@|@aEbAqDpAyCzBsCRWy@cA_FqFGGN_@OQo@q@a@e@Vc@UeCYuBII"
+         },
+         "summary" : "Corso Galileo Ferraris",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

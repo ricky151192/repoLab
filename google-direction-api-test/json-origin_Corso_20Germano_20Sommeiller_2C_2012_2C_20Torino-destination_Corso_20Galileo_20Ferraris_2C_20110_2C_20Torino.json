@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJr9TIGUdtiEcR7ZYo5LiVtNg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE8G_BDttiEcRTdPOGtC7caw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0583446,
+               "lng" : 7.6739736
+            },
+            "southwest" : {
+               "lat" : 45.054309,
+               "lng" : 7.6629814
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 km",
+                  "value" : 1293
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 257
+               },
+               "end_address" : "Corso Galileo Ferraris, 110, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0544802,
+                  "lng" : 7.6629814
+               },
+               "start_address" : "Corso Germano Sommeiller, 12, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.054309,
+                  "lng" : 7.6739736
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 529
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e toward \u003cb\u003eVia Chisone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mt~qGiyym@EVEVQz@Qz@e@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.054309,
+                        "lng" : 7.6739736
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 261
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.0583446,
+                        "lng" : 7.665873299999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@[jAuArEkAdEQn@Qp@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 463
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 45.054598,
+                        "lng" : 7.663315899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sm_rGufxm@\\Rd@V|@d@HHvA~@vCfBlDtB`EbC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0583446,
+                        "lng" : 7.665873299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544802,
+                        "lng" : 7.6629814
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gv~qGwvwm@Kj@b@V"
+                     },
+                     "start_location" : {
+                        "lat" : 45.054598,
+                        "lng" : 7.663315899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mt~qGiyym@o@fDe@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`A[jAaDxKc@`BbAj@fAn@nFfDnJxFKj@b@V"
+         },
+         "summary" : "Corso Germano Sommeiller and Corso Galileo Ferraris",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

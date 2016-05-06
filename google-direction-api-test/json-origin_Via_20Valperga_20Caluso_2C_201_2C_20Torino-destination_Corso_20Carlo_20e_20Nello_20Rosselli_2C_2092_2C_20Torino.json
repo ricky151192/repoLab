@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwVMGjkZtiEcRZ6v4zae1us4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ637MkCVtiEcRbY986nD_BK8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0572054,
+               "lng" : 7.6762431
+            },
+            "southwest" : {
+               "lat" : 45.0514721,
+               "lng" : 7.6567163
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.0 km",
+                  "value" : 2031
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 382
+               },
+               "end_address" : "Corso Carlo e Nello Rosselli, 92, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0529862,
+                  "lng" : 7.6567163
+               },
+               "start_address" : "Via Tommaso Valperga Caluso, 1, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0538072,
+                  "lng" : 7.6762431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "51 m",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 45.0539267,
+                        "lng" : 7.675616900000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia Tommaso Valperga Caluso\u003c/b\u003e toward \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iq~qGogzm@WzB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0538072,
+                        "lng" : 7.6762431
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 665
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 154
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ar~qGsczm@OlAALQbAm@`EEVQz@Qz@e@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0539267,
+                        "lng" : 7.675616900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 777
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 45.0514721,
+                        "lng" : 7.663217899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@l@^|@l@bBdA|BtAl@`@f@`@pB|BnBxBnBzBfD`EhBvBrB|B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 538
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 45.0529862,
+                        "lng" : 7.6567163
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ub~qGcvwm@Mn@}@hGGj@Ih@_AxF{@|FuAjK"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0514721,
+                        "lng" : 7.663217899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iq~qGogzm@g@hESpAs@xEc@vBe@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`Al@^`DrBjDvBf@`@pB|B~EtFpGxHrB|BMn@eAtHiAbHqChS"
+         },
+         "summary" : "Corso Germano Sommeiller, Corso Re Umberto and Corso Carlo e Nello Rosselli",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

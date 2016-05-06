@@ -1,0 +1,394 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV02BZ_-nOxMRv3WjL9xaYXk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDZqyMhIIOxMRP7GzhTqKNj4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8654261,
+               "lng" : 14.2878164
+            },
+            "southwest" : {
+               "lat" : 40.8573053,
+               "lng" : 14.2678045
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2871
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 589
+               },
+               "end_address" : "Piazza S. Maria della Fede, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.85819559999999,
+                  "lng" : 14.2679594
+               },
+               "start_address" : "Via Nuova Poggioreale, 5, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8644722,
+                  "lng" : 14.2866539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.86504679999999,
+                        "lng" : 14.2878164
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eVia San Lazzaro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ilxFqjevAsBiF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8644722,
+                        "lng" : 14.2866539
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 260
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639302,
+                        "lng" : 14.2852533
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eVia San Lazzaro\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "qmlxF{qevAGFA?EDdF|MHT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86504679999999,
+                        "lng" : 14.2878164
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 40.8649512,
+                        "lng" : 14.2844108
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Vicinale S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qflxFyaevAyC|Bq@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639302,
+                        "lng" : 14.2852533
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 292
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639241,
+                        "lng" : 14.2812984
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Aquileia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}llxFq|dvAh@jBhA~ET`ADLBDFFJJFJDJZzA@R?RANCJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8649512,
+                        "lng" : 14.2844108
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Vicinale Cannola\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oflxFcidvA}@n@i@^OJQjAWpBg@rFaB`QAZ?D@B?H?H"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639241,
+                        "lng" : 14.2812984
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 192
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8650172,
+                        "lng" : 14.2732752
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Piazzolla\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{olxFydcvA?H@P@Xh@hEZhCBR@T?D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654213,
+                        "lng" : 14.2754853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8640404,
+                        "lng" : 14.2734472
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Piazzolla\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Generale Pianell\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kmlxF_wbvAbEa@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8650172,
+                        "lng" : 14.2732752
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.86378089999999,
+                        "lng" : 14.2709219
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Marchese Giuseppe Palmieri\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gglxFaxbvAPbDDlAHpAPtD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8640404,
+                        "lng" : 14.2734472
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 3rd cross street onto \u003cb\u003eVia Generale Francesco Pinto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "selxFghbvA|BQ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86378089999999,
+                        "lng" : 14.2709219
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "86 m",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ualxFyhbvADhE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631464,
+                        "lng" : 14.2710149
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 462
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 40.8590871,
+                        "lng" : 14.2706334
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oalxFobbvABVlCg@vC_@|AM~BUZAzAOzAMLAz@G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 275
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 40.8573053,
+                        "lng" : 14.2683747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Martiri D'Otranto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ihkxFmfbvAlBtCPVzAhB`AtAdAtA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8590871,
+                        "lng" : 14.2706334
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581295,
+                        "lng" : 14.2678045
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVico S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e}jxFixavA_Al@_Al@c@T"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8573053,
+                        "lng" : 14.2683747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.85819559999999,
+                        "lng" : 14.2679594
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ibkxFwtavAM_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581295,
+                        "lng" : 14.2678045
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}ilxFqjevAsBiFGFGDnFrNkEfDh@jBhA~EZnA^d@`@fB@f@EZgBnAOJQjA_AdJcB|Q@H@n@@Xh@hE^|C@ZbEa@PbDN~CPtD|BQH`FlCg@vC_@|Ec@vBQhBOz@GlBtClB`CfCjD_CzAc@TM_@"
+         },
+         "summary" : "Via Vicinale Cannola",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

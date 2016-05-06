@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJwwCKl5RfLxMR0NuTISBxUb4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHw8mhOpfLxMR2Zw0HeCc8Uo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8951338,
+               "lng" : 12.4175129
+            },
+            "southwest" : {
+               "lat" : 41.8917408,
+               "lng" : 12.4136336
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 499
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 67
+               },
+               "end_address" : "Via Aurelia, 619, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8951338,
+                  "lng" : 12.4175129
+               },
+               "start_address" : "Via Aurelia, 727, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8917408,
+                  "lng" : 12.4136336
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 499
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 41.8951338,
+                        "lng" : 12.4175129
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e toward \u003cb\u003eVia Diego Tajani\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "k~t~FepwjAq@]]UOMa@[MKKKMOOQMOAAOGw@cAQUKMkA{AuBoCWe@kAiB]g@GMIK_@o@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8917408,
+                        "lng" : 12.4136336
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k~t~FepwjAoAs@q@i@w@y@OQOGw@cA]c@aEkFiCeEi@{@"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,205 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJz7duthRtiEcRj1e00JR9so8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE8G_BDttiEcRTdPOGtC7caw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0642954,
+               "lng" : 7.6749793
+            },
+            "southwest" : {
+               "lat" : 45.0544802,
+               "lng" : 7.6629814
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1854
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "end_address" : "Corso Galileo Ferraris, 110, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0544802,
+                  "lng" : 7.6629814
+               },
+               "start_address" : "Corso Re Umberto, 19, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0640735,
+                  "lng" : 7.6739335
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.0642954,
+                        "lng" : 7.674098
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCorso Re Umberto\u003c/b\u003e toward \u003cb\u003eCorso Vittorio Emanuele II\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mq`rGayym@m@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0640735,
+                        "lng" : 7.6739335
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.06402910000001,
+                        "lng" : 7.6749793
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Vittorio Emanuele II\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{r`rGczym@t@oD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0642954,
+                        "lng" : 7.674098
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 271
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 45.0618417,
+                        "lng" : 7.673471299999998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Andrea Massena\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eq`rGs_zm@bCvAbCxAlDzB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.06402910000001,
+                        "lng" : 7.6749793
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 347
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.063236,
+                        "lng" : 7.6695213
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 3rd cross street onto \u003cb\u003eCorso Stati Uniti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oc`rGevym@}@nDMh@Sr@wA~F_BfG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0618417,
+                        "lng" : 7.673471299999998
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1093
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 151
+                     },
+                     "end_location" : {
+                        "lat" : 45.054598,
+                        "lng" : 7.663315899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gl`rGo}xm@Kd@f@\\h@\\XPlAt@VNhC~A`DjBzDdCxD~Bn@`@\\T\\T\\Rd@V|@d@HHvA~@vCfBlDtB`EbC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.063236,
+                        "lng" : 7.6695213
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544802,
+                        "lng" : 7.6629814
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gv~qGwvwm@Kj@b@V"
+                     },
+                     "start_location" : {
+                        "lat" : 45.054598,
+                        "lng" : 7.663315899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mq`rGayym@m@a@t@oDfGpDlDzB}@nDa@|AwDfOKd@f@\\bAn@dBdAjHjEtJdGhC`BbB|@`BhAdI|E`EbCKj@b@V"
+         },
+         "summary" : "Corso Galileo Ferraris",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

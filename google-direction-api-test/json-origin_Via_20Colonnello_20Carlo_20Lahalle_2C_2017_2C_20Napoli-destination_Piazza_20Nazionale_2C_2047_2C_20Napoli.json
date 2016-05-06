@@ -1,0 +1,133 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJP6qm-g4IOxMRg7GnzLoWks8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EipQaWF6emEgTmF6aW9uYWxlLCA0NywgODAxNDMgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8632002,
+               "lng" : 14.2745391
+            },
+            "southwest" : {
+               "lat" : 40.8577484,
+               "lng" : 14.270859
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1060
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 237
+               },
+               "end_address" : "Piazza Nazionale, 47, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8588356,
+                  "lng" : 14.2741988
+               },
+               "start_address" : "Via Colonnello Carlo Lahalle, 17, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.863142,
+                  "lng" : 14.270859
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e toward \u003cb\u003eVia Generale Francesco Pinto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "salxF{gbvAA]E}DCyAHi@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.863142,
+                        "lng" : 14.270859
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 492
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 40.8588585,
+                        "lng" : 14.2735512
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Generale Francesco Pignatelli\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ualxF{rbvA@??A@??A@??A@A?A@A?A?A@A?A?A?A?A?AA??ALGZC|@I`DY~BS|BYpCUtDg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631541,
+                        "lng" : 14.2726189
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 419
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 40.8588356,
+                        "lng" : 14.2741988
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Nazionale\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{fkxFuxbvADd@Fr@Jd@l@n@PBf@Ej@INIBC@AXs@A_CIgAIu@WYWMc@@g@D[DKBCBCDABIJKV"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8588585,
+                        "lng" : 14.2735512
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "salxF{gbvAG{ECyAHi@@??A@ABC@E@GAGLGxAM`Hm@nGo@tDg@Dd@RxAl@n@PBrAORMZu@A_CIgAIu@WYWMc@@cAJOFEHUb@"
+         },
+         "summary" : "Via Generale Francesco Pignatelli and Piazza Nazionale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

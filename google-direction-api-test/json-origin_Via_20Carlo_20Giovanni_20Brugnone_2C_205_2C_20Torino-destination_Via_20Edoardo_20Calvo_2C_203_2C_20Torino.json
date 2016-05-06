@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQ2FybG8gR2lvdmFubmkgQnJ1Z25vbmUsIDUsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJd2MmFUZtiEcRUsKfWDNEUSA",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.05209379999999,
+               "lng" : 7.675517799999999
+            },
+            "southwest" : {
+               "lat" : 45.0486983,
+               "lng" : 7.671619300000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 745
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 179
+               },
+               "end_address" : "Via Edoardo Calvo, 3, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0519799,
+                  "lng" : 7.675517799999999
+               },
+               "start_address" : "Via Carlo Giovanni Brugnone, 5, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0498859,
+                  "lng" : 7.6724747
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.0499792,
+                        "lng" : 7.6720247
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia Carlo Giovanni Brugnone\u003c/b\u003e toward \u003cb\u003eVia Ernesto Lugaro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yx}qG}oym@QxA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498859,
+                        "lng" : 7.6724747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 45.0490181,
+                        "lng" : 7.671619300000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ernesto Lugaro\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ky}qGcmym@h@NtC~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0499792,
+                        "lng" : 7.6720247
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.0486983,
+                        "lng" : 7.6735585
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Antonio Rosmini\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ks}qGsjym@~@cK"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0490181,
+                        "lng" : 7.671619300000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 393
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 45.05209379999999,
+                        "lng" : 7.6749399
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kq}qGwvym@qAc@_Be@y@WeCq@YIyGuB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0486983,
+                        "lng" : 7.6735585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 45.0519799,
+                        "lng" : 7.675517799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Edoardo Calvo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qf~qGk_zm@NeADm@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05209379999999,
+                        "lng" : 7.6749399
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yx}qG}oym@QxAh@NtC~@~@cKqDiA_EiAsH_CTsB"
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

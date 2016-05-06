@@ -1,0 +1,211 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJ-fosyBwIOxMRNwITCIHm9Us",
+         "types" : [
+            "transit_station",
+            "train_station",
+            "subway_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR_yNzxoIOxMR6yl8MlW-gmY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.858327,
+               "lng" : 14.2814237
+            },
+            "southwest" : {
+               "lat" : 40.8567085,
+               "lng" : 14.276548
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 687
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 107
+               },
+               "end_address" : "Via Giovanni Porzio, Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8578905,
+                  "lng" : 14.2765838
+               },
+               "start_address" : "Centro Direzionale, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.858327,
+                  "lng" : 14.2812905
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8570472,
+                        "lng" : 14.2808309
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eViale della Costituzione\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qckxFaidvA|CYT?^`@Tb@Tn@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.858327,
+                        "lng" : 14.2812905
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 40.8567085,
+                        "lng" : 14.2773034
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViale della Costituzione\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "q{jxFefdvAJ`CJbCB^B^P|DP|D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8570472,
+                        "lng" : 14.2808309
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 40.856827,
+                        "lng" : 14.2770232
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eViale della Costituzione\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "myjxFcpcvAANEPGJ?@GF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8567085,
+                        "lng" : 14.2773034
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581406,
+                        "lng" : 14.2768105
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ezjxFkncvAUBaAJcBNiAH"
+                     },
+                     "start_location" : {
+                        "lat" : 40.856827,
+                        "lng" : 14.2770232
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "22 m",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581132,
+                        "lng" : 14.276548
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kbkxFamcvA@L?J@H@N"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581406,
+                        "lng" : 14.2768105
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25 m",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 40.8578905,
+                        "lng" : 14.2765838
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ebkxFmkcvAj@E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581132,
+                        "lng" : 14.276548
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qckxFaidvA|CYT?^`@Tb@Tn@VdGj@zLG`@GLGFUBeDZiAH@L@T@Nj@E"
+         },
+         "summary" : "Viale della Costituzione",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

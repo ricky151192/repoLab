@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKU7Cd0xtiEcR6GMidaMkoRE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0451685,
+               "lng" : 7.6759909
+            },
+            "southwest" : {
+               "lat" : 45.0424926,
+               "lng" : 7.6722956
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 675
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 160
+               },
+               "end_address" : "Via Giotto, 27, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0446381,
+                  "lng" : 7.674752799999999
+               },
+               "start_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "28 m",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.0426119,
+                        "lng" : 7.6722956
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eCorso Bramante\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qj|qGwpym@A?Uz@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 45.0444813,
+                        "lng" : 7.673635200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ik|qG{nym@QK}A{@GG{BsAWOiBwA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0426119,
+                        "lng" : 7.6722956
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.0441022,
+                        "lng" : 7.6757212
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Antonio Canova\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_w|qGgwym@`@eEh@yE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0444813,
+                        "lng" : 7.673635200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 45.0449715,
+                        "lng" : 7.6759909
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eVia Ormea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "st|qGgdzm@mDu@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0441022,
+                        "lng" : 7.6757212
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 m",
+                        "value" : 85
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0451685,
+                        "lng" : 7.6749478
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Tiziano Vecellio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "az|qG}ezm@g@nE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0449715,
+                        "lng" : 7.6759909
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "61 m",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.0446381,
+                        "lng" : 7.674752799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Giotto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i{|qGm_zm@hBf@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0451685,
+                        "lng" : 7.6749478
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qj|qGwpym@Wz@oBgAcC{AaCgBjA_LmDu@g@nEhBf@"
+         },
+         "summary" : "Via Madama Cristina and Via Antonio Canova",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,204 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJE_SOgwAIOxMRNdj7MNdy7ZA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV02BZ_-nOxMRv3WjL9xaYXk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8730249,
+               "lng" : 14.298636
+            },
+            "southwest" : {
+               "lat" : 40.8638204,
+               "lng" : 14.2827238
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 km",
+                  "value" : 3410
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 514
+               },
+               "end_address" : "Via Nuova Poggioreale, 5, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8644722,
+                  "lng" : 14.2866539
+               },
+               "start_address" : "Via Nuova del Campo, 50, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8683542,
+                  "lng" : 14.2827238
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8693653,
+                        "lng" : 14.2843393
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova del Campo\u003c/b\u003e toward \u003cb\u003eCupa Lautrec\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ebmxF_rdvAMc@EMSk@GMGKc@u@U_@_@q@OWMQOOKI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8683542,
+                        "lng" : 14.2827238
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "57 m",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8696045,
+                        "lng" : 14.2849185
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLargo S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qhmxFc|dvA@G?EAGKWa@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8693653,
+                        "lng" : 14.2843393
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1133
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 132
+                     },
+                     "end_location" : {
+                        "lat" : 40.8723738,
+                        "lng" : 14.2953658
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_jmxFw_evA?A?YAQAc@?}@MsYEg@CMEQISWYUUk@a@q@]a@GoAEoA?_AAGEGGIOI]Im@c@gCSgAEQCGCEEGOMSQEKCC?GAC?G@O@GBEN[n@}AXu@FKFOFOFUDY?O?MEWCKGMCEa@k@IKKK"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8696045,
+                        "lng" : 14.2849185
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 850
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 40.86846750000001,
+                        "lng" : 14.2961095
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eVia S. Maria del Pianto\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "i{mxFaagvAg@qCc@mCCQEQCIEIEKEKGMEKCMCG?I?G?E@EDKDM@G@G?I?OA_@?S?O?E@E@K@E@EDGDIDCDCPGRAL?J@RDRFTLLLLLp@|@bB~Bl@|@PTX\\VTRPLLLJNJLHXN\\Ld@N^Hd@HNBL@^Bj@@ZCPANCNCFCHC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8723738,
+                        "lng" : 14.2953658
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1046
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639302,
+                        "lng" : 14.2852533
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}bmxFuegvABHnBrI|BtJLl@BLBD?LHZDNV~@p@fBPh@Nd@~EjMn@`BFPdF|MHT"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86846750000001,
+                        "lng" : 14.2961095
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 40.8644722,
+                        "lng" : 14.2866539
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eVia Vicinale S. Maria del Pianto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "qflxFyaevABCDCJIaCeG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639302,
+                        "lng" : 14.2852533
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ebmxF_rdvASq@[y@aBsC]i@[Y@MM_@a@gAAk@AaBMsYEg@I_@ISWYaAw@q@]a@GoAEoA?_AAGEQWSkAaAiFm@m@IOAKFe@`B{DN_@Lo@?]Ic@w@kAKKg@qCg@_DUq@Ws@CQ?MNg@@QAo@@o@J_@JMVK`@A^Fh@TZZtEpGrArAdAp@bA\\dAR\\DjADl@E^GPGrB|IrCvLHh@\\nAbApCnFpNfHfRHGJIaCeG"
+         },
+         "summary" : "Via S. Maria del Pianto and Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

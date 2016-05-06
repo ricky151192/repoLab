@@ -1,0 +1,276 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo-iGBmEIOxMRjQO359BdCVY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJdWCthl8IOxMRy0lRZ3Vexew",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8568102,
+               "lng" : 14.2461994
+            },
+            "southwest" : {
+               "lat" : 40.8514919,
+               "lng" : 14.2399207
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1187
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 329
+               },
+               "end_address" : "Piazzetta Trinità alla Cesarea, 80136 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8519164,
+                  "lng" : 14.2399207
+               },
+               "start_address" : "Via Bartolomeo Caracciolo Detto Carafa, 5, 80136 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8568102,
+                  "lng" : 14.2429083
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.8560275,
+                        "lng" : 14.243808
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Bartolomeo Caracciolo Detto Carafa\u003c/b\u003e toward \u003cb\u003eVia Falcone Beneventano\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "azjxFey|uAPSJK|BsC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8568102,
+                        "lng" : 14.2429083
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8557282,
+                        "lng" : 14.2443882
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Ugo Falcando\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eujxFy~|uAFG@E@C?C?E?u@@IBEFC`@M"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8560275,
+                        "lng" : 14.243808
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.8557811,
+                        "lng" : 14.2449216
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSalita Porteria San Raffaele\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "isjxFmb}uAG}@Ak@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8557282,
+                        "lng" : 14.2443882
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.8547495,
+                        "lng" : 14.2460676
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVico S. Gennaro a Materdei\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ssjxFwe}uATUzBmCz@aA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8557811,
+                        "lng" : 14.2449216
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.8545525,
+                        "lng" : 14.2461652
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVico Medici a Materdei\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "emjxF}l}uAf@S"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8547495,
+                        "lng" : 14.2460676
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "42 m",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.8544624,
+                        "lng" : 14.2456796
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSalita S. Raffaele\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}kjxFqm}uAFx@Hf@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8545525,
+                        "lng" : 14.2461652
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 40.8532462,
+                        "lng" : 14.2460783
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Lorenzo da Brindisi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kkjxFoj}uAVWv@w@RQLCPANBb@JJDPDF?RC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8544624,
+                        "lng" : 14.2456796
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 360
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 40.851536,
+                        "lng" : 14.2425871
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Salvator Rosa\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ycjxF_m}uAJFDBDBDDHHDJDHPf@BN`@hCHf@BRHl@LNPd@NVLNbAdAx@dCTl@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8532462,
+                        "lng" : 14.2460783
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 40.8519164,
+                        "lng" : 14.2399207
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia Salvator Rosa\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "cyixFew|uABN@H@F?@@D?B?B?F?F]`CCJQbBARIj@Gj@Et@G~@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.851536,
+                        "lng" : 14.2425871
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "azjxFey|uAbD{DBS@_AJI`@MG}@Ak@TUvDoEf@SFx@Hf@VWjAiA^Er@N\\JZC\\TNTVp@r@tEHl@LN`@|@pAtAnArDFb@@T]hCUnBY`DG~@"
+         },
+         "summary" : "Via Salvator Rosa",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

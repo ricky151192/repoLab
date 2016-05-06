@@ -1,0 +1,297 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJC2ql29pfLxMRMv_XelPifPc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ6V-H8NfLxMResBRv_DhDE0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9029072,
+               "lng" : 12.4338858
+            },
+            "southwest" : {
+               "lat" : 41.8953169,
+               "lng" : 12.4176818
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.3 km",
+                  "value" : 3331
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 607
+               },
+               "end_address" : "Via Aurelia, 481, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8962543,
+                  "lng" : 12.4253177
+               },
+               "start_address" : "Via S. Bernadette, 23, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9022659,
+                  "lng" : 12.4275406
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 41.9027529,
+                        "lng" : 12.4295836
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia S. Bernadette\u003c/b\u003e toward \u003cb\u003eVia Nostra Signora di Lourdes\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e`w~FcgzjAAc@MmECu@Mi@S]i@g@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9022659,
+                        "lng" : 12.4275406
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 240
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021654,
+                        "lng" : 12.4317946
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nostra Signora di Lourdes\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ecw~F{szjAJo@@Q?K?QCYEWESMy@Ia@CUAS?IBQBKFSFMJOLMHELGh@M^I"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9027529,
+                        "lng" : 12.4295836
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.900505,
+                        "lng" : 12.4332287
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Francesco Scaduto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q_w~Fua{jAvFSf@MVQPYFQFS@W@UAYGi@Ey@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021654,
+                        "lng" : 12.4317946
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 41.8990017,
+                        "lng" : 12.4333384
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Bonaventura Cerretti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cuv~Fuj{jAG]?U?QDWHKFGTQP?T@LFRVXVPLPLJFHDLBTBbA@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900505,
+                        "lng" : 12.4332287
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 272
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985243,
+                        "lng" : 12.430146
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Baldo degli Ubaldi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wkv~Fkk{jAh@fDJl@^dDDd@DbA@z@CzA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8990017,
+                        "lng" : 12.4333384
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1080
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 199
+                     },
+                     "end_location" : {
+                        "lat" : 41.8955735,
+                        "lng" : 12.4182485
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Via Aurelia\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "whv~FmwzjAKrCCv@CpA?d@@^DvA?f@Av@K|BAV?l@?f@@VJlBJhA@J?@FNFp@D\\BVBTJp@RdANr@@DH^J^x@vCNh@Vz@^bAh@pAjAxC\\x@h@lAVl@r@`BHR\\t@d@~@LT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985243,
+                        "lng" : 12.430146
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8954377,
+                        "lng" : 12.4176818
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eVia Lanfranco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ivu~FamxjAEX?@?@@B\\nA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8955735,
+                        "lng" : 12.4182485
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 41.8953169,
+                        "lng" : 12.4177959
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Lanfranco\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ouu~FoixjAVW"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8954377,
+                        "lng" : 12.4176818
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 726
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 41.8984835,
+                        "lng" : 12.4253432
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wtu~FgjxjASa@M[O[MUe@_A]u@ISs@aBWm@i@mA]y@kAyCi@qA_@cAW{@Oi@y@wCK_@I_@AEOs@SeAKq@CUCWE]Gq@@I?GAa@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8953169,
+                        "lng" : 12.4177959
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 251
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 41.8962543,
+                        "lng" : 12.4253177
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ohv~FkyyjAjH_@JA`AFbA\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8984835,
+                        "lng" : 12.4253432
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e`w~FcgzjAOqFCu@Mi@S]i@g@LaA?]Iq@a@eCA]F]Na@X]VMhAWvFSf@MVQPYNe@Bm@W{C?g@DWHK\\Yf@@LFRVj@d@\\TVHxADt@tEd@jEF~BOnFGhC@dAD~BMtDAdA@~@VvD@LFNFp@Ht@NfAn@~ClB|GhAtChBrE~BpFbAtBLTEX?@@D\\nAVWa@}@aBgD_CqFiBsEiAuCmB}Go@_DY}BE{@Ai@vHa@`AFbA\\"
+         },
+         "summary" : "Via Aurelia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

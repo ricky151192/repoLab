@@ -1,0 +1,251 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ0UK0LLZfLxMR9TSwjpuf2UU",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp13Bv5RfLxMR84IBmS6U4bM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9081631,
+               "lng" : 12.4219158
+            },
+            "southwest" : {
+               "lat" : 41.8922642,
+               "lng" : 12.4102899
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 km",
+                  "value" : 3020
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "end_address" : "Via Aurelia, 734, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8922642,
+                  "lng" : 12.4137602
+               },
+               "start_address" : "Via Francesco Tamagno, 00168 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9081631,
+                  "lng" : 12.4146143
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 280
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 41.9070437,
+                        "lng" : 12.4139183
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Francesco Tamagno\u003c/b\u003e toward \u003cb\u003eVia dei Monti di Primavalle\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "_ex~FivwjANCzAQJCHG@E@EAEE}@?MAO@I@G@EBCBABAB@B@BBDFDPDPTvAF\\@F?F?T?Z@R?H@FNf@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9081631,
+                        "lng" : 12.4146143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 41.90647329999999,
+                        "lng" : 12.4147121
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia dei Monti di Primavalle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_~w~F_rwjAz@oAZi@Xc@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9070437,
+                        "lng" : 12.4139183
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 464
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Ennio Bonifazi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mzw~F}vwjAxBmEp@cArAgC`@u@tBoDXc@~@_BfAF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90647329999999,
+                        "lng" : 12.4147121
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 288
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "shw~FynxjA@m@@o@Bm@BaALyCZ{Dj@aC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1502
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 158
+                     },
+                     "end_location" : {
+                        "lat" : 41.8931726,
+                        "lng" : 12.4102899
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qew~F_dyjAdHfF^TRFNDtARf@FTDHFLJl@~@|BhD`@r@LPnBhB|AhAXTDHHFf@d@XP~ApA\\XRRNVX`@~@rAdDtFjArBpB`DDJNXHRJXRl@J^Pj@Rh@Xn@lArC`BxD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9031303,
+                        "lng" : 12.4219158
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "igu~Fi{vjAHCBCBEDI{AmD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8931726,
+                        "lng" : 12.4102899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.89250819999999,
+                        "lng" : 12.4139672
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Michele Pironti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "miu~FoawjAx@y@JMFIJML}BFc@Fc@Ns@Py@TaAPq@DQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.8922642,
+                        "lng" : 12.4137602
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ecu~FirwjAp@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89250819999999,
+                        "lng" : 12.4139672
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_ex~FivwjAjBUTKBKGcAA]BQDIFCFBHJh@xC@`A@\\Pn@vAyBrCqFp@cArAgCvCeFxAcCfAF@m@D}AP{EZ{Dj@aCdI|Fb@L|BZTDHFz@jA~C|E|BzBvB~ANP~DbDb@j@xAtBpFhJvBlDXl@^fA\\jAl@xAnDlILGHO{AmDx@y@RWJMTaDVwA~@_Ep@h@"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

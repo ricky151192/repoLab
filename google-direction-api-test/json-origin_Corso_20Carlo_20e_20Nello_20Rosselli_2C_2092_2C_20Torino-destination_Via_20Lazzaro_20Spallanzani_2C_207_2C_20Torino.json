@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ637MkCVtiEcRbY986nD_BK8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjBWaWEgTGF6emFybyBTcGFsbGFuemFuaSwgNywgMTAxMzQgVG9yaW5vLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.053193,
+               "lng" : 7.6638895
+            },
+            "southwest" : {
+               "lat" : 45.0479486,
+               "lng" : 7.6548286
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1245
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 308
+               },
+               "end_address" : "Via Lazzaro Spallanzani, 7, 10134 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0483324,
+                  "lng" : 7.6625954
+               },
+               "start_address" : "Corso Carlo e Nello Rosselli, 92, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0529862,
+                  "lng" : 7.6567163
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.0530775,
+                        "lng" : 7.6562484
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e toward \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "el~qGomvm@OhAAR"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0529862,
+                        "lng" : 7.6567163
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 45.0517256,
+                        "lng" : 7.6551126
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eLargo Orbassano\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wl~qGqjvm@CBA?ADA@GXCR@LBFDDTNNLHDD@D?HG?A\\JFAN?NBLBt@`@d@\\`@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0530775,
+                        "lng" : 7.6562484
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 847
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 154
+                     },
+                     "end_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e4th\u003c/b\u003e exit onto \u003cb\u003eVia Tirreno\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "id~qGmcvm@?B?D?B@B?B?@@B@B@B@BBD@@B@@@B@@@B?B?@?B?@?BADC@A@A@A@?@C@C@A@C?C@C?C@E?C?C?C?CAE?CAC?AJEDCBE?C@EvBwQ@OD[Ho@x@aGJe@Do@l@uCNk@Li@t@gCh@sAf@eALQlBaC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0517256,
+                        "lng" : 7.6551126
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 m",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 45.0479486,
+                        "lng" : 7.663228299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ep}qGizwm@nBbC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04851379999999,
+                        "lng" : 7.6638895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 45.0483324,
+                        "lng" : 7.6625954
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Lazzaro Spallanzani\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ul}qGevwm@kA|B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0479486,
+                        "lng" : 7.663228299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "el~qGomvm@Q|AEBOt@DTZTXRJ@HI\\JFA^BbAd@fA|@?H@LFNJJLBJAJIFID]AQAEPIBIxB}QjA}IPuA|@aEbAqDpAyCzBsCnBbCkA|B"
+         },
+         "summary" : "Via Tirreno",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

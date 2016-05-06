@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ9yL0dDdtiEcRo91koXwhkZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV_CKy0ZtiEcREWDnVFbaysg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0554029,
+               "lng" : 7.6762027
+            },
+            "southwest" : {
+               "lat" : 45.0504449,
+               "lng" : 7.6672976
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1172
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 221
+               },
+               "end_address" : "Via Nizza, 28, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0554029,
+                  "lng" : 7.6762027
+               },
+               "start_address" : "Via Jonio, 7, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0504449,
+                  "lng" : 7.6677784
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 45.0507319,
+                        "lng" : 7.6680493
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Chisone\u003c/b\u003e toward \u003cb\u003eVia Gerolamo Savonarola\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g|}qGsrxm@y@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0504449,
+                        "lng" : 7.6677784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.05115970000001,
+                        "lng" : 7.6672976
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gerolamo Savonarola\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~}qGitxm@uAtC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0507319,
+                        "lng" : 7.6680493
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 45.0518672,
+                        "lng" : 7.668135999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w`~qGsoxm@mCgD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05115970000001,
+                        "lng" : 7.6672976
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.0529845,
+                        "lng" : 7.6693864
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "ee~qG{txm@e@m@e@k@g@g@iBwB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0518672,
+                        "lng" : 7.668135999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 296
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 45.0550646,
+                        "lng" : 7.671746600000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "cl~qGu|xm@cCoC}BmCsBcCi@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0529845,
+                        "lng" : 7.6693864
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 293
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cy~qGmkym@~@wCd@{BP{@P{@DWl@aEPcA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0550646,
+                        "lng" : 7.671746600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554029,
+                        "lng" : 7.6762027
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sr~qGw`zm@@MNmAg@QWIuBg@oBo@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0540223,
+                        "lng" : 7.675161200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g|}qGsrxm@y@u@uAtCsDuEmAsAmFgGqFqGi@u@~@wCv@wDVsApAaJ_A[uBg@oBo@"
+         },
+         "summary" : "Corso Filippo Turati and Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

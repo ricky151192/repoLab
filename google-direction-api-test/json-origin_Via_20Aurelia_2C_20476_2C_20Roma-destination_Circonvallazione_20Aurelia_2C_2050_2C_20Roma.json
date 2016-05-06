@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcyjopsNfLxMRKHkBk4J8N04",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXW3Z4NxfLxMRw-JfbMWLLlc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.898572,
+               "lng" : 12.4281909
+            },
+            "southwest" : {
+               "lat" : 41.8971409,
+               "lng" : 12.4235612
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 476
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 68
+               },
+               "end_address" : "Circonvallazione Aurelia, 50, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8971409,
+                  "lng" : 12.4281909
+               },
+               "start_address" : "Via Aurelia, 476, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8981218,
+                  "lng" : 12.4235612
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 262
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985548,
+                        "lng" : 12.4266408
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gfv~FgnyjAAEOs@SeAKq@CUCWE]Gq@@I?GAa@Em@GiACa@?S?Q?a@?O@K@E"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8981218,
+                        "lng" : 12.4235612
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 41.8971409,
+                        "lng" : 12.4281909
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e (signs for \u003cb\u003eVia Gregorio VII\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}hv~FoazjA@KXiAFSFSFODKd@q@FGHInAi@lAi@HC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985548,
+                        "lng" : 12.4266408
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gfv~FgnyjAq@qDU}B@QGoAKqCBcAZuANg@L[l@y@xAs@vAm@"
+         },
+         "summary" : "Strada Statale 1 Variante Aurelia di La Spezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

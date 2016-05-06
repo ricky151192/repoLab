@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgQWxlc3NpbyBNYXp6b2NjaGksIDI3LCA4MDE0MSBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYZkhgAcIOxMRPePQa_NYwXU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8692264,
+               "lng" : 14.2773769
+            },
+            "southwest" : {
+               "lat" : 40.863056,
+               "lng" : 14.2681585
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1184
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 148
+               },
+               "end_address" : "Via Nuova del Campo, 63A, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8692264,
+                  "lng" : 14.2773769
+               },
+               "start_address" : "Via Alessio Mazzocchi, 27, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.863056,
+                  "lng" : 14.2687968
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 40.86306099999999,
+                        "lng" : 14.2689756
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e toward \u003cb\u003eVia S. Attanasio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "calxF_{avA?c@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.863056,
+                        "lng" : 14.2687968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 128
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 40.8639835,
+                        "lng" : 14.2681585
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia S. Attanasio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "calxFc|avA{A`@IHqAvB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86306099999999,
+                        "lng" : 14.2689756
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.8647729,
+                        "lng" : 14.2692061
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Don Giovanni Bosco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{flxF_wavAwAoBeAaB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8639835,
+                        "lng" : 14.2681585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 917
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.8692264,
+                        "lng" : 14.2773769
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Nuova del Campo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "yklxFq}avAW_@Y_@KMIM_@i@yE_HeEiG]i@wAyBmC_EW]Ya@EIGKEIAGCKCI?GAC?E?E?G?E@I@E@G@Kj@uBT_A@I@G?I?I?G?C?IAIAGAGCGAGCCEKEEKM{@}@GG"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8647729,
+                        "lng" : 14.2692061
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "calxF_{avA?c@{A`@{A`CoEqGoGeJiMmR_AuAOg@AWB]dAiEBe@A_@I_@[c@cAeA"
+         },
+         "summary" : "Via Nuova del Campo",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

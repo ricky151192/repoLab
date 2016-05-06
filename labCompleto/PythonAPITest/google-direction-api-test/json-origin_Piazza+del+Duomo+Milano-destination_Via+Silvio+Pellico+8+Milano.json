@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ31GTk67GhkcRPw6Nl8LeRdQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDbAH0K3GhkcR9yCvpyi7sjg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4665738,
+               "lng" : 9.1892783
+            },
+            "southwest" : {
+               "lat" : 45.4649456,
+               "lng" : 9.188490399999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 352
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 120
+               },
+               "end_address" : "Via Silvio Pellico, 8, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4657372,
+                  "lng" : 9.189252999999999
+               },
+               "start_address" : "Piazza del Duomo, Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4649456,
+                  "lng" : 9.189268199999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.4651526,
+                        "lng" : 9.1892549
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Silvio Pellico\u003c/b\u003e toward \u003cb\u003eVia Carlo Cattaneo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}zntG}waw@g@B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4649456,
+                        "lng" : 9.189268199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.4651448,
+                        "lng" : 9.188562900000001
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Silvio Pellico\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Carlo Cattaneo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e|ntGywaw@@hC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4651526,
+                        "lng" : 9.1892549
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giuseppe Mengoni\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c|ntGosaw@}A?q@Da@F"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4651448,
+                        "lng" : 9.188562900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uaotGasaw@aBwAII"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46603390000001,
+                        "lng" : 9.188490399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.4657372,
+                        "lng" : 9.189252999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Silvio Pellico\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aeotGcvaw@Xu@DCBA`CD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4665738,
+                        "lng" : 9.1889772
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}zntG}waw@g@B@hC}A?q@Da@FaBwAIIXu@HE`CD"
+         },
+         "summary" : "Via Giuseppe Mengoni and Via Silvio Pellico",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQXN0b3JlIEx1ZG92aWNvIEFudG9uaW8sIDYsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EihWaWEgQXJlbmFjY2lhLCAxMjEsIDgwMTQxIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8691704,
+               "lng" : 14.2702379
+            },
+            "southwest" : {
+               "lat" : 40.8616296,
+               "lng" : 14.2679357
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1136
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 301
+               },
+               "end_address" : "Via Arenaccia, 121, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8616296,
+                  "lng" : 14.2702379
+               },
+               "start_address" : "Via Astore Ludovico Antonio, 6, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8685684,
+                  "lng" : 14.2682046
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 40.8687163,
+                        "lng" : 14.2688215
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Astore Ludovico Antonio\u003c/b\u003e toward \u003cb\u003eVia Ignazio Falconieri\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qcmxFgwavA]{B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8685684,
+                        "lng" : 14.2682046
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.8691551,
+                        "lng" : 14.2686737
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Ignazio Falconieri\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "odmxFc{avAc@LQDA@OBOB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8687163,
+                        "lng" : 14.2688215
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.8691704,
+                        "lng" : 14.268112
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Tommaso Costa\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ggmxFezavAAnB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8691551,
+                        "lng" : 14.2686737
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.8686414,
+                        "lng" : 14.267938
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCalata Capodichino\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "igmxFuvavA\\@B?J?DAt@`@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8691704,
+                        "lng" : 14.268112
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 405
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.8650385,
+                        "lng" : 14.2685622
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia SS. Giovanni e Paolo\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "_dmxFsuavAH@HAd@ITEZCxAA|AEv@GfDc@jEs@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8686414,
+                        "lng" : 14.267938
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 40.8654391,
+                        "lng" : 14.2691436
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Giovanni Gussone\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "omlxFoyavAPQaBaB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8650385,
+                        "lng" : 14.2685622
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 438
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 40.8616296,
+                        "lng" : 14.2702379
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Arenaccia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "_plxFc}avA?A@??A?A?A?A?A?A?A|AWPENC`B[dAOv@OpBe@lCg@vC_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8654391,
+                        "lng" : 14.2691436
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qcmxFgwavA]{Bc@LSF_@FAnB\\@B?J?z@^R?z@OtBEtCMfDc@jEs@PQaBaB?A@C?E?C`F}@|B_@pBe@lCg@vC_@"
+         },
+         "summary" : "Via SS. Giovanni e Paolo and Via Arenaccia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

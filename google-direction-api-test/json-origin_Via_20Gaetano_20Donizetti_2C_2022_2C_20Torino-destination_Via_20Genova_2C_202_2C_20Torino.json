@@ -1,0 +1,275 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj56Aa09tiEcRlpAC9Q6-y2c",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0499996,
+               "lng" : 7.6779514
+            },
+            "southwest" : {
+               "lat" : 45.0363741,
+               "lng" : 7.6717261
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.8 km",
+                  "value" : 2755
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 526
+               },
+               "end_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "start_address" : "Via Gaetano Donizetti, 22, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0498336,
+                  "lng" : 7.6779514
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.0499996,
+                        "lng" : 7.6774899
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Gaetano Donizetti\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mx}qGerzm@a@zA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498336,
+                        "lng" : 7.6779514
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 685
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 45.0444813,
+                        "lng" : 7.673635200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oy}qGiozm@lCdBnCfBlAx@rAp@VPZRdBrAhDpBdDpBdDhB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0499996,
+                        "lng" : 7.6774899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 296
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.0437957,
+                        "lng" : 7.6772771
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Antonio Canova\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_w|qGgwym@`@eEh@yEXqCR{ALiA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0444813,
+                        "lng" : 7.673635200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 45.0417283,
+                        "lng" : 7.676519599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Massimo d'Azeglio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wr|qG_nzm@l@PJBnA\\tBl@PDxBh@PD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0437957,
+                        "lng" : 7.6772771
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 450
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.0377174,
+                        "lng" : 7.676050900000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Achille Mario Dogliotti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ye|qGgizm@NDZF`AN`B\\vBb@p@Hn@Bn@@jA?j@Ex@?tAEXAd@C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0417283,
+                        "lng" : 7.676519599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.0363741,
+                        "lng" : 7.675059600000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Achille Mario Dogliotti\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "wl{qGifzm@nBBRDHBLDLHRTRVJPJPDNDLJ\\BFBHBF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0377174,
+                        "lng" : 7.676050900000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 45.0370221,
+                        "lng" : 7.672186099999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eCorso Spezia\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "id{qGc`zm@A@A@?@A??@?@A@?@?@A@?@?@?@?@?@?@?@?@Ip@s@zE[|B]nC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0363741,
+                        "lng" : 7.675059600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0375411,
+                        "lng" : 7.6717261
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Camillo Bozzolo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kh{qGenym@OJMJIFIBQDOLCBEFIV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0370221,
+                        "lng" : 7.672186099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 555
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Genova\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sk{qGikym@iAGsAKgBWaBQOCeDa@K?{Dc@MA}D_@UAUA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0375411,
+                        "lng" : 7.6717261
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mx}qGerzm@a@zAlCdB|E`DjBbA`CfBnIbFdDhB`@eEbAkJ`@eD~F`BlDz@|AVxE`A`BLzB@tEMd@CnBB\\HZNf@l@Vb@J\\Vv@CBCJAJIv@oAxI]nCOJWR[HSPO^}CSiEi@}JiAkEa@k@C"
+         },
+         "summary" : "Via Madama Cristina",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPUBFV67GhkcRD05lp4kbBno",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPUBFV67GhkcRD05lp4kbBno",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4657967,
+               "lng" : 9.192143
+            },
+            "southwest" : {
+               "lat" : 45.4657967,
+               "lng" : 9.192143
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Santa Radegonda, 5, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4657967,
+                  "lng" : 9.192143
+               },
+               "start_address" : "Via Santa Radegonda, 5, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4657967,
+                  "lng" : 9.192143
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4657967,
+                        "lng" : 9.192143
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Agnello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g`otG{ibw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4657967,
+                        "lng" : 9.192143
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g`otG{ibw@"
+         },
+         "summary" : "Via Agnello",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

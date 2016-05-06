@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiVWaWEgTHVjYSBQYXNzaSwgNiwgMDAxNjYgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPcy9tsBfLxMRn8F2ot0fzDE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.90023619999999,
+               "lng" : 12.4191351
+            },
+            "southwest" : {
+               "lat" : 41.8930543,
+               "lng" : 12.4102899
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1849
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 232
+               },
+               "end_address" : "Via Fulvio Maroi, 64, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.90023619999999,
+                  "lng" : 12.4161799
+               },
+               "start_address" : "Via Luca Passi, 6, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8965675,
+                  "lng" : 12.4103114
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 410
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Luca Passi\u003c/b\u003e toward \u003cb\u003eVia Vezio Crisafulli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q|u~Fm{vjA?EAIAMAO?I@K?KBQR_@FIFGJENCH?P@JDD@fBr@bBx@b@LLHJ@X?XGJCJGFGPSRSLUdAoA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8965675,
+                        "lng" : 12.4103114
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 41.8931726,
+                        "lng" : 12.4102899
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gregorio XI\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kju~FcawjA`BxD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8936605,
+                        "lng" : 12.4112169
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1058
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 41.8995997,
+                        "lng" : 12.4191351
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "igu~Fi{vjAHCBCBEDI{AmDqA}CmAsC]u@_@y@_@s@eBgDy@aBiBmD_@m@[]k@u@QQk@k@IGYY]WaBmAg@]a@WGEEAYU}AiAoBiBMQa@s@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8931726,
+                        "lng" : 12.4102899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 287
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 41.90023619999999,
+                        "lng" : 12.4161799
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fulvio Maroi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oov~FsrxjA}@fAJr@j@bDATG^GXy@lDGRQPSJ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8995997,
+                        "lng" : 12.4191351
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q|u~Fm{vjAEm@Ds@Zi@RMXC\\FlBt@bBx@b@LLHd@@d@KROd@g@LUdAoA`BxDHCFIDI{AmD_DqH}@oBeC{EcDoG{@kA}@gAu@s@w@q@iCkBiAu@}AiAoBiBo@eA}@fAJr@j@bDATOx@aA`EQPSJ"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

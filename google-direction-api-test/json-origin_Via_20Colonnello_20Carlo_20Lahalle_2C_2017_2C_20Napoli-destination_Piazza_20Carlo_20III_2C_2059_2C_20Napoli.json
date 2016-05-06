@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJP6qm-g4IOxMRg7GnzLoWks8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EipQaWF6emEgQ2FybG8gSUlJLCA1OSwgODAxMzcgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8632469,
+               "lng" : 14.270859
+            },
+            "southwest" : {
+               "lat" : 40.8623434,
+               "lng" : 14.2659871
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 581
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 165
+               },
+               "end_address" : "Piazza Carlo III, 59, 80137 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8628183,
+                  "lng" : 14.2670012
+               },
+               "start_address" : "Via Colonnello Carlo Lahalle, 17, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.863142,
+                  "lng" : 14.270859
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "73 m",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e toward \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "salxF{gbvABjD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.863142,
+                        "lng" : 14.270859
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 284
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 40.8632469,
+                        "lng" : 14.2667669
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Alessio Mazzocchi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oalxFobbvABVFrDDpEF`DWVIJQ`@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8631178,
+                        "lng" : 14.269995
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8626593,
+                        "lng" : 14.2659871
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iblxFinavA?H?D@B@HTVd@j@b@d@PR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8632469,
+                        "lng" : 14.2667669
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 128
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.8628183,
+                        "lng" : 14.2670012
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza Carlo III\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~kxFmiavAREDCDGFMBCHSDK@G@C?C?E?EACCGKMe@i@e@c@AA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8626593,
+                        "lng" : 14.2659871
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "salxF{gbvAThQF`DWV[l@B\\pB|BXILUTk@@SEKq@w@g@e@"
+         },
+         "summary" : "Via Alessio Mazzocchi and Piazza Carlo III",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

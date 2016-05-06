@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ637MkCVtiEcRbY986nD_BK8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6YXoX0dtiEcRGx8lXJzf00U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0550646,
+               "lng" : 7.672153399999999
+            },
+            "southwest" : {
+               "lat" : 45.0498622,
+               "lng" : 7.6556304
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1823
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 400
+               },
+               "end_address" : "Corso Germano Sommeiller, 17, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0548939,
+                  "lng" : 7.672153399999999
+               },
+               "start_address" : "Corso Carlo e Nello Rosselli, 92, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0529862,
+                  "lng" : 7.6567163
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.0530775,
+                        "lng" : 7.6562484
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e toward \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "el~qGomvm@OhAAR"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0529862,
+                        "lng" : 7.6567163
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 960
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 221
+                     },
+                     "end_location" : {
+                        "lat" : 45.0499634,
+                        "lng" : 7.6654205
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e4th\u003c/b\u003e exit and stay on \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wl~qGqjvm@CBA?ADA@GXCR@LBFDDTNNLHDD@D?HG?ABA@C@E@C@E?E@E?E?E?E?E?ECGAAm@_@nB{Mz@}F|@_GHe@Hm@z@gGJg@Lo@p@gCh@yA\\q@b@g@^Yb@c@V[JM"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0530775,
+                        "lng" : 7.6562484
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 475
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 45.05307699999999,
+                        "lng" : 7.669213999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gy}qG{cxm@Rc@QSe@k@s@w@iD}DmCcDqB}BmByB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0499634,
+                        "lng" : 7.6654205
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 313
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 45.0550646,
+                        "lng" : 7.671746600000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "wl~qGq{xm@Rc@cCoC}BmCsBcCi@u@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.05307699999999,
+                        "lng" : 7.669213999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.0548939,
+                        "lng" : 7.672153399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cy~qGmkym@`@oA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0550646,
+                        "lng" : 7.671746600000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "el~qGomvm@Q|AEBOt@DTZTXRJ@NODU@WEUm@_@nB{MxB}NRsAfAoH~@wDh@yA\\q@b@g@^Yz@_A^q@w@_A}MwOmByBRc@aG}G}CyD`@oA"
+         },
+         "summary" : "Corso Carlo e Nello Rosselli and Corso Filippo Turati",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

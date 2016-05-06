@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSSGis0ttiEcRCnwxg_A2kbU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ95OXtSVtiEcRP8PsPDAShvc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0564523,
+               "lng" : 7.673082999999999
+            },
+            "southwest" : {
+               "lat" : 45.0449495,
+               "lng" : 7.656699700000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.4 km",
+                  "value" : 2426
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 494
+               },
+               "end_address" : "Corso Duca degli Abruzzi, 94, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0543451,
+                  "lng" : 7.656699700000001
+               },
+               "start_address" : "Via Nizza, 141, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0449495,
+                  "lng" : 7.6721479
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 285
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 45.0474259,
+                        "lng" : 7.673082999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Nizza\u003c/b\u003e toward \u003cb\u003eVia Tiziano Vecellio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}y|qG}mym@iAWcAY{C{@qBi@sAa@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0449495,
+                        "lng" : 7.6721479
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 637
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498645,
+                        "lng" : 7.6658471
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 3rd cross street onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mi}qGwsym@Ih@GRYlCGl@s@rFIl@Gl@Kl@GVAJUbA?BSt@Qj@wBbGqAtDWdAUVKXUl@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0474259,
+                        "lng" : 7.673082999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sx}qGqfxm@Q\\Sd@gA~@ED}@|@e@|@KXO`@}@|COl@Mn@}@hGGj@Ih@_AxF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498645,
+                        "lng" : 7.6658471
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sg~qGyawm@uAy@kBeA}CkBgBkAoBuA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 291
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 45.0563509,
+                        "lng" : 7.6587074
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ky~qGgnwm@_BfF{@xCIXsAlF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 45.0544947,
+                        "lng" : 7.6570864
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ea_rG}yvm@Sp@fEpC~D~B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0563509,
+                        "lng" : 7.6587074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.0543451,
+                        "lng" : 7.656699700000001
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "qu~qGyovm@Ol@j@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0544947,
+                        "lng" : 7.6570864
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}y|qG}mym@{KwCsAa@Ih@a@`DmA|Jk@tCSx@iCnHiBzFUVKXg@jASd@gA~@cAbAq@vAmA~D]|AeAtHiAbHaE_CeGwDoBuA_BfFeArDgB~GfEpC~D~BOl@j@^"
+         },
+         "summary" : "Corso Dante Alighieri",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

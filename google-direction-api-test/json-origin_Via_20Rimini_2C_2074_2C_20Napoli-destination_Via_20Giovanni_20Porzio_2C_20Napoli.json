@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EiRWaWEgUmltaW5pLCA3NCwgODAxNDMgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR_yNzxoIOxMR6yl8MlW-gmY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8585576,
+               "lng" : 14.2765838
+            },
+            "southwest" : {
+               "lat" : 40.8572632,
+               "lng" : 14.2752057
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 312
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 107
+               },
+               "end_address" : "Via Giovanni Porzio, Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8578905,
+                  "lng" : 14.2765838
+               },
+               "start_address" : "Via Rimini, 74, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8572632,
+                  "lng" : 14.2752419
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4 m",
+                        "value" : 4
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 40.8572848,
+                        "lng" : 14.2752057
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Rimini\u003c/b\u003e toward \u003cb\u003eVia Foggia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{|jxFgccvACD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8572632,
+                        "lng" : 14.2752419
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 40.8584635,
+                        "lng" : 14.2754041
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Foggia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_}jxFaccvAy@aAuAL{AL"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8572848,
+                        "lng" : 14.2752057
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 40.8585576,
+                        "lng" : 14.2764652
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Chieti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kdkxFgdcvASuE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8584635,
+                        "lng" : 14.2754041
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 40.8578905,
+                        "lng" : 14.2765838
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_ekxF}jcvAxAOj@E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8585576,
+                        "lng" : 14.2764652
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{|jxFgccvACDy@aAqDZSuExAOj@E"
+         },
+         "summary" : "Via Foggia and Via Chieti",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

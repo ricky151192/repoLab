@@ -1,0 +1,86 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJb836Lx0IOxMRtZPFBByEkP4",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJb836Lx0IOxMRtZPFBByEkP4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8573807,
+               "lng" : 14.2840047
+            },
+            "southwest" : {
+               "lat" : 40.8573807,
+               "lng" : 14.2840047
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Centro Direzionale Isola E7, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8573807,
+                  "lng" : 14.2840047
+               },
+               "start_address" : "Centro Direzionale Isola E7, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8573807,
+                  "lng" : 14.2840047
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8573807,
+                        "lng" : 14.2840047
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eViale della Costituzione\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s}jxF_zdvA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8573807,
+                        "lng" : 14.2840047
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s}jxF_zdvA"
+         },
+         "summary" : "Viale della Costituzione",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

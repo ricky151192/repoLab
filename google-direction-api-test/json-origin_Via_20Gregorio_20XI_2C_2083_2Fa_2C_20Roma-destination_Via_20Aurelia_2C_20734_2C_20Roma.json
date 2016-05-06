@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EidWaWEgR3JlZ29yaW8gWEksIDgzLCAwMDE2NiBSb21hLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp13Bv5RfLxMR84IBmS6U4bM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9011703,
+               "lng" : 12.4205467
+            },
+            "southwest" : {
+               "lat" : 41.8922642,
+               "lng" : 12.4102899
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1650
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 209
+               },
+               "end_address" : "Via Aurelia, 734, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8922642,
+                  "lng" : 12.4137602
+               },
+               "start_address" : "Via Gregorio XI, 83, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9011703,
+                  "lng" : 12.4205467
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1255
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 41.8931726,
+                        "lng" : 12.4102899
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Gregorio XI\u003c/b\u003e toward \u003cb\u003eVia Giovanni Novelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iyv~Fm{xjAv@Lf@FTDHFLJl@~@|BhD`@r@LPnBhB|AhAXTDHHFf@d@XP~ApA\\XRRNVX`@~@rAdDtFjArBpB`DDJNXHRJXRl@J^Pj@Rh@Xn@lArC`BxD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9011703,
+                        "lng" : 12.4205467
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "igu~Fi{vjAHCBCBEDI{AmD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8931726,
+                        "lng" : 12.4102899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.89250819999999,
+                        "lng" : 12.4139672
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Michele Pironti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "miu~FoawjAx@y@JMFIJML}BFc@Fc@Ns@Py@TaAPq@DQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8935098,
+                        "lng" : 12.4112821
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.8922642,
+                        "lng" : 12.4137602
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ecu~FirwjAp@h@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89250819999999,
+                        "lng" : 12.4139672
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iyv~Fm{xjA~ATTDHFz@jA~C|E|BzBvB~ANP`Av@|BjBb@j@xAtBpFhJvBlDXl@|@rC|EfLLGHO{AmDx@y@RWJMTaDVwAf@{BVcAp@h@"
+         },
+         "summary" : "Via Gregorio XI",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

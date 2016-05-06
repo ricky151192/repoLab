@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPUBFV67GhkcRD05lp4kbBno",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhwTdZ67GhkcRUbZhBTNPxfY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4661243,
+               "lng" : 9.192143
+            },
+            "southwest" : {
+               "lat" : 45.4657967,
+               "lng" : 9.191294299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "93 m",
+                  "value" : 93
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 40
+               },
+               "end_address" : "Via S. Raffaele, 6, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4658637,
+                  "lng" : 9.191294299999999
+               },
+               "start_address" : "Via Santa Radegonda, 5, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4657967,
+                  "lng" : 9.192143
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 45.4661243,
+                        "lng" : 9.191633399999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Agnello\u003c/b\u003e toward \u003cb\u003eVia Ulrico Hoepli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g`otG{ibw@Wd@g@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4657967,
+                        "lng" : 9.192143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 m",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 45.4658637,
+                        "lng" : 9.191294299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Ragazzi del '99\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gbotGufbw@r@bA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4661243,
+                        "lng" : 9.191633399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g`otG{ibw@_AdBr@bA"
+         },
+         "summary" : "Via Agnello and Via Ragazzi del '99",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,132 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRaIj6iRtiEcRoeXy9CLaC9k",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpywwWDxtiEcR304ZkBuvs1U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0579269,
+               "lng" : 7.663941200000001
+            },
+            "southwest" : {
+               "lat" : 45.0554024,
+               "lng" : 7.659251
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 554
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 126
+               },
+               "end_address" : "Via Marco Polo, 6, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0579269,
+                  "lng" : 7.663941200000001
+               },
+               "start_address" : "Corso Alcide De Gasperi, 41, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0554024,
+                  "lng" : 7.659251
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 307
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 45.0574781,
+                        "lng" : 7.6618309
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e toward \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g{~qGi}vm@iBaCeByB_AiAoC}D"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0554024,
+                        "lng" : 7.659251
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.0569543,
+                        "lng" : 7.663256999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Cristoforo Colombo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gh_rGmmwm@FYJa@tAaF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0574781,
+                        "lng" : 7.6618309
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.0579269,
+                        "lng" : 7.663941200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}d_rGkvwm@sAy@oBmA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0569543,
+                        "lng" : 7.663256999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g{~qGi}vm@oE{F_AiAoC}DR{@tAaFsAy@oBmA"
+         },
+         "summary" : "Corso Alcide De Gasperi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

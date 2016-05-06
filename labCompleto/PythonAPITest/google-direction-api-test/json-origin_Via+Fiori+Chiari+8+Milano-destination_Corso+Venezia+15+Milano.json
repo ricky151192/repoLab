@@ -1,0 +1,276 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEbklWLPGhkcRujjxIeGti7A",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJyf2m77rGhkcRnZ2_JTFs_Zo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4753411,
+               "lng" : 9.202435599999999
+            },
+            "southwest" : {
+               "lat" : 45.46835129999999,
+               "lng" : 9.1875511
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 km",
+                  "value" : 2456
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 534
+               },
+               "end_address" : "Corso Venezia, 15, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46835129999999,
+                  "lng" : 9.198852799999999
+               },
+               "start_address" : "Via Fiori Chiari, 8, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4723183,
+                  "lng" : 9.1875511
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4726672,
+                        "lng" : 9.189591199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Fiori Oscuri\u003c/b\u003e toward \u003cb\u003eVia Borgonuovo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_iptGemaw@MkA]gEEk@E]CWIa@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4723183,
+                        "lng" : 9.1875511
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.473149,
+                        "lng" : 9.189569700000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Borgonuovo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ekptG}yaw@i@Du@A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4726672,
+                        "lng" : 9.189591199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 130
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 45.4729602,
+                        "lng" : 9.1879209
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fatebenefratelli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "enptGyyaw@@V^zE@h@@j@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.473149,
+                        "lng" : 9.189569700000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 270
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 45.4753411,
+                        "lng" : 9.1884491
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Marco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_mptGooaw@iAFI@M?SCYI]ISGkAYsD{@Y@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4729602,
+                        "lng" : 9.1879209
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 500
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : 45.4746155,
+                        "lng" : 9.194774299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Montebello\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{{ptGyraw@XmDRcD^eHPmDBc@TwDTmF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4753411,
+                        "lng" : 9.1884491
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 45.4725525,
+                        "lng" : 9.1950307
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kwptGizbw@XCpBShEa@fAD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4746155,
+                        "lng" : 9.194774299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.47261,
+                        "lng" : 9.1956589
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eVia Palestro\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mjptG}{bw@DW@E?E?E?EAGAGCKKq@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4725525,
+                        "lng" : 9.1950307
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 576
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 45.4718413,
+                        "lng" : 9.202435599999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Palestro\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "yjptG{_cw@KMGMISGW?CCOC]EU?OWeICgAIgCAc@@SBOBSr@eDNq@Ne@L_@HWdAoCx@sB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.47261,
+                        "lng" : 9.1956589
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 479
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 107
+                     },
+                     "end_location" : {
+                        "lat" : 45.46835129999999,
+                        "lng" : 9.198852799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Venezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_fptGgjdw@X\\xA|A~BvCzBjCnF~ETRz@p@FF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4718413,
+                        "lng" : 9.202435599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_iptGemaw@w@}IMy@i@Du@A`@rFBtAsAHa@CwCu@sD{@Y@l@qIjAoTTmFXCzHu@fADDW@KC[O}@S[Qk@CSIs@WuIMoE?w@jA{FlBmFx@sBX\\xA|A~BvCzBjCnF~EpAdAFF"
+         },
+         "summary" : "Via Palestro",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

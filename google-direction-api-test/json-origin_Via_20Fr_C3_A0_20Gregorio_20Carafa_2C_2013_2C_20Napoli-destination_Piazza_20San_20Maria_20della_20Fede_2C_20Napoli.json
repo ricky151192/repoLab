@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdWJT8w0IOxMRnffbdS3ovrY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJDZqyMhIIOxMRP7GzhTqKNj4",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8612151,
+               "lng" : 14.2706334
+            },
+            "southwest" : {
+               "lat" : 40.8573053,
+               "lng" : 14.2670755
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 908
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 215
+               },
+               "end_address" : "Piazza S. Maria della Fede, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.85819559999999,
+                  "lng" : 14.2679594
+               },
+               "start_address" : "Via Frà Gregorio Carafa, 13, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8610451,
+                  "lng" : 14.2671974
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "57 m",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 40.8606188,
+                        "lng" : 14.2672788
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Frà Gregorio Carafa\u003c/b\u003e toward \u003cb\u003eVia Carlo Della Gatta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qtkxF_qavAHVjAg@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8610451,
+                        "lng" : 14.2671974
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 160
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.8612151,
+                        "lng" : 14.26901
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Nicola Rocco\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{qkxFoqavAc@kBc@aBYmAU}@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8606188,
+                        "lng" : 14.2672788
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 152
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 40.8603774,
+                        "lng" : 14.270428
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Alfonso Maria de Liguori\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sukxFi|avAz@_Br@sAP_@@?JOFIDMBIDU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8612151,
+                        "lng" : 14.26901
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 145
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 40.8590871,
+                        "lng" : 14.2706334
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Arenaccia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kpkxFeebvAzAOzAMLAz@G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8603774,
+                        "lng" : 14.270428
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 275
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 40.8573053,
+                        "lng" : 14.2683747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Martiri D'Otranto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ihkxFmfbvAlBtCPVzAhB`AtAdAtA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8590871,
+                        "lng" : 14.2706334
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 40.8581295,
+                        "lng" : 14.2678045
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVico S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e}jxFixavA_Al@_Al@c@T"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8573053,
+                        "lng" : 14.2683747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 40.85819559999999,
+                        "lng" : 14.2679594
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza S. Maria della Fede\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ibkxFwtavAM_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8581295,
+                        "lng" : 14.2678045
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qtkxF_qavAHVjAg@gAmEo@kCnBsDf@y@HWDUzAOhBOz@GlBtClB`CfCjD_CzAc@TM_@"
+         },
+         "summary" : "Via Martiri D'Otranto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp4P1bK_GhkcR3XPtA0_xAMk",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpaXUIa_GhkcRSclt1SdAGtI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.46394369999999,
+               "lng" : 9.193595999999999
+            },
+            "southwest" : {
+               "lat" : 45.46394369999999,
+               "lng" : 9.193595999999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Piazza del Duomo, 16, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46394369999999,
+                  "lng" : 9.193595999999999
+               },
+               "start_address" : "Piazza Fontana, 3, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46394369999999,
+                  "lng" : 9.193595999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.46394369999999,
+                        "lng" : 9.193595999999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Pattari\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "stntG_sbw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46394369999999,
+                        "lng" : 9.193595999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "stntG_sbw@"
+         },
+         "summary" : "Via Pattari",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

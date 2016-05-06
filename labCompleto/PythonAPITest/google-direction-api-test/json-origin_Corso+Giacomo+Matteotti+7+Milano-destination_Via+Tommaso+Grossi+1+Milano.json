@@ -1,0 +1,224 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQ42OAbDGhkcRzAhRL5AWm_k",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJW9cfsq3GhkcR-stEgM3x-Fo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.467392,
+               "lng" : 9.195793199999999
+            },
+            "southwest" : {
+               "lat" : 45.4655955,
+               "lng" : 9.188149899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 741
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 214
+               },
+               "end_address" : "Via Tommaso Grossi, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4655955,
+                  "lng" : 9.188149899999999
+               },
+               "start_address" : "Corso Giacomo Matteotti, 7, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4668949,
+                  "lng" : 9.195793199999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669519,
+                        "lng" : 9.1937582
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCorso Giacomo Matteotti\u003c/b\u003e toward \u003cb\u003eVia S. Pietro All'Orto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "agotGu`cw@EzBB^IxF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4668949,
+                        "lng" : 9.195793199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "76 m",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.4667327,
+                        "lng" : 9.192839099999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Filippo Meda\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mgotG_tbw@?\\PjAXlA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669519,
+                        "lng" : 9.1937582
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 m",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 45.467085,
+                        "lng" : 9.191880899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Adalberto Catena\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "afotGgnbw@KHMJKLGLCJCHOvB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4667327,
+                        "lng" : 9.192839099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.466901,
+                        "lng" : 9.1910025
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Adalberto Catena\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eLargo Raffaele Mattioli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ghotGghbw@?H?HTjAH`@@@@\\?L"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467085,
+                        "lng" : 9.191880899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 45.467392,
+                        "lng" : 9.189924
+                     },
+                     "html_instructions" : "\u003cb\u003eLargo Raffaele Mattioli\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePiazza della Scala\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cgotGwbbw@AJY|@eAlC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.466901,
+                        "lng" : 9.1910025
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza della Scala\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ejotG_|aw@tAnB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467392,
+                        "lng" : 9.189924
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 179
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.4655955,
+                        "lng" : 9.188149899999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Santa Margherita\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ogotGoxaw@`@`@j@h@HH`BvAj@b@h@^"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669622,
+                        "lng" : 9.189359399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "agotGu`cw@EzBB^IvGPjAXlAYTSZGTO`CTtAJb@@j@[hAeAlCtAnBlAjAjB`BtAbA"
+         },
+         "summary" : "Via Santa Margherita",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

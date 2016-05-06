@@ -1,0 +1,205 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiVWaWEgTHVjYSBQYXNzaSwgNiwgMDAxNjYgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDaXJjb252YWxsYXppb25lIENvcm5lbGlhLCA2OCwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9036193,
+               "lng" : 12.4280513
+            },
+            "southwest" : {
+               "lat" : 41.8963178,
+               "lng" : 12.4096823
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 km",
+                  "value" : 2326
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 437
+               },
+               "end_address" : "Circonvallazione Cornelia, 68, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.900644,
+                  "lng" : 12.4265627
+               },
+               "start_address" : "Via Luca Passi, 6, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8965675,
+                  "lng" : 12.4103114
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Luca Passi\u003c/b\u003e toward \u003cb\u003eVia Raffaele Conforti\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q|u~Fm{vjA@BBHDHNXT\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8965675,
+                        "lng" : 12.4103114
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Raffaele Conforti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_{u~F}xvjAw@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1008
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035205,
+                        "lng" : 12.4163809
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w|u~FowvjAi@eAa@s@IKq@gAa@o@S[qAqB{AeCcA_BaA{AaAcBgC_EoAoBk@aAKMIICCQGK?K@GDMFs@^YJSFI@C?G?WE{@a@o@[wBcAw@_@i@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1061
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 259
+                     },
+                     "end_location" : {
+                        "lat" : 41.9005196,
+                        "lng" : 12.4280513
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_hw~FkaxjAAaAQkJ@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BKd@sAFQPs@L]LYf@yAHG`@kAf@}@@Cp@s@^e@Z_@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035205,
+                        "lng" : 12.4163809
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 108
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 41.900093,
+                        "lng" : 12.4268747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pier delle Vigne\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "guv~FijzjAtAjF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9005196,
+                        "lng" : 12.4280513
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "68 m",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 41.900644,
+                        "lng" : 12.4265627
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qrv~F}bzjAg@T_AVEN"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900093,
+                        "lng" : 12.4268747
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q|u~Fm{vjAZp@T\\w@l@kAyBqB_DsHsLeIuMUWUKW@ULs@^YJ]HK?WE{@a@gD_Bw@_@i@QSmLB}AFoBLyCZ{Dl@kCj@gDbAsFh@mCPi@Ro@l@eB^qAt@sBHG`@kAh@aApAyAZ_@tAjFg@T_AVEN"
+         },
+         "summary" : "Via di Val Cannuta and Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

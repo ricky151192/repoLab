@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-80EsL5fLxMRqwUySUUWYps",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ4ZgAybhfLxMRe-qN4xFfbZI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9021268,
+               "lng" : 12.4137024
+            },
+            "southwest" : {
+               "lat" : 41.9007399,
+               "lng" : 12.4099139
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 km",
+                  "value" : 581
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 141
+               },
+               "end_address" : "Via Bra, 15, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9021268,
+                  "lng" : 12.4133538
+               },
+               "start_address" : "Via della Divina Provvidenza, 41, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9007399,
+                  "lng" : 12.4101541
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4 m",
+                        "value" : 4
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9007494,
+                        "lng" : 12.4101131
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e toward \u003cb\u003eVia Monte Carmelo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "svv~FmzvjAAF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9007399,
+                        "lng" : 12.4101541
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 41.9016651,
+                        "lng" : 12.410039
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Monte Carmelo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uvv~FezvjAoAa@C?C@C@EF[d@IJIFGBG?CACCEEGM"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9007494,
+                        "lng" : 12.4101131
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 41.900947,
+                        "lng" : 12.4136784
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Rivarone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m|v~FwyvjA?G?E?EFi@^kCbBaMFc@?M?G?E?ACI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9016651,
+                        "lng" : 12.410039
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021268,
+                        "lng" : 12.4133538
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Bra\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}wv~FopwjAECGAG@G@G?_Cj@?AA??A?AA??AA??AA??AA?A?A?A?A?A?A@A??@A@?@A??@?@A@?@?@?@?@g@L"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900947,
+                        "lng" : 12.4136784
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "svv~FmzvjAAFoAa@G@o@z@QJKAIIGU?Kf@uDjBeN?U?GIM_@@aCh@?ACCECI@EDAHg@P"
+         },
+         "summary" : "Via Rivarone",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

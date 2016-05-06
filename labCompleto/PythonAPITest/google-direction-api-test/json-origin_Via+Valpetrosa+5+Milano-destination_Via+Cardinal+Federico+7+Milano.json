@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo9AkdKvGhkcRvyWnUXUQu8U",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgQ2FyZGluYWwgRmVkZXJpY28sIDcsIDIwMTIzIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4628813,
+               "lng" : 9.185535
+            },
+            "southwest" : {
+               "lat" : 45.4621883,
+               "lng" : 9.1853245
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "83 m",
+                  "value" : 83
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 26
+               },
+               "end_address" : "Via Cardinal Federico, 7, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4628813,
+                  "lng" : 9.185535
+               },
+               "start_address" : "Via Valpetrosa, 5, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4621883,
+                  "lng" : 9.1853245
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Valpetrosa\u003c/b\u003e toward \u003cb\u003eVia Fosse Ardeatine\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uintGg_aw@GEKEI?SDSBK?[KCACAAAOQ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4621883,
+                        "lng" : 9.1853245
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3 m",
+                        "value" : 3
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 45.4628813,
+                        "lng" : 9.185535
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Cardinal Federico\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "}mntGm`aw@AE"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46286509999999,
+                        "lng" : 9.1855118
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uintGg_aw@SK]D_@B_@MW["
+         },
+         "summary" : "Via Valpetrosa",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

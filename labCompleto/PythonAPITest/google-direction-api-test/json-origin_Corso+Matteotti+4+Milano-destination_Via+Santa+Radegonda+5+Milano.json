@@ -1,0 +1,131 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJy9uQ06_GhkcRvP8LtkTvEKk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPUBFV67GhkcRD05lp4kbBno",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4669161,
+               "lng" : 9.193617399999999
+            },
+            "southwest" : {
+               "lat" : 45.46526129999999,
+               "lng" : 9.192143
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 349
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 107
+               },
+               "end_address" : "Via Santa Radegonda, 5, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4657967,
+                  "lng" : 9.192143
+               },
+               "start_address" : "Corso Giacomo Matteotti, 4, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4669161,
+                  "lng" : 9.193467
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 45.4667327,
+                        "lng" : 9.192839099999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003ePiazza Filippo Meda\u003c/b\u003e toward \u003cb\u003eVia Adalberto Catena\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ggotGerbw@Jn@XlA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4669161,
+                        "lng" : 9.193467
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 45.46548929999999,
+                        "lng" : 9.193617399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia S. Paolo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "afotGgnbw@REBMBGzE_C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4667327,
+                        "lng" : 9.192839099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 45.4657967,
+                        "lng" : 9.192143
+                     },
+                     "html_instructions" : "\u003cb\u003eVia S. Paolo\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eVia Agnello\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "i~ntGcsbw@Tr@Vz@{A~COV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46548929999999,
+                        "lng" : 9.193617399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ggotGerbw@Jn@XlAREBMBGzE_Cl@nBkBvD"
+         },
+         "summary" : "Via S. Paolo and Via Agnello",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

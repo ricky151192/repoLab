@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQ2FybG8gR2lvdmFubmkgQnJ1Z25vbmUsIDUsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjRWaWEgQ2FybG8gR2lvdmFubmkgQnJ1Z25vbmUsIDUsIDEwMTI2IFRvcmlubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0498859,
+               "lng" : 7.6724747
+            },
+            "southwest" : {
+               "lat" : 45.0498859,
+               "lng" : 7.6724747
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Carlo Giovanni Brugnone, 5, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0498859,
+                  "lng" : 7.6724747
+               },
+               "start_address" : "Via Carlo Giovanni Brugnone, 5, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0498859,
+                  "lng" : 7.6724747
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498859,
+                        "lng" : 7.6724747
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Carlo Giovanni Brugnone\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yx}qG}oym@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498859,
+                        "lng" : 7.6724747
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yx}qG}oym@"
+         },
+         "summary" : "Via Carlo Giovanni Brugnone",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

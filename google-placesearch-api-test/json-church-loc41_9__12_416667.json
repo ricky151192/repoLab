@@ -1,0 +1,367 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-wAAAMFefZklSYmZ6idlE-lV1VSLvANqYJbYV6THcwHLder4mzxIfsJ8v9oPsPLEy7uUurV6qhdSeF215lIObazid4rAaZ6KdzQqNawmSb68wfoBCnWtz-69FAl7OYZacunnYKjVRJErSGAOp3RB1wbSNrJJlIkFt5xPCGnsYnZzlxlKsFkPlHTBDLIS1Rrt3ZAvQvOoVLuufJR_ZanXCppFTvscDjtVW8m4kN1xt43MhKL8lpI4dvpEYHiYu-BE4LveIjgWLDKXgkNJ2vR4uDFyHCXnt6v43QYtCfJbcOEuAXx7yHMAGoBWbi9Onyr1emqpKjpQwjpO2OjQUsbZRZzhxlESEPXhT31lMlPxLjObyrN9n_waFBjQDpR_uukN_ONIkPXSdad4SbEZ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90543390000001,
+               "lng" : 12.4215222
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f271c0a6e10470786ac4b7f5c612f00006a58896",
+         "name" : "La Casa di Nazareth",
+         "place_id" : "ChIJpRJlUM9fLxMRkIoH1sj4dis",
+         "rating" : 4.7,
+         "reference" : "CnRmAAAAW_8r-YzhA66QPb5co2hsulieq8919oYBGQJhBPbOYgGhrwetT69cp1S0eqSiT12d_AcCXpFutd_onfTiBiw0XQ1xDDcFT07T6lBrzlAoxRLEI00WXluyqc9PHj0pdMwvTaetj9uuFVIpGaW3ZJ_u4BIQgeT09WlbAjxVERXFOxDz-hoUv4TMmVJya_2aRbzZu_Fd_VZEns4",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Martino V, 25, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90590579999999,
+               "lng" : 12.4218492
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "91c9cb0d7c9dfe5896b08cbaaea8b869841fa823",
+         "name" : "Parrocchia S. Filippo Neri alla Pineta Sacchetti",
+         "place_id" : "ChIJoxn3XM9fLxMRG_c3AT_6gXE",
+         "reference" : "CpQBhAAAABXRaKbyx7E-gmqtz5vcxyE2P67MScvUbRp5VqnrqB7yUUl9T05xwHStY14nh7oEeyF3Eh09ln0IIxezjShDwF7xL8r9WF3AS32vgNlNVxazIub4qL_SDPU0kTzsD8EzutJCgvxaHAay-OYUFuswyaQEZqM4dW89r0GfbG-xHI6qhYpkZ0TtDUBn1MEhT0MKaxIQj-FQyKS0rIcxrSDyjt7WNxoUu74btqdUd46N7-Oiec6uYcogUHM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Martino V, 28, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89645650000001,
+               "lng" : 12.4241735
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "37fc280d257977bc6e6484c22a2adb31dd8e8b03",
+         "name" : "Azione Cattolica Italiana",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112079985577237670420/photos\"\u003edavide zecchin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAN-HeAvjn7CjucQR1X8zbqbKeVPF8WfLaYUjZi_76uVOno2ON8Row0ZB3buEqFD5MrHWjV8617FHuVrajE4iIY2ZjSpoWeGAZM66j5spY3cdIBhQsgvYjfHyozmZ0VgFozWDPmBRNmTRUkxjlRYCH6mgrAQll4lx0Ws9I2rLoLcIEhDyKiL4aW6NibMaYx2ckH8lGhS1vIgA3sK9OHbtMHaUaP73i2CMDg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ8yZb6cJfLxMRdpCImQLUJYw",
+         "reference" : "CnRtAAAA1sp-wTmIUszyBO6sPyBC-xZTiQ4s5NRyg6gfSqJrCaY1mR3s17B2pdfIDs91yTtF9MiYHplfBU0Kx-h41-qaf_oXo4fZayKMAvInvxD4sTi_TEJGoI6J5HUWA450ZbwLugyfDsfGnuCJxhTUvaQE3RIQ4ISO4o4seAPyxaIuTB8-FxoUjp1ZVw_Sp5ZrkjijuKNz_3SLG0E",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 481, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9017632,
+               "lng" : 12.4206973
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e252789e37b4d7e84bb33be4433241a62986d3d3",
+         "name" : "Istituto Suore Riparatrici del Sacro Cuore",
+         "place_id" : "ChIJW1fVJ8RfLxMRmJL7rwnpKs4",
+         "reference" : "CoQBfgAAABDyiQ4Uu-k1IF14prepzLZUlkNtVE_7Yewi9kprNX_OpUBRMzn3kBMssQJX1SbfCwL1_A4GP-Pm8zGPy-zo88AKqjXTFAp5T5F6MFyc2CPcQNZm8rWhII3wLwiGYZwVRqj6BIIaAcjKNlwLoUiLFiPgv2UAuGucTbnRl085smYaEhCggKrXKKbRpuOaaSklSK5QGhTnmFLS-3XOQNd2lVTkNbB9tkHbcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Gregorio XI, 26, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8932116,
+               "lng" : 12.414595
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c741a3968246f736fdbeeeda1406dfec758a6e6c",
+         "name" : "Suore Figlie Della Ss. Vergine Immacolata Di Lourdes",
+         "place_id" : "ChIJa9Lh0JRfLxMRR3tr4c1Pees",
+         "reference" : "CpQBiQAAADU52lK75tTjh_iqYAA12JM_vr7TrPT8P_r39dE6mgzLJO_MxTSwEwUgOyRmQbjwuqVZJB3BkKhCFN27jnz0PTYO1D_sJdYZBTHAin6AFeyIBHpGQWni5fHB2U5J55FQwS2A55ssHvxytfi8pA_zm0pROjy3UxysZnMzMoMMLvvdcjY6Z2t9tK5nclBwAwSn5BIQprT-VED5jsdnUNJKVeH--xoUFFX_ftlhMJTgduhOt3cyUP51E8I",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 702, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9027551,
+               "lng" : 12.4277229
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e1e1f987a2d6f2cf05bc08bcbc1804a0cf2a8f36",
+         "name" : "Parrocchia Santa Maria Immacolata di Lourdes",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104677879637094534846/photos\"\u003eAlessio Mari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAASQC0wtEgi0to0V3YOea9LlRCXbZbR0dS87C_N9Q3s7gPgi_OfsRBzcqLWvUJNGNClnDbIxrxL8oqbOgEfQgiHSHe22ZLANCFPq2RYkA0xpDu3zKxXWpxp_CCR77kljXxI4Yb19m1XEK8o9UZ5jorik-Gaet8E-wWWQYSNkwWTtEhDsJnt0byTJBm_GxUpRmWXXGhQPq2RIADzBtkPV3Fvsa-Vwu9J6-Q",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJzTKX29pfLxMRztyt8LIiJuc",
+         "reference" : "CoQBgAAAALVMLmLCkeYqvLm1j6t7qE06FiOeIDh5C1txJOaUYYpEw7S3ilgMQguUiE3SOVXUYJsy9HkswXaZRVMpQWSmuRtGwUU9PgTNjeZo43uQS9-wfNeV-NASD-I_Kl3TkfET7wvedchxi4Ry_lvmX97QyUuX5z_zj80ZovTt5PaHKoivEhCkI33H-q3cdaO6Y9ZqE_bSGhSVYV_3EJ0-YhZ_LqysPiNBXdv91w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via S. Bernadette, 23, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8963676,
+               "lng" : 12.4248612
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a70836aec179a14aa1ebc968d29e33eebb0ead60",
+         "name" : "Fondazione Migrantes",
+         "place_id" : "ChIJ5ZvYd5FfLxMRArwilkh4c_Y",
+         "reference" : "CnRoAAAA-Yr0zZHMFfZSKvZiaaN0KxqzjDSVs5Yz-dnnuv1g7syIYybtTH8EZYOqddd1dC6mNHS-hJuYO6ybwzGdSKwyzHTbYoydngCNN1lLW2UbOBdg1FhZ8St89YdW_xf51VcvKzZmMUTyBPbJ-gTb4tbtzRIQaf3EFog6Am9gT_-EF8VVxBoU1kTB-KriYLtCjazie79q2BAaewc",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9081631,
+               "lng" : 12.4146143
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "cc3a805abe31abd5edc6786dd3909ebf6b5aba21",
+         "name" : "Casa per ferie Villa Mater Redemptoris",
+         "place_id" : "ChIJz8Esw7dfLxMR3TMwDdE6vNA",
+         "reference" : "CoQBegAAAH8yMEsV2acLdrZ1JSjEJ9LTnnr8xV337nvqi_QIii4efHmSroPMRR6nUzhFreKMYjMGXqKi2Zj5WFHPl09woyhx67IFVtEe21Pff2EYaAPQZNdo4F2-GZjPSScPY7prViXpkp79lHjFsM3E5NmKcssqdaJmBGCzmp37rMsHo_4jEhCUFzLNVY260hlhAwjpW6EHGhSeWSRm0gcCEQosPs3Q6lIdQPL6IQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Francesco Tamagno, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.897103,
+               "lng" : 12.4273067
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5c67d6fc712760a605a96caca33faad423223ec9",
+         "name" : "Italian Bishops Conference",
+         "place_id" : "ChIJr8bI4dxfLxMRaQ8LVbwX5Yw",
+         "rating" : 4.3,
+         "reference" : "CnRuAAAAszjCNKE4lFG8TUzF7LTOHaW0I8zBST3LDL14u0fhqijOJFyrrH9Mmg7zSDoaJ7li6UYHD_mjB8EUlkNoJnc1cdajtozdPygbt17gOBeaLzbzOa_lx2et0oVuwm3rn0gQUIAsKtNZePf_xIgE15zeKBIQEclDymKNKlau2OCeT0rtGRoUZ5T_fUXl-Ye5xxN7mxryvcaBxVY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Circonvallazione Aurelia, 50, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8986993,
+               "lng" : 12.4233555
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "fec6a2cca1d40753774513e0bb31294f8db7f88a",
+         "name" : "Casa Generalizia Istituto Fratelli Scuole Cristiane",
+         "place_id" : "ChIJA5qar8NfLxMRYdsPFR6m3O4",
+         "reference" : "CpQBiAAAABKKe_cQ9ItjXQ0qT4490SR17gMpoT4KB6ckwhVFGt2HgQOm-gZUQoVV0FWa4ty45De9RVBI2Puh6GsL-Iq8NrlKgt-0PVFgVybWiOnnxdyyrMS3-UsYV5qFro0aXB1h4ZBBx6yZ1IHDlsLw_IrOM_SHkdSKec8jE_iE29SaAfazDr949tep24vWJ0ZhIuaG-xIQVeCdB74TlGb5wTCWg1dpIRoUSKC1pAkAHnCW_v-gtUA3Oh-Cr2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 476, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8963676,
+               "lng" : 12.4248612
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2a5019560efdad2ce6646609e824f9d8c2fe5679",
+         "name" : "Fondazione Di Religione Missio",
+         "place_id" : "ChIJ5ZvYd5FfLxMR2HMl_RnDBzU",
+         "reference" : "CoQBcQAAAD-2FPO9NzjKUCRg_FnECLmKCddX_SRVUXuwn50RXTjFMp0YdCCVyzvt8VIdHWZuQkDnW6e66ia4ugsbNNPFg-O4mT1eSIjebTLiJs66ykkEOq9rXVS02JSU8iTdXklpe878Tv7s00Wc9zhyy--FnUNAra8TKnVLVpL6tSVvfQJ3EhBX78Oolfrwa0_fkbWv-ijQGhRZoHR3atdRW0x-rY2R8y5CK-oPBA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.89641849999999,
+               "lng" : 12.409188
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3b149ddf0bd2eaaa37a01202278171f57195c1b7",
+         "name" : "Congregazione Suore della Carità Immacolata Concezione D'Ivrea",
+         "place_id" : "ChIJW9ljF5ZfLxMRs3KO_WA8jJw",
+         "reference" : "CqQBlAAAAJtnAlH0vVRsXtw6gjVZIm68N7ymgqJYk6hC-hNN4rawah9OQR2_V2lQfTfZDH-MvISO_s3DnNZb_SEvjlp-5Fe6Y9YAHL7IqXbYXdrHJ8LQUwjtTVPlj46GjtdB_WVMMIugCCm9ThUTlB2-dyXGx_DnYvc4nxdn4en1yMl11r_uFO0W83-mLq6hVIXzAGpt9icBLbG0cjU1k-dBD4eHCA8SELLbJKhoavMknykYBFqAuLwaFBEbP0RcrDtPOEJABt29oTZi2jKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Val Cannuta, 200, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9020811,
+               "lng" : 12.4135347
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6c90617ba3794c7798882c70cc1287e7294c31c6",
+         "name" : "Ente Patrim.Chiesa Di Gesu'Cristo Dei Santi Ultimi Giorni",
+         "place_id" : "ChIJcQ7HxrhfLxMR7_KecrcH3XU",
+         "reference" : "CpQBjQAAAHE1EklQJ5y54I8AWSwFoyTQUXV23_E-Vw5uROHFnSaMK6G1LpTX8rX44QtZxj8gv-MV1RPZhv8oMj0hbzmi9jxXFNpIbvEcei9Qh1Du8aUcDthIiui7-IJspnBEABZjUDAlW10tyh_3iGc88woLDeXfNEfRwsT9dQqGfkHVt5twtxZFu0lq7NimXeQ5otx_QxIQM1XChZPP3DVRq1oAC3ggPxoU4XPgsWboG0HerzSkMs_RQiBGFJg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Bra, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8963676,
+               "lng" : 12.4248612
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2c81b2c7be5f6ea1e3c714b611ef77574554e15c",
+         "name" : "Istituto Suore Francescane Angeline",
+         "place_id" : "ChIJ5ZvYd5FfLxMRcFlHAFl8aFY",
+         "reference" : "CoQBdgAAAB8OhpbIQNkFzQDRC34eICXvc-iqWeSTNg4zblS2LPjtuC5JH130XI9JDJu8zO9sYm152IL3G2Uhhl9pFYOYoD1zzUrG0Kpjd7-8hrqrYmHnhzVHsSaRmAlkA5oCRvT9qrrVJugQjJGw_b2R-BR7YSOs25nG02A7toTbsLEqQnFwEhCiwb6qGZO0X20fQ6zanfsLGhQLLRc8lkjb1DaCZ2ouQd4-0YFQgg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8963676,
+               "lng" : 12.4248612
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c0571e544fa66702933a65e3d35a1046b96f70a7",
+         "name" : "Movimento Di Impegno Educativo Di Azione Cattolica",
+         "place_id" : "ChIJ8yZb6cJfLxMRa9_3ZpQbNSw",
+         "reference" : "CpQBhgAAAGDi3bglomi2sIsG8dTK7d0MlX2OEOjF_BmxBIkem4n0C0odRk6kHtma4FbYDUzYr15ejZR0f61wOg21IqywLa52cl0Q6jFkpM9FiO8QNB1GwHX0ciQeOXLRTIKDkq8FX1hJDsWkd-RpYR6_ibfCtbpL6VYMvQvgICuqFhLPAy0zhyQkzxUAlaeEc_m59zWjUhIQzy3hl9QnhcqZdvfcXwAm-xoU8hLQpgjqoVYbrNQtrw7i2oVxmcE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 481, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.893438,
+               "lng" : 12.415386
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "643e2168cd7ed40657ff7bc051f279cfd0ee46a0",
+         "name" : "Legionari di Cristo & Regnum Christi - Direzione Generale",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117167597168231112155/photos\"\u003eLegionari di Cristo &amp; Regnum Christi - Direzione Generale\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALi0wrCKqz6RW-x7Ds5xHITb_BZLhs_QTs6hfC1PKtQXt9P9FKCoyUdvQfI52pxDDlEEstTUgDET0Km9gkeoqN8kQEObx2p2knmL6mVxrn06ikYrJsYkSAUwVtIQHszxJuAcPuttMh9oELEZ3p90Uhl0ateTV9dzU1U83jC3D8uXEhChoNX5WLT2eujW_zep8B4LGhSCKJa1Ax59LbcqpAlcDdkbgRwMRA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJdYZi1epfLxMRkosUV8g2SdU",
+         "reference" : "CpQBjgAAAL4KlOES21rDv1UJw6Zdbk8LLBn9BtfOdA4w4UcK-48XwaqJnGeKAp2BBzImnpWOzUwZfdPcwvPD83gqzRxb-bBXAGCjEVIHLavCkD4s4zH-hUglUZieBQtLW55lQA82Xy4uWBlQBbVSg4usQX2NLU3Wb92_F3mCh0e1wFuJ95NbAjJlkM-Hkb9o209LUd882hIQeAYT-0UwHI1EYJjltK0UkRoUvr4V9S4o_8jXHeDG5mV0P-rGpZc",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aurelia, 677, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8998903,
+               "lng" : 12.413005
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "392ba4d953e848f5a5607a6af3d1b20657928060",
+         "name" : "Congregazione Piccole Suore Della Divina Provvidenza",
+         "place_id" : "ChIJLaNNpb5fLxMRZ4SJCcMA7no",
+         "reference" : "CpQBiAAAAG-AgnV-adP43G2c9YNnMnHpiCFHGKI-jx4oLMVxPzje9kpMC5bgYgdJuVUWQXFAazyfkVae0vky_5jmuurVj7lXpFG5kWsAvPI4G2A6uBn1pbvtKI4gTOoGEvJUtzBgdpMIOZWsuFSuW45metVYMNfU2UzdPo5u76On1bDsmlCbVuKE0lU3Sd0lEI548CfrDBIQHALEfn_BziDtL1RVOGkQxhoUY5Xt8umES_doDmwVksl7xVFsC68",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via della Divina Provvidenza, 11, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.897377,
+               "lng" : 12.4187228
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "00078f945f0e15fec9729ce4a5fe3aaa69ef86ff",
+         "name" : "Provincia Religiosa Maria Madre Del Carmelo Delle Suore Carmelitane Mi",
+         "place_id" : "ChIJU1rgr8FfLxMRNkbIG9BpJhI",
+         "reference" : "CqQBmgAAABvuxgW40Ju1xoAfbKgN_HD6H4e6JSD6ex4cngKUaF7jjEdXT6HIUaYr5Mt3jSlhCz8FDRbdxWfolIX9p72W8-cpduFi5MpjUeP217dc0JKowSfn93XHrNrolyEEderda_5EFgGiskJN5daBn6GBQF2H3bQpYxnXKK6gJuvZxzSdGWg9EQOrU6XMyEcqL4fcr_7jUBad5o_2an4e8G5SCkgSEEWLph0LYM0M2PL-172SZMUaFPHI7yF4MqN6EI6C3iufMnud8Q3T",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ilario Alibrandi, 23, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9006266,
+               "lng" : 12.4102363
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b18d79d787c1b7b73afd7d0acbaf7287e81cc015",
+         "name" : "Piccole Suore Divina Provvidenza",
+         "place_id" : "ChIJLaNNpb5fLxMRVLzYwJvuH-c",
+         "reference" : "CoQBdAAAAOJuE3f6ET-KOJ-ogYr0yBGSgSOcMfj5-HPGjgI5hSgiLfIpqADLo_AsLBuy7_8-y01qN_Bkuc-11uCax7x0TYZBG239w7M1JiqyoIKGCRD2VgPh3PJilZOtjyvqApB4_vSkgwNik77gleyKzZrk15LHjgemjfXdha6p5ITNGe6TEhD22QLPMDR-Fttb9m7NJ13dGhTptkVVTZFNUNE9faYBRygivoA2mQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via della Divina Provvidenza, 41, Roma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9046139,
+               "lng" : 12.4159433
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3e908af6e54da7e60202742ad24ca1dfbc5bbc84",
+         "name" : "Seguimi",
+         "place_id" : "ChIJl3nz7cdfLxMRI92asln9L30",
+         "reference" : "CmRaAAAAoIVbRRTYs0yawfinXOEAuejttFZsV7eOghfs41Wgq27cEGfEg7SccNUyxIwiez0Qw5QCDzR2aQ6yrSVMYi17J6Yn4NYrEdZ_NAIPGSGpq-vi0iwN4d_gyBJ95fQp4MKQEhD3Dtw54-V9ncX2Z4ylIDdGGhRmN7ddf70Y1Lw8uB5vvPGC1-O3dQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Adriano I, 36, Roma"
+      }
+   ],
+   "status" : "OK"
+}

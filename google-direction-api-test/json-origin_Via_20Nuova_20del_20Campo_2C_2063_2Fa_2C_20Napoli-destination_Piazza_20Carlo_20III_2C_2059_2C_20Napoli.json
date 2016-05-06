@@ -1,0 +1,250 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJYZkhgAcIOxMRPePQa_NYwXU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EipQaWF6emEgQ2FybG8gSUlJLCA1OSwgODAxMzcgTmFwb2xpLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.871861,
+               "lng" : 14.2842971
+            },
+            "southwest" : {
+               "lat" : 40.8623434,
+               "lng" : 14.2659871
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.2 km",
+                  "value" : 3156
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 448
+               },
+               "end_address" : "Piazza Carlo III, 59, 80137 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8628183,
+                  "lng" : 14.2670012
+               },
+               "start_address" : "Via Nuova del Campo, 63A, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8692264,
+                  "lng" : 14.2773769
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.8691831,
+                        "lng" : 14.2789661
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova del Campo\u003c/b\u003e toward \u003cb\u003eVia Vincenzo de Giaxa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ugmxFspcvA_@]QQGIEIEOEQCSCW@M@QDUDOHOXa@T]RU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8692264,
+                        "lng" : 14.2773769
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 423
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 40.8718503,
+                        "lng" : 14.2823242
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Vincenzo de Giaxa\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kgmxFqzcvAEMUo@IOGKGGIGCAsAq@s@_@o@i@IMSWIMS]MWWq@GQGSGOEMEKAAIQGIGKMOeAmAUUEECCAA?A?AACAC?E?E@G"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8691831,
+                        "lng" : 14.2789661
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 271
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 40.86991949999999,
+                        "lng" : 14.2842971
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eViale Comandante Umberto Maddalena\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "axmxFoodvAtAqAx@{@zDkEDEJKPOPO"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8718503,
+                        "lng" : 14.2823242
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1283
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 40.8679943,
+                        "lng" : 14.2733959
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nuova del Campo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_lmxF{{dvAH@X?P?PBL@RDHHNPHJLT`@l@PV\\l@HLVp@Vv@Nj@v@pClAlEL`@DR@F@F@HBL?H?J?JAJ?FAFABCFCHEFGHEBIDMFIDc@LWFm@Le@JODODOHMFIDKFQLSPYXYb@MPMVKXGXAR?NBZFZJZJRNR\\ZLLn@l@BDFDHJ@BBDBFBHBH?D@H?D@F?F?HAHAH?HA@ERI\\k@xBALCH?HAF?J?H@F?FBJ@FBH@FBDBHJP\\b@fD|E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.86991949999999,
+                        "lng" : 14.2842971
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 717
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 40.8634591,
+                        "lng" : 14.2673389
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Don Giovanni Bosco\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}_mxFwwbvArAtB\\h@rGlJbClDj@z@DFFH\\f@LRzCjELPjAdBb@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8679943,
+                        "lng" : 14.2733959
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 40.8632469,
+                        "lng" : 14.2667669
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sclxF{qavAz@nAQ`@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8634591,
+                        "lng" : 14.2673389
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 40.8626593,
+                        "lng" : 14.2659871
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza Carlo III\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iblxFinavA?H?D@B@HTVd@j@b@d@PR"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8632469,
+                        "lng" : 14.2667669
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 128
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 40.8628183,
+                        "lng" : 14.2670012
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePiazza Carlo III\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~kxFmiavAREDCDGFMBCHSDK@G@C?C?E?EACCGKMe@i@e@c@AA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8626593,
+                        "lng" : 14.2659871
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ugmxFspcvAq@o@MSKa@Gk@B_@Je@b@q@h@s@[}@Q[QOwAs@s@_@o@i@]e@]k@e@iA]cAYi@qB_CKMCO@MnCmC`EqE\\[POH@j@?^DRDHHX\\n@bAn@dA`@~@f@bBdC~IVdADl@Cf@O\\MLWLm@ReATuA`@u@b@m@j@g@t@Yp@Il@Bj@Rv@Zf@j@h@dAdALZD^?b@Ih@{@nDAf@Fb@L`@dHhKzOnUxGtJz@nAQ`@?NBLz@bAt@x@XIZm@H[?KEKyA}A"
+         },
+         "summary" : "Via Nuova del Campo",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,203 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69Jg8cdfLxMR-yMNMdntsN8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFZ106txfLxMR6r-8GhArXVI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9047109,
+               "lng" : 12.4285814
+            },
+            "southwest" : {
+               "lat" : 41.8967949,
+               "lng" : 12.415615
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1757
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 416
+               },
+               "end_address" : "Circonvallazione Aurelia, 11, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.89803269999999,
+                  "lng" : 12.4280152
+               },
+               "start_address" : "Via Adriano I, 36, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9047109,
+                  "lng" : 12.415615
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "53 m",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.9044841,
+                        "lng" : 12.4161488
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Adriano I\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mow~Fs|wjA@ANSN]FWB]"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9047109,
+                        "lng" : 12.415615
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035219,
+                        "lng" : 12.4161248
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia Adriano I\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_nw~F}_xjAl@DpC?"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9044841,
+                        "lng" : 12.4161488
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 780
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 194
+                     },
+                     "end_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_hw~Fw_xjA?s@AaAQkJ@m@@o@Bm@BaALyCZ{Dj@aC@IDQd@uC`@cCBMBMXsAh@mCPi@Nc@BK"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035219,
+                        "lng" : 12.4161248
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o_w~FmxyjAd@sAv@Mv@]|BqAn@]lBw@fBw@f@Uv@_@nAm@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9021556,
+                        "lng" : 12.4251913
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 201
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 41.89689970000001,
+                        "lng" : 12.4283172
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e (signs for \u003cb\u003eP. Za Carpegna\u003c/b\u003e)",
+                     "polyline" : {
+                        "points" : "eiv~FqfzjA`@OvAk@nAi@lAi@j@ULG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985929,
+                        "lng" : 12.4274542
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 41.89803269999999,
+                        "lng" : 12.4280152
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "s~u~F_lzjALIDG?C@EAE?CCCCCCCEAK@}@`@mBt@k@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89689970000001,
+                        "lng" : 12.4283172
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mow~Fs|wjAPUVu@B]l@DpC??s@SmLB}AFoBLyCZ{Dl@kCj@gDbAsFh@mCPi@Ro@d@sAv@Mv@]|BqA|CuAnCmAfCmAxB{@vEqBRQ@IIQIEK@}@`@yCjA"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

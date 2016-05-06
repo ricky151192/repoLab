@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpywwWDxtiEcR304ZkBuvs1U",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpywwWDxtiEcR304ZkBuvs1U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0579269,
+               "lng" : 7.663941200000001
+            },
+            "southwest" : {
+               "lat" : 45.0579269,
+               "lng" : 7.663941200000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Marco Polo, 6, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0579269,
+                  "lng" : 7.663941200000001
+               },
+               "start_address" : "Via Marco Polo, 6, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0579269,
+                  "lng" : 7.663941200000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.0579269,
+                        "lng" : 7.663941200000001
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ak_rGszwm@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0579269,
+                        "lng" : 7.663941200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ak_rGszwm@"
+         },
+         "summary" : "Via Gian Domenico Cassini",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

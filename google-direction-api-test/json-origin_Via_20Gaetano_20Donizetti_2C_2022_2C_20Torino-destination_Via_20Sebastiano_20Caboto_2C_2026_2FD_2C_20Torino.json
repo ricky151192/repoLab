@@ -1,0 +1,203 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJj56Aa09tiEcRlpAC9Q6-y2c",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6Zn2STttiEcRERlOuPO-q2w",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.055366,
+               "lng" : 7.6779514
+            },
+            "southwest" : {
+               "lat" : 45.0469895,
+               "lng" : 7.6599663
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2195
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 432
+               },
+               "end_address" : "Via Sebastiano Caboto, 26D, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.055366,
+                  "lng" : 7.661307
+               },
+               "start_address" : "Via Gaetano Donizetti, 22, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0498336,
+                  "lng" : 7.6779514
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.0499996,
+                        "lng" : 7.6774899
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVia Gaetano Donizetti\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mx}qGerzm@a@zA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498336,
+                        "lng" : 7.6779514
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 376
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oy}qGiozm@lCdBnCfBlAx@rAp@VPZRdBrA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0499996,
+                        "lng" : 7.6774899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 818
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498645,
+                        "lng" : 7.6658471
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Dante Alighieri\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uf}qGuazm@e@rDa@|DEXIp@Ih@GRYlCGl@s@rFIl@Gl@Kl@GVAJUbA?BSt@Qj@wBbGqAtDWdAUVKXUl@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0469895,
+                        "lng" : 7.67531
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sx}qGqfxm@Q\\Sd@gA~@ED}@|@e@|@KXO`@}@|COl@Mn@}@hGGj@Ih@_AxF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498645,
+                        "lng" : 7.6658471
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sg~qGyawm@uAy@kBeA}CkBgBkAoBuA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.055366,
+                        "lng" : 7.661307
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ky~qGgnwm@u@`C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mx}qGerzm@a@zAlCdB|E`DjBbA`CfBwA|LQ|@a@zDqA|J_@jBe@`BiExLWdAUVa@fAe@bAmAdA}@|@e@|@[z@mAjEkAxHQtA_AxFuAy@kBeA}CkBwEaDu@`C"
+         },
+         "summary" : "Corso Dante Alighieri",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

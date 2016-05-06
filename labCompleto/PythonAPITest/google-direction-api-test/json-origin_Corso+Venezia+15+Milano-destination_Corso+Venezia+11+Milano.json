@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJyf2m77rGhkcRnZ2_JTFs_Zo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR6OKmbrGhkcRMQSEtgfK6lM",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.46835129999999,
+               "lng" : 9.198852799999999
+            },
+            "southwest" : {
+               "lat" : 45.467718,
+               "lng" : 9.1983271
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "82 m",
+                  "value" : 82
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 15
+               },
+               "end_address" : "Corso Venezia, 11, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.467718,
+                  "lng" : 9.1983271
+               },
+               "start_address" : "Corso Venezia, 15, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46835129999999,
+                  "lng" : 9.198852799999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "82 m",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 45.467718,
+                        "lng" : 9.1983271
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eCorso Venezia\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "epotGyscw@rAhAh@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46835129999999,
+                        "lng" : 9.198852799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "epotGyscw@rAhAh@\\"
+         },
+         "summary" : "Corso Venezia",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

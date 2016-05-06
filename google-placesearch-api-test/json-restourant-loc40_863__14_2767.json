@@ -1,0 +1,461 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC_wAAAOat6tdq3k6WuIxbN15fiYQQmFSzF3rPg4HLfWsQF9_VC6FiklgbW_7gJRD8LWfhszCc9epR9uHgMpxX13qarZOJKiV4BL1YBCaUNJUvwsxXT4BVtDVoqZ31yAB0TNboWuzo6IKwKegR3obAe4yDLumMbkryxBDWu66SvBMliXc-6FjJcIBx8UJIk3mo8Qkcr2KdnOGDo_XgWySL-muBnM6CaI-R1WSCpPRbpb6TdPUWD_wk7EwFOMJrCJtY3b043L-NiKsMgmVMq72DOUCnQ5TiDBJFsds47Cam-EK3Zif1f4Ev2YEBJ4mF-icm9ZH17LjZo58TiuZVU_txACA2wgQSEDbm7F8Fj4YaJ86PCLzm01EaFEx6IBdj_6qgMAhZijOuBUXkoVRv",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8517746,
+               "lng" : 14.2681244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7920363,
+                  "lng" : 14.1394899
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b2aaa9753e7bab447d0a3f71a2336c8bb96c3cac",
+         "name" : "Naples",
+         "place_id" : "ChIJ6_p622YIOxMRfriMZcxDOtI",
+         "reference" : "CnRqAAAA6jK2Agt4HDS5DbMJerUKAnM5g7Z7HqpKhv_f20_TrSgC2o7Zm-rWGchzOWFTzwuLSPVi0ll3SivDiUJBteCkQ96r3C01Au8t6ivcys_4GV0eiMEoeQu7SwVShoejq1eMqwBbkkALP6HHV2f7a8KnXRIQsDTb6YLL2ddrgsWYtpz8NBoUW2AbPC4REWaNKGHTvuHWLepEBNI",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Naples"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.859395,
+               "lng" : 14.284597
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fa1068f8ee4c0a1b932b7cd772788200b4e491cd",
+         "name" : "Holiday Inn Naples",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100947633272002693056/photos\"\u003eHoliday Inn Naples\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAHP2i6gT1ravVZ7CSf7wOgNef1fv-dI6Y3hX_3ON1d08Pw6H46LSyXdEM3BXD8It6cEQb4RvcDSkoUl_kCWYg-yR2nn4GhlnUfBB3t6qqOROrgjJrjNQAxba5WFzyRDHo9QfsrrQ_VODXTPDAGSZWHMdRSghTD4wU-xsMU1qb3TUEhBT4NJpZqFyKi04nicR7E7ZGhScDaTXetL2bqlyt3KFnxE2nte8-Q",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ8TcsBi3BhkcRGu6QPH4q4nI",
+         "rating" : 3.5,
+         "reference" : "CnRlAAAAeRWSJi9za402hAdehIutq8ISjGhW6PhDU8i1WSG6oyefHADkPE6O1LfKJ8xQkNDghphar6KPSyhnN0fPNhB5S3xwB0_vFBVwHdm_4fTiOKSN3TC43TkzqIW6tBmKLSWjRIRgTVYIUUBEY8VphEcW7hIQAgMWfFLlifPu3COchEDjHxoUGhAVv7w3pkV-CLhNoIslohOQyrM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Centro Direzionale Isola E/6, Via Aulisio, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8638014,
+               "lng" : 14.285912
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c4f153139259b5416f23bf379443bda4d2d86852",
+         "name" : "Buono Hotel",
+         "photos" : [
+            {
+               "height" : 829,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118262618986886088993/photos\"\u003eBuono Hotel Srl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAOYJNSyOb-pj4oBdyX-kyAb_xuc87HlQdRXVfAFTnFxiARy5HmxLbx4xoRSRxWLgepTX0ftyE9LSJQc-Je_1jIJttXusPHH1Ann1ePJvDldiMecetaWGJHdeWmFZWE5utojpg_5UUwf9SRDzmHG06k3y2p_5Y2Pcu6h3BbvPV_eyEhBcpBLzINOY_N9A3CWXkcfsGhS71UFBy_8-PyJEbm0KawwGvHpHpA",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJi_cMpBoIOxMRfhLSU7E6CTM",
+         "rating" : 3.4,
+         "reference" : "CmReAAAAaccU6twT8l8VLJySeKn7YNedVdQrHDa1hzixNB8SbdUw-WLedO2gs6Wu17PbVPkoUfvv99wLfBuc_aeEXqUsHgqGT1GeCNGYgCbDalenseZg86DvxyZ5DA3MvS8XnmapEhBZt1wVY4nZ_dfWKh8XabJKGhTSXXZtWmQGIVijESjxyfqG0m8pRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, 158/G, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8692756,
+               "lng" : 14.2775971
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c18ea2d4907ac74238ff738cfbec6c78530391d0",
+         "name" : "HOTEL KLEOPATRA",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 468,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103660954981634590058/photos\"\u003eHOTEL KLEOPATRA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALkCao0rQJZVLkwQHI6aN02YF1SzWgh_dMhsYiyQhZcihOjl7sUhD1BqekoTKtP3o0mgunmT4tgpO-3CW33weiV3qnVg3OyQtpAtpxHqh8qJmrxqtWZ8SCLLvijxg3dNDPlCwKSEaBF1XDYHMXCxzVHpKE-nF80oxiz5tkWO5RYkEhBL5DZJgxtODcGAhy7Bw2JrGhSDGjZ5Lqi2oVXJXoeKI3Yw9uLEYA",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJT1d8gP0HOxMRdkT_PwNd8Rg",
+         "reference" : "CnRiAAAAJrj2-jAAANP_hIMgOdVX-IslIf-pAMXcyEZIme3TwA4F4kD5WMCjoGOFBP5rBdeJHNj8GzAFk0Uy1HVwxHD45o6PxSm3K5MfXCL7wjkcTKyhIrVYc33eiQY0ddGG9SCLZUJQTEzIiasdZ64Shd3SQxIQsoWC02iNgCPJzvTL7HGh2xoUjmxv4b1VZrZzzruID6ChXBs9_10",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova del Campo, 63/a, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8561798,
+               "lng" : 14.2718116
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "18edf7777f9565d71d42ac7a690f508393b70500",
+         "name" : "Bed And Breakfast Cinquestelle",
+         "place_id" : "ChIJb9Jn3BAIOxMR55n-CvJFDeM",
+         "reference" : "CoQBcgAAAKjTgYawBJo_VoF0PeaPuKrnYBautclqmCBg0ZbrezP82UgBrW3MCS6Np4U7TiDMuBOMvH4XSvSVzUp3_t_wQPl-WMhVl8ERvpAqmAoKcLEQYaiBp0yCWOom3Ez4Tl-EMaOiTxEEyz5Gv5JRqQoGpwEOnOlTFZ615mLADwlzdkSIEhDxYTnHvu31sQ1wCk7_bQ_vGhRCSMBNj7Gia3CZB8z6jxEs3uZzGg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Bari, 10, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.868615,
+               "lng" : 14.2791513
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "20301285934cf7a685d3af02d993e65dd42aac2c",
+         "name" : "Mercatino compra vendita usato",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1351,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104268522294908260515/photos\"\u003eMercatino compra vendita usato\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMBlcAIcC_lv7iRv1ZlOH25RUsC7SzyfcVok-8PjyQev7wWrJ18d1mskSIdArOfWMcDahOanu6qJVPKsplTUb5rf6d6Y_pOSn6rvr9db1raeHi3CpMBFUkUEIG06m_3SkJGJNEwbj8EEoEelUqcnWg03Bai9Q0Bezzj6jPhN1kNHEhCtHXpkiPG7xILrRIcKlvCrGhR4eDJMUM4ZNtSzpWfROVsvLQu9ZA",
+               "width" : 1351
+            }
+         ],
+         "place_id" : "ChIJTxdpWwcIOxMR996nDKqoMBg",
+         "reference" : "CoQBcQAAANwBfCHS06kjMtXm7XkdepqkgNw3ZeKlvyGiY1b6RTzu3G852RFokjF7oHmsw6EAmYFlJq84ZmXF4FcV-DiL6BN7CFR33HM3r2898nqaQHadinHJtt3J7-BtouywMB-2IVtCiV_gNVmMb_r9Qmf2duUgtrKURzBTUyx4aJ0z2sBrEhBrHpp-F9sIeoucNveu6igcGhR1uxd7EmMYEu1U-nFzIxkb_ahfDA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova del Campo, 50, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85566670000001,
+               "lng" : 14.2778036
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "635498cfa0f42e8edb41298aff58229d6082c19d",
+         "name" : "Autostrade Meridionali Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgeAG-BoIOxMRJqB4THetctA",
+         "reference" : "CnRuAAAAvbnXWLd1tmjjdB4Yov3hsmZu0brjg410a4TJnSML8io-5u6IZ8lX7YZkofOSAOr0Fqe96GEaYutvr5ck38XPrTUN202F2q6nf1foL5rp-vipaa9lxBw7MqHVZxDIBW2f41e7OQa8w7n-gfbKBZYg1hIQN72bYF86KMR7bBY29PSwiBoUNMv2HJW4oR5moAF3J6phwO05rUI",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giovanni Porzio, 4-5, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8618204,
+               "lng" : 14.2656452
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "77fdff7f4efbd9b5e1f838b806a677f834f58b09",
+         "name" : "Hotel Ferdinando II",
+         "photos" : [
+            {
+               "height" : 2992,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102166363341005512707/photos\"\u003eluca\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJiE5BjnW2DOq7zYTUQt7gm0PgfVFbiJDAadM25y89iYdGuesY8ND7xJcv4LzOywbvIPyvAMV-mwaxNfkwNZoMIRlQT8SEpUNX3zdiW6LZPYzNSscs0iuslZKjoxw8GOpW5YUngcyCAtuTULV6o3K5n-lzbroUfs4j0SO84E_9HPEhB8hRC-dxuMUI98d8_f9wwcGhTrUwuITsgCDbGDR6d6535mqU6DbA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJWeHApg0IOxMRHYJtpn6JyTY",
+         "rating" : 4.2,
+         "reference" : "CnRmAAAAhmsI55kx5c9RioC12J4pWIKTiyZtOGeuFu96XpiOxKnpz-c79S9YfqPYrGJxMIug8Ewjz3Xpyzomogbzf5f7a632WoKHKiIVgz_Jp__VEiZb_4D2VqAOe7zsEzUkVltmJAlFNucUgcmfjIbedoJkmBIQEogQqkbbOZdB0J7HdkyYSRoU06wOc2DkWmz7nKdoQL0XYKtiO2A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Carlo III, 59, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85701999999999,
+               "lng" : 14.27669
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc29749b8c05d8ad85d356a1db94f4232954aff2",
+         "name" : "Multiserv Srl",
+         "place_id" : "ChIJgeAG-BoIOxMRzJYIiR-pr2s",
+         "reference" : "CmRgAAAAAn5wcyqknkV6zMcV9VHan-nK3j_R4_pxmAvDYP_TT__tqBY1L1GITKMnoOsXs7qbARiKgpgqu3cK4hPc0laGuqRslPT4CPQP0qSKxWGmyHUsAbilQEGYAzB0RmrRs6j-EhDM-MHt8TVO9JrNl5eDUXGgGhT3mCRNo8JiLEsi8p_P6aU6zvxWbA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "2/ISA Via Porzio Giovanni, Napoli, NA 80143"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.864498,
+               "lng" : 14.271688
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "250f6f4b58b90cfc6eaddedc27decb3431d6343e",
+         "name" : "Car Blind Snc",
+         "place_id" : "ChIJdQtuKA8IOxMRXPO3gDoQJGU",
+         "reference" : "CmRgAAAAO5AMjkFYku2JnIe4VCs5RvOvCm6dzttYRiS371cM856ia4M0Ws86PmsVPynQi_bV4CTJ2OYpvn5NMGwEdj5eO3x5CdiScs1IFdv3Qiu6N7FbV9at69BWK26siwuaMEbNEhBkSlL33iKkfmj98cLdxRAXGhRXnjGt6xSL10c4kKX5an3YUasuUA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "car_dealer",
+            "car_repair",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Via Generale Calà Ulloa, 30, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861536,
+               "lng" : 14.2701335
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b32b56ca1086f299a4bea346aac6715f8f835f89",
+         "name" : "La Terza Dr. Bruno",
+         "place_id" : "ChIJbaYxQA4IOxMRzj-9PrDzO3U",
+         "reference" : "CnRlAAAAYYzQxgq48PjsrueND4gwT6bD4ZEvcQ0z3tqSvLy-OfP3EzwsOrLlaNFiWomWbDgBY4x7rk6ADTpSocSZGnK-v3jOqdCibj-e6WJXUcv8YP355RfLIhdyKbHSTA1tvAP1xUKUBgCpaC2ljYNBmWw66RIQfec9CPpOwhSbBHA4lYtueBoURWWVS_zBSuBblkAHP91rLOXcwwM",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Arenaccia, 121, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85726,
+               "lng" : 14.27839
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "fc553f071c9b1c5f184929d7c79a8d50a3795bb8",
+         "name" : "Banca Mediolanum Spa",
+         "place_id" : "ChIJ9_osyBwIOxMRJHgesmVOt_I",
+         "reference" : "CnRoAAAA7UzWkomXIOAnKFkBbtuQSkd7Q7rYsry0mroN-ubOoA7CmKL852AopjL9kHTDEQRMumrIWw_8VahLYQu5A7_jjmjVG5YpVF8AeM651gWQBDECwTZRQnvO8hg9_HMt-0a4r01CpKHw4q22WiGKXJh5bxIQnvmVznhCK8ITIh5C5Rn9ERoU1PTOKTAlPTqF4MHdek0B0DU1bCU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Centro Direzionale, Napoli, NA 80143"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8616194,
+               "lng" : 14.2835471
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "18516e5ce4d4c2865e39be19a860e2f377fcb690",
+         "name" : "Procura della Repubblica di Napoli",
+         "place_id" : "ChIJV6fRawMIOxMRIucv0cBwg78",
+         "reference" : "CoQBdgAAAPnGGEQETX0HHHzLwqNRw2uJ52Ijs_z1T0G-PSGsW0x0da6ym_4cUUALoiQ-HmbMnN1sG9zESy7K51f1O4LD8rlxf2cxjHzNByysriCqAtXeG_YG9dQFT5yeyoFF7UKyhceoeIYfhrAU8JtWiYp_juF9xTisfH5LLNjcj4lIpWvvEhD6MV0r35Uo0pL9c0wYOTpJGhQOX2W_NYhKBUK0etZXbsDMY4-jnw",
+         "scope" : "GOOGLE",
+         "types" : [ "courthouse", "lawyer", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Grimaldi, e / 5, 80143, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.868333,
+               "lng" : 14.269808
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fa4c7eee47f8d722d49e66e69df3315ad4e14ad5",
+         "name" : "Trecci - Centro Capelli Caputo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1194,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104709970383844694609/photos\"\u003eTrecci - Centro Capelli Caputo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALEG1-uVaUhUpmdTHsSRnqmQr_4vHNooZBD7THozZvT7HyshcRwHmOoEOLCXQrOUouYWa5ohMCgZUel227oLUHdLakzX1LNmt9c633Cj_g9aaZ3sy6UsJQna9rLjeG2g4ezNv5xeYbkw8DOvB577aD3W3oEr4dEO8bHAOkERWG-FEhC8V1rT4hOXutVQZ-ygWIZzGhRT7wShGctCoRYTwPd_oeolXsEtzw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJySDomAkIOxMRWdpnPyZmfHg",
+         "reference" : "CoQBcQAAAJwMGQNQe9bxPKInvvN5R1e8cM1Y6N9Fk76-RFK7_O0Ay0pdQ9pFAoM1bxuYk3pRXYqXcZD78h-9owjx-E7h61IdB4HOdbJFZYHYhYN0OWqIO1EHE4uXFo-FhlAIIXRuypvcsh8Q55oxcve3tCfIymASaFbzedEzYQt6YHm16iEREhBBAYcPyYJ99S6_tVW80vdhGhQd3gBODMrsKtIVMhOiWPBFDr4ggg",
+         "scope" : "GOOGLE",
+         "types" : [ "hair_care", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Generale D'Ambrosio, 31, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8610603,
+               "lng" : 14.2714778
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1ee447e0a3e665598f33c7f60a57ddd13a12013a",
+         "name" : "ACUNTO - NAPOLI",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 65,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108934054453310585207/photos\"\u003eACUNTO - NAPOLI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAHPGx2ETRt2Cfw1mahg7laoIzapSYVOR-WGma5Inxoahr6TCP7VlmdTRkVWl7owyeHyyil6i2IrrP_6407ryrOlv-9nCPgy0chLnovJIosEt0GWRu_mzq1m30X9b_HYpdL9ZnJsI2f9Hp1oTd1ZN1_Bi12E0A6LdNn50_6k_TjrYEhBTqLTiV3UxixlIsZzPAqsoGhRwxoJxywGjN18d8J1APxY8klelaA",
+               "width" : 97
+            }
+         ],
+         "place_id" : "ChIJ089pMw4IOxMRi9agFHCt7Z4",
+         "reference" : "CnRjAAAAKlc6F1Tw5Z_PyQl-gP08wVnY_xTBUtrKR6xT_JnPGBwA5GJezF41uFiLBgySujlD41VMja9V64Rvhavq1L2pAqwyPFbacEXsLL1WgJPyXWexK_Eya2o2xy-RlLdOWt1yqfcXcZx6T4Xtjr7pww0HaBIQcI5jVm3_lUGWyFafoQ01QhoUBom0TBF7B11lBcO8AUOg5FlNvjo",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Federico Persico, 20, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8593266,
+               "lng" : 14.2825723
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bdb6c73ebcb1a05bc8e29b979cda73c12b998222",
+         "name" : "Global Casa Srl",
+         "place_id" : "ChIJu9jtxhwIOxMRPul8W6_F48Q",
+         "reference" : "CnRjAAAAGO6orgDhPLJr8I5qhiIfUip_SpnbbKtC0py_Km0Xe7AvsJaMcD5Itw5Se8Ojgdoz2t3qnS0K7KQSBu8UJsrOP7tYunMrN6iKy811f1jAR2yqPRPrcfbyGBRYRmeLT-qSXwmVNdqEpbXcNccUOoXYPhIQ_UFafbz0izMCCrv5nO43CBoUmEZfOOn4hbaxOnZLyv2xKZTG9Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Centro Direzionale Isola F12, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8602591,
+               "lng" : 14.271827
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "99df8d11a180c6401d4a4c04eeff78d677a56651",
+         "name" : "Consorzio Forcom",
+         "place_id" : "ChIJ0zU31A8IOxMRvojeei4OOq0",
+         "reference" : "CnRkAAAAA-bpCbXovhRJXJzmNop95ehFakjbAR-VIxBvLw9uJSpqRoRS5ebtPYE1ebZlHPXpuWuqGlqwE6HZw2LsJ_jTEHdUXp-qaW7KMnLZ40A8ZzmT45Q9X_t2ADoBhwwLYF_nD7V7f5ryui2RAdx1v7lU2RIQ1Ko4Ntkf6oW0hFphFwSz6hoUTqMsmAqGipHP0hC-gI2GBzW3D7o",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Alfonso D'Avalos, 25, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85733390000001,
+               "lng" : 14.2753154
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "02c216fa97f45813dfd6579454b890e622681ab0",
+         "name" : "Tcd Abiti Da Lavoro Di Sola Anna",
+         "place_id" : "ChIJyT28hhoIOxMRF8SQd68ixu0",
+         "reference" : "CoQBdAAAACEeD0xlIPe2H1YxRJVLWd1pfNTk5Kh9nXD0I-Tqszn5B6Ng8UPsMbMWltgGQ4VpspbEpK7HxlYfK8C83q1UgkOwc2XZO66hFGfba9jC9iBJIm6IAmXfGxMy0ihTRt-v15n-HGUYbYPKAljWx_qtANFhmMTei_RC6Wyw7YWWelshEhBAj1UCjhj0NzdYaRFx2IdoGhQURTn2yZL9DB3aGiCtyjPXVhN-Qg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Rimini, 74, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85609649999999,
+               "lng" : 14.2741523
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c3e4c5a8d7505cd08eb80e40c5c7a860510ffac",
+         "name" : "Pellone",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110580870476178406475/photos\"\u003eAnnamaria Rispoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAASXkF14Dj7M6HUQxi5bLm8g5NpCLe4FooZ-QuJUwOnofxKsi6cjMnTJUC1LdBS1VUQB-I-ogWbVO5BHX9BsHvA5ekFdKudHLlqBsYFHT4iOeGIgdotsZgUrQ3ADAIei0UekdOJmRYryjAHgstxFeabhQViofaJnJWF3MwD7iWvAEhB6W0DBTsDXcfJ4pL5UJdJDGhRWPJFB5ICrIZV_x85RSI_EjylQhg",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJzcr6nhAIOxMRh4NwjAnCo2o",
+         "rating" : 3.8,
+         "reference" : "CmRaAAAAW8y7iysF-B59kaFanNt7TCsHTxme5L12aVj8Vaa-b1ZWs_MZHoJh2gmfn-tlnR5SoxMksjJAvwG1-ZJc3jsfxkpkSL7JoSkcgr2Gsodq04JqYHN1WHCx2-f-qXPzRlXlEhBWsgsVKv-UIDBdtaTi1f2aGhTB1rpCC3VIecnbSC34i7a-UqJ9Ng",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nazionale, 93, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86537,
+               "lng" : 14.2890194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8767904,
+                  "lng" : 14.3092418
+               },
+               "southwest" : {
+                  "lat" : 40.8545591,
+                  "lng" : 14.2739439
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "5aa91c7994261da5c4627bfd0c39a71d2f4f306e",
+         "name" : "Poggioreale",
+         "place_id" : "ChIJD2WjGXOoOxMRjBwMpSVc8nI",
+         "reference" : "CoQBdwAAAEobBOJKqEg0xl7jRCXnlTpzf3eTLx8CopGDy6Hg8e-jFibVDI1FPYAGpA2sp_nzFCKyJj520WT4kzsJGSsibaCy35fG8UJsSKrBS_0bAiA-_zh7tSpcq_AdoPLIcafmh2rtvoMAhgsQtj0OqQZlSpzZGgpj1g9SOsfsDuaUONz7EhDQgK9GnXb7PK9Q--9FJImcGhTtU2xxJT1RbuDlHKtXXR3MB_PcvA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Naples"
+      }
+   ],
+   "status" : "OK"
+}

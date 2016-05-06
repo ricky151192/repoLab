@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR4HMiLhfLxMRUPzKx8KSs1I",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR4HMiLhfLxMRUPzKx8KSs1I",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.90311620000001,
+               "lng" : 12.4142413
+            },
+            "southwest" : {
+               "lat" : 41.90311620000001,
+               "lng" : 12.4142413
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via di Boccea, 302, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.90311620000001,
+                  "lng" : 12.4142413
+               },
+               "start_address" : "Via di Boccea, 302, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.90311620000001,
+                  "lng" : 12.4142413
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.90311620000001,
+                        "lng" : 12.4142413
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oew~F_twjA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90311620000001,
+                        "lng" : 12.4142413
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oew~F_twjA"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

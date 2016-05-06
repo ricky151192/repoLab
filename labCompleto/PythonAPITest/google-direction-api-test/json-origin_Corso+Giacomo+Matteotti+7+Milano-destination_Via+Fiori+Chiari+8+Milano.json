@@ -1,0 +1,226 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQ42OAbDGhkcRzAhRL5AWm_k",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEbklWLPGhkcRujjxIeGti7A",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4728242,
+               "lng" : 9.1992396
+            },
+            "southwest" : {
+               "lat" : 45.4668071,
+               "lng" : 9.1875511
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.1 km",
+                  "value" : 2089
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "end_address" : "Via Fiori Chiari, 8, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4723183,
+                  "lng" : 9.1875511
+               },
+               "start_address" : "Corso Giacomo Matteotti, 7, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4668949,
+                  "lng" : 9.195793199999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 157
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 45.4668071,
+                        "lng" : 9.1977978
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eCorso Giacomo Matteotti\u003c/b\u003e toward \u003cb\u003eGalleria del Toro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "agotGu`cw@DiEBuADqB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4668949,
+                        "lng" : 9.195793199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.46879759999999,
+                        "lng" : 9.1992396
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Venezia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qfotGgmcw@u@Qw@a@qBsA{AqA{@q@US"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4668071,
+                        "lng" : 9.1977978
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 500
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 45.4722757,
+                        "lng" : 9.195201400000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Senato\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_sotGgvcw@_Ax@iAjA}@fAcBxBw@nAiGnHiA~A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46879759999999,
+                        "lng" : 9.1992396
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 199
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 45.4728242,
+                        "lng" : 9.192776799999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Fatebenefratelli\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "whptG_}bw@Mb@GPCJqA`L"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4722757,
+                        "lng" : 9.195201400000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 45.4702798,
+                        "lng" : 9.1920202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia dei Giardini\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "clptG{mbw@p@J\\BH?LCXCJAz@E`@?R@XBVDXJ|Al@VLVPLLRb@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4728242,
+                        "lng" : 9.192776799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 328
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Monte di Pietà\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g|otGcibw@n@tAbAvBZn@Nb@H^F^BZB\\`@tI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4702798,
+                        "lng" : 9.1920202
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 45.4723183,
+                        "lng" : 9.1875511
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Brera\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuotGqqaw@}CbA_Cn@qAJO@KAMCy@MS@g@BcBV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "agotGu`cw@H_HDqBu@Qw@a@qBsAwCcCUS_Ax@iAjA}@fAcBxBw@nAiGnHiA~AUt@uAlLnANVCd@E|AEl@Dp@PtBz@d@^bD`HXbAJz@d@rJ}CbA_Cn@aBLYEy@MS@g@BcBV"
+         },
+         "summary" : "Via Senato",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

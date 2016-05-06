@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNWHYmqvGhkcR7YZZutjiaLw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJNWHYmqvGhkcR7YZZutjiaLw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.46230970000001,
+               "lng" : 9.1865571
+            },
+            "southwest" : {
+               "lat" : 45.46230970000001,
+               "lng" : 9.1865571
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Torino, 23, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46230970000001,
+                  "lng" : 9.1865571
+               },
+               "start_address" : "Via Torino, 23, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.46230970000001,
+                  "lng" : 9.1865571
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.46230970000001,
+                        "lng" : 9.1865571
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Torino\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mjntG_gaw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.46230970000001,
+                        "lng" : 9.1865571
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mjntG_gaw@"
+         },
+         "summary" : "Via Torino",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

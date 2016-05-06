@@ -1,0 +1,489 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-wAAAN5tvv_vpGL2-c_EViRKbm5rtzDpiofGDqhSlBToCeEfHCR7akozXXbxuc41SLHDbatONQa4Zez-Do36klWqNyHZ_NymA6JlD_C70N3vA-ZTswPRZaAukiXTfSVKsYIxz_vDWaDUeGBFROuKbB3qhwhVVKEHeL8XBexOvPeoo1sNwLyANRj1gHIipRxYMBW0tadNXjwk60b7zzBv-PG9y7A8Fv27_8wY8uXPzXvdb3VyT7GLQ3OQm4svoe5vhsX5IYQhZnyldRsZgtNwf1usuIUQ3SmWKhMk-L6ikhEU2U2uXDG_ObHhHDa2fxAXiSVjxsgdL7HAgazmmBsv57RdA88SEMAFxGnn4dx8w6M9rJdtVYIaFC9cAC4Dqd_HM7qeYE_DQ6x6CnGV",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46854159999999,
+               "lng" : 9.189041399999997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "956602cdae291abfe47805d17f68de83f73d2d69",
+         "name" : "Saint Giuseppe",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118198670267246163917/photos\"\u003eDanilo Dagradi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACNwi9zEL9QYI_fSIetiu1ls6MOHDPKmd2kQGV7R_L9Fluoyp1W0EGWmOaRTsNqUnpNCBbCzPr1NiDjwQYmROWAby7dbyuQIltDFJz5kVch2cg-x6FUu5TJ5kyLRHDexwpLBh9jHSTHtA8XP5iYJA7vKZXljaVB8tOVQCdTju_usEhCpP6PIB_tejBX3tZRlX-zaGhTFiDTxpJl5B0HcYLtIIfPsrGCy8Q",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJn89Nb7LGhkcR-b9AyvG4vzs",
+         "reference" : "CnRhAAAAdJdYy4fnQZemyr35pWi4kwGOuc9ZmZTEK5WR4Zcap486trHLRIDVzyiPU7nw4F_DjmjGjBAg9fBffWjRmLPn3jXS0Tr7lW2Z1KcMr8kT4ZCrdFR-Ke4PyBF8yaxmI1pRsCxAmSH9eGX2K2GfCuLFrhIQvFdFLy66KvcxknSiiKTwbhoUKc9oDaKwURocMtcmt-S5KdeuuDg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Verdi, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4640976,
+               "lng" : 9.191926499999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f78b7a795d30534d983bef4a871bef38a20c4234",
+         "name" : "Duomo di Milano",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113662527701653401777/photos\"\u003eT. Seemann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAP3ljPh42DqATMwxL3PYxxA9vnsPu_6fEwBKAnYnxErm-nXs-WAhGgVrsLeZ-CW9_N0vxnyQDLUYmVTVhVZ6cFtImHJB042VXhBpW4dPKKcY77ctZSbNqooiiwzWYYDjhychtcQWq9YW8c8jPYYGpSCh8wuGMzFLP1FAHbrSYfi4EhCppZ18DWGYIeYPcZ__sCzvGhQu3JcKi0nXvwmrmbw8AQEOI64_Lw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJoTZGw67GhkcREy4aECdOf6s",
+         "rating" : 4.7,
+         "reference" : "CnRjAAAAqQeeBtSnqFqWCOlJvfxFo91dhwDsiUPWR9s25iXYVN1mzoDm3QBbvmNxNzP79wxKpez-gUaigK36_jlfnCrz0VQK0WB0kdsn64brurhvOmnCEClwvf0iDdySvEotS7lfd8kGcS_fyJ7PEoSfCEdvTRIQGoHS-arohrdIqKdbqIpmJRoUGy2pf4x07WvxzMO_ijJxMBz5jVU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza del Duomo, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4565786,
+               "lng" : 9.193011199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "dadf4073313fca19c723e1332a6709774189f1cf",
+         "name" : "Basilica di San Calimero",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111093400175251141715/photos\"\u003eMatteo T. Mombelli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALhE8udcw7NCcZIlnyH7PmlUPk5fMQiZgU9Vofd4HTE2WQz1je5xU6CWDywmnFJBnFUTq4Mka0QfuNlP8czq_EmDwndj2Y8noVlmM7hPbFclBNSaHRphxroG9Zq6UU5Vcwxd11ZyNeTWDXCGXs-GMjBcl2K74waPJ2UUUw77HhK3EhDUS82mSXYNu_Knd_0GghqyGhQJcPYPKWpxd6IxY7nUu66GyOpEeg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-06PSh3EhkcRYeCrUZSqOMA",
+         "reference" : "CnRsAAAAwXNlaMxK01RCN6qNm8dBrIqSd6eW881rBsd3Wzn134corGUe8rhrzzalZNpeEbP-XDLfnSdUyqJX5e_LJHm4NIMtfWowqHvtVRA1dMQWzLPBvQBdEuCelj8-F0zfxz7dqxYPLXCM8JRECt1rKNNR8RIQoHnYqEYtRCKoc_fiN5DhQBoUm30TNL5FRdMF5sI3-UWvC67Pd_A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Calimero, 9/11, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46280549999999,
+               "lng" : 9.187653599999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1814a1901723984c015f4c7d612f8559cefd751f",
+         "name" : "Parrocchia di San Satiro",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109686629422860752676/photos\"\u003eVittorio Polatti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMiFNwcB7OnPtyAf0IlP8aE2L3zB00cp4wTaYeFNvlOi5SGHMLoAsN1yR3Ce7HE4ZdQARreGbyQG6uZCj31nBF6lc1wHxLkf5VLFsv4eioR2V5_247XwilPoGEC7NNn3CGvTL9FG_S0ABWPG7iAG91VAp_Ol7MH1X26Q8XMiUED6EhDwFHH53LjXUdXufJuJNs7XGhSTQMUxowJFFoc8nIxf378PPbq_Tg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJt1PB9qvGhkcRwIetkCDW1qM",
+         "rating" : 4.6,
+         "reference" : "CnRsAAAAjFFfYX2AwMDZiWbE61TO88DLR4XOZdzYLFr14yLVxBviyBE7INBd9hNcXLUlOkC37e0BRESSZ2dyssJRIVpxAZOiK9d2prSMiR04kK4D2LkQn2UP2e5a7ssOSY1GyjH7UU4vdGIFfFgdnftX9V2ERRIQgUOpKxvVlRZ-5dQk1PpTMhoUJWFZwL3ha5QMp59WbRQn8HJ88oM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Torino, 17/19, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46315010000001,
+               "lng" : 9.185415299999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "299dc542a12a47aa8a166917f374d02b49c57bdf",
+         "name" : "Chiesa di San Sepolcro",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113238283044599537013/photos\"\u003eAssociazione culturale Milano da vedere\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJY9Ab7AmsXq0UoZ2l36pk1D5RVv7ygqNrogARwdqhD56hM8aepCayH9sYbr5u2jDtTRx5wqUb3vP-Le-_XxXumTjyVr_nMU_cg4MhHNJ_7SgTdmfetbvxCcxyFRZqk8naZluqa7RITBv3HNn6nuxjhCFXnybcPuF_bz6DUjga7vEhAVoz4Pg5oe058AypCGAEaYGhQkbPkdq6FNqveZgOoHoAo_xOoZYg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJVV1vYqvGhkcRKFKLWVh9GpQ",
+         "rating" : 4.6,
+         "reference" : "CnRqAAAAZygrVst_AijBbH5k4Wo5YZupqFlCSSnk9pUxdO5hy3V6FkA44J5N7dSKP1u98HxKvBppEhKbeB-6Dp7dSVEYvH311vpKgL0MRpKKnjqK4ra7IMHqGLnNRXC3a-0ie4aJ4WIAYacFhHwddRa9eOt0BBIQ-e5EcNWHw_2hwGXWhvrPKRoUXcqYgQ0D92gLYLluzol9HVpxLdg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza San Sepolcro, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.470332,
+               "lng" : 9.185703999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e885a559676da36e1970f012b0e23ea1f123c1dd",
+         "name" : "Santa Maria del Carmine",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107634124685401399491/photos\"\u003eHector Rodriguez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAE63LPuEXlAdRci1bhF8x75bHFNHHTGkToUam8krZ6fel0hkUocIbekAKslN40CGwzyToIO3G7QP58jZX2rdgNsWGh76GuVuyCe9PQ47VW2WMMKQvH1aJ7_uX-E7m0fWHCHHUs7DYbMn9imWWAJjF2EVTw11_wuoPr_22iPP1Mp1EhDXIMkmhVyB60bMkTZAl17pGhRTnQIX99xUuFRazhXVQ42ZYk6ITA",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJGXJo1EzBhkcRHiUjaQb05WM",
+         "rating" : 4.3,
+         "reference" : "CnRqAAAARp8JgsrDhe9sL4KycwQyDnhLtpNdjAxdAWqQ0itas9pJzDcmsfWSQ_pE2F_7-QAdmwaViKffaCZhBuMkxMr-NjLI9_XhBGPc8htrmqMAlh7hCoYum61ru0-LeHKAoCoWR-MmqWrhggVmDW-W6OudhRIQM8BmnuNqsm0TLFbgFmqF8RoUMeTxiVM96HsntWbktjZsgXehaL0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza del Carmine, 2, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4582128,
+               "lng" : 9.1820776
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "eed4ce7b6b05e7ea6393c553d922cc58ee685d36",
+         "name" : "Basilica San Lorenzo Maggiore",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105365820281447432909/photos\"\u003eGergely Buzas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADL69AXbSexD1wRpn-JUGderyNwK4CktLvsjKLBBHUAGaRNOPecNqbrB4oD9J1lxlRZSgnR1LCV12O1rV8yRn0WM958pf3ZRGIykLXHGYo82l1VeME0oyItG_YwEztglP0gUoLJLLaWvBhch59elqDidaVbBgupJFpi-ZCl3w0KpEhAnoiUEXD81AB2i23HE-v4qGhTDrlno2Efc9eIZbhBS0vEHvP6Dxg",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJpSr6-P_DhkcRFjrdAKON44Q",
+         "rating" : 4.5,
+         "reference" : "CoQBcQAAAF2VDFI28679rRB4wBg5qBfW-kWDPd0Go7pRiTJCtj195F1Evzdr6jQApiUq6waiUevynbr5iJoyR4DFQFOUPLYEHvA2Fi4-YuZURE96GbO-91W8T4IArcGIx68INOVrztbZrbqqK1-v8CaAN9Pill5AYLAYcsCDgGby8_HWk6dsEhCpEFuodYDenTORab8tDr_lGhRTk_ZOZa_8fBDLHr173wZDtJtQqw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso di Porta Ticinese, 39, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.462078,
+               "lng" : 9.197201
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "690587435e280c6ef7a9694ce52587f6c6bc0213",
+         "name" : "Chiesa Valdese",
+         "photos" : [
+            {
+               "height" : 182,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115432538586671192076/photos\"\u003echiesa valdese\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMSkS9KT0ccM_DCEKMbPPDsvkf1V-XJG6AIpK1lTssMSSIpumUFJp6-K05fa_zg2A34Hoquuk9PkcA_7zOM8_v4MjkmXkBHVQ9BvD5IKgC9HwU7n311IWvw6uztejfCQnthalsT87J1FRk5mGdROhwfOBQb0tbgscwCKWEiYbQX2EhDXbSw7GyFiix3M8RPOYuZsGhSOmKpY_T6ozedLGm2X_lesWlXeuQ",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJGZvSZKbGhkcRgY3Fu2xpR-8",
+         "rating" : 4.8,
+         "reference" : "CnRiAAAAdhNjAZLFqS7kZr4PhbK9Kc5Ll3k9NV3gKWrj8Yfb-AGg3gwcMAg_8IYSb0N13xNlK4dA4VMNZatQGto35zD5-V7l6I-QLkwFMwH0DCCpxi78HJZYhpzsJ_zXhKtyDWnVEGxLc3EhZ4Yu5qh7ypBTERIQrhZJBkJvkQVPDrYSNmdG_BoUVROcbzEFKDY8UAHpX5E-1JUNchE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Francesco Sforza, 12, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46695429999999,
+               "lng" : 9.1984145
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "18ab54eb83ded467b8ac99ac7910e6acc64efac2",
+         "name" : "Church of San Babila",
+         "photos" : [
+            {
+               "height" : 1672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115694078831901275364/photos\"\u003eFermin Z\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAC365mDEQyDp5BK73_XE0JCjap4lc1QuqwY1Es06VJAbqzelNoxs2qAiD4c7Sy-iNwAI66lUo-vhfgCzKt7akeqiFhVkSbhbe6dkXDJcmycXjxAB_ZYTEXK3TMRjkEv4rIDBEI6Xr2FKmPe5xUefeEJ-XLbyXmfwv6eD6FtvtzVhEhAP-hTv2Kf1UnTPH3f51YOEGhSpyJG1kLbUcL0IqUKLSTaTa899Kg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwZ35zLrGhkcRRWL7HbiTUEg",
+         "rating" : 4.4,
+         "reference" : "CnRnAAAAO9ZPfyFLV_xpbtLZygbTPsHgzybj9MRwK-ZCuiUAsZToc33OBotnRlOtoO4HxiT08v_Am-spe0eVEJ0xuECGCjFW3ID12B0RklgANZUwRb1V36cF4tHK-gIoqx78VRCcH6d5v0ZajPELcY30cY8GiRIQBf8QvjvmEp9rd71iUM3V6BoU69cHSSOStQnxqkGpK61J_pgp0lo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Monforte, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46361739999999,
+               "lng" : 9.192370799999997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2ca26b016a2c3872e08eff639f267f01057e4fa8",
+         "name" : "Parrocchia Di S.Tecla Nel Duomo Di Milano",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101085314163558943157/photos\"\u003eJunjun Guo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADfmOnsG19g_YC2FJLtx3ZvZnDardwJIY9RWfUplYkEZgXfk4xc6459al1Uuib1pTZ0aBwP-ybDCFyHF78zzr4jStCxOa90-rHIxVnCIeU4XtpQKTRKe-4ptOG4eiwZjrl3daDuGMzObHdMjRyM4rlc7Vr7yG42bb4LTxgbLnh6gEhC81SIUF5oRgz8fn1BQ8DvsGhQk33pXAIrWaFTxUSopTfc6a9rLtQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJTWUrIK_GhkcRpkEX0Z8OD9g",
+         "reference" : "CoQBfQAAAO2yQgjZtEAGgl_vKB45Wr9_OL4zZwUI3UlRvQLWoeKishDijDcLIJ6QR37tisKsBGVdYH56HptShBw-kfqZyB8CafkALp8cUkldhcx8D7Y84ueSa7-OkGzfbD6ti5ZrA2CZs2RHUGSrY3Uf3fiu3dsl_1eXZ1JQmFj-fyqYq0L0EhAMyNcTwhhRIYHWZxR8imXLGhS9paXwBKvLEeXXHyzAM-ij31tTQA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza del Duomo, 16, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4574892,
+               "lng" : 9.1883871
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d61708097fcac353251af05dc0db975c52a09228",
+         "name" : "Basilica di Sant'Eufemia",
+         "photos" : [
+            {
+               "height" : 585,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113238283044599537013/photos\"\u003eAssociazione culturale Milano da vedere\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJlm7wx6xGb35iquXdjrfELgY1IwAozrl2dLquawu1z6ZyZ6CZ8yVaqnIXmzAcPlgNJZgOH33UCQqvm20pbvd5loyGo_Sx7DkspvbBZZchwN_6hF0xlTCe5jq8rTrZDEoeTgRv6pjqTRUpL__ZAyV8-w-yKhJela_SKv2Lw0Do4hEhB6Doz56LVJotn7w7PGc-rWGhQS5lstLul-gm_yL7O2DSmHZ5JbHw",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJ_wHBBALEhkcRAwEJ-7YSnPE",
+         "rating" : 4.2,
+         "reference" : "CnRsAAAAsJqFQ-fqXGlrZgca_vYBhZsFt0xBEl9PPzQogwvzG9htf-uDI4esXass9lnzTlL9tS7uVarc-wt1Qf_QSrJcAZceiNwzWnWHxWL7BUDAS7XoBjow0nY_k8oz54w65WNNqG5JWDw95lGTxF-bx0dFCRIQ4tfZIn6oL2SAsKEgH3gYvhoU8JAbp_x2RzMhwLck7dWRHjIkfS0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza S. Eufemia, 2, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4610762,
+               "lng" : 9.1878049
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "96ec0a060ebbcb51d7dc18cd52cbdbea4f60a06c",
+         "name" : "Provincia Lombarda Chierici Regolari Di S.Paolo Detti Barnabiti",
+         "place_id" : "ChIJt-lt0KvGhkcRJFej_rYRySQ",
+         "reference" : "CqQBkwAAAHkez_yRCEd2ycw-X95z5xfGKt6dLk69hYF0r7Ik4t-AKora4JPMQQNT42Se7nURbjQ6px3Hhur5MD46cjrAT7AkzZfRMCn8EOP8o0lVfigME2_P5v97UQUl_-qiPhio9_IFFsjMUF5tNnSIjeVUbR9AvQguh6jGFgj5aSum_U0f_1cqvfNO4vuNGVL9vrvZz1LZjkP4Fu1fMpilKdcaCoMSEMedfjcfroBuaEfrT5Nti9oaFJ9148CEgGocTAGADmUq1g6-gHoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Giuseppe Missori, 4, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4682725,
+               "lng" : 9.197654099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d36abe103c1cb45438f7acad974d3ed55d6e4350",
+         "name" : "Archiepiscopal Seminary",
+         "place_id" : "ChIJj6D6xrrGhkcR80kY4AWsXZg",
+         "reference" : "CnRrAAAAjRBwCO3xPhEWCvstnqhnup-NNZlsDuWFIVu5IFSX3z1fS6arCpwYqqUhV84phb89_2bNhoElQdPMfBGLp6G8pq-iwTrcFyeeuj-_KUQ0d7oa9T7jF2NuPY2hAJen72FJllZMyshpxAiUjZKpBDVYFBIQk3vYy4ZJJYQqf0Ur8AmpXhoUgnAR_lRa-JGn6reeCkbDpUZSVTY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Venezia, 11, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4616054,
+               "lng" : 9.1960131
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9a8f2cdc8362b61a406ebfd8fe723d7dccbaba10",
+         "name" : "Istituto Diocesano Per Il Sostentamento Del Clero",
+         "place_id" : "ChIJxe5cbabGhkcRgKo1CFPt-Rs",
+         "reference" : "CpQBhQAAANe5mHGfLWnFAKY-fHO5ZMeVpVoHL-7mLuQEsA-4wpFikRStuqyYtXfU5YwWtvnKrgaiHzUOOK1MJNLydyw6vNUZDX1xXGgNAWYga53w7FEVmyNuWVxClxPGFSo4_KB-DK6pX8y3AvbFxdTMUHDvviYD_0JQj_shDMT9s-hAK0dea1HWVkLfEaT0KJyyZ2ZHPxIQQRZiyWc9WFLlmNros9ZsfhoUMwLI_5W1DR4lgdqLoxlS-GC9Y14",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via della Signora, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4620942,
+               "lng" : 9.186732899999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "81195b87e7b6d2243597c38ebf9247e1a2e6ff62",
+         "name" : "Chiesa Di Scientology Di Milano Continentale",
+         "place_id" : "ChIJr8vAm6vGhkcRtN1916wEYNk",
+         "reference" : "CoQBgAAAAHdhYylpsWf6DT8yvJ967GbRLTw2euPMx0Tar89CT8CLH0LoakSHDiTeGvlm_-jMqw5EQRbw1TRoKsHbvu2fdmaRD-Wx9U0MRjm_zbhuGEFMw9qCASMtNhDxk5yHAPimH9-zxkFQzomjL_X7iRdU4MM8GV53l-LxjhsoxGoStngVEhApbRDuSRsq_WPqcym_KvvfGhQwlDS3aoAvqhKZIKLhkbOeMnvScA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Torino, 23, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4626433,
+               "lng" : 9.1954701
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0acc6c1698881c4f9dd834975341a56aa9d71555",
+         "name" : "Santuario Di S. Bernardino Alle Ossa",
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105693082405203755908/photos\"\u003eMatteo Pelo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGuoC4E91VXmx6K7A8Ga71bdNHBJ4-o4xf2PGZ_92c823vcdb4Izf3xe9RBce4tToxpn8fUok_-vFwlcqvHu7XD3ik9uTfbVrLah-y7-x5IG1PSfbS8DMZzWqZzmupBYc5ErslJAWlKLw9ZBw0lhs_gVnKf_MFVL-7nXVubFsITIEhD1BjXYW6pxBcLKouclHQVBGhTiw08KBrLu-FnKCCQ-3qRpHQf_gw",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJhfp35qXGhkcR_dPp7rKmopg",
+         "rating" : 4.7,
+         "reference" : "CoQBeAAAABjlbqbpavyExSzrhbBHRtQOK1Oof3FmcWcfMcUaoFXAL12sPRXJnfZiEe0-c4CvmlZDbYTrZ4fjihIKM6NEKRf5dwVKYi8XE52LTjeiCvVuUfB5GniXyCEaGwLFqjhkqv53NSyNSVHaPyuBDPWXvvlvriQgoIkj2z8TsCb_YVx1EhCT9NtezpVLNEfn9TtRIA7IGhRbC5yG-jkeNfXrWhDrz-VG8KXZQw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Verziere, 2, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46142740000001,
+               "lng" : 9.193529200000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a91b4eb8e1b620ad0afed0d7900f34556ed427ba",
+         "name" : "Spazio Famiglia",
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112974224972202567510/photos\"\u003eSpazio Famiglia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMHHPlUhhaZmtEihIBmOSkNq-9_TGEwO2xIuS58U9Bl8ykKf82orNV4b9jes76WmEevzzZCJu-3vFZGSbxS9905nBcuyvjMGwnp_-QEcmup8_2JEeVY7MIwVkKtWLLY4Z0k6RxZZb4JukIjvAetzlrOS91ctEtuQtYN2YlV4ob5EEhDbF2DfhFiw_bnAcPLqQHfGGhThBS7RAKkBYLesXQW9y62FABcgtg",
+               "width" : 691
+            }
+         ],
+         "place_id" : "ChIJ-4cXuqjGhkcRw-3UoySmelA",
+         "reference" : "CnRiAAAAcH5hiyspUKV1adYJK50o2TLmmYY9CAS2-UoGsyrFJOJJ46SI7CIooHka3qAo442Or0EEeTGLre7vTWNxwvzWU_wF6kaenFepytr1raNgchplOiIZYorYoyUI9nKPCxBjY6MyvOgsmC8aSmlKVydNphIQU7os_RDiqpbm7g01-zNpihoUW3TSUQpIg9T0tsX9iFWBaVVFsbs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Sant'Antonio, 5, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4667196,
+               "lng" : 9.1916168
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0e986f97d08f22942ec689460bc3de4e5d31c1b1",
+         "name" : "San Fedele Church",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102540755148682515240/photos\"\u003eIlda Casati\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJ15RFAcFh-ibWqKO9BliGZ2mrNm8L9x-HZBEVXO0J7mXPbI1TwX_ju5LGzL2vppLfoCk43GJ1VCVjMX9UdPz_KUiqQYiSJVrBIWOpAhPLtGxD5YqEs_sxY_FEYF3u27GnJMtSoJ1O57K5ClU8AJrDdQwcknLaQC6ydbmAvJZY8jEhCZkzZ_C0ceHrfyXpHFpLrCGhSH3xEyhNqObtbW9b_unewlXKVv-Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJRwsE67GhkcR4Iv9oi8p7DE",
+         "rating" : 4.4,
+         "reference" : "CnRkAAAAt0UAHdoC5UD1J_SSKwiosf0bxmsFRoknixHnH0oydhjSegH_ojchfd4UMvr8TAFpqSJ--gkc4xG4qs61THnp86DJ2A5Ad2U5-OfsNn44adyjfdsN8iKzH2A3_BMd5Q3Suaz2HsxuRDnnKviVcUOQZRIQWHxncHZh_9o9F84-Xu8odxoUMV7AQ0whmXKoSe5X_D8DJ13vw9U",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Milan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4654791,
+               "lng" : 9.1917165
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "04e65e70287f0c9e8897c7c79ff92cee3c96ba89",
+         "name" : "Congregazione Figlie Della Chiesa",
+         "place_id" : "ChIJoV-qRK7GhkcR9SH19jyaTf4",
+         "reference" : "CoQBdQAAAH6gv-FQE1DI2YMQwyI8mYniGGeQQvX1oS8zwpb-PPBizUC2XKKEihWBmr6nUAGAb1bd5fJH-rATJWaFrqApptKZZ0WyAsfMkcDB_nNvj8Mx8Lg9QetRE1q9LIzMdNGdIG1a_mHbVpVFfYuSA8WSlikEnWKv8ZXUEIcSEdojHx1AEhAOuWU2FUdsCKRy8_z5HUmuGhTZ3a58qJzrqCM9AAjVz6oSS9R_fQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Radegonda, 5, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.457269,
+               "lng" : 9.1930616
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "95b44d09b636780d6ed2150bdcfcab0ac017d27b",
+         "name" : "Monastero Della Visitazione S.M.",
+         "place_id" : "ChIJgQ-RVB3EhkcRAOJHy97l1Uc",
+         "reference" : "CoQBcwAAAEKTsPeB2s9j0VUiPOtk8FOVaUJI5bluedU8bZXp55t6m16Z-jSUi7MsPBZD2o-LlFjAkAB2N_jBuX4TPKIsRHmPeEFgdN-syqifxF-pazXilGKBNOdJ7PVGGD1i6NPtZeQPuu87Rz5pajkoO82LquP-sTdgxzm-HlRsPhdbLPSjEhAoY2LbE3n894tAbH75SyEUGhS4SOW8e983SrTInbgHVshhkPMHgg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Sofia, 1, Milano"
+      }
+   ],
+   "status" : "OK"
+}

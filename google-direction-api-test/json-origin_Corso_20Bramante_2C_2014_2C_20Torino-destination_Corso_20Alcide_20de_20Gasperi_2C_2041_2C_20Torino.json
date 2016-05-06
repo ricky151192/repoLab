@@ -1,0 +1,276 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2V5DkjNtiEcR3y1ylPHrbt4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRaIj6iRtiEcRoeXy9CLaC9k",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0559252,
+               "lng" : 7.666747200000001
+            },
+            "southwest" : {
+               "lat" : 45.0438838,
+               "lng" : 7.659251
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.4 km",
+                  "value" : 2430
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "end_address" : "Corso Alcide De Gasperi, 41, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0554024,
+                  "lng" : 7.659251
+               },
+               "start_address" : "Corso Bramante, 14, 10134 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.04580139999999,
+                  "lng" : 7.6632289
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.045038,
+                        "lng" : 7.664559
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCorso Bramante\u003c/b\u003e toward \u003cb\u003eVia Giordano Bruno\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g_}qGevwm@vCiG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04580139999999,
+                        "lng" : 7.6632289
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 45.0439192,
+                        "lng" : 7.666332
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "oz|qGo~wm@n@uApAqCVc@P]P[LOHGHC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.045038,
+                        "lng" : 7.664559
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 45.0453511,
+                        "lng" : 7.664781400000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "os|qGqixm@BS@I@K?ISMAAIGCA?AGAEAE?EDMNKTi@dAcDvG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0439192,
+                        "lng" : 7.666332
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 245
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 45.0467543,
+                        "lng" : 7.6623794
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "m||qG{_xm@wG~M"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0453511,
+                        "lng" : 7.664781400000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 442
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 45.0498622,
+                        "lng" : 7.665598699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ee}qG{pwm@OZ{AgBqBaCmBwBy@cA_BiB_CgCGG"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0467543,
+                        "lng" : 7.6623794
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 547
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sx}qG_exm@QSSd@gA~@ED}@|@e@|@KXO`@}@|COl@Mn@}@hGGj@Ih@_AxF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0498622,
+                        "lng" : 7.665598699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 352
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sg~qGyawm@uAy@kBeA}CkBgBkAoBuA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0522603,
+                        "lng" : 7.6599663
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 186
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 45.0559252,
+                        "lng" : 7.659902100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Sebastiano Caboto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ky~qGgnwm@_BfF{@xCIX"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0550955,
+                        "lng" : 7.6619551
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.0554024,
+                        "lng" : 7.659251
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q~~qGkawm@hB`C"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0559252,
+                        "lng" : 7.659902100000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g_}qGevwm@pHuOb@y@VWHCD]@UUOUMKASTqNrYOZ{AgB_FyFyCmDgCoCQSSd@mAdA}@|@e@|@[z@mAjEkAxHQtA_AxFuAy@kBeA}CkBwEaD{C`KIXhB`C"
+         },
+         "summary" : "Corso Bramante",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

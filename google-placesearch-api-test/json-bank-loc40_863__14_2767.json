@@ -1,0 +1,367 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-QAAAI9TgPNo3htZnQCei4oL6OIBArvGT61RRasx_Wy9h8s4z1uoehCVqyrbX9w9twKLZ4G9uiPk_sufTbka9lgXIYJN4m_vk7v15r5la6Ef498qn7xdgTytqS9pWRUHG0wBGqU5an98dOr1l90KT8fSk2Vz-YCLyhFTs-8iJMlcRIAMjEiCDDRdPTWfk0vT22IBgPG9TslAnBxkqWYbxW5MpspOusIeQ6NxImeckp4b2NFDIY7IaKBFR9nwwalHutxAm5g9goAIw0oWkEZB3ts3NfwyI8qUuq8bK8lh2Aj0J9bri3P3p4wTvF6-R9TEtuh5GmMhO70J0TAFuwC__-YkoPASEIMxEZgu8G_vCw0JBSZxBg0aFHAFTvRXtEHxgznLcegwwpihWItu",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85726,
+               "lng" : 14.27839
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "fc553f071c9b1c5f184929d7c79a8d50a3795bb8",
+         "name" : "Banca Mediolanum Spa",
+         "place_id" : "ChIJ9_osyBwIOxMRJHgesmVOt_I",
+         "reference" : "CnRoAAAAvcmuwVKinl9yB2LNWIKq1y1iUix61J8guvP7WQpaDkYgS6IgQD-APJnIxC52oaxNywhlyOjQiG1t8r4du6XGJBO-c70DYPlaGPFvLc7-PMe2evkBAs40j1CI-y4DCuM2e-zm1BpeResoSp_V6bfS_BIQRRJ9et7QWgkX_Bq8PoCJjRoUGZID8OcFjWMXrCfjwJHqZMjIcmY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Centro Direzionale, Napoli, NA 80143"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8603175,
+               "lng" : 14.2700735
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5f72df4dc0b0fc851731cac2da461dc982bf968a",
+         "name" : "Banca Popolare di Novara",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUecJ_BoIOxMRBe-UGGB-XgU",
+         "reference" : "CnRrAAAAsX90_exsTtz6zFs9s3i3V3ppRONf8nE-Ijllw8d2r9wbeRX0M5OohRqImwSEAr1J3XHcIGdUYDwHwFG8ZDYAFvlVAkj_COWvtmY9HY5LWCteJ7q0ah38MGFbOHf5iUo5AjkyaJqXM5pZk5u1EN2wWhIQLDyv6Mo9uso2ZN4qHskM8RoU7Dyc7tgE4djqS_UwAws1pLiwcqo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Camillo Porzio, 4, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.857611,
+               "lng" : 14.2772108
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3b7020ce09c58d77e38b9481456645c64b06f669",
+         "name" : "Monte dei Paschi di Siena",
+         "place_id" : "ChIJP_Tk6BoIOxMRnMIJ7Bh8Lk8",
+         "reference" : "CnRsAAAAMr6kjvfNd8yTqiZash6J2g1zjkuxRtJuknqEOiMq5Uz12xg-XsAI7GybM_HmLcPEFOwlGICLWjDnqQwR6NTR0dak1WT6LZAKO1Aop765cuWJlw01b2IeUJeA1BytDPGynrVfdlUA4_RJvLxgBdYkQBIQ7Noxe3d8TP78h8SPg9klDxoU2fMwGFCx_9KYrCVxTzx5wTDoiCg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giovanni Porzio, 4, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.858957,
+               "lng" : 14.2746218
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f39bb0efec95f3e25947466b1ca6990c9bb20a8c",
+         "name" : "Credito Emiliano SP A.",
+         "place_id" : "ChIJ4eQcpxoIOxMRu7fRbIWITRg",
+         "reference" : "CnRpAAAA7mvxgiterNnYaInG5_5sH39BCqi1k7-FMJ0m2LChEqdEIs-a1tI7jio7iziSfn8VXORV_FlEmOJ3qwmowvxPqUwhKDsH9sW6NrcPpcRFFgPD5pOzNgSkH1dbAY2IVBLLOO04etTnVpY-c5dOONE4YBIQDY9WRF7BrfQOgAvQhqfIZhoUOzWA7WXN9yY2CGaOT7Q4-4mtAlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, 4, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8601099,
+               "lng" : 14.2836412
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "dca8434e5a02bd777ef0445fdbc05b98e30bc5f7",
+         "name" : "Banco di Napoli",
+         "place_id" : "ChIJ9_osyBwIOxMRDS6OjF9dlUw",
+         "reference" : "CnRiAAAAJ7uwAbnuaMYTAJWx0FrSPIg8eaZV0Z00u53xrs3cHEF3lV_2u7SpfbesZ5eXVG0WIc-_nLUjYkIju3SCQzf1thuPpY00QDv5mfr5ls2tWC9JEOUZLOpRg8KNNACMVygkbcz7RJnIA-nEII3bVM8ngBIQtEWADFHYYV6v8YInUJMwUhoUfjP5uIPygkYStaJXI-bSlzb7d14",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Cenni, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.857888,
+               "lng" : 14.277453
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f2e809c6af550ef521695129451890fbcd922fca",
+         "name" : "Filiale di Napoli Banca Popolare Etica Scpa",
+         "place_id" : "ChIJ9_osyBwIOxMRHGMhzU643FI",
+         "reference" : "CoQBfgAAAI556xfn_OosmHfRR4kiu9Ic0ty286yjxi3ZMX-cym_XkID2zy3A0AECTFCC1rNwIJNfHET6UhXNWGRto-UOX8fX7h-tAUQG1fsoxvnnDjPnvRH45_89DXwGKQBqg2S4hyTSIHOltT07fvI-2kCmy3Xbmhck2YnVPmKY5IF8FGTJEhB69P2RKXn3w2rtdwNDAaCnGhQK9foccZaUibuTjmhdZByJ9sWrgA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Centro Direzionale Isola G7 int. 4, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86203130000001,
+               "lng" : 14.2703919
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "9e604aaa1ad564c72756265ed31c17eff5cd4dd3",
+         "name" : "Banca Popolare Di Bari",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFZoSQw4IOxMRa787HqoMoCk",
+         "reference" : "CnRpAAAA9IDIR3-A8AVMaRleVr0OqqawdpzNDmHrVnQPLsrtECPmxFq6EbdrxIM1y06HPXyNB75nkXcaI5em3QQGp6OCFGEYzsrZM8oZvYOzd3YXv2hDIc7VJJLk4UUrGS3mbVMD69MWQXE5_SOWM4mEAMD7OhIQyEo0gVbelrjvTJwCNCd3dBoUX19bepUE2atWWAnna4eZveo1AYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Arenaccia, 138, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8615161,
+               "lng" : 14.2675337
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "70e46c27ed8ba1d5d9b6ebc4a91c80171c22834d",
+         "name" : "Banca Nazionale del Lavoro",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgwRD7A0IOxMRCWckaogosZg",
+         "reference" : "CnRuAAAApGZBw1Ai4Uzmjj89tVsiDU0JWXjC2brrb7bnPxGtSpnEmfXtaNlKgoc-Jn8lrPP5-hkVYeaaFPI_BHYU6u48JGyK40i6yRItMWT08zJvUimofMm3xvZvdBzlRVM_UKLszzx1v4CBfSkj1Exy5TJ0FxIQTLBTt_kjbL295xu6EuITCRoUlhOxwsGm6zXly8yVwsraVJlDNQg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Felice Cavallotti, 66, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8583745,
+               "lng" : 14.2817817
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "45c5a2d493a22bf0ff4e935b594624a06a215956",
+         "name" : "Ubi Banca Private Investment S.P.A.",
+         "place_id" : "ChIJ9_osyBwIOxMRwYackcyucnQ",
+         "reference" : "CoQBdgAAACfjwOK1VOkxLbzCWBVLSs5lPNvB0aJeCZDxmqolhuZ7C2Ocu7dvHWXV4u3LRrCqbIHlc4RL3rq58jxgw9heTbxbDHd_ZEjLnhVExdOlpEFuawRQKv9i07dxsDTGd6dty9oUPJw6TgoV2XNbct6-sSSzMNlLJ4x56p7xF0dyTNAJEhDDKLt9mA4Qf1NZvnoRoHt1GhSvBUqPTj3p9AvnZ-MG9V9wDcYj8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86242,
+               "lng" : 14.285219
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "a6647e71ac1f6062bebdd06885a5402f3df00e4f",
+         "name" : "Deutsche Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9_osyBwIOxMRPwqdPZYXw5g",
+         "reference" : "CnRhAAAADFNrU18qUMFOz0VK9Hzv3oa3vGVpYiJirVkstWXY-Vfdtcp8dXnHMHjkzKPrsE0vb_CVA_k7ox46FOVOg_I5RjFqbnBA7nRpRy4eKDZ8Rsu2OUWrroTLjvkjq3idlXzJmxCx1ESJVSCcpnihxWnu2RIQyOQTfTo0wZgW5zAq84_-xRoUPItRmYvzByk_js_uGVRarZDa3rE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza A.Moro Centro Direzionale Isola E2, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8575291,
+               "lng" : 14.2774469
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "d0cc0161a2dae6063343251146d8b36d9a1944c9",
+         "name" : "Fineco Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 380,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101962837048364402720/photos\"\u003eFineco Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAM2NXdMvRJ_lFKh9Xqzbpqqe7-0dhAnLZyhqsflXPpBADAMEFaW0pPkt9pQgp-M_1Ru1tsY4llZJ7G0d5neDVgvDJ7o9W8_BlGBZe_B0AwKEWum4zqVdApUphOJax6t3udxepNuhK-CdjdxTeBCEcORzCNuA1QMIwqXAf14E9bqDEhBBSN5lpPMBpQ3ugm0ioLeEGhTGpbdCqdsMSQQWT79yqHqnfAPmPQ",
+               "width" : 376
+            }
+         ],
+         "place_id" : "ChIJlT_0ThwIOxMR5z0uAuBhxS4",
+         "reference" : "CmRgAAAACrwVaNMddPxW5KUUumOFF1DTFLVoFe-NcPeGzEhj7MGIFhPnru0Bvh6a-PCkLUZWr5L0F9D4SFr6fouXeh-6eFGqOk0dcspeqVgMmpoWpyk0dtpC8pyDmNVqzzrx-WMPEhDnSwJX13tjxZcM9vmAaht4GhSs1qavJdFZ0-0orzPAb4_ADDTKpg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Centro Direzionale, Via G. Porzio, 4, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8583745,
+               "lng" : 14.2817817
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "9633082adf1325374ad6e3a8b7eec61e71ef2692",
+         "name" : "Finecobank Spa",
+         "place_id" : "ChIJ_4EK8hwIOxMRSZgWcI2QI1I",
+         "reference" : "CnRhAAAAfbXIF3kJCF6EEXO-c8nPExEl3ESZ2pzuKrLIUVGRfn7DKwiRFkJGBSlJkjORN6hX1IS1YjMsE5Oq-j2Z9ImOaSPYSjnUYWmRZyVw5oVKeZBZndaUj283wcv4Dn7HoOzdLefCFKp3f6VC30-qkz6u1xIQaTTLDYzjoizzt1GOtURB6BoUXhRkjshZatZ5LTechZH68oj7rTo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8583745,
+               "lng" : 14.2817817
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "d4d9cc851a473540f43e9fde47f7f91ad32a1bac",
+         "name" : "Banca Ifis S.P.A.",
+         "place_id" : "ChIJ_4EK8hwIOxMRcQ_s-f0UlG0",
+         "reference" : "CnRkAAAASRRRPU3jp3jsevNuym9BuNeInkRAY1wfy_EX5nxAYrvVJaXmBEFiHyD0H142zV7ijrosXS-m-eSTr-uzbylWiQyC8QpN-V5iMX5vOaWYyBHJhBMzMTbP9ADCv023LRECJnNwcLtu7AzZF43LxusHzBIQ-H66XXlZDtBq_K-LyvspGhoUb16_EEkPUbWftXVICn3G5CmYNQc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Italy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85726,
+               "lng" : 14.27839
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "2ab95e2bc02778593200bca76149f446f3d764cf",
+         "name" : "Credito Emiliano Spa",
+         "place_id" : "ChIJr60RZneoOxMRga4jeAFRa_Q",
+         "reference" : "CnRoAAAAn9SUx6F4nFLjSuS7Xrdu-gw6KtCHTflVYo8nRYyOsDvYBBy4pCL1viTr0e44RR6XFb93I9EtoZt2nnS7zEotKiHCoeCtK1OkCBngHWDOv-pv9WOYeBmAn9yZono5lz-G6_zTGfKPWKNyYTGOygkG9hIQpbnm4JJHCHAsVvCiJ84PKBoU2l71pF-UlISDGz0iQ47DXeJ4IlA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "1 Centro Direzionale, Napoli, NA 80143"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8582155,
+               "lng" : 14.2706245
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c22c6f5dc865001a6dc27d425d4a0efd647147ac",
+         "name" : "Banca Della Campania Spa",
+         "place_id" : "ChIJsZZQpBEIOxMREiAzjsBnkEE",
+         "reference" : "CnRrAAAA3TBpmso5CRV82nXy4EX6e9fELea5zepLrPCG3xZlMGulQTJGcPlFtnbqcxNUWNPqu28090U41OY7q8S1zhIA1fpeKwf7T9l3cuyKRSuHJH9y2ULJVV00apSB_6BIhu-mRdqMx8Ju0M4FrwrK_hiO8hIQy41rBPmz75BeAusVkVfrFBoUvSQESaAXL2JS1amF-_Jb_m44c2Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Arenaccia, 43, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86177789999999,
+               "lng" : 14.280808
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "edaf2fe45f13607d41457bd0cee5a92d05b6743d",
+         "name" : "Credem Banca - Napoli",
+         "photos" : [
+            {
+               "height" : 58,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115760606473984613713/photos\"\u003eCredem Banca - Napoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAOp9X5nmfWc_SUYowvT3iYLPpJJDzEt5GcYoJN7zxTm8lnoGp1ZHB0Fp5smZik44BjzL-XM2H7gJkGiUmBuGTP9-ElK0--j11bfcXE46rkEfozUuTXkCS0i9wnBtOvcJxIy6Tx7vzLT9dMSHfB_HPLZ3kqUdyNLnSjlnqmr6j3MeEhCAt8u5PwiOK7BzDRxwGCyeGhRPTy7wXecqtuC6HgKNTdUds9Ik7A",
+               "width" : 116
+            }
+         ],
+         "place_id" : "ChIJ2x7OcAeoOxMRJFmwLn0KaNs",
+         "reference" : "CnRpAAAAh-MImBSLBQQSwHvBIHnZdAd-fwX3OUx3JGRNuMiyMmWYRSAoMr3PASmlcMnxuM7ROxIh2H0VoPXWoWTqJKJwCMuX3ouRnPOghnO3hK1Aqi1ezfhQIVxQgGNLC9N8kGTGhtg6tcGfmrHGecpbfU_q4xIQyZe2o_kcaYolng1__RjJnRoU8mYBwP7v-vhSwyRCJ2UdPhiN_fA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, 1, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8601703,
+               "lng" : 14.2815533
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "10ac513e7031e3f5751ffb6b65b0fc25aa3a933d",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJH8VjagMIOxMR29UOVDmnBEo",
+         "reference" : "CmRgAAAAb6inF7yi3zBcC2ByMvbdTEgFnY4_Z8O8OHAoNf2O4qx8tX1i0DJhAlOHKD08mq8gEmkFFqrcBRYxdIBmM4Y3iI_oxxYl7rc5yjqc0e1e8QpKkohx2ujLHxFCjBfGhWtHEhA-fLs4R0sd1Hn1XVy5BwwbGhQ4wOMq8nYzO1DDp_kxsOvK9BcVTw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Centro Direzionale, Piazza Cenni, 2, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86388579999999,
+               "lng" : 14.2849452
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "7c66fc1b7c4b0d3e69ecc2f6d3daeba5b23037e2",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJGbfblgMIOxMR0YfkXrML2ek",
+         "reference" : "CnRhAAAA24I_zkXYiZ-YImKrojq4fW3WAR1qzdn8S2FbvmGOFxrH2s5IBmVT4Q-Y3fG4NU2MncMtSTE-nA13GxMP9UU9m237m1adXgmUgOYh2Q-KkT2FF5rFlXBXaovdo50GzG3ahWjcV6BYTrxBu89V0oB1xhIQlDR0CMPiHF1f6N4470wz8BoU8Y35KM_LF7ZfjlPmr3Hpo997kYs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8583588,
+               "lng" : 14.2806924
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "a6757ced5bd7be840bb2f1c843a523efac4ad048",
+         "name" : "Ufficio dei Promotori Finanziari di Banca Mediolanum",
+         "place_id" : "ChIJH8VjagMIOxMRtWeB9rEScfI",
+         "reference" : "CpQBiQAAAPgAedKJ1_hoah5z0AlzfSDY0s9eqhx6VRydXVop2HqNUNrWqbyRQFQn5-p4K1-SPlXdn1mgu_AuQe1orhsxvJeYr12CapgVR6V-lT_3R9xIi1MOSP8E8uHiKAZqTdES8FFpU7LYjlzX1FcIyrkIOQgDQhlynAvI7p3960y4pPTpKNra-WrE-NxP9A8OANUbbRIQNsjKZYB8x7arxKBlk35H9hoUW3mTGGKgNRsMH79-bRfJY8XMAak",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "C/O Centro Direzionale di Napoli, Piazza Cenni, 2, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8583745,
+               "lng" : 14.2817817
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "773f63ded564a79559f72c931d0726d12f53687c",
+         "name" : "Banca Della Provincia Di Napoli S.P.A.",
+         "place_id" : "ChIJ9_osyBwIOxMRTuXkWgR7Lzc",
+         "reference" : "CoQBeQAAAFQwvgD7ZyyJ0mM756iX0Gc5ilxYbuNUuiXCIFWVGOAqhp3zVYWJ2Qg_o5JcTVeH6w-_Ff102Gj62m50H0wS6BgrWm2c7c1NXyUvp6PgfddYwkfMCILNaW0YDPBR-BJud9Np922Z7nqYbs9SLqvWWxpuwY3JTeRULYuwWGKkNDynEhCl2BQwy4eAKs6FxYB-xvtTGhQiIQfObwymGUSCe5RFjHd2ZAR_mw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Italy"
+      }
+   ],
+   "status" : "OK"
+}

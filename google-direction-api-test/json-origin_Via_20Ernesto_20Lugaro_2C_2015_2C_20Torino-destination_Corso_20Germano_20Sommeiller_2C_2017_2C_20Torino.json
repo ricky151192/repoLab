@@ -1,0 +1,156 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY1m1OUhtiEcRnXVb40n0mrk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6YXoX0dtiEcRGx8lXJzf00U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0548939,
+               "lng" : 7.675616900000001
+            },
+            "southwest" : {
+               "lat" : 45.0486983,
+               "lng" : 7.671619300000001
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 km",
+                  "value" : 1111
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 273
+               },
+               "end_address" : "Corso Germano Sommeiller, 17, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0548939,
+                  "lng" : 7.672153399999999
+               },
+               "start_address" : "Via Ernesto Lugaro, 15, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0495189,
+                  "lng" : 7.6718305
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "58 m",
+                        "value" : 58
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 45.0490181,
+                        "lng" : 7.671619300000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Ernesto Lugaro\u003c/b\u003e toward \u003cb\u003eVia Antonio Rosmini\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ov}qG}kym@bBh@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0495189,
+                        "lng" : 7.6718305
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.0486983,
+                        "lng" : 7.6735585
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Antonio Rosmini\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ks}qGsjym@~@cK"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0490181,
+                        "lng" : 7.671619300000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 569
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 45.0536333,
+                        "lng" : 7.6754833
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kq}qGwvym@qAc@_Be@y@WeCq@YIyGuBiBc@sBm@ICkAU"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0486983,
+                        "lng" : 7.6735585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 328
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 45.0548939,
+                        "lng" : 7.672153399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ep~qGwbzm@{@[OlAALQbAm@`EEVQz@Qz@e@zB]fA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0536333,
+                        "lng" : 7.6754833
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ov}qG}kym@bBh@~@cKqDiA_EiAsH_C}EqAuAY{@[OlASpAs@xEc@vBe@zB]fA"
+         },
+         "summary" : "Via Nizza and Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

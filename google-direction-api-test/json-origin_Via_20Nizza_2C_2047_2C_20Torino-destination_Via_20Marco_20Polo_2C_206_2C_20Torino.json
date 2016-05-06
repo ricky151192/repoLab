@@ -1,0 +1,227 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDQ3LCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpywwWDxtiEcR304ZkBuvs1U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0585107,
+               "lng" : 7.675896899999999
+            },
+            "southwest" : {
+               "lat" : 45.054006,
+               "lng" : 7.6626421
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1714
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 353
+               },
+               "end_address" : "Via Marco Polo, 6, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0579269,
+                  "lng" : 7.663941200000001
+               },
+               "start_address" : "Via Nizza, 47, 10125 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0546413,
+                  "lng" : 7.675896899999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 45.0541266,
+                        "lng" : 7.675712199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eVia Nizza\u003c/b\u003e toward \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ov~qGkezm@lAZVH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0546413,
+                        "lng" : 7.675896899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 673
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "is~qGedzm@V~AALQbAm@`EEVQz@Qz@e@zB_AvCQl@W`@wA`CmA`BoAfBaBpBk@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0541266,
+                        "lng" : 7.675712199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 45.0585107,
+                        "lng" : 7.665455499999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@[jAuArEkAdEQn@Qp@M`@Sn@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 243
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.0565199,
+                        "lng" : 7.664387199999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "un_rGcdxm@HDB@LBr@OlAt@nFbD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0585107,
+                        "lng" : 7.665455499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.055637,
+                        "lng" : 7.663774
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "gb_rGm}wm@nDzB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0565199,
+                        "lng" : 7.664387199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0560707,
+                        "lng" : 7.6626421
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Amerigo Vespucci\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w|~qGqywm@uA`F"
+                     },
+                     "start_location" : {
+                        "lat" : 45.055637,
+                        "lng" : 7.663774
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 45.0579269,
+                        "lng" : 7.663941200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVia Gian Domenico Cassini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m__rGorwm@wBsAw@g@sAy@oBmA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0560707,
+                        "lng" : 7.6626421
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ov~qGkezm@dBd@V~AAL_AdGWrAw@vDqAdEoBbD}ChEaBpBk@`AqB~G}BhISn@HDPDr@OlAt@~K~GuA`FwBsAkCaBoBmA"
+         },
+         "summary" : "Corso Germano Sommeiller",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

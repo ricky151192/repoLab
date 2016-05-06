@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJsb92Z63GhkcRMw71xKJnKII",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEbklWLPGhkcRujjxIeGti7A",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4723183,
+               "lng" : 9.1882506
+            },
+            "southwest" : {
+               "lat" : 45.4674269,
+               "lng" : 9.185353899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 952
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 335
+               },
+               "end_address" : "Via Fiori Chiari, 8, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4723183,
+                  "lng" : 9.1875511
+               },
+               "start_address" : "Via dei Bossi, 5, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4674269,
+                  "lng" : 9.186141599999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.467877,
+                        "lng" : 9.187246199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia dei Bossi\u003c/b\u003e toward \u003cb\u003eVia Clerici\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mjotGkdaw@]uBYeAKUGGEAGA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4674269,
+                        "lng" : 9.186141599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 45.4685489,
+                        "lng" : 9.185431099999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia del Lauro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gmotGikaw@G?C?AACAIGW[UMu@dDERAJAL?J@P?`A@lB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.467877,
+                        "lng" : 9.187246199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 45.4689505,
+                        "lng" : 9.185353899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Broletto\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mqotG}_aw@g@D[DKB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4685489,
+                        "lng" : 9.185431099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 228
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia dell'Orso\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}sotGm_aw@E[Cg@Ey@I_EG}AKgD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4689505,
+                        "lng" : 9.185353899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 45.4723183,
+                        "lng" : 9.1875511
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Brera\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuotGqqaw@}CbA_Cn@qAJO@KAMCy@MS@g@BcBV"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mjotGkdaw@]uBYeAS]YCECa@c@UMu@dDG^?lB@lBg@Dg@HIcAOyFSeG}CbA_Cn@aBLYEy@MS@g@BcBV"
+         },
+         "summary" : "Via Brera",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

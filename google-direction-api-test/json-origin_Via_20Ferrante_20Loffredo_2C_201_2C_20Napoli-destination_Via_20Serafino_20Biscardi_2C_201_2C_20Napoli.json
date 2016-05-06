@@ -1,0 +1,203 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJaXzZsA8IOxMRJKbI2JNRqd8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei5WaWEgU2VyYWZpbm8gQmlzY2FyZGksIDEsIDgwMTQzIE5hcG9saSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8633886,
+               "lng" : 14.2812074
+            },
+            "southwest" : {
+               "lat" : 40.85951319999999,
+               "lng" : 14.2722199
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1389
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 291
+               },
+               "end_address" : "Via Serafino Biscardi, 1, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8618292,
+                  "lng" : 14.2812074
+               },
+               "start_address" : "Via Ferrante Loffredo, 1, 80141 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8616686,
+                  "lng" : 14.2722234
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "2 m",
+                        "value" : 2
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8616879,
+                        "lng" : 14.2722199
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eVia Ferrante Loffredo\u003c/b\u003e toward \u003cb\u003eVico Polveriera\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxkxFkpbvAC?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8616686,
+                        "lng" : 14.2722234
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "67 m",
+                        "value" : 67
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 40.8617665,
+                        "lng" : 14.2730127
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eVico Polveriera\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qxkxFkpbvAO}C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8616879,
+                        "lng" : 14.2722199
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.8630972,
+                        "lng" : 14.2727744
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Generale Francesco Pignatelli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aykxFiubvAaDX}@H[BMF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8617665,
+                        "lng" : 14.2730127
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 247
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 40.8633886,
+                        "lng" : 14.2756096
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "kalxFysbvA?A?AAA?AAA?AA??AA?AAA?AAA?A?Ck@EaBQeJKq@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8630972,
+                        "lng" : 14.2727744
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 419
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 40.8596562,
+                        "lng" : 14.2762522
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Colonnello Carlo Lahalle\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eclxFqecvA`@KPGNEtBEnGs@~Gk@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8633886,
+                        "lng" : 14.2756096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 504
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 40.8618292,
+                        "lng" : 14.2812074
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{kkxFqicvADA@?@?@?B?LCKUCKGKISaCqGaCyGmCoH[{@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8596562,
+                        "lng" : 14.2762522
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxkxFkpbvAC?O}C_Fb@[BMF?CAAACCCECC?ImCQeJKq@r@SNEtBEnGs@~Gk@FAB?PCOa@Q_@cGkPiDkJ"
+         },
+         "summary" : "Corso Malta and Via Nuova Poggioreale",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

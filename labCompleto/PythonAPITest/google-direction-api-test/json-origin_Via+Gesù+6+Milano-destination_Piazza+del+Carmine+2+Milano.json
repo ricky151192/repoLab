@@ -1,0 +1,321 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRZv1WLDGhkcRA5qM9ZrKsdU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EitQaWF6emEgZGVsIENhcm1pbmUsIDIsIDIwMTIxIE1pbGFubywgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4728242,
+               "lng" : 9.1966091
+            },
+            "southwest" : {
+               "lat" : 45.4691786,
+               "lng" : 9.185469899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.1 km",
+                  "value" : 2068
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 575
+               },
+               "end_address" : "Piazza del Carmine, 2, 20121 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.47036689999999,
+                  "lng" : 9.185469899999999
+               },
+               "start_address" : "Via Gesù, 6, 20121 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4693857,
+                  "lng" : 9.1950161
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 45.470363,
+                        "lng" : 9.1966091
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Gesù\u003c/b\u003e toward \u003cb\u003eVia della Spiga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uvotG{{bw@oD}GQ_@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4693857,
+                        "lng" : 9.1950161
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 45.4708146,
+                        "lng" : 9.1960759
+                     },
+                     "html_instructions" : "\u003cb\u003eVia Gesù\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia della Spiga\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w|otGyecw@yAhB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.470363,
+                        "lng" : 9.1966091
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.4694179,
+                        "lng" : 9.1938481
+                     },
+                     "html_instructions" : "\u003cb\u003eVia della Spiga\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eVia Santo Spirito\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q_ptGobcw@xAtCzDfH"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4708146,
+                        "lng" : 9.1960759
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 45.4700351,
+                        "lng" : 9.192789699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Monte Napoleone\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{votGqtbw@o@vAkAzB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4694179,
+                        "lng" : 9.1938481
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 313
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 45.4722757,
+                        "lng" : 9.195201400000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Alessandro Manzoni\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wzotG}mbw@oCmCeByAy@}@u@cA[_@IMs@iA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4700351,
+                        "lng" : 9.192789699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 199
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 45.4728242,
+                        "lng" : 9.192776799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Fatebenefratelli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "whptG_}bw@Mb@GPCJqA`L"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4722757,
+                        "lng" : 9.195201400000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 45.4702798,
+                        "lng" : 9.1920202
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia dei Giardini\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "clptG{mbw@p@J\\BH?LCXCJAz@E`@?R@XBVDXJ|Al@VLVPLLRb@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4728242,
+                        "lng" : 9.192776799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 328
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVia Monte di Pietà\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g|otGcibw@n@tAbAvBZn@Nb@H^F^BZB\\`@tI"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4702798,
+                        "lng" : 9.1920202
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 45.4706075,
+                        "lng" : 9.1876719
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Brera\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuotGqqaw@}CbA_Cn@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4691786,
+                        "lng" : 9.1882506
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 45.4703703,
+                        "lng" : 9.1855051
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia del Carmine\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i~otG}maw@j@vEBRd@nC@L?F?B?@A?A@a@RA??@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4706075,
+                        "lng" : 9.1876719
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3 m",
+                        "value" : 3
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 45.47036689999999,
+                        "lng" : 9.185469899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza del Carmine\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y|otGm`aw@?@?@?B"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4703703,
+                        "lng" : 9.1855051
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uvotG{{bw@aE}HyAhBxAtCzDfHo@vAkAzBoCmCeByAy@}@qAcB}@wAUt@uAlLnAN|@I|AEl@Dp@PtBz@d@^bAxB~AfDXbAJz@d@rJ}CbA_Cn@n@jFf@|C?JCBc@T?F"
+         },
+         "summary" : "Via Monte di Pietà",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

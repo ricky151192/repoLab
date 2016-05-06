@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2Wac-qXGhkcRGSLQMiJd_dY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJu_P9dqbGhkcRCDLWtEt1cKw",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4629977,
+               "lng" : 9.197385499999999
+            },
+            "southwest" : {
+               "lat" : 45.46178279999999,
+               "lng" : 9.195467299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 282
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 64
+               },
+               "end_address" : "Via della Signora, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.46178279999999,
+                  "lng" : 9.196568899999999
+               },
+               "start_address" : "Via Verziere, 2, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4629282,
+                  "lng" : 9.195467299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 157
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 45.4627548,
+                        "lng" : 9.197385499999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVia Verziere\u003c/b\u003e toward \u003cb\u003eVia Carlo Giuseppe Merlo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "inntGu~bw@KyAAK@cB?G?U?OBYFg@b@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4629282,
+                        "lng" : 9.195467299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 45.46178279999999,
+                        "lng" : 9.196568899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia della Signora\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "emntGujcw@bBxA|AhA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4627548,
+                        "lng" : 9.197385499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "inntGu~bw@MeB@kB?e@JaAb@eAbBxA|AhA"
+         },
+         "summary" : "Via Verziere and Via della Signora",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

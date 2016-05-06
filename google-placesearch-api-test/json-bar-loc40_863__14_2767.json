@@ -1,0 +1,486 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-AAAANORxeBJk5XZ6iOCg56VQZjx3xxcO9EffTdkxLnZeBRdeVCcYFmpiwqSpuAshn8YC_fLdZt4qEIeSY3XOq3dnZD8BCsxF3TQ_pJVbfTffzxStJD2HH3AejtWX5qFG2g2HKoc77MuI6tpa1wux_B3LyPXwFIm_rQ5Tzhyf9COx-MC2RSsugX1i366iXCo1F31kS9zctv5NKDtUl_POD7rQLBQN0WZw5BUKsxIFUttTg940JX6DjmCVnLjLFHcQBlDJSeU0MrkASML3KjUyXdkMUKSxewF2Kqk9tcDmKQr1EBu2WRhhK0A-u--DjNEk5t8WNWn6Wd2j53JVKDRyGONQU0SEHLwg1odfj27g9_UH5oKMuoaFBNtd2J8gxZjLbwv-5CIyXFB0nXS",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8618204,
+               "lng" : 14.2656452
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "77fdff7f4efbd9b5e1f838b806a677f834f58b09",
+         "name" : "Hotel Ferdinando II",
+         "photos" : [
+            {
+               "height" : 2992,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102166363341005512707/photos\"\u003eluca\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAE76xh4ts5GtIZ5h37gLX8ktLfAwF9l08Y7EuItdV-F531rPD9RedZ_qko_dgin6rh7Cirrwrfor90osrG_CHpTLf5Os8q-FBaf6-bL8M4iQ_ZxUzwtJs2Zg_CJ0DtmU42-rFUocqXc7FkC8ygOb8nL1qumwwCkkdRfwTa5k-34SEhAXKQylBzm8XCpTCX0OFukkGhR3zJgUAg4f0s9_BNp7xVNA5lIOKA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJWeHApg0IOxMRHYJtpn6JyTY",
+         "rating" : 4.2,
+         "reference" : "CnRmAAAA5lVfAbixwBuo3f-YxIxHfjrt0h4qezuUZtrcXRiKTtlVcvyNRqQmsTujbQMfhyYbK7mUV8bK5_5YWMv98kVMr22KkbQRImQiwAfF4ZqvQZacRUI16Rq2DiqQdkSB3thPAjo_N0BobjDG8OMAhnXS4xIQOoNoGhGHdxFqYXYKfF0pShoUIhUBs73vy1NxVIyHklleBnYCr1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Carlo III, 59, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86313049999999,
+               "lng" : 14.2676435
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f91a2fc0f0ca3d5c699f032b672b34951172132e",
+         "name" : "Il Cornettone Snc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105904089296514081271/photos\"\u003ePasquale Arrichiello\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJE2ueyGXFhi6gESoGP1VDr_4zuaa8VjYrwDg6QVTMC2vauVc2NpZu0atZYbMiTP6QPxl3Chnl9hNPnBlsIlz2ZaHF9GSXcSlWnlHlxUM20dN3_pM2xagWROL8qJT8I-UUSgo5r6-1LYxBCYtVRaudEJU2BzMPRiPQA5kq-V6CNzEhBC6d8hgdD8BshV-4lk7XiZGhSnwi1L6HFXZFXGCbcO19--_OxT7g",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ-6iuzA0IOxMRugJmSq06lDs",
+         "rating" : 4.2,
+         "reference" : "CnRkAAAAn0kQH3A-3JuEb5BD-6xSOoq_C2xEwnhDmNLJjRdvxTNA_U-HbQ1-piySvPKGyF1kr-fr_NdIwUpJJI_QuGY7EMoZw47Jagy48gCvPSHQL3an0cEio1tCob-WwOtg5KmEfdNF2uMUk0iedGBAG29U3RIQfX8vIT2oYGuUiVqbuviCKxoUxrSGKhDPnzxaTU4HFMKOtsdXn9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Alessio Mazzocchi, 54, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8575616,
+               "lng" : 14.2732278
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55ec802e35ffceb4e15f8a598d9afe1898187283",
+         "name" : "Lucignolo Bella Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111660729754316721895/photos\"\u003efra renda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOQHdzupIitkQlE3EnzFtipLZQLDdKzVgsFrtlMWAZD5-jKkJCOhD9dJvdrRCwL-AZAdF16m0ayxCfzyU4UaaSDEZXoxLoQm4kYW809Oos9JBdxbG7HHx2V-vYjzg9sGxGTMJ3u6cQyWiucDFiApyzONN9hynZL6qV38mI7Jtx_tEhCjKAU7HrPt6dni_cx1grzPGhQdq6S1o8ltCPtEPZppoX5H0l66yA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJu3WkYBAIOxMRY4VfCneKFks",
+         "rating" : 4.4,
+         "reference" : "CnRoAAAAYXZDrL5H8QbHoU8htvGIe6vbVQGsIO__Llu0gSkX6U_g9WP2leSow09jAgEgRvOamTAHSXZ9PSs1RKEpt9Mnx7o6UJVNUxofYZnuAst1DEkNW3f0KfpfCDRn3fFNeQhaV9biN4aSjGM5TQhnkw5bpxIQ-hUuwmhzAUNnc4QpkiKdPRoUPG1BWpY3_aM9b1oH4gD9CoDB9iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Nazionale, 87, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863133,
+               "lng" : 14.2683314
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6fe7f977671d3f3692321fd8b2e39e900a5022b",
+         "name" : "Al Vigneto D`oro",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117773440146376657318/photos\"\u003erosario aprea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADJI38KQpYPF9l5wrsrJ2dChPRe_TVKp-lsX3L0Rwe_E6rM3mvD5M6U3kc3Ej-Wc4DVdxC0lYe1oX-bDSC5OKwIANTCf6whSUCGmIr9QZSXuro_QUzSQ50dnYkKw8DfXO07K74brD3vbNigVr1QKQLUXROkvFsDgyl2BNf5EiooAEhDNlpuBv_C-IXM-UxgNbtkBGhStcY2l2udtG6XaZMI7_Iu-ciCWVw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqS0yKwwIOxMRqoYgL65sj_M",
+         "rating" : 4.1,
+         "reference" : "CnRkAAAAZvtbVIGmNorG7OGA2pk95vLxS4C19CXAomLI_VCyNxz4u9-5dSeMd8Hm6cE7vn2sjYIhMq5sSbfXw-u4VvBKiGydla9e47baqmLVTLlnH90NaFuWcfqJ02oi839W18xURfnYwyEVihzyr9v8_QDF6BIQ_hZqxvU3LYtJRpQC8xrUBBoUzBSNBxvr0mS-uUG1yGTYcshMpD8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Alessio Mazzocchi, 34, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85790069999999,
+               "lng" : 14.2765193
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ab60ef6f3da66e56a616b1b3722b62f702e57368",
+         "name" : "Ristopizza Reginè Sas di Arino Ciro e C. - Ristorante Pizzeria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUecJ_BoIOxMRWlz4-Yj2sP8",
+         "reference" : "CqQBlAAAANEo-IiaOjDhn1BzyFCtBireZFdBTknpBu4kAzYEQH76xfj4bGM9bnK8ZsKVH9fZL2I-l-sXAWuOpS7hfuY3XSZBKcc_OeDAZv2HP1ZSmAw7WDu1KaY2KQiFfeFqMfErqdBvATPFNeQpqpyZOwyfq5koUM15u1sHfsIWmJya15Wq-Vq0yyX3McMQwfAg9lga0oTpOyo7H58gteED-aB3XR0SEI7H8HG73jlt9VLMPK3jX9UaFNIfcD7Vb7RpS4BOr-QCRxiF-b4I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giovanni Porzio, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86187,
+               "lng" : 14.28111
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "caad53494e5f11618b9e5d70e26a8515ed3f0dc0",
+         "name" : "Il Chicco Di Caffe' Sas",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 529,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102005922174856110951/photos\"\u003eIl Chicco Di Caffe&#39; Sas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAMXMLdIweH6jIKhfrUSIhhWAQdqCOGZkZh5f3dQ4PprO_cKHMrrLqZuz59pda7Syn52QIhvFNDyTErE1mZ-B8zPhZjH-5cYq4O2q4wqGFBQb0b9dwR-K2EMoqDkHd40_rsasoZB36UU6n018v7UcOXTyqWqsoNp6QuT9lNSq9CKyEhD8r3gaE2qeCOEFXQbjeLR1GhS8ESxmJV6mdGHxq-AivcvlZvYsNA",
+               "width" : 529
+            }
+         ],
+         "place_id" : "ChIJ_U-jnQMIOxMRT0stOT6aAQ0",
+         "reference" : "CnRqAAAAVGh_uCKQDx3XfHemueUZvCHYwYRPTHt3R9QKIv27o1ipRtNLtr1KyU-jQBERF6LoS_8hU9BxJkQ3Y2DbfrOsgOAGXNU4TlmOSGHKo121R8x24gkvuNXDOxVtflyuZcebPhcLf4sQZkAegmk87gFUfxIQutxCq1RIE4nvxcbR2wUXHBoUuFBnn04TrpmoR5I05CTlVUyZ_VE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Serafino Biscardi, 1, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8583745,
+               "lng" : 14.2817817
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "37fe68993d0dc659e1dc40b299601d3f57bfdf8b",
+         "name" : "El Cafe' di Vitale Vincenzo",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107768423070670763597/photos\"\u003eEl Cafe&#39; di Vitale Vincenzo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAEWPwJTdXeF1gApNsn3y1tsrQiJxJU9337-W6KY0pd6af4JCIUf_VCMOKf9gKtG-wVNzUclsEmOkIFkCsIjLimkTVtb24V64-MPnicY-18i_GdDHQ9OcmSV1IMG2xCKcF0dY8WbksZLqwbyFEhefZ32XL9fX6fnYCo7OTaNJoFKIEhCFXHtUK7vP2KM4fpw2Iu_fGhQMCgyBTwPUlrHl1LATW5dRLR0uvw",
+               "width" : 760
+            }
+         ],
+         "place_id" : "ChIJ9_osyBwIOxMRHfgGz1kH1Es",
+         "reference" : "CnRuAAAAuIPzB_43d53Vc91kn9Q-IjFQZTmR7FHU-vK3Wsb8hvhJRu0LIC7A85lQDQxCOO8HYmigOUTxVztWywUBYSDgY1FTnxuwqKZpmtnZepLno_i6shrk0Yx5RtrF2KGdvRAJQ4MJhMhw42lvsDCw1cTV7BIQWdC2MgTUa9JdRiwnIdO8sBoUSdFhwjN_AHaXkdhZuyM9ZsDViL4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "V. Centro Direzionale S.N.C, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862933,
+               "lng" : 14.285187
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0c5131067cfddbc737b6edbb35f21ba4386165b5",
+         "name" : "Blue Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103302485440795262446/photos\"\u003eBlue Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAC1IxCydZTp9DdfWh-s64KKkKCqWNsO5ccNHYGc8tUmtaobkAHiwAxtoyBT3kRp_G98w-k5uuEBkpHCaAdvKWQczgLJbG2u316B5kDVnMWleiATGenUFL7RZQoEuFLy41zTRr7qS70dWzq5hx7mX99Ui6KOYLVdAevDoiX5-psCrEhByQZboKHM0qMEJ2FF_TtYnGhRmayEdYsaqVNHbeC-ip5LBoVsdbQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJX2mpGwIIOxMRY1ZinwY22t0",
+         "reference" : "CmRcAAAA9IhYpntNb-bve6GCIUGI-4pWgD9uIVkU487L9J4mD1cnRsSOKGZV5q9oFn8h-jPKo2_d2YLXsXyVAKQsMGHmhWi8mKuNk7USY1Aq7ome0tU60uLri5hgU6PVzuNp1lx9EhBYFOTVqjMJOIhwYVmqwitIGhQP1h-eQfyYk6dALVI9NwpXqTeQPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Via G. Porzio Isola G1, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8621157,
+               "lng" : 14.266128
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1f8815ec8965f8d07e534b7338033602e94e8262",
+         "name" : "Caffè Vanvitelli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102166363341005512707/photos\"\u003eluca\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPpUlDfoVtl_9NF5Vpxg4im-dea8jBYZp3v066dYtCXA92McrkjzSM1Ydb-fqTUTs4AfnKIrCwJg6x0-U5xWCe-SZajlDcRwl-KUo9gZu8vRDGOPpkUCPyMIkMo2NeYpKXEx0jiA7yuPDhbABwpavVP1qGYjdGbVTSH0_JPbvKH6EhBq_aFR91N4kiVozclSABrBGhRe6iMiIgFTdVWfOI-6CyLrgRH5ag",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJL1JMow0IOxMRPtYCjVheMx8",
+         "rating" : 4.2,
+         "reference" : "CnRkAAAA5I_gIkOse_VaJYcXtQo84uuXRVYV9midfjeB4I12RoUqPDNJCih3Nu4MrSR1wRyrROBiGCj4O2KpxbSQd69wLHxXUrKvL2ULENS4ziVTtR6vWP-NelWkxrmeXZzeDL5VLGcBVrZXMKEI8pIHVVhizBIQl1yIGIOvqu8jMEkFZ1oOwhoUKJiB4wXeZlDOL1lznqfHByQw_h0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Carlo III, 49/50, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8648139,
+               "lng" : 14.2875216
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2d26ed96ae85ce4e74f9c53bd1c6cecb37f7c670",
+         "name" : "Bar Matteo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJL4Ivbf-nOxMR7Aif98aGgQc",
+         "reference" : "CmRdAAAAl-IzDmdLnfy_7DeV6WuuqMUVo4uz7JrKGjh3UUAge8ON-oqYzvkfGAx_M4jR9YDxHzs0tmdJnyNiylXHMG26P-N_VDzz1mwYNBs2wzhiWMw7BKhBQ5bvR6lP4QfyErzoEhAIOoBkdTmj6cXy-IwF-t58GhSHPCYywjWh6UahJO8x7IxCTIKxhg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, 5, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86303880000001,
+               "lng" : 14.268799
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d042f387f8221701d2b921083cb2d5fd97902176",
+         "name" : "Buzzelli Luciana",
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100751777611591258708/photos\"\u003eAlessandro Silvestri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABFahtS6fyTBdgoiC7Y1aVNlXyww1PR9EVLkbr8XSMLI0R5p1vhReS6wtw8Oz4dhFPI00OgRnY_yKSQY0BDxinop6GLH9I208NEb-sMljby82cF6kngaMyTVl2rLTWeENJqAeeCQedpa6ru4bQqRM1rtFK7ew0CXYegR5DTFhiQkEhDPl5bS-2aKocSgmwbOrZYfGhQboWOy4va9XeMvcXQg78BgtEIWmA",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJ_yBhgA4IOxMRqx57h8q4Xuo",
+         "reference" : "CnRkAAAAdSLKunTqXhS7-IT3OJruK48FnKrF9mDhodyA63BHZ8OX4zRuyRa-KlzJdjN2j3mUWmEE13jHTRg2zjKHB8Fp-plrvrTltVEfYbYSbMEPXRykiDFT-oThSsAj_FyoEL1SmCL6IJLaK3CZQtAWPk_VchIQax2-xvgU53PJ2f-Qwj5FqxoUnQy5cyR6fJtOoFn06Sl8faSQyts",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Alessio Mazzocchi, 27, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8584779,
+               "lng" : 14.2729253
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "669881a9a8649f1494ccadd1b88d96a720116e0b",
+         "name" : "Chalet Barbato",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107740440777914947846/photos\"\u003eChalet Barbato\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADjFHuRCVUv2YarzdNrLaKaYYnOmiFz0J9SUfJB291bO_BnXzbdRRlj00jEd8YqmB4Ig56OsGKTCF4clJv7or5IlsgQQctgaN0dQf85tGChqSgTLwvHG5tmd_5Nl4z2FRwpOaM3uIGNG76_HBIfqSRVz-WI8C0Tcb_bPcBgwZqOPEhDzG_d4wLIp3Zr4W4-akLU-GhSZ7F8Z-yRa1wP3WMSlj6LmU1ZA-g",
+               "width" : 333
+            }
+         ],
+         "place_id" : "ChIJYU9QrxAIOxMRvI6XOwU9Z0Q",
+         "rating" : 4.1,
+         "reference" : "CnRhAAAAQITOee5UAr5ASimN7t0O5z0xeRgef-ewkj_QXQBSECYglhUZW89CdMVlfXbnxPcTf-aVNBS5E9te2i_aYCaI-9JVwLUlXYhjl5GVDJc3HmyhSrEPOKoZAB4rw-4JgoSNXJoKbOkEI7VVqGi-TSmjiBIQ6N9qVIK8hhhE8gqtzX9W5hoUY7KezD6NWc8FMTXaK8YW09DdhAQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Piazza Nazionale, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8618536,
+               "lng" : 14.2778626
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2c2cfef2c6a5f2d6b96e0811fe7b492ef4cc0e45",
+         "name" : "Bar Fantasy D'Andria Brigida",
+         "place_id" : "ChIJpbtZVgQIOxMRh0J8ebep33w",
+         "reference" : "CnRvAAAAXib7w7gDzIF3jR844ObQI-Ckcqykul3Kofh-CkPHG4w9mIY1XCBQ9MK0iMPKtG7bzRCsX911ikAuZfGKFkKv6KF-0fbgN-tUMiSxuzoRFv_M-8i0JIOI5VdqeAOz4EhEmpiWhKHP9tFwSil4uLTghxIQtY7Dkwud2IjyOMhiwuTZBxoU1Daaq0btuNAcS1tExTphklcb3gU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Aquileia, 65, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8658131,
+               "lng" : 14.2752212
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "71a3095222d2237bf831e155901648940870161b",
+         "name" : "Le Reve Cafe' S.A.S. Di Spinazzoli Raffaele C. Sas",
+         "place_id" : "ChIJnYX2FwYIOxMRpJTxhTUaqY0",
+         "reference" : "CpQBhwAAAO9QlCgfwZZ9rFIUI4v4sVmkXflMzTV4vIiEA_hg_FAMbenNC75CSavgyu3AL9jMCjE50rKnpWvUQx5NmZHewZ_A3rTKjBAZZA3dQlKuHnORFHRTJjy9LX68J_woSXBZ-xOMwnulpSSRcdaawKcNa_fkgOjKZ9uUrOJzN2EqC1C7K452V28MN_lgWmbZjLSRBBIQLlO90WrlhOlCHtS0Tw9SbxoUl93YLY3iGNKR4iuEa3ql689jWbU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Malta, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86510610000001,
+               "lng" : 14.2732553
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "95d261435f7ba11d52ef502a807fd24692d35e05",
+         "name" : "Bar Di Palma Antonio",
+         "place_id" : "ChIJ_Yonh10IOxMRZObpp4rafMw",
+         "reference" : "CnRoAAAAik0rzmpV0lm_BHJqZcz8trJ9pnxePalOU5lJjdUpX6vyovvz5QMXOTp4x4E07uybDBpGsgU87-PgTs2Jsqw3_FTkACyNDIXlEPkkCGrkJoNYo7AIST3QXdHGKT5RkMZGYzMkva25ep6qTAIVNwxPCRIQFP-nHz2pQefskvdRbWTQORoUZXGAtDdslqcCexLtKEFFNzLphPI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Piazzolla, 28, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861073,
+               "lng" : 14.272211
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "812e08482b054b7abd7c975222f688573552b5d4",
+         "name" : "Forte Ciro",
+         "place_id" : "ChIJr5Notw8IOxMRDdXjQ31I_hA",
+         "reference" : "CmRdAAAA1jBKBoaMXBC4ew1LDO3gv_BuQz67yy2VxnGCuxhbbNmNW5UFirdXdYSh1B7mncl-a-xnSRVkVjA9b-f8MipwcYEVkTMzJJx2_P_G5eP1TdZZy-LTOYizERXiTzQr6hLAEhDBZ2o-W9wj05s2JP8_XSbhGhR-tjGTd6Q1PxJ2_Nyn8CU36s8JkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Ferrante Loffredo, 1, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8629601,
+               "lng" : 14.2712861
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "09e60a399abe7b1848300aa98616decc425b6bde",
+         "name" : "MisterPlanet Arenaccia",
+         "place_id" : "ChIJuScv-Q4IOxMROYPV4qTAdzM",
+         "reference" : "CnRpAAAA_QjehCzkqYyXRLBb3KHVCTNsZA46mpjHDPluThEod136SwZFmML-02EKQlwhVGEVE34MDXxuCyVlKFowg6HnGYUAP9Z4MlzZNQ-Ai-yC5xELnCM60T0Dy0XBxmOGavMngoQI2KwKeQK6M04qNpOlABIQXCNFB-9bf8fsz_-hg-BUzRoUvFRmmhi_geRUFAurOwKH206H--Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Generale Francesco Pinto, 12, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85896470000001,
+               "lng" : 14.2753664
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fabc38dfaa0c50b7ec662752e3499b2f14eda7eb",
+         "name" : "Caffe' Max Di Battimello Massimo",
+         "place_id" : "ChIJdeaeuhoIOxMRFf3Ns70ertA",
+         "reference" : "CoQBdAAAABbbMTMlsfhXXIZJtZQu1BleBoGryzGrQWROUY0fqmKC0aJX6bg_b3poUt6iLjT2yevw1Sh4b8pGwGDGkE5MJr_TdcAW6alesgO4RtPI-KqLkE_osYD495-97DIzOoMB3OFAILBADgwohxgI9Ps004cDg_XT0kC-TbQwWdcIk5gSEhDlF9BCIeox7fE264niR3B4GhSqh0oqb1ENktaaFANWjsQG9uENbA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Nuova Poggioreale, 43, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863252,
+               "lng" : 14.270783
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d12ba71a9592072ae6d9706fd1a17aeb8cfa548b",
+         "name" : "Gelateria e Cioccolateria Crema & Cioccolato",
+         "place_id" : "ChIJA7Vs8A4IOxMRUVpY3rfQDBs",
+         "reference" : "CoQBfwAAAGYjnS4TjsnsDICcXbxBKTPlxfo9xGcM6D0RTOZhZiqGldybN90lrrs3tdBj8VF5Z7MbtidsN28kkuVl6rKzMi3-UI0aVZyqZDTEnoH2Q9DWXiWPVwVDhBopOOW2ogrQaPWGRTme6ggfqyAB35-u9zVazsz_UNDVAk2FZTeVPb2dEhANLq2QQMFkrADlllVcT_eqGhRrk0S_nm6myqcOsQPCc9iT5rjWVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Colonnello Carlo Lahalle, 17, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8589625,
+               "lng" : 14.2740758
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5a69314dacdba5e5b7a570f0233a79cd1bf45f1a",
+         "name" : "Bar Sabato Concetta",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102166363341005512707/photos\"\u003eluca\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAADMgRkiHBJJHQ2qijqTkDuHCTnkFbXhvfO7US6WWgV7UWuNx-mCbtO35HPxsjmKBU5B0TN4Fj3NyRzv6ahef5F2gx2iDa3eGCe9U3SbeXMyAjxRCADJm_vr75jWwEJYcG8TcVAeI5Cz8b_SHsRiAa5JD1Mut_rKuFGYkdwGQVLRTEhBK7la2xOaPSo6JFp39YIchGhRVK9lZfhjMQQ7pVoXutfudZ0LZhA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJo8a6DhAIOxMRELCdG_w6dX8",
+         "reference" : "CnRmAAAAI0yjFbthbyzrelJUmzO6NlRRN8ucox_kF00fZUd1ZeuSmuOEP4WKS7rR9GGmQ1ovIgYgpSFLaXTPevBp4mGliJbO0TkcyQOM1Ki7T7wHMSMJWERxuqQUN5WHVbdGHDElq2T3rAexHf4QC1aFz7JZaxIQNq5EGfh3PLZfrwyeq_3P4BoU8B-cb23bfePZe8MJV1ZjrqyTHxE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Nazionale, 47, Napoli"
+      }
+   ],
+   "status" : "OK"
+}

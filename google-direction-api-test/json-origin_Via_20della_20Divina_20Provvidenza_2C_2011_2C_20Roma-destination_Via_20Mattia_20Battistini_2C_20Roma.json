@@ -1,0 +1,228 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJSTfFL9fLxMRf2HENzLluW0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs3hekcpfLxMRxwnXY1Pp8Cs",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9138511,
+               "lng" : 12.4187916
+            },
+            "southwest" : {
+               "lat" : 41.899416,
+               "lng" : 12.4136219
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2178
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 360
+               },
+               "end_address" : "Via Mattia Battistini, Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9138511,
+                  "lng" : 12.4184329
+               },
+               "start_address" : "Via della Divina Provvidenza, 11, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8995345,
+                  "lng" : 12.4136219
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e toward \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aov~FcpwjAT]"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8995345,
+                        "lng" : 12.4136219
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 548
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 41.9035205,
+                        "lng" : 12.4163809
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia di Val Cannuta\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "knv~FaqwjAgC_EoAoBk@aAKMIICCQGK?K@GDMFs@^YJSFI@C?G?WE{@a@o@[wBcAw@_@i@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 41.899416,
+                        "lng" : 12.4137674
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_hw~FkaxjAAaAQkJ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9035205,
+                        "lng" : 12.4163809
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 41.90393359999999,
+                        "lng" : 12.4187916
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "shw~FynxjA@m@_AE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9036193,
+                        "lng" : 12.4185299
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "19 m",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eLargo Gregorio XIII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qjw~FmpxjAIj@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90393359999999,
+                        "lng" : 12.4187916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 423
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 41.90647329999999,
+                        "lng" : 12.4147121
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eVia Ennio Bonifazi\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{jw~FaoxjA_A~AYb@uBnDa@t@sAfCq@bAyBlE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9039839,
+                        "lng" : 12.4185716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 937
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 41.9138511,
+                        "lng" : 12.4184329
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Mattia Battistini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mzw~F}vwjAK[_@uA]aAKWM[m@aAoA}AiB}AqAy@_BeAs@]k@Ua@Ok@OqAWuBU[EoBUUAu@A_@@uBNO@YDG?oDD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.90647329999999,
+                        "lng" : 12.4147121
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aov~FcpwjAT]gC_E{BqDUWUKW@ULs@^YJ]HK?WE{@a@gD_Bw@_@i@QSmL@m@_AEIj@_A~AoCrEuB|Dq@bAyBlEk@qBi@yA{@}AoA}AiB}AqD_C_Bs@mA_@qAWuBUkC[kAC_EXwDD"
+         },
+         "summary" : "Via di Val Cannuta and Via Mattia Battistini",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,392 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-QAAAFR7ox0aNF4WVE0LvNM9QNK0xf62QxInFzW8IaFrFbz5QeTR_FQQdMPJ8FU4_fu3GifrWjHhAqPBVCe9AZEKaK2RxkTpQ5TI_CKfwqCFoR5ehEoiR9Rq_cOtI8gCyxcZiVqpLfkCS-r4bE6NVFd-bGY67N2dgM4PqvwLcb_CDGx5BrELPxsRDfXsowHHONDVHz9YABwbQbA-GOL1FfJE5YMnofsgAK-Orvay-2YJG2gOHr5qtVgKcQUh-BdD2EKoO9NrwYIzJXnVfOvCFBzi05HkS1gNNWnta5L1DAaG57OHlMl1kRr3bcGGYqQGfTrftD7eu1uJ-0kjaLAvnO7qSaASEKYQ4kkNc3kfzjUHMDY8Z7waFAjTJvmMIDw8uj7GyjsroPPT0ycm",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4666905,
+               "lng" : 9.198146299999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "fabc9c1ef21e2b84a4953a65a387b653c9a8e074",
+         "name" : "Intesa Sanpaolo Spa",
+         "place_id" : "ChIJW25THaLGhkcRjAxPvjoPERE",
+         "reference" : "CnRmAAAArt_tH4Xy300wJYnoo87vnsNiYgpYrUlzp2tkEfJHdncsMHu3USHQBtqNWlAxgQGHiytRiPcfrM0gwZ4-MPtD5YfKWdJcCnqt8PYDE4N092yKi2HPKXqu7ad5BFwAPcUXp8niT0AQGrqqpHTRSPtiRBIQhzzc6eXT0UNSecyvsUCj3xoUk6TE2GDbqWv3_k9Mux_atfRlU84",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Monforte, 2, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4626291,
+               "lng" : 9.1974354
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "68ffa0f0eb01078aa974c0c7b6f317ec217f47ea",
+         "name" : "Banca Popolare Di Sondrio Soc.Coop. Per Az.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNzsHogLEhkcRm-It9sgOspM",
+         "reference" : "CoQBfwAAADCGZGQGazpsE5PrMBO9AjftGoowvWGqC9sJXLPSa6H1HqxFLN04U4Eo8z2oQNdc-A81nbsxBEpUdoXUFxR26dDhK8FKh6ONXeQ72OGyITqa0oVU7X0gGff27ZTb2yQwjEJ_SzttiIyHbsk6gqiPWmzcJTMZOVHnOSVnW7k0S3xtEhAmAmxbfg3cBMtOFnr3OYAqGhSHWFuo7fSbOq9ZEU5snODQlOkskg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso di Porta Vittoria, 4, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46359409999999,
+               "lng" : 9.183582599999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "4af8c0e071a98de4c02b0a89c3d187e925619d61",
+         "name" : "Banca Popolare Di Sondrio Soc.Coop. Per Az.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJC_UUrKzGhkcRXS5NR-kgcIo",
+         "rating" : 3.9,
+         "reference" : "CoQBfwAAAA3z9qVFlDHf-Us8CV8dWQ1cpANqRo4aBrKnJ4p453s4s3oL9v49VNuOdqOJk-dELFyexMlyDHIBDc7gDl0IvrN2aX9WB9tduvQcAsrymi9e5mDushBYw9hbfIExawsRCC5U47cZYyLZtC4ix4kdGBRVJygQXIU9r6eu8GPBnuwAEhBCy52i6k9soaEmQqtW0d2_GhQN450bBqWoGdQLigPsHjZzKz_wIA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Santa Maria Fulcorina, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4667287,
+               "lng" : 9.1832811
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "208c2715dcaaaa40f076ab227d6c2108b45203b5",
+         "name" : "Banco di Sardegna",
+         "place_id" : "ChIJYakqwVLBhkcROweWYGXNjq4",
+         "reference" : "CnRlAAAAGBC3NO3DVRzYxvLSjKAmmRqZ6DHQcjsOb-WxuB_mOwa6Dcf2eq3RU8r8k_wMonnYHuTgB8XZ4PBvfCMr2Q21TmvDYKdKm8BRSQWDdMmW65B8qnap9DelCFv0c5u_JGiHPOmyONhMvMGp49laLwAgoBIQ950fpVgGt0kgZvKEBAMvcBoUVc4ngyMKk3zuh3YMZH5On4_WcXg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giorgio Giullini, 4, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.462149,
+               "lng" : 9.188632600000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f4c0edf8c31c1f021764406fb38697971537440a",
+         "name" : "Banca Popolare Di Milano",
+         "place_id" : "ChIJ49LO_KvGhkcReWZdykMWLow",
+         "reference" : "CnRsAAAAkTF0fyOVepX4j1pTlXZXNLoQdXTCQK38AdwZh98fiMZ9A8eeCrxLTMbLI8_Tbexhp6XoclFpfjFkIqK72ALTDD-MYsQ81QhM5QkAVdLfTmFSax2ERN8KHBnmdQfxXmOQQhoZGYG3ik-cNakbBocZKRIQOaSY2bJ_aQNpaeH3De7acxoUCxzGudRYyQi-1FOxpibNmGNdgCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giuseppe Mazzini, 9/11, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4694113,
+               "lng" : 9.193492199999998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "72263af6a6ac2a72bb65c51f50b15645dd4e0dcd",
+         "name" : "INTESA SANPAOLO S.P.A.",
+         "photos" : [
+            {
+               "height" : 1932,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116312600084604741552/photos\"\u003eSerkan Girgin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAERxkBcqaPJDosUECvRiSXE8Yfx42creNOS31ZVJ0lqZKpmoIPvJdVI1N_NIQBTtqd3N86Szlk6mLyIXSV5g7PIW_D5crzQrbMjqtRgqot1IZg7hXLofk4pIPvKGk2_PFO5A6pAeiE5MoP4Db0SI1wfkCAh3x8ekTf8Fi7bvV0TAEhCHe22HqVXrHsHc92R2mC1DGhSMuoOH7MpO7mjOkL0BmdeuOErCJg",
+               "width" : 2277
+            }
+         ],
+         "place_id" : "ChIJQ8A2CLHGhkcRLz5kEF49tnQ",
+         "reference" : "CnRpAAAA6dyWdU0k1o-Pk8SgFC3BvBPln6mpRbmjHA2A7XO94DguFmDnbsA-V8QlYERi2IkiFzikNLRkp5HOcTzLq_4tizYXKALdgFtxZnqFcvLPODvCN1ouzq7EMaOE2yyU12-TdZVPoFUGysoueVGHGoocXRIQLoT-O3gPeuNtnpfobelonRoU0KehjISu-0inbg2anzahZGE3j8s",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Monte Napoleone, 27, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4661444,
+               "lng" : 9.1859676
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "cdafbfca679d264ca599ffeede5ae5278cb5f012",
+         "name" : "Kairos Partners Sgr Spa",
+         "place_id" : "ChIJV8JDC7HGhkcREDlZZoLuyfI",
+         "reference" : "CnRrAAAAcCmUFbKGyYI7eUcFEsgU4PO1iJqh5uebVA2QJXEw64sz6Nv0_NqNC7KlA59jEFG5XR9Y3AlnKHk5cWgI7GmQNlFBK47GRreL4rE34RLg1Cu92SgsvpZRIMk1vG6iJphfAP6NaE1nzcv3486uDcd6kRIQ3n0x0zacBsNtee0u6isy8BoUasSNFv3BQ77v57S40hWL-SUCTvM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Prospero, 2, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4671466,
+               "lng" : 9.191629700000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e9c20545871b87347600e55c453108f0311c0b04",
+         "name" : "Banca Imi",
+         "place_id" : "ChIJj1JjHK7GhkcR3EGDdpGLIMg",
+         "reference" : "CmRdAAAAO7G_gm5gdbsYq4iAHQbN6z5W15AB7z6sPn7ry3UbyZg_voE-ywvUoS3bpBJeM7rC0Xq2PVWzsC1RWYZ7ELSmshBixR1M97XbSSPKCMV3fkw-ErSOMQwUz7Z39Ku9u2VJEhBQK3McZeQDh3C9bwpfImD2GhR_BQvW6VU8i1rWvOurRb5gpBk-bA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "L.go Mattioli, 3, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4668127,
+               "lng" : 9.193539599999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "22aa3ae776a271398a48553650e67103075b6070",
+         "name" : "Banca Popolare di Milano",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103329303303461947638/photos\"\u003eLeo Ole\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAALMOmpUEroost1mKBsiKdjVjGVdYSQWeMquhW7I0EJU8cXnHy70SmplAUlNBu2RN5idov9vBD3VrOmbyw_PiphQsKOues1hFgdw1CRK_uirkrbBryKXXqL_mtHuKy1nsehz8A-7tsrkxiek_8XnnelocAzSM7beJ0c289bgFHiyYEhDJA3lpPmzi9pm8z6_QHWgHGhSWhmi-EViGyUjGdEOgRRZEJIBzMA",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJP00V1a_GhkcRDInIJ5LnlfU",
+         "reference" : "CnRsAAAAM9q9aKjj4czm7StIubopZ2eMCYEBen5hsvjfOPvgGP39bthMlEwrpiKurgY-D6HolH-kDEFW1uSvbblOq_-V-yND1phvz178XLB6Rzt9N54d136BVoBUI83ahsA-nPn673iTMatdz7XKxadPYzWdahIQnTwS7RgF1V4Txbw4bK7XfhoUQkqGuWRrL8cL-23fK4K5MZbpS_E",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Filippo Meda, 4, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.46196130000001,
+               "lng" : 9.193636600000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "4c21a09737fa71b0cd456487efd2684c82df2c7d",
+         "name" : "Credito Artigiano - Agenzia 1",
+         "place_id" : "ChIJZyKksajGhkcRaPsxt2t9k7M",
+         "reference" : "CoQBcQAAAPrGvHpmePqjM3V8e0bXAoD5dN-bu9mxOQz74AtEVt_Z9Yq5VdB7HmPLlugYT5Fzo8ND_yUpWPgOJMb9RLiiryW01bt8S1yiaXesm4BITbx3hci24x7KgOwM_ZlSbzpYXdyynyaMqArGEUJ6-PSe-7Lloe6Vo5TCEkT6lON0NV55EhAHahZeSn1ot7QyfHU5uVtvGhRIhCGT7IDOPiPd8k9K5l6OgaVGzw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Larga, 7, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4641735,
+               "lng" : 9.1842633
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "0f7504b3a626a24882c24633de217cf2bdb4a7d9",
+         "name" : "UniCredit Banca",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117890640257775445927/photos\"\u003eCarlo Giovani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACGUlqVF07F9Dz7WttiMjymLYH-YnDorhBJhG8vGQ2lSvQ255XfeMvPdggswyj1vimS-ec85zlHw18IgPwbPVT14_BO9MsfZ9YCAUwJSxHKk5xqCnKcunPxnpAjKrQIfj_kmwjVZAYFDMbvVy2j6MRQcHTDn5cit4o0HabgrdcgcEhC1jvWajtOhLmbj302McTVZGhQIB9C40AZapy4twvLGT_NBrApAGg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ-8FEpm3BhkcRUv9Ihkqflqs",
+         "reference" : "CnRjAAAAv8-L8aLwDJBprDoVqc4pky9lWxoj8aVAsj4dmbtJMwIWTEFtywmdQmxN4A7HF673xeypBQZ6xiMeIQoCbUMJBOXoAemHe2oY4eOj0X4NQoom_s5Ywoq8vAqMJS0E-msW68e4Q47sC77pgi-_Tz9dIBIQ97SDlMn3Bk9vNFL7vzI4PxoUHNuRHaQ8aaufZjh5lcjgFZxmods",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Tommaso Edison, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4656712,
+               "lng" : 9.1831564
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "d821d8ffe0a7738ac9104897d7591632ca51dd41",
+         "name" : "Intesa Sanpaolo S. P A",
+         "place_id" : "ChIJExkAXrLGhkcRcJpsmRosKPA",
+         "reference" : "CnRqAAAAzX41eMlEwJdQfHc0qkJktHOXmG9NOKQvEu2NNhtgi4x5f7DQFpMFN_iSJA8AhrUBPOmFLQPOkK27lz78PiPe93o7eEsDqKVK9IYf0j-ekErAxNk3kJmMx28C3YAd6hISKixr-N4DP09oSnHqAp7eqRIQ58Szeqgm29ShgQdBRdB4MxoURn7gaMZfVpigD1Fo3BVYiEmz9tE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Meravigli, 9, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4676348,
+               "lng" : 9.183324299999997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "83428bc0e67d6df00e4625b46190340c67abade9",
+         "name" : "Banca Esperia Spa",
+         "place_id" : "ChIJpbSSnFLBhkcR1iMMqo0FfUY",
+         "reference" : "CnRkAAAAzDA4pzJrKwhWyruYoCtsJWdG2H3EKbhiR0KTGNgijdJbbyVG0WkqeUDERvrj9_RDqDco8xSSuzq2vNP8AplIBVVrx4S3A2OtwPlrLUR2yCK_XgpUmo6WQdVutbey9Nu6qPvS4wIC-esRL9tjh0HDPxIQ8nM5pgNSWyVyAB_kCw5FZRoUBE4cxsrPWlOTVQSdWDlYV9-Sfrs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Dante, 16, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.469765,
+               "lng" : 9.190679099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c48585c34993c045f76edc9544e97a6b72b6d0b0",
+         "name" : "Pictet",
+         "place_id" : "ChIJ6Qck07PGhkcRjaNYk602r3I",
+         "reference" : "CmRZAAAAb-cnqrvMVHyBph3E1pjoy8q2jliUft2xeQltRCfR_hXXIipwpb86MFWDm83X4L-LCprId8XubDGBV7pP927nm6CHtrwvB33vtjvGb-5K8-Q_hyttDSDVdImpXAy6Bd92EhCME-goqAeFW6pjgO8uTL3cGhSfxLMSNXClztd0Tb84KyRUnVoLRw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Privata Fratelli Gabba, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4649964,
+               "lng" : 9.1978355
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "b603e8ef28702b1b014c68282479c312ee9a628c",
+         "name" : "Unicredit Spa",
+         "place_id" : "ChIJ85HfEaXGhkcRMAe-B7nk888",
+         "reference" : "CnRhAAAAO7Xi-51PlPUor7ssHXIgLBsfidysICPXvj7QnKYypQlmDQH_f6Ir3ljrN35EgIAz2gcHI8b3yF0asHavAB-BQfHNHNqkdWrD8Fx8wSGzX4d6pbdWN2fFN26dRCFJR0iSL9mdvzfXJCWMwSDCut5wOhIQxaX5hN4OUFO5zkSFxTk3-BoUtKhB-68ka_71gWQrymUn3qkwxsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Galleria Privata Strasburgo, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4688975,
+               "lng" : 9.188671500000002
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f3fda0dbd2fb05aa59ec5620bf7085896901bf16",
+         "name" : "Intesa Sanpaolo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109074424168189742520/photos\"\u003ePasquale Cerone\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAPou952HAkVCqT3Ne-Ojks3nU2VJgZs8MMrcxOHRrUCxP_zX1jSOzmr3_ztiKs0M01Srn0rHqbfPn_LtpjYuersVpOjClalT7pIMxFGIprsyLEsdAvP-_xkhwoX9ksKvgPEyIS66oiIYpwPuxq5qMcfuMTv0I0gw9DFYU12pa454EhCpjYHpQXkZMjEmYhQOWIIAGhRV_N6o5jVFabeUBJMshabBQ6_79A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJc0qa4cbGhkcRlsdmB_7RZ2Y",
+         "reference" : "CnRiAAAAEqV3BLdiL5P4pq1g7gQnWr8iNPAeNV0U86s7cVH-XSCj3yV8D9M3e97LPe2OCCT70PcV6a26OZlk888DF3QSmvQqYD7M0kSF2gnaNROVxcXXH5vbw3BPr1U4oRNCKwReWTg0vaJnj20j4azre4IV2hIQOzDlAeY7pz-nXlaVA7fiLxoUJcE2ckcjvA-54EBMtfrgmmbZByQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Giuseppe Verdi, 8, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.466142,
+               "lng" : 9.186095999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "a3657bf2924a5f3a0bfc616a586c9cc8eb6e0943",
+         "name" : "Deutsche Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1wZB4KjGhkcRzMk9uetLLqw",
+         "reference" : "CnRhAAAA9KK8zDBQObpqnL_EdMkWn1u5S5vpllZ6xh-giw-Eu1Kl4I_5ROjAkROvIiHK5Tuklfe_M2ZYRqiOiK6DTKMUtmkbRiPNWlzE68DgKEfr8mcsCA3A5xFbzo7GD3JBFJcSfY3olLDrmEPtnn15x9EYaRIQsScqKeS3YCgLAK30QFiW0BoUy4QeiXtDS7_VVlH6AM7tHLyoc5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via San Prospero, 2, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4668322,
+               "lng" : 9.188602599999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5ccea8e8493146e636bd4998205b21bc0713fe73",
+         "name" : "Intesa Sanpaolo",
+         "place_id" : "ChIJc0qa4cbGhkcRiFZjPQ9Sex4",
+         "reference" : "CnRiAAAAB2eHZuSrwdZkgGQY2VEbJBT8gwadTFDnF5s8TvcYLF9xhI6PFTfxYnH3jhuQ5mmZZpTpizkJnlA22D4EwLb_dTYaOA340uRJWbLqjRNmcgXlmhFri62cLI8UfAQKuAACI_VOmnrg0nWlk8f4YO-6uBIQSI7tb_fk74L4-Qq6pUie2hoUg8EDV248B690r5VHrnJMHU68tq4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Paolo Ferrari, 10, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4632645,
+               "lng" : 9.183060099999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "51942f761f49dc3f09c7f302cfc8ba1c8a6ec6d2",
+         "name" : "Banco Di Brescia Spa",
+         "place_id" : "ChIJfRMIqlTBhkcRU-j4fsr7Iw0",
+         "reference" : "CnRnAAAAfQQkVtJqH42X9i3Z0WEMnrYnc99JnZDu3tqdmw17gHL7NAAQIGsSYWJ3wzKX9ec2Q3P8-PY5uQRnlGUHIwn0X9hLZGLw0nwoaRREEH9E0IjZ5LBKxSxcGzKkI-oeWT83NneoyaBqdaa8T-psGyYm9RIQR2eQnMCEP2Ps_tBEYigyshoUsF-9O0-KeJVOozxOSausshs9pn0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Borromeo, 1, Milano"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 45.45743179999999,
+               "lng" : 9.1915496
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5c24d7864089098466fa8b44284d43af21650f0b",
+         "name" : "Banca Popolare di Sondrio Soc. Ccop. a R. L.",
+         "place_id" : "ChIJfeX9EaTGhkcRvstSElxpqMs",
+         "reference" : "CoQBgAAAAHlGjr0SRvLqEacETtwgqMCFlfZyvnadpArcyjRqlKbxkwkoUhfmcFnJcfxTMyKjHg671HtapuhnxAyv86pokCatObvuYFc10NkRiLOYcNZcS3nHZRFPbIAx1iD5-ACda6z1MPb06q9U-lm7mKqrEf1TaqY6ugnTlrZIEZjx_KgSEhB7Eswci_gkALshM71HgOZtGhRNhaFPw888es4DPJRKNHYheJOPIg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Privata Cesare Battisti, 1, Milano"
+      }
+   ],
+   "status" : "OK"
+}

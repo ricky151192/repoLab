@@ -1,0 +1,228 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8520779,
+               "lng" : 14.2500288
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "11472cd1d670da1404c721cf7ecec4d812d01f9a",
+         "name" : "BANCO DI NAPOLI S.P.A.",
+         "photos" : [
+            {
+               "height" : 3216,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113714214615144356610/photos\"\u003eLuis Cabellos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAIzKKB4TXR50eii3t0GC_m4Dsu_hpowo5-zpwsV6O9Vi-pB5i2YH6m0wTvtw8dpBH5LCFBhlyI1SUIuUnAv6BYq9FsV_d1At0507PvCt-hcOEyOL0H4j3xXWcEDrPUel5wSM7_fIeV1XuHEqhTSnLxUOBlQT4NI0ytkAfS8Cmz4mEhApGwpZLDDXbqikeOTxS1pmGhSBJOdm4InLGU5Gug0_1_0zfdeu1Q",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJvYfj4loIOxMRyf8Mib65BCY",
+         "reference" : "CnRpAAAAsK992ToaPwLdL7EQmZTpLyL-tEsWxwoHsJ-bcjAmQJYgCZ7FUJKESt6uJ_bQctBrlfCEtvGTjKftons8K6vTbIxxTCh81vfyqhZxmUeCVOVOHmr7qtakd7vrGSilsbezOIki-TvQ3C5WoXkH1_UxABIQSYHoqbqs54lr6cHVWRMBnBoUywTx3J1b3Vdfuc57FhZp5GV75DM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Galleria Principe di Napoli, 1-4, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8516578,
+               "lng" : 14.2501423
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "956a616ee3141f1017b1abd7db7e33a62f73ad53",
+         "name" : "Cassa Di Risparmio Di Parma & Piacenza Spa",
+         "place_id" : "ChIJK0_7Pl0IOxMRyI0OreK5Xrg",
+         "reference" : "CoQBfgAAAGy7bvFw4UAXZIzb6EhnKlR5UbTdpDyb8OMIRu36cS6pXbCXg4kEMeQiLaujhzODXgN8ap4rNeEXh8iieZtUSrNLem3YpklrzBtgtVPSBRQICp73_ZosuG_U0X5yXDdO5cjM5UN6EDEdmN-ZZoKybLik8Ga-OLYUsmwSS48o9NbNEhAmLP0wBOHh5NN9Wa7Q6YJXGhRcg01Dim36SdGpJZs-Q911T44MYw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Enrico Pessina, 69, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8553192,
+               "lng" : 14.2375371
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "92190d1a995d576d64950bf662340b749512dab6",
+         "name" : "Banca Popolare di Milano",
+         "place_id" : "ChIJnUbmlVoIOxMRuiXAJnSY0b0",
+         "reference" : "CnRsAAAA3C7JpFhfb69MCtoyki0NSvpiN-hhVJFvoRg3OWsnYcSYJb0XpsimKBPPzCP6K5B_fPkr0goo8rwezciNWn_zpXXa4S0TvrK-eY3NfCgaIyYgccE9uWKeBe-cBfmnJ7JmE-T4J9CxAT9S6oOcHzFC1hIQTDucgIBdKIvngvUiyeVoUBoUQSns_D_6nTEslfWUC-ZbPS-PUUU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza Salvo D'Acquisto, 40, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8559089,
+               "lng" : 14.2574532
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e79d988d165f09efb464a1296db2d3cf1a96a1cb",
+         "name" : "Banco di Napoli",
+         "place_id" : "ChIJvYfj4loIOxMRxHS5SfbD9eU",
+         "reference" : "CnRjAAAAoY5kcq4YZxfNKFLTKlBkADUnKXlUlsNqsuSTmocmRGVZs7zjBWtxStN1g5DKXQrPmVmEZEb_3jIgh237Oap60QOvB8zjwu7ivOAfIWSlDtUCUWeKGZm6XVjCIdAiiYoiAB_Yq3PehVcbbG1fNyAr-BIQLrYDX6ekxHFgfajYTc2i5xoUU8Cy6wxiyJct0oyVPZcrrmC2Gio",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Foria, 34, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85298999999999,
+               "lng" : 14.2479
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "7ebdf088404fa997f8aa4017571fc8b1b8b8264a",
+         "name" : "Banco di Napoli",
+         "place_id" : "ChIJvYfj4loIOxMRieXXoF-zRBI",
+         "reference" : "CnRiAAAAOfgc8CB50cV89WLWThThne9ZXRXV_7I_PbWLY02uS8rxvdpWHVj9pYIcnW_oh8nPXOx0yMy2p6DxylfSYkDsxs8v1Lws16cy_2IoNSORxCZ36vjwlSl3olsufXXWmJcJ1R5eY9zmq83int_Ouj33mhIQAXz5uxfs8hpU9-Ebsx-BohoUTpuabKaGMirhNAqglnvuHYmp8KA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Piazza G. B. Vico, 56, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8515863,
+               "lng" : 14.2422705
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "c39c493fc588b13a6fe42dbdec5ade41ad6e7154",
+         "name" : "Banca Popolare Di Ancona S.P.A.",
+         "place_id" : "ChIJf6BMql8IOxMR_8f08mdIcsw",
+         "reference" : "CoQBcwAAAHSExgVdMUvjT70NiIXA_eWso2Gms907OSbDNO_4m0DISQyTHy3KONYo7wMxJ3j1Xt9Tl5IS3nvwsXIw4y6sA2Ejpx3ghCiYZrUyTe0-lrVZqiGqa7Aa83chnVn5t6-kyGYXz5n6z5RzCsTR6fNiG1qWyOFJfOoB3DCodJG3GAlbEhDpTsyhtLcrVX590bMDM7eFGhQNLlGqXfms4edkrVb6jUn847oCeA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Salvator Rosa, 254, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85495590000001,
+               "lng" : 14.2442507
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3ef704143fecd1107be372be8e6f3545dddbc9f4",
+         "name" : "BANCO DI NAPOLI S.P.A.",
+         "place_id" : "ChIJVdt9v2AIOxMR4YKIDNdy03E",
+         "reference" : "CnRpAAAA8kDbrJ8FQl0Eg_uwDwSbuAyCIJ-vxAxWK22IIE2DINVSdFvWLhogB3UsUYtcybCbOAeD0JmBXWiCS8ZGWl7EPh048eHFudpohXeirM_kl4XICOIipL_L-VapBVvHSah9Olz3j-R_cDArKyfgPqsI4BIQSbvpkVuk06gUVKQ6_kYfoxoUN1TJ6MR6ea3z79CTQ3m7wVxmsqE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Amato di Montecassino, 10, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8510167,
+               "lng" : 14.2423935
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f7edb5e439b80602be2b5f1d671824f392475421",
+         "name" : "Credito Emiliano Spa",
+         "place_id" : "ChIJtWlTA18IOxMR1Mk28qxfMIU",
+         "reference" : "CnRoAAAAvnhfnzOBz3wDVQiHidArjOymecLvsWf2oPEEtSJNdLkKdZao2f9EbUXoX96wSHCPLCjh_qP3k14jT_a8wWpb6rwSU5RPy0Uhz10-Ku3E2Lv9-ge25lGj2ZVV9hwECPAkLcon8sVB3tZjqJPtBlDymxIQoeyORvq7AVrtD7cbSLW_FhoUS9D9ev4koBv_JcKgw5Q1o7rz6W8",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Vittorio Emanuele, 487, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8642611,
+               "lng" : 14.2483097
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "9fa4ef65e92aab1a1fc6231ff20225b16417b3d0",
+         "name" : "Banca Popolare Di Ancona",
+         "place_id" : "ChIJszs-K2UIOxMR5DNlQ5XnYl0",
+         "reference" : "CnRrAAAA8LgHs-y8_sRUKciqE9zgInnqSAqFEubJTfmbZ6mC1WeOzXGiOPcoR5-kUkwVyympMU8fj7-3qkh6F_Jd__fweS1TACaExBLEa6CsdJ-Qqj0aNBXAPFvsVgX_2tHgEnNHQbcmR00feBVrG8ShZapj5hIQORG6i_9Kh9vvTzR6dJlIyxoUUDnQALB-txQ1zU6D5ck7cxA6tm0",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Amedeo di Savoia Duca D'Aosta, 243, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8556464,
+               "lng" : 14.2572069
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e8701395609fe5c00479e872ef65d9d91602c29b",
+         "name" : "Banca Monte Dei Paschi Di Siena",
+         "place_id" : "ChIJo3JK3msIOxMRuBLgT1E8QDc",
+         "reference" : "CoQBcgAAAFwadyPQ6_kytL96SRwZJvyh4LgLoiNV7ksHy0V4JG5c4kvBbrPyr_CtZ0CfJ17g1Uo6vGG79rgAegGU538pWQ42nbLpEj0zgudg4sZvQaIcBn8_dGSZhl1hkG81z62Cc6ktm_YKY2CIlq0-6tRdXt2LtdgYVttmGSJVh7XthikGEhAf8zRRujezGyjp-dMyec55GhR5vhtM3Fg3MTYg_QczcvKWMqJJlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Duomo, 5, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8510167,
+               "lng" : 14.2423935
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "bdf001f3bf9489da2c71e5f9ce51e75326c5c7e8",
+         "name" : "Credem Banca - Napoli",
+         "photos" : [
+            {
+               "height" : 58,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106461659599372784520/photos\"\u003eCredem Banca - Napoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAADWpZVSQXC8KjsqIgcNls6X8HtvM_lKBplHYx-ZX64lqt7wPmA3fGt_223T233oUnWpd8qBXvGKx8FRONZM4If0da6jUB6v8qystwPs-DQnp7EbMiShMqAys10IVgq1XfCG8roOI6IfgNcH3Wr12VtVOduqdi2k5528uV-IfGBD7EhBXMaI_4YqFIZVOOsRHWBX0GhTp9Rf7p7qMJqaYEQFUBsZFB3BwoQ",
+               "width" : 116
+            }
+         ],
+         "place_id" : "ChIJuyY1Al8IOxMRA_R29Mqxuc0",
+         "reference" : "CnRpAAAAHkZDPNwu7S-NzUOGPHNO09BJ8ADI7qOyjtmTxJ4ILJ3xgCQHVpVe1apjEO7EtCoO5XpXzo_t9WgXlhUA80fxpUeTvGznt7EJVbH3l-WaJ7eiZ4uHx-7skh-TI575z1Y5ZUa-Fwy1FdXYw3c5arJ92xIQCuft8uQWENiXxXh7bMpK9BoUttpNOGrHY55N3sNTrc_4uI3ZUWk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Corso Vittorio Emanuele, 487, Napoli"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8559793,
+               "lng" : 14.2574029
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "be58875d17cfa3c8eb0ee5292d8009af38857be6",
+         "name" : "Credem Banca - Napoli",
+         "photos" : [
+            {
+               "height" : 58,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105942237046506984233/photos\"\u003eCredem Banca - Napoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcQAAAEbYEX3CGFABZUmDiydRsLttNX7pPNPqFMzZhUSyAQ5AK6iTqFrQr4n78owCjdH6QY5NgFBKuqjmzXDeTUg8fZzW1JukUF3mXz456id731dJOID-GIjvrFT7n5e6z82Yh1tPGZONm2bwdAA8Tm1JLivjQQ0OkMWTy5OOat1Q5G2ZEhBL7N99sJdFX_k7WbU54wRfGhRxW_jgNS4a6OiMRbAF7byHLTmxDQ",
+               "width" : 116
+            }
+         ],
+         "place_id" : "ChIJB-qV6GsIOxMRAbDoRMEyn0g",
+         "reference" : "CnRoAAAAGgsTRCzUa-VtfYr3xr96YEs5XqT1ZyuF5M2ob9m6u7mYamcli2IY-ikWyFxpbnIQ8bQMWweq5tabcOqLxMxIzlqAVrhHiW3ooXovK3tjzy5X-UISPRPfOxuPHmASp0LyDLD8Zr4YtZUVR4OdlFnSTxIQ1MDyYBzyAoGHZhtJaxSxzxoUtr-tPEpQE3CqLqE-y5OBDzO5ZNY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Via Foria, 38, Napoli"
+      }
+   ],
+   "status" : "OK"
+}

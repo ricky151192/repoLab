@@ -1,0 +1,133 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJT7a-XL9fLxMRlUt3gGPlvco",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJXYveipVfLxMRxK-sBN5c9ZQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8998914,
+               "lng" : 12.4144345
+            },
+            "southwest" : {
+               "lat" : 41.8961713,
+               "lng" : 12.4096823
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 713
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 83
+               },
+               "end_address" : "Via Luca Passi, 24, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.8961713,
+                  "lng" : 12.4110984
+               },
+               "start_address" : "Via di Val Cannuta, 113, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.8998914,
+                  "lng" : 12.4144345
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 537
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia di Val Cannuta\u003c/b\u003e toward \u003cb\u003eVia della Divina Provvidenza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iqv~FeuwjA|AbC`AbB`AzAbA~AzAdCpApBRZ`@n@p@fAHJ`@r@h@dA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8998914,
+                        "lng" : 12.4144345
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Raffaele Conforti\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w|u~FowvjAv@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8966032,
+                        "lng" : 12.4096823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.8961713,
+                        "lng" : 12.4110984
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Luca Passi\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_{u~F}xvjAU]OYEICIAC?EAIAMAO?I@K?KBQR_@FIFGJENCH?D?"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8963178,
+                        "lng" : 12.409906
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iqv~FeuwjA~CfFdCzDbFbIz@rAjAxBv@m@U]Uc@G]As@B]Zi@RMXCD?"
+         },
+         "summary" : "Via di Val Cannuta",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

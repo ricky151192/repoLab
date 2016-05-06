@@ -1,0 +1,253 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EjFDaXJjb252YWxsYXppb25lIENvcm5lbGlhLCA2OCwgMDAxNjUgUm9tYSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFZ106txfLxMR6r-8GhArXVI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9012777,
+               "lng" : 12.4300952
+            },
+            "southwest" : {
+               "lat" : 41.8966262,
+               "lng" : 12.4264504
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 964
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 270
+               },
+               "end_address" : "Circonvallazione Aurelia, 11, 00165 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.89803269999999,
+                  "lng" : 12.4280152
+               },
+               "start_address" : "Circonvallazione Cornelia, 68, 00165 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.900644,
+                  "lng" : 12.4265627
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "34 m",
+                        "value" : 34
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 41.9009375,
+                        "lng" : 12.4264504
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eCirconvallazione Cornelia\u003c/b\u003e toward \u003cb\u003eVia Taddeo da Sessa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_vv~F_azjA{@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.900644,
+                        "lng" : 12.4265627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "68 m",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 41.9012777,
+                        "lng" : 12.4271143
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Taddeo da Sessa\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{wv~Fi`zjAEAY{@c@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9009375,
+                        "lng" : 12.4264504
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 360
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : 41.8985813,
+                        "lng" : 12.4294092
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia di Boccea\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_zv~FmdzjAf@}@@Cp@s@^e@Z_@h@k@x@s@LKbC_BJI`Cy@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9012777,
+                        "lng" : 12.4271143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 41.898456,
+                        "lng" : 12.4296763
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "civ~FyrzjATC@q@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8985813,
+                        "lng" : 12.4294092
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.8982143,
+                        "lng" : 12.4300952
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eVia Aurelia\u003c/b\u003e/\u003cb\u003ePiazza Irnerio\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "khv~FotzjAp@sA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.898456,
+                        "lng" : 12.4296763
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.89696240000001,
+                        "lng" : 12.430072
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Pasquale Fiore\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yfv~FcwzjArAZVDV?P?VEjAU"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8982143,
+                        "lng" : 12.4300952
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 41.8966262,
+                        "lng" : 12.4287425
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giuseppe Palombini\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "__v~F}vzjA`AhG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.89696240000001,
+                        "lng" : 12.430072
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.89803269999999,
+                        "lng" : 12.4280152
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStrada Statale 1 Variante Aurelia di La Spezia\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}|u~FsnzjA_A`@}@`@mBt@k@T"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8966262,
+                        "lng" : 12.4287425
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_vv~F_azjA{@TEA}@aCh@aApAyAdAkAfA_AnCiB`Cy@TC@q@p@sAjB`@h@?bB[`AhG_A`@kDvAk@T"
+         },
+         "summary" : "Via di Boccea",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,155 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ0OyJLxfLxMR6iHlw-Cj5V4",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJES5ywbhfLxMR7CStcEg7kRY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9029731,
+               "lng" : 12.4135338
+            },
+            "southwest" : {
+               "lat" : 41.9001752,
+               "lng" : 12.4069899
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 896
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 186
+               },
+               "end_address" : "Via Bra, 00166 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9019283,
+                  "lng" : 12.4134216
+               },
+               "start_address" : "Via San Giovanni Della Croce, 35, 00166 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9001752,
+                  "lng" : 12.408823
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 41.9005624,
+                        "lng" : 12.4069899
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eVia di S. Giovanni della Croce\u003c/b\u003e toward \u003cb\u003eVia Soriso\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "csv~FcrvjAkAlJ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9001752,
+                        "lng" : 12.408823
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 343
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.9029731,
+                        "lng" : 12.4094623
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Soriso\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ouv~FufvjAWEQE[KYKWKKIYUcI}K"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9005624,
+                        "lng" : 12.4069899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 354
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 41.9018589,
+                        "lng" : 12.41333
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Peveragno\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qdw~FcvvjAPSLONUd@aAZy@h@aBHe@L_AJmA\\qG?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9029731,
+                        "lng" : 12.4094623
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.9019283,
+                        "lng" : 12.4134216
+                     },
+                     "html_instructions" : "Enter the roundabout",
+                     "polyline" : {
+                        "points" : "s}v~FinwjA@?@?@??A@?@??A@??A@A?A@A?A?A?A?A?A?A?A?A?AA??A?AA??AA??AA??AA?A?A?A?A?A?A@A??@A@?@A??@?@A@?@?@?@?@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9018589,
+                        "lng" : 12.41333
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "csv~FcrvjAkAlJWEm@Qq@We@_@cI}KPS\\e@`A{Bh@aBHe@XmC\\qG?g@@?@?@?BCBC@I?KEGGAG@EFAH?@"
+         },
+         "summary" : "Via Soriso and Via Peveragno",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

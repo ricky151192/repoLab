@@ -1,0 +1,179 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ637MkCVtiEcRbY986nD_BK8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EixWaWEgQW5kcmVhIE1hc3NlbmEsIDcwLCAxMDEyOCBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0601965,
+               "lng" : 7.669685899999999
+            },
+            "southwest" : {
+               "lat" : 45.0529862,
+               "lng" : 7.6561979
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1761
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 373
+               },
+               "end_address" : "Via Andrea Massena, 70, 10128 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0561288,
+                  "lng" : 7.669423999999999
+               },
+               "start_address" : "Corso Carlo e Nello Rosselli, 92, 10129 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0529862,
+                  "lng" : 7.6567163
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "38 m",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 45.0530775,
+                        "lng" : 7.6562484
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCorso Carlo e Nello Rosselli\u003c/b\u003e toward \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "el~qGomvm@OhAAR"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0529862,
+                        "lng" : 7.6567163
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 885
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 45.0601965,
+                        "lng" : 7.6611431
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eCorso Duca degli Abruzzi\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wl~qGqjvm@CBA?ADcAs@OBo@_@mCaB_E_CgEqCcDqB[SmD_CcIeFe@[UO"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0530775,
+                        "lng" : 7.6562484
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 686
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Luigi Einaudi\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gy_rGciwm@XmAz@_DzA{E|AkF`AiDRo@La@Pq@Po@jAeEtAsEZkA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0601965,
+                        "lng" : 7.6611431
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 45.0564987,
+                        "lng" : 7.669685899999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Germano Sommeiller\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qf_rG}xxm@j@aA`BqB"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0572054,
+                        "lng" : 7.6687853
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.0561288,
+                        "lng" : 7.669423999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Andrea Massena\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cb_rGq~xm@hAt@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0564987,
+                        "lng" : 7.669685899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "el~qGomvm@Q|AEBADcAs@OBo@_@mIaFkJcGsPuKUOXmAz@_DzA{E~CuK`@qAdE{NZkAj@aA`BqBhAt@"
+         },
+         "summary" : "Corso Duca degli Abruzzi and Corso Luigi Einaudi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJixTgX1XBhkcRnE0gWNC5Pck",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJixTgX1XBhkcRnE0gWNC5Pck",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4589532,
+               "lng" : 9.180371299999999
+            },
+            "southwest" : {
+               "lat" : 45.4589532,
+               "lng" : 9.180371299999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Gian Giacomo Mora, 3, 20123 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4589532,
+                  "lng" : 9.180371299999999
+               },
+               "start_address" : "Via Gian Giacomo Mora, 3, 20123 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4589532,
+                  "lng" : 9.180371299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4589532,
+                        "lng" : 9.180371299999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Gian Giacomo Mora\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mumtGi``w@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4589532,
+                        "lng" : 9.180371299999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mumtGi``w@"
+         },
+         "summary" : "Via Gian Giacomo Mora",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,202 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJa17UriRtiEcRkdesXbW9OlU",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0567558,
+               "lng" : 7.6726011
+            },
+            "southwest" : {
+               "lat" : 45.0424926,
+               "lng" : 7.6593727
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 km",
+                  "value" : 2457
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 469
+               },
+               "end_address" : "Corso Alcide De Gasperi, 29, 10129 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0564409,
+                  "lng" : 7.6605136
+               },
+               "start_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 45.0428452,
+                        "lng" : 7.6715713
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eCorso Bramante\u003c/b\u003e toward \u003cb\u003eVia Madama Cristina\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qj|qGwpym@A?Uz@o@pC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 870
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 45.046613,
+                        "lng" : 7.6622263
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "yl|qGijym@CBCBABCBADADAB?FAD?D?D?B?D@D@D?B@B@B@@@B@@@@@@?@IlAEj@U|Aa@bCUlAo@jD]bBCJABi@jBOd@ABK^sAfCeCjFOT?N_@v@gFnK"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0428452,
+                        "lng" : 7.6715713
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 254
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 45.0481246,
+                        "lng" : 7.6598086
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Lepanto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "id}qG}owm@SZQ`@mErIGHq@fA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.046613,
+                        "lng" : 7.6622263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 921
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : 45.0555675,
+                        "lng" : 7.663982199999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCorso Galileo Ferraris\u003c/b\u003e/\u003cb\u003ePiazzale Costantino il Grande\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Corso Galileo Ferraris\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wm}qGy`wm@QVGJi@d@WJG@KAYIs@_@_@KeE}B{A{@QOcEeC[SgDoBgCcBGEeF_DaEcC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0481246,
+                        "lng" : 7.6598086
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 277
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 45.0567558,
+                        "lng" : 7.6608825
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Amerigo Vespucci\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i|~qG{zwm@Mh@uA`FyAjFc@tAK\\"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0555675,
+                        "lng" : 7.663982199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 45.0564409,
+                        "lng" : 7.6605136
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Alcide De Gasperi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wc_rGogwm@~@hA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0567558,
+                        "lng" : 7.6608825
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qj|qGwpym@Wz@s@tCKPEV?TL^BBInA[hCw@pEsA~GgAtDyErJOT?NgGfMe@|@uE|IcA~Aq@p@_@Le@Ks@_@_@KaHyDuEuCcEcCoCiBgLcHcBjG}B`IK\\~@hA"
+         },
+         "summary" : "Corso Bramante and Corso Galileo Ferraris",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

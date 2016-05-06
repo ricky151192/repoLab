@@ -1,0 +1,253 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgTml6emEsIDQ3LCAxMDEyNSBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0703088,
+               "lng" : 7.689158899999999
+            },
+            "southwest" : {
+               "lat" : 45.0546413,
+               "lng" : 7.675896899999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.7 km",
+                  "value" : 2717
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 642
+               },
+               "end_address" : "Via Nizza, 47, 10125 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0546413,
+                  "lng" : 7.675896899999999
+               },
+               "start_address" : "Turin, Italy",
+               "start_location" : {
+                  "lat" : 45.0703088,
+                  "lng" : 7.6868731
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 246
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 45.0687933,
+                        "lng" : 7.689158899999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eVia Po\u003c/b\u003e toward \u003cb\u003eVia Carlo Alberto\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxarG}i|m@t@uAvByD`CyD"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0703088,
+                        "lng" : 7.6868731
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 425
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 45.0653626,
+                        "lng" : 7.6867828
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Francesco da Paola\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}narGgx|m@lGpDbAl@pAz@rAx@tDdC"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0687933,
+                        "lng" : 7.689158899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 382
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 45.0669677,
+                        "lng" : 7.6824842
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giovanni Giolitti\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oy`rGki|m@mA|EqAxEcB`G}@`D"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0653626,
+                        "lng" : 7.6867828
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 45.0665078,
+                        "lng" : 7.681675500000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePiazza C.L.N.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qcarGon{m@zBnA_@nA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0669677,
+                        "lng" : 7.6824842
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 45.0642477,
+                        "lng" : 7.6800643
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Roma\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eParts of this road are closed Mon–Fri 7:30 – 10:30 AM\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u`arGoi{m@|BvAhBjAtBtAhAr@ZT"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0665078,
+                        "lng" : 7.681675500000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 217
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 45.0628442,
+                        "lng" : 7.678539699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePiazza Carlo Felice\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eLeaving toll zone\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qr`rGk_{m@EZAL@J@NDVFT@B@B@BXRHFXPxBlALHn@\\RJ"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0642477,
+                        "lng" : 7.6800643
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 45.0622773,
+                        "lng" : 7.680113
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Vittorio Emanuele II\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wi`rG{uzm@Ry@H]HWT}@Po@^{A"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0628442,
+                        "lng" : 7.678539699999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 915
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : 45.0546413,
+                        "lng" : 7.675896899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nizza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gf`rGu_{m@PLr@b@@@ZPZRVPjAp@p@d@FDbDrBvDbCpB`ATNx@Z`A`@z@Vv@T\\Jx@RxAb@tAd@bB`@pBp@f@J"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0622773,
+                        "lng" : 7.680113
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxarG}i|m@lDoG`CyDlGpDtChBhG~D_DvLaDbLzBnA_@nAfFbD~DhCZTEZ?XFf@L`@b@ZrC~A|@f@RJRy@Ru@f@mB^{APLt@d@zChBtKbHfCpAzB|@jElAnDhAbB`@pBp@f@J"
+         },
+         "summary" : "Via Nizza",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

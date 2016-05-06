@@ -1,0 +1,180 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJzerdiRIIOxMR9zFP_5F9Q9o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJdWJT8w0IOxMRnffbdS3ovrY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8626242,
+               "lng" : 14.2685267
+            },
+            "southwest" : {
+               "lat" : 40.8600278,
+               "lng" : 14.2657343
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 km",
+                  "value" : 668
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 174
+               },
+               "end_address" : "Via Frà Gregorio Carafa, 13, 80141 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8610451,
+                  "lng" : 14.2671974
+               },
+               "start_address" : "Vico Santa Maria del Riposo, 33, 80139 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8600278,
+                  "lng" : 14.2657539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4 m",
+                        "value" : 4
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 40.8600622,
+                        "lng" : 14.2657343
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eVico Santa Maria del Riposo\u003c/b\u003e toward \u003cb\u003eVia S. Francesco de Geronimo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "enkxF}gavAEB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8600278,
+                        "lng" : 14.2657539
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "88 m",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 40.8603971,
+                        "lng" : 14.2666851
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Nicola Rocco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "knkxFygavAS}@o@aC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8600622,
+                        "lng" : 14.2657343
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 263
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 40.8626242,
+                        "lng" : 14.2668124
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eCorso Giuseppe Garibaldi\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "opkxFymavA{@J[Bc@Hu@JeBVe@B_@ACECC_@MCGKMe@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8603971,
+                        "lng" : 14.2666851
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 40.8615127,
+                        "lng" : 14.2685267
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia S. Alfonso Maria de Liguori\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~kxFqnavA`BuCLOv@wAt@yA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8626242,
+                        "lng" : 14.2668124
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 40.8610451,
+                        "lng" : 14.2671974
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Frà Gregorio Carafa\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mwkxFiyavABLl@`CPn@VhA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8615127,
+                        "lng" : 14.2685267
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "enkxF}gavAEBS}@o@aC{@J[Bc@H{Cb@e@B_@AGI_@MCGq@w@nBeDlBqDzAhG"
+         },
+         "summary" : "Corso Giuseppe Garibaldi and Via S. Alfonso Maria de Liguori",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

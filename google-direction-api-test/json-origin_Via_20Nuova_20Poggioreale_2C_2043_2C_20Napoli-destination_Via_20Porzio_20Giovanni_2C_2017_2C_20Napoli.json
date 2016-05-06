@@ -1,0 +1,108 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ei9WaWEgTnVvdmEgUG9nZ2lvcmVhbGUsIDQzLCA4MDE0MyBOYXBvbGksIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTWpi8BoIOxMRweFxKR0uRpI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.85951319999999,
+               "lng" : 14.2766547
+            },
+            "southwest" : {
+               "lat" : 40.8574979,
+               "lng" : 14.2753025
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 324
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 72
+               },
+               "end_address" : "Via Porzio Giovanni, 17, 80143 Napoli, Italy",
+               "end_location" : {
+                  "lat" : 40.8574979,
+                  "lng" : 14.2766547
+               },
+               "start_address" : "Via Nuova Poggioreale, 43, 80143 Napoli, Italy",
+               "start_location" : {
+                  "lat" : 40.8590405,
+                  "lng" : 14.2753025
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 98
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 40.85951319999999,
+                        "lng" : 14.2762804
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eVia Nuova Poggioreale\u003c/b\u003e toward \u003cb\u003eCorso Malta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_hkxFsccvA}AcE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8590405,
+                        "lng" : 14.2753025
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 40.8574979,
+                        "lng" : 14.2766547
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giovanni Porzio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}jkxFwicvA|BY~@KxAOvAM`@E"
+                     },
+                     "start_location" : {
+                        "lat" : 40.85951319999999,
+                        "lng" : 14.2762804
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_hkxFsccvA}AcE|BYxC[xBS"
+         },
+         "summary" : "Via Nuova Poggioreale and Via Giovanni Porzio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

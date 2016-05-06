@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69Jg8cdfLxMR-yMNMdntsN8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ69Jg8cdfLxMR-yMNMdntsN8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9047109,
+               "lng" : 12.415615
+            },
+            "southwest" : {
+               "lat" : 41.9047109,
+               "lng" : 12.415615
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Adriano I, 36, 00167 Roma, Italy",
+               "end_location" : {
+                  "lat" : 41.9047109,
+                  "lng" : 12.415615
+               },
+               "start_address" : "Via Adriano I, 36, 00167 Roma, Italy",
+               "start_location" : {
+                  "lat" : 41.9047109,
+                  "lng" : 12.415615
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9047109,
+                        "lng" : 12.415615
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Adriano I\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mow~Fs|wjA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9047109,
+                        "lng" : 12.415615
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mow~Fs|wjA"
+         },
+         "summary" : "Via Adriano I",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

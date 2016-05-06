@@ -1,0 +1,299 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EixWaWEgQW5kcmVhIE1hc3NlbmEsIDcwLCAxMDEyOCBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EiNWaWEgR2Vub3ZhLCAyLCAxMDEyNiBUb3Jpbm8sIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.0561713,
+               "lng" : 7.6726011
+            },
+            "southwest" : {
+               "lat" : 45.0365595,
+               "lng" : 7.6602164
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.8 km",
+                  "value" : 3842
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
+               },
+               "end_address" : "Via Genova, 2, 10126 Torino, Italy",
+               "end_location" : {
+                  "lat" : 45.0424926,
+                  "lng" : 7.6726011
+               },
+               "start_address" : "Via Andrea Massena, 70, 10128 Torino, Italy",
+               "start_location" : {
+                  "lat" : 45.0561288,
+                  "lng" : 7.669423999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 45.0557589,
+                        "lng" : 7.6691621
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eVia Andrea Massena\u003c/b\u003e toward \u003cb\u003eVia Giambattista Vico\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y__rG{|xm@hAr@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0561288,
+                        "lng" : 7.669423999999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 45.0560955,
+                        "lng" : 7.6682665
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVia Giambattista Vico\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o}~qGg{xm@i@rBY|@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0557589,
+                        "lng" : 7.6691621
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1032
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 45.0488761,
+                        "lng" : 7.660367
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCorso Re Umberto\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s__rGuuxm@Mj@|BtAl@`@f@`@pB|BnBxBnBzBfD`EhBvBrB|BXZpC`DXZPPdBlBfE~E"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0560955,
+                        "lng" : 7.6682665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 260
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 45.04736949999999,
+                        "lng" : 7.6625995
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Anton Giulio Barrili\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "or}qGidwm@L\\FMT[pBcEnCmF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0488761,
+                        "lng" : 7.660367
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.0469246,
+                        "lng" : 7.662081499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorso Filippo Turati\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ai}qGgrwm@z@dA\\`@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04736949999999,
+                        "lng" : 7.6625995
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 881
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 45.04262749999999,
+                        "lng" : 7.671021799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Bramante\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gf}qG_owm@V^Pa@R[fFoK^w@JELWhCcFfA{BHUL[?CRi@Le@ZeA?ABIDMh@yCj@aDnAqGRu@Lm@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0469246,
+                        "lng" : 7.662081499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 606
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 45.0373865,
+                        "lng" : 7.669208899999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eVia Nizza\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mk|qG{fym@@A@A@A@A@A@C@A?Cd@NjBb@b@Ff@RP?xCx@ZH~Cz@tAb@hA^PFpBn@^J~@PRBPD@@B?RF"
+                     },
+                     "start_location" : {
+                        "lat" : 45.04262749999999,
+                        "lng" : 7.671021799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 127
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 45.037074,
+                        "lng" : 7.670769099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCorso Spezia\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uj{qGq{xm@p@}F@CJu@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0373865,
+                        "lng" : 7.669208899999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 45.0365595,
+                        "lng" : 7.671286599999999
+                     },
+                     "html_instructions" : "\u003cb\u003eCorso Spezia\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePiazza Camillo Bozzolo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uh{qGieym@|@w@NMHIBCHS"
+                     },
+                     "start_location" : {
+                        "lat" : 45.037074,
+                        "lng" : 7.670769099999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 675
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : 45.0424926,
+                        "lng" : 7.6726011
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVia Genova\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oe{qGqhym@KK[g@EC_@MGCGA]IKEK?EAE@O@S@iAGsAKgBWaBQOCeDa@K?{Dc@MA}D_@UAUA"
+                     },
+                     "start_location" : {
+                        "lat" : 45.0365595,
+                        "lng" : 7.671286599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "y__rG{|xm@hAr@i@rBg@hBjDvBf@`@pB|B~EtFpGxHxHvIvB~BfE~EL\\\\i@`GqLxAfBV^Pa@zFkL^w@JEvC{FpAqCn@oBd@_BtA{HbBgINo@BCFI?Cd@NnCj@f@RP?tDbAtF~AzAf@pCz@rATj@Nr@aGJu@|@w@XWLWg@s@e@Qy@Ug@@S@iAGsAKgBWqBUqDa@iEe@sEa@UA"
+         },
+         "summary" : "Corso Re Umberto",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

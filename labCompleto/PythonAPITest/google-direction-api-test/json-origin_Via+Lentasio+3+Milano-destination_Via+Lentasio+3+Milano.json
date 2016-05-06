@@ -1,0 +1,84 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrYdQJqjGhkcRpsAzD400o98",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrYdQJqjGhkcRpsAzD400o98",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 45.4580534,
+               "lng" : 9.1912833
+            },
+            "southwest" : {
+               "lat" : 45.4580534,
+               "lng" : 9.1912833
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Via Lentasio, 3, 20122 Milano, Italy",
+               "end_location" : {
+                  "lat" : 45.4580534,
+                  "lng" : 9.1912833
+               },
+               "start_address" : "Via Lentasio, 3, 20122 Milano, Italy",
+               "start_location" : {
+                  "lat" : 45.4580534,
+                  "lng" : 9.1912833
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 45.4580534,
+                        "lng" : 9.1912833
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eVia Lentasio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yomtGodbw@"
+                     },
+                     "start_location" : {
+                        "lat" : 45.4580534,
+                        "lng" : 9.1912833
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yomtGodbw@"
+         },
+         "summary" : "Via Lentasio",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

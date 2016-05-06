@@ -1,0 +1,68 @@
+<div id="page-wrapper" class="gray-bg dashbard-1">
+  <div class="content-main">
+    <!-- tree line -->
+    <div class="banner">
+      <h2><span>Home</span><span>vista dati</span></h2>
+    </div>
+
+    <div id="map"></div>
+
+     <script>
+      function initMap() {
+       var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, {
+          center: {lat: 45.4773, lng: 9.1815},
+          zoom: 14
+        });
+        return map;
+      }
+      var map = initMap();
+
+
+
+      function readCsv(mappa) {
+      	$.ajax({
+		    url : "provaCsvNostri.csv",
+		    success : function(result){
+		        var csv_str_list = result.split("\n");
+
+		        for(var i = 0; i < csv_str_list.length; i+=1) {
+		        	var line = csv_str_list[i].split(",");
+
+		        	for (var j = 0; j<line.length; j+=1){
+		        		var printMaker = false;
+		        		
+		        		if (j % 2 == 0){
+		        			var lat = line[j];
+		        		}
+
+		        		else if (j % 2 == 1){
+		        			var long = line[j];
+		        			printMaker = true;
+		        		}
+
+		        		if (printMaker){
+			        		console.log(lat + " " + long);
+			        		var myLatLng = {lat: parseFloat(lat), lng: parseFloat(long)};
+
+				        	var marker = new google.maps.Marker({
+						    position: myLatLng,
+						    map: mappa,
+						    title: "helloworld",
+						  });
+			        	}
+		        	}
+		        
+		        	//$('#csv_dump').append("<p>" + line[1] + "</p>");
+		        }
+		    }
+		});
+      }
+      readCsv(map);
+
+    </script>
+
+    <div id="csv_dump">
+    </div>
+  </div>
+</div>
